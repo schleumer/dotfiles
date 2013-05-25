@@ -51,10 +51,10 @@ vnoremap <C-Q> <C-C>:q!<CR>
 inoremap <C-Q> <C-O>:q!<CR>
 
 
-noremap <C-S-F> gg=G``0
-nnoremap <C-S-F> gg=G``0
-vnoremap <C-S-F> <C-C>gg=G``0
-inoremap <C-S-F> <Esc>gg=G``I
+noremap <Leader>df gg=G``0
+nnoremap <Leader>df gg=G``0
+vnoremap <Leader>df <C-C>gg=G``0
+inoremap <Leader>df <Esc>gg=G``I
 
 
 let g:ws_isInPasteMode = 0
@@ -74,3 +74,42 @@ endfunction
 
 
 set pastetoggle=<F12>
+
+
+" For local replace
+nnoremap gr gd[{V%:s/<C-R>///gc<left><left><left>
+
+" For global replace
+" nnoremap gR gD:%s/<C-R>///gc<left><left><left>
+
+function! Refactor()
+    call inputsave()
+    let @z=input("What do you want to rename '" . @z . "' to? ")
+    call inputrestore()
+endfunction
+ 
+" Locally (local to block) rename a variable
+nmap <Leader>rf "zyiw:call Refactor()<cr>mx:silent! norm gd<cr>[{V%:s/<C-R>//<c-r>z/g<cr>`x
+
+
+function! BeautifyMyCode()
+    let l:filename=expand("%:p")
+	let l:tempFilename=expand("%:p").".temp"
+    call system("php_beautifier --indent_tabs=1 --filters \"ArrayNested\" -f ".l:filename." -o ".l:tempFilename)
+	
+	normal ggdG
+	execute("read ".l:tempFilename)
+	normal ggdd``
+
+	call system("rm ".l:tempFilename)
+	""read !system('cat "'.l:tempFilename.'"')
+	""let l:phpcs_list=split(l:phpcs_output, "\n")
+    ""unlet l:phpcs_list[0]
+    ""cexpr l:phpcs_list
+    ""cwindow
+endfunction
+
+noremap <Leader>cf	:call BeautifyMyCode()<CR>
+nnoremap <Leader>cf	:call BeautifyMyCode()<CR>
+inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
+
