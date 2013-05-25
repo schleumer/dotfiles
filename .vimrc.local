@@ -49,3 +49,28 @@ noremap <C-Q> :q!<CR>
 nnoremap <C-Q> :q!<CR>
 vnoremap <C-Q> <C-C>:q!<CR>
 inoremap <C-Q> <C-O>:q!<CR>
+
+
+noremap <C-S-F> gg=G``0
+nnoremap <C-S-F> gg=G``0
+vnoremap <C-S-F> <C-C>gg=G``0
+inoremap <C-S-F> <Esc>gg=G``I
+
+
+let g:ws_isInPasteMode = 0
+
+function! WSTogglePasteMode()
+	if g:ws_isInPasteMode == 0
+		set noautoindent
+		set paste
+		:startinsert
+		let g:ws_isInPasteMode = 1
+	else
+		set autoindent
+		set nopaste
+		let g:ws_isInPasteMode = 0
+	endif
+endfunction
+
+
+set pastetoggle=<F12>
