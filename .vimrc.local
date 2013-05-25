@@ -1,0 +1,51 @@
+set encoding=utf-8
+
+colorscheme molokai
+let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
+set nolist
+let g:indent_guides_enable_on_vim_startup=0
+
+set noexpandtab
+set copyindent
+"set preserveindent
+"set softtabstop=4
+"set shiftwidth=4
+"set tabstop=4
+"
+"
+"":set guioptions-=m  "remove menu bar
+:set guioptions-=T  "remove toolbar
+:set guioptions-=r  "remove right-hand scroll bar
+:set guioptions-=L  "remove left-hand scroll bar
+
+autocmd VimEnter * :set number
+autocmd BufEnter * :set number
+
+au GUIEnter * simalt ~x "x on an English Windows version. n on a French 
+
+set ttyfast
+set lazyredraw
+
+set mouse=a
+
+
+let g:Powerline_symbols = 'fancy'
+
+set nofoldenable                " disable code folding
+let g:DisableAutoPHPFolding = 1 " disable PIV's folding
+
+inoremap <Left>  <NOP>
+inoremap <Right> <NOP>
+inoremap <Up>    <NOP>
+inoremap <Down>  <NOP>
+inoremap kj <Esc>
+
+noremap <C-S> :update<CR>
+nnoremap <C-S> :update<CR>
+vnoremap <C-S> <C-C>:update<CR>
+inoremap <C-S> <C-O>:update<CR>
+
+noremap <C-Q> :q!<CR>
+nnoremap <C-Q> :q!<CR>
+vnoremap <C-Q> <C-C>:q!<CR>
+inoremap <C-Q> <C-O>:q!<CR>
