@@ -253,3 +253,12 @@ function cd(){
 	echo "i ain't paid for that."
 	builtin cd "$@"
 }
+
+
+function svnaddall(){
+	svn st | grep "^\?" | awk "{print \$2}" | xargs svn add $1
+}
+
+function svnrmall(){
+	svn st | grep '^!' | awk '{print $2}' | xargs svn delete --force
+}
