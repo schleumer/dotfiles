@@ -247,3 +247,9 @@ sanitize() {
 
 stty ixany
 stty ixoff -ixon
+
+
+function cd(){
+	echo "i ain't paid for that."
+	builtin cd "$@"
+}
