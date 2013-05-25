@@ -1,3 +1,5 @@
+# Wesley Schleumer
+
 export SVN_EDITOR=vim
 loadkeys br-abnt2
 

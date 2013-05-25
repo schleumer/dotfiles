@@ -1,3 +1,4 @@
+" Wesley Schleumer
 set foldlevelstart=99
 set foldlevel=99
 set nofoldenable
