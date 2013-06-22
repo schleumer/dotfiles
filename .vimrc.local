@@ -1,3 +1,11 @@
+UnBundle 'altercation/vim-colors-solarized'
+UnBundle 'vim-scripts/sessionman.vim'
+UnBundle 'flazz/vim-colorschemes'
+UnBundle 'myusuf3/numbers.vim'
+UnBundle 'nathanaelkane/vim-indent-guides'
+UnBundle 'spf13/PIV'
+
+
 set encoding=utf-8
 
 colorscheme molokai
@@ -20,6 +28,7 @@ set copyindent
 
 autocmd VimEnter * :set number
 autocmd BufEnter * :set number
+autocmd BufEnter * :set nospell
 
 au GUIEnter * simalt ~x "x on an English Windows version. n on a French 
 
