@@ -45,3 +45,6 @@ function extract () {
 function vimclean() {
 	rm -rf ~/.vimbackup ~/.viminfo ~/.vimviews ~/.vimswap ~/.vimundo
 }
+
+unsetopt correct
+unsetopt correct_all
