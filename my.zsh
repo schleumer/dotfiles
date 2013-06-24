@@ -43,5 +43,5 @@ function extract () {
 
 
 function vimclean() {
-	rm -rf ~/.vimbackup ~/.viminfo ~/.vimviews ~/.vimswap
+	rm -rf ~/.vimbackup ~/.viminfo ~/.vimviews ~/.vimswap ~/.vimundo
 }
