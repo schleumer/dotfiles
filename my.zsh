@@ -40,3 +40,8 @@ function extract () {
        echo "'$1' is not a valid file!"
    fi
  }
+
+
+function vimclean() {
+	rm -rf ~/.vimbackup ~/.viminfo ~/.vimviews ~/.vimswap
+}
