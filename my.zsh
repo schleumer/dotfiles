@@ -49,3 +49,6 @@ function vimclean() {
 
 unsetopt correct
 unsetopt correct_all
+
+ZSH_THEME="powerline"
+
