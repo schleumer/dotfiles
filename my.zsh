@@ -1,6 +1,7 @@
 stty ixany
 stty ixoff -ixon
 
+export SVN_EDITOR=vim;
 
 function cd(){
 	echo "i ain't paid for that."
