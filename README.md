@@ -4,6 +4,7 @@
 
 # INSTALL
 
+```shell
 	#install robbyrussell/oh-my-zsh
 	curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 	#install spf13/spf13-vim
@@ -20,3 +21,4 @@
 	vim +BundleInstall +BundleClean
 	#update zsh
 	source ~/.zshrc
+```
