@@ -29,6 +29,12 @@ ln -s ~/.schleumer-dotfiles/.vimrc.bundles.local ~/
 #clone my vim stuffs
 ln -s ~/.schleumer-dotfiles/.vimrc.local ~/
 
+#clone my Xresources
+ln -s ~/.schleumer-dotfiles/.Xresources ~/
+
+#update Xresources
+xrdb -merge ~/.Xresources
+
 #update vim
 vim +BundleInstall +BundleClean
 
