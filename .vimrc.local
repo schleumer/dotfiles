@@ -4,7 +4,10 @@ UnBundle 'flazz/vim-colorschemes'
 UnBundle 'myusuf3/numbers.vim'
 UnBundle 'nathanaelkane/vim-indent-guides'
 UnBundle 'spf13/PIV'
-
+UnBundle 'klen/python-mode'
+""UnBundle 'python.vim'
+""UnBundle 'python_match.vim'
+""UnBundle 'pythoncomplete'
 
 set encoding=utf-8
 
