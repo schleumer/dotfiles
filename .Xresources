@@ -1,3 +1,4 @@
+! Dejavu Sans Mono, https://github.com/Lokaltog/powerline-fonts/tree/master/DejaVuSansMono
 XTerm*faceName: DejaVu Sans Mono for Powerline
 XTerm*faceSize: 9
 
@@ -21,3 +22,6 @@ XTerm*faceSize: 9
 *xterm*color13: #bb88dd
 *xterm*color14: #4eb4fa
 *xterm*color15: #d0d0d0
+
+! Inicia maximizado
+XTerm*Maximized: true
