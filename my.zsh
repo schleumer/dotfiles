@@ -52,3 +52,9 @@ unsetopt correct_all
 
 ZSH_THEME="powerline"
 
+
+command -v pacman >/dev/null 2>&1 || { 
+	function pacman(){
+		sudo builtin pacman $@
+	}
+}
