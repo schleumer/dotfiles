@@ -4,7 +4,6 @@ stty ixoff -ixon
 export SVN_EDITOR=vim;
 
 function cd(){
-	echo "i ain't paid for that."
 	builtin cd "$@"
 }
 
@@ -52,9 +51,5 @@ unsetopt correct_all
 
 ZSH_THEME="powerline"
 
-
-command -v pacman >/dev/null 2>&1 || { 
-	function pacman(){
-		sudo builtin pacman $@
-	}
-}
+export TERM=xterm-256color
+loadkeys br-abnt2

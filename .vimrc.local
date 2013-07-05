@@ -10,8 +10,12 @@ UnBundle 'klen/python-mode'
 ""UnBundle 'pythoncomplete'
 
 set encoding=utf-8
-
-colorscheme molokai
+ 
+colorscheme ir_black 
+""fruity
+""ir_black
+""molokai
+""peaksea
 let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
 set nolist
 let g:indent_guides_enable_on_vim_startup=0
