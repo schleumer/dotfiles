@@ -1,3 +1,4 @@
 " Wesley Schleumer
 Bundle 'tomasr/molokai'
 Bundle 'christoomey/vim-tmux-navigator'
+Bundle 'altercation/vim-colors-solarized'

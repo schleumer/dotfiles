@@ -4,11 +4,18 @@ UnBundle 'flazz/vim-colorschemes'
 UnBundle 'myusuf3/numbers.vim'
 UnBundle 'nathanaelkane/vim-indent-guides'
 UnBundle 'spf13/PIV'
-
+UnBundle 'klen/python-mode'
+""UnBundle 'python.vim'
+""UnBundle 'python_match.vim'
+""UnBundle 'pythoncomplete'
 
 set encoding=utf-8
-
-colorscheme molokai
+ 
+colorscheme ir_black 
+""fruity
+""ir_black
+""molokai
+""peaksea
 let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
 set nolist
 let g:indent_guides_enable_on_vim_startup=0
