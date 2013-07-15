@@ -52,4 +52,12 @@ unsetopt correct_all
 ZSH_THEME="powerline"
 
 export TERM=xterm-256color
-loadkeys br-abnt2
+
+alias tmux="TERM=screen-256color-bce tmux"
+
+loadkeys br-abnt2 2> /dev/null
+
+function pacman() {
+	builtin pacman "$@"
+	rehash
+}
