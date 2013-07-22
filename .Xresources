@@ -53,3 +53,5 @@ urxvt*font: xft:DejaVu Sans Mono for Powerline:size=8:autohinting=true
 
 ! Inicia maximizado
 !urxvt*Maximized: true
+!
+xterm*eightBitInput: false

@@ -57,7 +57,4 @@ alias tmux="TERM=screen-256color-bce tmux"
 
 loadkeys br-abnt2 2> /dev/null
 
-function pacman() {
-	builtin pacman "$@"
-	rehash
-}
+[[ -z "$TMUX" ]] && exec tmux
