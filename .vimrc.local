@@ -8,6 +8,9 @@ UnBundle 'klen/python-mode'
 ""UnBundle 'python.vim'
 ""UnBundle 'python_match.vim'
 ""UnBundle 'pythoncomplete'
+""UnBundle 'Lokaltog/powerline'
+""UnBundle 'bling/vim-airline'
+
 
 set encoding=utf-8
  
