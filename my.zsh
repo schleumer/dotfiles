@@ -55,4 +55,4 @@ export TERM=xterm-256color
 
 alias tmux="TERM=screen-256color-bce tmux"
 
-loadkeys br-abnt2 2> /dev/null
+loadkeys br-abnt2 > /dev/null 2>&1
