@@ -20,6 +20,9 @@ git clone https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme.git ~/.sc
 #link powerline theme on oh-my-zsh 
 ln -s ~/.schleumer-dotfiles/sources/oh-my-zsh-powerline-theme/powerline.zsh-theme ~/.oh-my-zsh/themes
 
+#zsh_path utils from trapd00r
+ln -s ~/.schleumer-dotfiles/zsh_path /usr/bin
+
 #link my custom oh-my-zsh
 ln -s ~/.schleumer-dotfiles/my.zsh ~/.oh-my-zsh/custom
 
@@ -31,6 +34,7 @@ ln -s ~/.schleumer-dotfiles/.vimrc.local ~/
 
 #clone my Xresources
 ln -s ~/.schleumer-dotfiles/.Xresources ~/
+ln -s ~/.schleumer-dotfiles/.Xresources ~/.Xdefaults
 
 #update Xresources
 xrdb -merge ~/.Xresources

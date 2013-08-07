@@ -49,7 +49,7 @@ function vimclean() {
 unsetopt correct
 unsetopt correct_all
 
-ZSH_THEME="powerline"
+ZSH_THEME="trapd00r"
 
 export TERM=xterm-256color
 
