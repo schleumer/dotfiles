@@ -208,7 +208,7 @@ add_binds("normal", {
         function (w) w:scroll{ ypagerel = -1.0 } end),
 
     key({}, "BackSpace", "Scroll page up.",
-        function (w) w:scroll{ ypagerel = -1.0 } end),
+        function (w) w:back() end),
 
     key({}, "Page_Down", "Scroll page down.",
         function (w) w:scroll{ ypagerel =  1.0 } end),
