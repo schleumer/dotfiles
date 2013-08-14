@@ -1,0 +1,24 @@
+[global_config]
+  title_transmit_fg_color = "#000000"
+  geometry_hinting = False
+  title_inactive_fg_color = "#1793d1"
+  borderless = True
+  title_receive_bg_color = "#c9c600"
+  title_transmit_bg_color = "#1793d1"
+  title_receive_fg_color = "#000000"
+  title_inactive_bg_color = "#000000"
+[keybindings]
+[profiles]
+  [[default]]
+    use_system_font = False
+    font = DejaVu Sans Mono for Powerline 9
+    background_image = None
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
