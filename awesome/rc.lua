@@ -38,7 +38,7 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
-beautiful.init("/home/schleumer/.config/awesome/themes/arch/theme.lua")
+beautiful.init("/home/schleumer/.config/awesome/themes/molokai/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "xterm"
@@ -363,7 +363,7 @@ awful.rules.rules = {
     -- All clients will match this rule.
     { rule = { },
       properties = { 
-				     border_width = 1,
+					border_width = 1,
                      -- border_color = beautiful.border_normal,
                      focus = awful.client.focus.filter,
                      keys = clientkeys,
