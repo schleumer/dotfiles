@@ -462,6 +462,7 @@ window.methods = {
     end,
 
     update_uri = function (w, link)
+
         w.sbar.l.uri.text = lousy.util.escape((link and "Link: " .. link)
             or (w.view and w.view.uri) or "about:blank")
     end,
@@ -664,6 +665,7 @@ window.methods = {
     -- Navigate current view or open new tab
     navigate = function (w, uri, view)
         view = view or w.view
+
         if view then
             local js = string.match(uri, "^javascript:(.+)$")
             if js then

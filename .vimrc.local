@@ -14,7 +14,7 @@ UnBundle 'klen/python-mode'
 
 set encoding=utf-8
  
-colorscheme ir_black 
+colorscheme molokai 
 ""fruity
 ""ir_black
 ""molokai

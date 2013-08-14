@@ -66,11 +66,13 @@ search_engines.default = search_engines.google
 
 -- Per-domain webview properties
 -- See http://webkitgtk.org/reference/webkitgtk/stable/WebKitWebSettings.html
+
 domain_props = {
     ["all"] = {
         monospace_font_family       = "DeJavu Sans Mono for Powerline",
         sans_serif_font_family      = "DeJavu Sans",
-        serif_font_family           = "DeJavu Serif"
+        serif_font_family           = "DeJavu Serif",
+        user_stylesheet_uri         = "file:///home/schleumer/.schleumer-dotfiles/luakit/styles/custom.css"
     },
     ["local"] = {
         enable_scripts                        = true,

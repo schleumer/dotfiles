@@ -57,6 +57,22 @@ webview.init_funcs = {
             end
         end)
     end,
+    stylesheet_reset = function (view, w)
+        view:add_signal("load-status", function (v, status)
+            view:eval_js('console.log("' .. status .. '")')
+            if status == "first-visual" then 
+--[[                view:eval_js([=[
+                    (function(){
+                        var _head=document.getElementsByTagName('head')[0];
+                        var _style='input, textarea {color: black; background: white;} h1,h2,h3,h4,h5,h6 { color:pink }';
+                        var _styleTag=document.createElement("style");
+                        _styleTag.innerHTML = _style;
+                        _head.prependChild(_styleTag);
+                    })()
+                ]=]) ]]--
+            end
+        end)
+    end,
 
     -- Update scroll widget
     scroll_update = function (view, w)
@@ -146,7 +162,9 @@ webview.init_funcs = {
     mode_reset_on_nav = function (view, w)
         view:add_signal("load-status", function (v, status)
             if status == "provisional" and w.view == v then
+            
                 if w.mode.reset_on_navigation ~= false then
+       
                     w:set_mode()
                 end
             end
@@ -157,6 +175,9 @@ webview.init_funcs = {
     domain_properties = function (view, w)
         view:add_signal("load-status", function (v, status)
             if status ~= "committed" or v.uri == "about:blank" then return end
+            
+
+
             -- Get domain
             local domain = lousy.uri.parse(v.uri).host
             -- Strip leading www.

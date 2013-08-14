@@ -17,6 +17,8 @@
 theme = {}
 theme.wallpaper_cmd = { "" }
 -- }}}
+--
+theme.wallpaper = "~/.config/awesome/kiss.jpg" 
 
 local MOLOKAI_PINK = '#D7005F'
 local MOLOKAI_ORANGE = '#EA7D02'
@@ -85,7 +87,7 @@ theme.mouse_finder_color = "#CC9393"
 -- menu_[bg|fg]_[normal|focus]
 -- menu_[border_color|border_width]
 theme.menu_height = "15"
-theme.menu_width  = "150"
+theme.menu_width  = "200"
 -- }}}
 
 -- {{{ Icons

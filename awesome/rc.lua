@@ -41,8 +41,8 @@ end
 beautiful.init("/home/schleumer/.config/awesome/themes/molokai/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
-terminal = "xterm"
-editor = os.getenv("EDITOR") or "nano"
+terminal = "terminator"
+editor = os.getenv("EDITOR") or "vim"
 editor_cmd = terminal .. " -e " .. editor
 
 -- Default modkey.
@@ -194,6 +194,8 @@ for s = 1, screen.count() do
     if s == 1 then right_layout:add(wibox.widget.systray()) end
     right_layout:add(mytextclock)
     right_layout:add(mylayoutbox[s])
+
+-- gmail widget and tooltip
 
     -- Now bring it all together (with the tasklist in the middle)
     local layout = wibox.layout.align.horizontal()
@@ -372,6 +374,7 @@ awful.rules.rules = {
       properties = { floating = true } },
 	{ rule = { class = "luakit" }, properties = { size_hints_honor = false, floating = true, maximized_horizontal = true, maximized_vertical = true}},
 	{ rule = { class = "XTerm" }, properties = { size_hints_honor = false }},
+	{ rule = { class = "Terminator" }, properties = { size_hints_honor = false }},
     { rule = { class = "pinentry" },
       properties = { floating = true } },
     { rule = { class = "gimp" },
@@ -454,3 +457,8 @@ end)
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 -- }}}
+
+
+awful.util.spawn_with_shell("/usr/bin/setxkbmap br")
+awful.util.spawn_with_shell([[xmodmap -e "remove lock = Caps_Lock"]])
+awful.util.spawn_with_shell([[setxkbmap -option ctrl:nocaps]])
