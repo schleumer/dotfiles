@@ -266,6 +266,14 @@ awful.key({ modkey, "Shift"   }, "Tab",
 
     -- Standard program
     awful.key({ modkey,           }, "Return", function () awful.util.spawn(terminal) end),
+    
+	awful.key({ "Control", "Mod1" }, "Prior", function () awful.util.spawn_with_shell("cmus-remote --prev") end),
+    awful.key({ "Control", "Mod1" }, "Next", function () awful.util.spawn_with_shell("cmus-remote --next") end),
+    awful.key({ "Control", "Mod1" }, "Insert", function () awful.util.spawn_with_shell("cmus-remote --pause") end),
+    awful.key({ "Control", "Mod1" }, "Home", function () awful.util.spawn_with_shell("cmus") end),
+    awful.key({ "Control", "Mod1" }, "End", function () awful.util.spawn_with_shell("cmus-remote --stop") end),
+
+
     awful.key({ modkey, "Control" }, "r", awesome.restart),
     awful.key({ modkey, "Shift"   }, "q", awesome.quit),
 
