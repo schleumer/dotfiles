@@ -2,7 +2,7 @@ UnBundle 'altercation/vim-colors-solarized'
 UnBundle 'vim-scripts/sessionman.vim'
 UnBundle 'flazz/vim-colorschemes'
 UnBundle 'myusuf3/numbers.vim'
-UnBundle 'nathanaelkane/vim-indent-guides'
+""UnBundle 'nathanaelkane/vim-indent-guides'
 UnBundle 'spf13/PIV'
 UnBundle 'klen/python-mode'
 ""UnBundle 'python.vim'
@@ -14,21 +14,20 @@ UnBundle 'klen/python-mode'
 
 set encoding=utf-8
  
-colorscheme ir_black 
+colorscheme molokai 
 ""fruity
 ""ir_black
 ""molokai
 ""peaksea
 let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
-set nolist
-let g:indent_guides_enable_on_vim_startup=0
+let g:indent_guides_enable_on_vim_startup=1
 
 set noexpandtab
 set copyindent
 "set preserveindent
-"set softtabstop=4
-"set shiftwidth=4
-"set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set tabstop=4
 "
 "
 "":set guioptions-=m  "remove menu bar
@@ -51,8 +50,6 @@ set lazyredraw
 
 set mouse=a
 
-
-let g:Powerline_symbols = 'fancy'
 
 set nofoldenable                " disable code folding
 let g:DisableAutoPHPFolding = 1 " disable PIV's folding
