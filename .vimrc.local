@@ -129,7 +129,21 @@ function! BeautifyMyCode()
     ""cwindow
 endfunction
 
+noremap <Tab>	:MBEbn<CR>
+noremap <S-Tab>	:MBEbp<CR>
+noremap <C-W>	:MBEbd<CR>
+nnoremap <C-W>	:MBEbd<CR>
+inoremap <C-W>	<Esc>:MBEbd<CR>
+
+
 noremap <Leader>cf	:call BeautifyMyCode()<CR>
 nnoremap <Leader>cf	:call BeautifyMyCode()<CR>
 inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
 
+let g:miniBufExplMapWindowNavVim = 1 
+let g:miniBufExplMapWindowNavArrows = 1 
+let g:miniBufExplMapCTabSwitchBufs = 1 
+let g:miniBufExplModSelTarget = 1 
+
+let g:miniBufExplAutoStart = 1
+autocmd VimEnter * MBEOpen

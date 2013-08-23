@@ -1,6 +1,7 @@
 ! Dejavu Sans Mono, https://github.com/Lokaltog/powerline-fonts/tree/master/DejaVuSansMono
-XTerm*faceName: DejaVu Sans Mono for Powerline
-XTerm*faceSize: 9
+*XTerm*faceName: DejaVu Sans Mono for Powerline
+*XTerm*faceSize: 9
+*xterm*eightBitInput: false
 
 ! Molokai theme
 *xterm*background: #101010
@@ -54,4 +55,3 @@ urxvt*font: xft:DejaVu Sans Mono for Powerline:size=8:autohinting=true
 ! Inicia maximizado
 !urxvt*Maximized: true
 !
-xterm*eightBitInput: false
