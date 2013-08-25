@@ -1,8 +1,8 @@
 UnBundle 'altercation/vim-colors-solarized'
 UnBundle 'vim-scripts/sessionman.vim'
-UnBundle 'flazz/vim-colorschemes'
+""UnBundle 'flazz/vim-colorschemes'
 UnBundle 'myusuf3/numbers.vim'
-""UnBundle 'nathanaelkane/vim-indent-guides'
+UnBundle 'nathanaelkane/vim-indent-guides'
 UnBundle 'spf13/PIV'
 UnBundle 'klen/python-mode'
 ""UnBundle 'python.vim'
@@ -14,7 +14,7 @@ UnBundle 'klen/python-mode'
 
 set encoding=utf-8
  
-colorscheme molokai 
+colorscheme colorful256 
 ""fruity
 ""ir_black
 ""molokai
@@ -129,21 +129,24 @@ function! BeautifyMyCode()
     ""cwindow
 endfunction
 
-noremap <Tab>	:MBEbn<CR>
-noremap <S-Tab>	:MBEbp<CR>
-noremap <C-W>	:MBEbd<CR>
-nnoremap <C-W>	:MBEbd<CR>
-inoremap <C-W>	<Esc>:MBEbd<CR>
+""noremap <Tab>	:MBEbn<CR>
+""noremap <S-Tab>	:MBEbp<CR>
+""noremap <C-W>	:MBEbd<CR>
+""nnoremap <C-W>	:MBEbd<CR>
+""inoremap <C-W>	<Esc>:MBEbd<CR>
 
 
 noremap <Leader>cf	:call BeautifyMyCode()<CR>
 nnoremap <Leader>cf	:call BeautifyMyCode()<CR>
 inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
 
-let g:miniBufExplMapWindowNavVim = 1 
-let g:miniBufExplMapWindowNavArrows = 1 
-let g:miniBufExplMapCTabSwitchBufs = 1 
-let g:miniBufExplModSelTarget = 1 
+""let g:miniBufExplMapWindowNavVim = 1 
+""let g:miniBufExplMapWindowNavArrows = 1 
+""let g:miniBufExplMapCTabSwitchBufs = 1 
+""let g:miniBufExplModSelTarget = 1 
 
-let g:miniBufExplAutoStart = 1
-autocmd VimEnter * MBEOpen
+""let g:miniBufExplAutoStart = 1
+""autocmd VimEnter * MBEOpen
+
+let cwd = fnamemodify('.', ':p')
+autocmd BufWritePost * execute  ':silent ! if [ -f '.cwd.'restart.sh ]; then bash '.cwd.'restart.sh; fi'
