@@ -49,8 +49,6 @@ function vimclean() {
 unsetopt correct
 unsetopt correct_all
 
-ZSH_THEME="trapd00r"
-
 export TERM=xterm-256color
 
 alias tmux="TERM=screen-256color-bce tmux"
