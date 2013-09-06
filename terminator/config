@@ -2,7 +2,6 @@
   title_transmit_fg_color = "#87ff00"
   geometry_hinting = False
   title_inactive_fg_color = "#d7005f"
-  borderless = True
   title_receive_bg_color = "#1b1e1f"
   title_transmit_bg_color = "#121212"
   title_receive_fg_color = "#87ff00"
