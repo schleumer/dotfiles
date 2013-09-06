@@ -19,7 +19,7 @@
     background_darkness = 0.44
     use_system_font = False
     foreground_color = "#f2f2f2"
-    font = DejaVu Sans Mono 9
+    font = DejaVu Sans Mono for Powerline 9
     background_color = "#1b1e1f"
 [layouts]
   [[default]]

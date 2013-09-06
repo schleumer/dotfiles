@@ -10,7 +10,7 @@ UnBundle 'klen/python-mode'
 ""UnBundle 'pythoncomplete'
 ""UnBundle 'Lokaltog/powerline'
 ""UnBundle 'bling/vim-airline'
-
+UnBundle 'airblade/vim-gitgutter'
 
 set encoding=utf-8
  
