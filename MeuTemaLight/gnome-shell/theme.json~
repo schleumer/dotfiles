@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "MetalXgnome3.8(CAI Edition)",
+   "author": "Viper (Gnome 3.8 adaptation by CAI)",
+   "version": "1.4-6",
+   "type":   "custom",
+   "thumbnail": "preview-MetalX.jpg", 
+   "url": "http://cai79.deviantart.com/"
+    }
+}

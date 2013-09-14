@@ -11,6 +11,7 @@ UnBundle 'klen/python-mode'
 ""UnBundle 'Lokaltog/powerline'
 ""UnBundle 'bling/vim-airline'
 UnBundle 'airblade/vim-gitgutter'
+UnBundle 'elzr/vim-json'
 
 set encoding=utf-8
  
@@ -150,3 +151,6 @@ inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
 
 let cwd = fnamemodify('.', ':p')
 autocmd BufWritePost * execute  ':silent ! if [ -f '.cwd.'restart.sh ]; then bash '.cwd.'restart.sh; fi'
+
+
+autocmd BufNewFile,BufRead *.json set ft=javascript
