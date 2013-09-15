@@ -9,7 +9,8 @@
 [profiles]
   [[default]]
     use_system_font = False
-    font = DejaVu Sans Mono for Powerline 8
+    font = DejaVu Sans Mono for Powerline 9
+    background_image = None
     use_theme_colors = True
 [layouts]
   [[default]]
