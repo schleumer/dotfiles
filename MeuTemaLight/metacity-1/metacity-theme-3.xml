@@ -18,7 +18,7 @@
 <constant name="C_title_unfocused" value="blend/gtk:custom(theme_fg_dark_color,gtk:fg[NORMAL])/gtk:custom(theme_bg_dark_color,gtk:bg[NORMAL])/0.4" />
 
 <!-- geometries -->
-<frame_geometry name="normal" title_scale="medium" rounded_top_left="4" rounded_top_right="4">
+<frame_geometry name="normal" title_scale="medium" rounded_top_left="0" rounded_top_right="0">
 	<distance name="left_width" value="0" />
 	<distance name="right_width" value="0" />
 	<distance name="bottom_height" value="0" />
@@ -30,7 +30,7 @@
 	<aspect_ratio name="button" value="1"/>
 </frame_geometry>
 
-<frame_geometry name="normal_unfocused" title_scale="medium" rounded_top_left="4" rounded_top_right="4" parent="normal">
+<frame_geometry name="normal_unfocused" title_scale="medium" rounded_top_left="0" rounded_top_right="0" parent="normal">
 	<distance name="left_titlebar_edge" value="4"/>
 	<distance name="right_titlebar_edge" value="4"/>
 </frame_geometry>
@@ -90,7 +90,7 @@
 	<distance name="title_vertical_pad" value="5"/>
 </frame_geometry>
 
-<frame_geometry name="attached" title_scale="medium" hide_buttons="true" rounded_top_left="4" rounded_top_right="4" rounded_bottom_left="4" rounded_bottom_right="4" parent="normal">
+<frame_geometry name="attached" title_scale="medium" hide_buttons="true" rounded_top_left="0" rounded_top_right="0" rounded_bottom_left="0" rounded_bottom_right="0" parent="normal">
 	<distance name="title_vertical_pad" value="9"/>
 	<distance name="bottom_height" value="4"/>
 	<distance name="left_width" value="4"/>
