@@ -1,21 +1,19 @@
-UnBundle 'altercation/vim-colors-solarized'
-UnBundle 'vim-scripts/sessionman.vim'
+""UnBundle 'altercation/vim-colors-solarized'
+""UnBundle 'vim-scripts/sessionman.vim'
 ""UnBundle 'flazz/vim-colorschemes'
-UnBundle 'myusuf3/numbers.vim'
+""UnBundle 'myusuf3/numbers.vim'
 UnBundle 'nathanaelkane/vim-indent-guides'
-UnBundle 'spf13/PIV'
-UnBundle 'klen/python-mode'
+""UnBundle 'spf13/PIV'
+""UnBundle 'klen/python-mode'
 ""UnBundle 'python.vim'
 ""UnBundle 'python_match.vim'
 ""UnBundle 'pythoncomplete'
 ""UnBundle 'Lokaltog/powerline'
 ""UnBundle 'bling/vim-airline'
 UnBundle 'airblade/vim-gitgutter'
-UnBundle 'elzr/vim-json'
-
+""UnBundle 'elzr/vim-json'
 set encoding=utf-8
- 
-colorscheme colorful256 
+colorscheme	whitebox
 ""fruity
 ""ir_black
 ""molokai
@@ -32,9 +30,9 @@ set tabstop=4
 "
 "
 "":set guioptions-=m  "remove menu bar
-:set guioptions-=T  "remove toolbar
-:set guioptions-=r  "remove right-hand scroll bar
-:set guioptions-=L  "remove left-hand scroll bar
+:set guioptions-=T	"remove toolbar
+:set guioptions-=r	"remove right-hand scroll bar
+:set guioptions-=L	"remove left-hand scroll bar
 
 autocmd VimEnter * :set number
 autocmd BufEnter * :set number
@@ -52,12 +50,12 @@ set lazyredraw
 set mouse=a
 
 
-set nofoldenable                " disable code folding
+set nofoldenable				" disable code folding
 let g:DisableAutoPHPFolding = 1 " disable PIV's folding
 
 inoremap <Left>  <NOP>
 inoremap <Right> <NOP>
-inoremap <Up>    <NOP>
+inoremap <Up>	 <NOP>
 inoremap <Down>  <NOP>
 inoremap kj <Esc>
 
@@ -104,9 +102,9 @@ nnoremap gr gd[{V%:s/<C-R>///gc<left><left><left>
 " nnoremap gR gD:%s/<C-R>///gc<left><left><left>
 
 function! Refactor()
-    call inputsave()
-    let @z=input("What do you want to rename '" . @z . "' to? ")
-    call inputrestore()
+	call inputsave()
+	let @z=input("What do you want to rename '" . @z . "' to? ")
+	call inputrestore()
 endfunction
  
 " Locally (local to block) rename a variable
@@ -114,9 +112,9 @@ nmap <Leader>rf "zyiw:call Refactor()<cr>mx:silent! norm gd<cr>[{V%:s/<C-R>//<c-
 
 
 function! BeautifyMyCode()
-    let l:filename=expand("%:p")
+	let l:filename=expand("%:p")
 	let l:tempFilename=expand("%:p").".temp"
-    call system("php_beautifier --indent_tabs=1 --filters \"ArrayNested\" -f ".l:filename." -o ".l:tempFilename)
+	call system("php_beautifier --indent_tabs=1 --filters \"ArrayNested\" -f ".l:filename." -o ".l:tempFilename)
 	
 	normal ggdG
 	execute("read ".l:tempFilename)
@@ -125,9 +123,9 @@ function! BeautifyMyCode()
 	call system("rm ".l:tempFilename)
 	""read !system('cat "'.l:tempFilename.'"')
 	""let l:phpcs_list=split(l:phpcs_output, "\n")
-    ""unlet l:phpcs_list[0]
-    ""cexpr l:phpcs_list
-    ""cwindow
+	""unlet l:phpcs_list[0]
+	""cexpr l:phpcs_list
+	""cwindow
 endfunction
 
 ""noremap <Tab>	:MBEbn<CR>
@@ -150,7 +148,11 @@ inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
 ""autocmd VimEnter * MBEOpen
 
 let cwd = fnamemodify('.', ':p')
-autocmd BufWritePost * execute  ':silent ! if [ -f '.cwd.'restart.sh ]; then bash '.cwd.'restart.sh; fi'
+""autocmd BufWritePost * execute  ':silent ! if [ -f '.cwd.'restart.sh ]; then bash '.cwd.'restart.sh; fi'
 
 
 autocmd BufNewFile,BufRead *.json set ft=javascript
+
+set t_Co=256
+let g:Powerline_symbols = "fancy"
+let g:spf13_use_powerline = 1
