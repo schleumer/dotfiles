@@ -203,20 +203,24 @@ root.buttons(awful.util.table.join(
 
 -- {{{ Key bindings
 globalkeys = awful.util.table.join(
+    awful.key({ "Mod1", "Control" }, "Insert", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PlayPause') end),
+    awful.key({ "Mod1", "Control" }, "End", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:Stop') end),
+    awful.key({ "Mod1", "Control" }, "Prior", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:NextSong') end),
+    awful.key({ "Mod1", "Control" }, "Next", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PrevSong') end),
+    awful.key({ "Mod1", "Control" }, "j", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:OpenSearch') end),
     awful.key({ modkey,           }, "Left",   awful.tag.viewprev       ),
     awful.key({ modkey,           }, "Right",  awful.tag.viewnext       ),
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore),
-
-    awful.key({ modkey,           }, "j",
-        function ()
-            awful.client.focus.byidx( 1)
-            if client.focus then client.focus:raise() end
-        end),
-    awful.key({ modkey,           }, "k",
-        function ()
-            awful.client.focus.byidx(-1)
-            if client.focus then client.focus:raise() end
-        end),
+    -- awful.key({ modkey,           }, "j",
+    --     function ()
+    --         awful.client.focus.byidx( 1)
+    --         if client.focus then client.focus:raise() end
+    --     end),
+    -- awful.key({ modkey,           }, "k",
+    --     function ()
+    --         awful.client.focus.byidx(-1)
+    --         if client.focus then client.focus:raise() end
+    --     end),
     awful.key({ modkey,           }, "w", function () mymainmenu:show({keygrabber=true}) end),
 
     -- Layout manipulation
@@ -284,6 +288,7 @@ globalkeys = awful.util.table.join(
 clientkeys = awful.util.table.join(
     awful.key({ modkey,           }, "f",      function (c) c.fullscreen = not c.fullscreen  end),
     awful.key({ modkey, "Shift"   }, "c",      function (c) c:kill()                         end),
+    awful.key({ "Mod1"   }, "F4",      function (c) c:kill()                         end),
     awful.key({ modkey, "Control" }, "space",  awful.client.floating.toggle                     ),
     awful.key({ modkey, "Control" }, "Return", function (c) c:swap(awful.client.getmaster()) end),
     awful.key({ modkey,           }, "o",      awful.client.movetoscreen                        ),
@@ -407,3 +412,5 @@ client.add_signal("unfocus", function(c) c.border_color = beautiful.border_norma
 -- }}}
 
 awful.util.spawn('xset r rate 300 30')
+
+
