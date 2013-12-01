@@ -1,17 +1,5 @@
-""UnBundle 'altercation/vim-colors-solarized'
-""UnBundle 'vim-scripts/sessionman.vim'
-""UnBundle 'flazz/vim-colorschemes'
-""UnBundle 'myusuf3/numbers.vim'
-UnBundle 'nathanaelkane/vim-indent-guides'
-""UnBundle 'spf13/PIV'
-""UnBundle 'klen/python-mode'
-""UnBundle 'python.vim'
-""UnBundle 'python_match.vim'
-""UnBundle 'pythoncomplete'
-""UnBundle 'Lokaltog/powerline'
-""UnBundle 'bling/vim-airline'
-UnBundle 'airblade/vim-gitgutter'
-""UnBundle 'elzr/vim-json'
+UnBundle 'bling/vim-airline'
+
 set encoding=utf-8
 colorscheme void
 " 256-grayvim     bluez            codeschool            desert256           gentooish      kib_plastic      montz          oceandeep          relaxedgreen       stingray        up
@@ -59,19 +47,22 @@ colorscheme void
 " blue            CodeFactoryv3    derefined             gemcolors           kib_darktango  Monokai          oceanblack     refactor           stackoverflow      underwater
 let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
 let g:indent_guides_enable_on_vim_startup=1
+let g:indent_guides_start_level=1
+let g:indent_guides_guide_size=1
 
 set noexpandtab
 set copyindent
-"set preserveindent
 set softtabstop=4
 set shiftwidth=4
 set tabstop=4
+set expandtab
+
 "
 "
 "":set guioptions-=m  "remove menu bar
-:set guioptions-=T	"remove toolbar
-:set guioptions-=r	"remove right-hand scroll bar
-:set guioptions-=L	"remove left-hand scroll bar
+:set guioptions-=T  "remove toolbar
+:set guioptions-=r  "remove right-hand scroll bar
+:set guioptions-=L  "remove left-hand scroll bar
 
 autocmd VimEnter * :set number
 autocmd BufEnter * :set number
@@ -89,12 +80,12 @@ set lazyredraw
 set mouse=a
 
 
-set nofoldenable				" disable code folding
+set nofoldenable                " disable code folding
 let g:DisableAutoPHPFolding = 1 " disable PIV's folding
 
 inoremap <Left>  <NOP>
 inoremap <Right> <NOP>
-inoremap <Up>	 <NOP>
+inoremap <Up>    <NOP>
 inoremap <Down>  <NOP>
 inoremap kj <Esc>
 
@@ -118,16 +109,16 @@ inoremap <Leader>df <Esc>gg=G``I
 let g:ws_isInPasteMode = 0
 
 function! WSTogglePasteMode()
-	if g:ws_isInPasteMode == 0
-		set noautoindent
-		set paste
-		:startinsert
-		let g:ws_isInPasteMode = 1
-	else
-		set autoindent
-		set nopaste
-		let g:ws_isInPasteMode = 0
-	endif
+    if g:ws_isInPasteMode == 0
+        set noautoindent
+        set paste
+        :startinsert
+        let g:ws_isInPasteMode = 1
+    else
+        set autoindent
+        set nopaste
+        let g:ws_isInPasteMode = 0
+    endif
 endfunction
 
 
@@ -141,9 +132,9 @@ nnoremap gr gd[{V%:s/<C-R>///gc<left><left><left>
 " nnoremap gR gD:%s/<C-R>///gc<left><left><left>
 
 function! Refactor()
-	call inputsave()
-	let @z=input("What do you want to rename '" . @z . "' to? ")
-	call inputrestore()
+    call inputsave()
+    let @z=input("What do you want to rename '" . @z . "' to? ")
+    call inputrestore()
 endfunction
  
 " Locally (local to block) rename a variable
@@ -151,32 +142,32 @@ nmap <Leader>rf "zyiw:call Refactor()<cr>mx:silent! norm gd<cr>[{V%:s/<C-R>//<c-
 
 
 function! BeautifyMyCode()
-	let l:filename=expand("%:p")
-	let l:tempFilename=expand("%:p").".temp"
-	call system("php_beautifier --indent_tabs=1 --filters \"ArrayNested\" -f ".l:filename." -o ".l:tempFilename)
-	
-	normal ggdG
-	execute("read ".l:tempFilename)
-	normal ggdd``
+    let l:filename=expand("%:p")
+    let l:tempFilename=expand("%:p").".temp"
+    call system("php_beautifier --indent_tabs=1 --filters \"ArrayNested\" -f ".l:filename." -o ".l:tempFilename)
+    
+    normal ggdG
+    execute("read ".l:tempFilename)
+    normal ggdd``
 
-	call system("rm ".l:tempFilename)
-	""read !system('cat "'.l:tempFilename.'"')
-	""let l:phpcs_list=split(l:phpcs_output, "\n")
-	""unlet l:phpcs_list[0]
-	""cexpr l:phpcs_list
-	""cwindow
+    call system("rm ".l:tempFilename)
+    ""read !system('cat "'.l:tempFilename.'"')
+    ""let l:phpcs_list=split(l:phpcs_output, "\n")
+    ""unlet l:phpcs_list[0]
+    ""cexpr l:phpcs_list
+    ""cwindow
 endfunction
 
-""noremap <Tab>	:MBEbn<CR>
-""noremap <S-Tab>	:MBEbp<CR>
-""noremap <C-W>	:MBEbd<CR>
-""nnoremap <C-W>	:MBEbd<CR>
-""inoremap <C-W>	<Esc>:MBEbd<CR>
+""noremap <Tab> :MBEbn<CR>
+""noremap <S-Tab>   :MBEbp<CR>
+""noremap <C-W> :MBEbd<CR>
+""nnoremap <C-W>    :MBEbd<CR>
+""inoremap <C-W>    <Esc>:MBEbd<CR>
 
 
-noremap <Leader>cf	:call BeautifyMyCode()<CR>
-nnoremap <Leader>cf	:call BeautifyMyCode()<CR>
-inoremap <Leader>cf	<Esc>:call BeautifyMyCode()<CR>
+noremap <Leader>cf  :call BeautifyMyCode()<CR>
+nnoremap <Leader>cf :call BeautifyMyCode()<CR>
+inoremap <Leader>cf <Esc>:call BeautifyMyCode()<CR>
 
 ""let g:miniBufExplMapWindowNavVim = 1 
 ""let g:miniBufExplMapWindowNavArrows = 1 
@@ -192,8 +183,5 @@ let cwd = fnamemodify('.', ':p')
 
 autocmd BufNewFile,BufRead *.json set ft=javascript
 
-set t_Co=256
-let g:Powerline_symbols = "fancy"
-let g:spf13_use_powerline = 1
 
 autocmd BufWritePost .vimrc.local  execute ':source ~/.vimrc.local'

@@ -55,4 +55,4 @@ unsetopt correct_all
 
 loadkeys br-abnt2 > /dev/null 2>&1
 
-export ZSH_THEME=frisk
+export ZSH_THEME=powerline
