@@ -205,8 +205,8 @@ root.buttons(awful.util.table.join(
 globalkeys = awful.util.table.join(
     awful.key({ "Mod1", "Control" }, "Insert", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PlayPause') end),
     awful.key({ "Mod1", "Control" }, "End", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:Stop') end),
-    awful.key({ "Mod1", "Control" }, "Prior", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:NextSong') end),
-    awful.key({ "Mod1", "Control" }, "Next", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PrevSong') end),
+    awful.key({ "Mod1", "Control" }, "Next", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:NextSong') end),
+    awful.key({ "Mod1", "Control" }, "Prior", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PrevSong') end),
     awful.key({ "Mod1", "Control" }, "j", function () awful.util.spawn('dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:OpenSearch') end),
     awful.key({ modkey,           }, "Left",   awful.tag.viewprev       ),
     awful.key({ modkey,           }, "Right",  awful.tag.viewnext       ),
