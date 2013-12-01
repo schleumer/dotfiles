@@ -1,0 +1,9 @@
+[submodule "powerline-fonts"]
+	path = powerline-fonts
+	url = https://github.com/Lokaltog/powerline-fonts.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/Lokaltog/powerline.git
