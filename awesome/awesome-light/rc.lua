@@ -225,14 +225,34 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey, "Control" }, "j", function () awful.screen.focus_relative( 1) end),
     awful.key({ modkey, "Control" }, "k", function () awful.screen.focus_relative(-1) end),
     awful.key({ modkey,           }, "u", awful.client.urgent.jumpto),
-    awful.key({ modkey,           }, "Tab",
-        function ()
-            awful.client.focus.history.previous()
-            if client.focus then
-                client.focus:raise()
-            end
-        end),
-
+	awful.key({ modkey,           }, "Tab", function ()
+        -- awful.client.focus.history.previous()
+        awful.client.focus.byidx(1)
+        if client.focus then
+            client.focus:raise()
+        end
+    end),
+	awful.key({ 'Mod1',           }, "Tab", function ()
+        -- awful.client.focus.history.previous()
+        awful.client.focus.byidx(1)
+        if client.focus then
+            client.focus:raise()
+        end
+    end),
+	awful.key({ modkey, "Shift"   }, "Tab", function ()
+        -- awful.client.focus.history.previous()
+        awful.client.focus.byidx(-1)
+        if client.focus then
+            client.focus:raise()
+        end
+    end),
+	awful.key({ "Mod1", "Shift"   }, "Tab", function ()
+        -- awful.client.focus.history.previous()
+        awful.client.focus.byidx(-1)
+        if client.focus then
+            client.focus:raise()
+        end
+    end),
     -- Standard program
     awful.key({ modkey,           }, "Return", function () awful.util.spawn(terminal) end),
     awful.key({ modkey, "Control" }, "r", awesome.restart),
@@ -344,6 +364,8 @@ awful.rules.rules = {
     { rule = { class = "pinentry" },
       properties = { floating = true } },
     { rule = { class = "gimp" },
+      properties = { floating = true } },
+    { rule = { class = "Wine" },
       properties = { floating = true } },
     { rule = { class = "terminator" } ,
 	  properties = { size_hints_honor = false } }
