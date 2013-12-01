@@ -1,0 +1,14 @@
+#!/bin/sh
+CURL="/usr/bin/curl"
+GAWK="/usr/bin/gawk"
+if [ -z "$1" ]
+then
+	echo -n "Please pass the url you want to measure: "
+	read url
+else
+	url=$1
+fi
+URL="$url"
+result=`$CURL -o /dev/null -s -w %{time_connect}:%{time_starttransfer}:%{time_total} $URL`
+echo " Time_Connect\t Time_startTransfer\t Time_total "
+echo $result | $GAWK -F: '{ print $1" "$2" "$3}'
