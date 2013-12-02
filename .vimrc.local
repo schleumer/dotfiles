@@ -1,50 +1,61 @@
 UnBundle 'bling/vim-airline'
 
 set encoding=utf-8
-colorscheme void
-" 256-grayvim     bluez            codeschool            desert256           gentooish      kib_plastic      montz          oceandeep          relaxedgreen       stingray        up
-" 256-jungle      blugrine         coffee                desertedoceanburnt  getafe         kiss             mophiaDark     oceanlight         reliable           strawimodo      vanzan_color
-" 3dglasses       bmichaelsen      coldgreen             desertedocean       github         kkruby           mophiaSmoke    olive              reloaded           summerfruit256  vcbc
-" adam            bocau            colorer               desertEx            gobo           kolor            moria          orange             revolutions        summerfruit     vc
-" adaryn          bog              colorful256           desert              golded         kruby            moss           osx_like           robinhood          surveyor        vexorian
-" adobe           borland          colorful              devbox-dark-256     golden         lazarus          motus          pacific            rootwater          symfony         vibrantink
-" adrian          breeze           colorscheme_template  DevC++              google         legiblelight     MountainDew    paintbox           rtl                synic           vilight
-" advantage       brookstream      colorzone             deveiate            gor            leglight2        mrkn256        PapayaWhip         sand               tabula          vividchalk
-" af              brown            contrasty             developer           gothic         leo              mrpink         peaksea            satori             tango2          vj
-" aiseered        busierbee        cool                  django              grape          less             mud            peppers            scala              tango-desert    void
-" anotherdark     busybee          corn                  donbass             graywh         lettuce          mustang        perfect            scite              tango-morning   vydark
-" ansi_blows      buttercream      corporation           doorhinge           greens         lightcolors      native         pf_earth           sean               tangoshady      vylight
-" aqua            bvemu            cthulhian             doriath             greenvision    lilac            nature         phd                seashell           tango           wargrey
-" ashen           bw               custom                dual                grey2          lilydjwg_dark    navajo-night   phphaxor           sea                taqua           warm_grey
-" asmanian_blood  calmar256-light  c                     dull                greyblue       lilydjwg_green   navajo         phpx               selenitic          tchaba          watermark
-" astronaut       camo             d8g_01                dusk                guardian       lilypink         nazca          pic                seoul              tcsoft          whitebox
-" asu1dark        campfire         d8g_02                earendel            guepardo       lingodirector    nedit2         pink               settlemyer         telstar         whitedust
-" automation      candycode        d8g_03                earthburn           h80            liquidcarbon     nedit          pleasant           sf                 tesla           widower
-" autumnleaf      candyman         d8g_04                earth               habiLight      literal_tango    neon           potts              shadesofamber      tetragrammaton  win9xblueback
-" autumn          candy            dante                 eclipse             heliotrope     lodestone        neutron        print_bw           shobogenzo         textmate16      wintersday
-" badwolf         caramel          darkblack             eclm_wombat         herald         louver           neverness      prmths             sienna             thegoodluck     winter
-" basic           carrot           darkblue2             edo_sea             hornet         lucius           nevfn          professional       sift               thestars        wombat256mod
-" baycomb         carvedwoodcool   darkBlue              ego                 ibmedit        luinnar          newspaper      proton             silent             thor            wombat256
-" bayQua          carvedwood       darkbone              ekinivim            icansee        made_of_code     newsprint      pspad              simple256          tibet           wombat
-" bclear          chance-of-storm  darkburn              ekvoli              impactG        manuscript       nicotine       psql               simpleandfriendly  tidy            wood
-" beachcomber     charged-256      darkdot               elise               impact         manxome          nightflight2   putty              simple_b           tir_black       wuye
-" beauty256       charon           darkeclipse           elisex              industrial     marklar          nightflight    pw                 simplewhite        tolerable       xemacs
-" bensday         chela_light      darkerdesert          emacs               ingretu        maroloccio       nightshimmer   pyte               skittles_dark      tomatosoup      xian
-" billw           chlordane        darker-robin          enzyme              inkpot         mars             nightsky       python             smp                tony_light      xmaslights
-" biogoo          ChocolateLiquor  darkocean             evening_2           ir_black       martin_krischik  night          quagmire           smyck              toothpik        xoria256
-" black_angus     ChocolatePapaya  darkrobot             far                 ironman        matrix           night_vision   railscasts         softbluev2         torte           yaml
-" blackbeauty     chocolate        darkroom              fine_blue           jammy          mayansmoke       nightVision    rainbow_fine_blue  softblue           transparent     yeller
-" blackboard      chrysoprase      dark-ruby             fnaqevan            jelleybeans    mdark            nightwish      rainbow_fruit      softlight          trivial256      zazen
-" blackdust       ciscoacl         darkslategray         fog                 jellybeans     mellow           no_quarter     rainbow_neon       solarized          trogdor         zenburn
-" blacklight      clarity          darkspectrum          fokus               jellyx         metacosm         northland      random             sonofobsidian      turbo           zenesque
-" BlackSea        cleanphp         darktango             forneus             jhdark         midnight2        northsky       rastafari          sorcerer           tutticolori     zen
-" blazer          cloudy           darkzen               freya               jhlight        midnight         norwaytoday    rcg_gui            soso               twilight256     zephyr
-" blink           clue             darkZ                 fruidle             kaltex         miko             nour           rcg_term           southernlights     twilight        zmrok
-" bluechia        cobaltish        dawn                  fruit               kalt           mint             nuvola         rdark-terminal     southwest-fog      two2tango
-" bluegreen       cobalt           delek                 fruity              kate           mizore           obsidian2      rdark              spectro            umber-green
-" blueprint       codeblocks_dark  delphi                fu                  kellys         mod_tcsoft       obsidian       redblack           spiderhawk         understated
-" blueshift       codeburn         denim                 gardener            khaki          molokai          oceanblack256  redstring          spring             underwater-mod
-" blue            CodeFactoryv3    derefined             gemcolors           kib_darktango  Monokai          oceanblack     refactor           stackoverflow      underwater
+colorscheme whitebox
+
+" 256-grayvim           blueshift             colorzone             dual                  h80                   luinnar               nightflight           rainbow_neon          soso                  underwater-mod
+" 256-jungle            bluez                 contrasty             dull                  habiLight             made_of_code          nightflight2          random                southernlights        up
+" 3dglasses             blugrine              cool                  dusk                  heliotrope            manuscript            nightshimmer          rastafari             southwest-fog         vanzan_color
+" BlackSea              bmichaelsen           corn                  earendel              herald                manxome               nightsky              rcg_gui               spectro               vc
+" ChocolateLiquor       bocau                 corporation           earth                 hornet                marklar               nightwish             rcg_term              spiderhawk            vcbc
+" ChocolatePapaya       bog                   cthulhian             earthburn             ibmedit               maroloccio            no_quarter            rdark                 spring                vexorian
+" CodeFactoryv3         borland               custom                eclipse               icansee               mars                  northland             rdark-terminal        stackoverflow         vibrantink
+" DevC++                breeze                d8g_01                eclm_wombat           impact                martin_krischik       northsky              redblack              stingray              vilight
+" Monokai               brookstream           d8g_02                edo_sea               impactG               matrix                norwaytoday           redstring             strawimodo            vividchalk
+" MountainDew           brown                 d8g_03                ego                   industrial            mayansmoke            nour                  refactor              summerfruit           vj
+" PapayaWhip            busierbee             d8g_04                ekinivim              ingretu               mdark                 nuvola                relaxedgreen          summerfruit256        void
+" adam                  busybee               dante                 ekvoli                inkpot                mellow                obsidian              reliable              surveyor              vydark
+" adaryn                buttercream           dark-ruby             elflord               ir_black              metacosm              obsidian2             reloaded              symfony               vylight
+" adobe                 bvemu                 darkBlue              elise                 ironman               midnight              oceanblack            revolutions           synic                 wargrey
+" adrian                bw                    darkZ                 elisex                jammy                 midnight2             oceanblack256         robinhood             tabula                warm_grey
+" advantage             c                     darkblack             emacs                 jelleybeans           miko                  oceandeep             ron                   tango                 watermark
+" af                    calmar256-light       darkblue              enzyme                jellybeans            mint                  oceanlight            rootwater             tango-desert          whitebox
+" aiseered              camo                  darkblue2             evening               jellyx                mizore                olive                 rtl                   tango-morning         whitedust
+" anotherdark           campfire              darkbone              evening_2             jhdark                mod_tcsoft            orange                sand                  tango2                widower
+" ansi_blows            candy                 darkburn              far                   jhlight               molokai               osx_like              satori                tangoshady            win9xblueback
+" aqua                  candycode             darkdot               fine_blue             kalt                  montz                 pablo                 scala                 taqua                 winter
+" ashen                 candyman              darkeclipse           fnaqevan              kaltex                mophiaDark            pacific               scite                 tchaba                wintersday
+" asmanian_blood        caramel               darker-robin          fog                   kate                  mophiaSmoke           paintbox              sea                   tcsoft                wombat
+" astronaut             carrot                darkerdesert          fokus                 kellys                moria                 peachpuff             sean                  telstar               wombat256
+" asu1dark              carvedwood            darkocean             forneus               khaki                 morning               peaksea               seashell              tesla                 wombat256mod
+" automation            carvedwoodcool        darkrobot             freya                 kib_darktango         moss                  peppers               selenitic             tetragrammaton        wood
+" autumn                chance-of-storm       darkroom              fruidle               kib_plastic           motus                 perfect               seoul                 textmate16            wuye
+" autumnleaf            charged-256           darkslategray         fruit                 kiss                  mrkn256               pf_earth              settlemyer            thegoodluck           xemacs
+" badwolf               charon                darkspectrum          fruity                kkruby                mrpink                phd                   sf                    thestars              xian
+" basic                 chela_light           darktango             fu                    koehler               mud                   phphaxor              shadesofamber         thor                  xmaslights
+" bayQua                chlordane             darkzen               gardener              kolor                 murphy                phpx                  shine                 tibet                 xoria256
+" baycomb               chocolate             dawn                  gemcolors             kruby                 mustang               pic                   shobogenzo            tidy                  yaml
+" bclear                chrysoprase           default               gentooish             lazarus               native                pink                  sienna                tir_black             yeller
+" beachcomber           ciscoacl              delek                 getafe                legiblelight          nature                pleasant              sift                  tolerable             zazen
+" beauty256             clarity               delphi                github                leglight2             navajo                potts                 silent                tomatosoup            zellner
+" bensday               cleanphp              denim                 gobo                  leo                   navajo-night          print_bw              simple256             tony_light            zen
+" billw                 cloudy                derefined             golded                less                  nazca                 prmths                simple_b              toothpik              zenburn
+" biogoo                clue                  desert                golden                lettuce               nedit                 professional          simpleandfriendly     torte                 zenesque
+" black_angus           cobalt                desert256             google                lightcolors           nedit2                proton                simplewhite           transparent           zephyr
+" blackbeauty           cobaltish             desertEx              gor                   lilac                 neon                  pspad                 skittles_dark         trivial256            zmrok
+" blackboard            codeblocks_dark       desertedocean         gothic                lilydjwg_dark         neutron               psql                  slate                 trogdor
+" blackdust             codeburn              desertedoceanburnt    grape                 lilydjwg_green        neverness             putty                 smp                   turbo
+" blacklight            codeschool            devbox-dark-256       graywh                lilypink              nevfn                 pw                    smyck                 tutticolori
+" blazer                coffee                deveiate              greens                lingodirector         newspaper             pyte                  softblue              twilight
+" blink                 coldgreen             developer             greenvision           liquidcarbon          newsprint             python                softbluev2            twilight256
+" blue                  colorer               django                grey2                 literal_tango         nicotine              quagmire              softlight             two2tango
+" bluechia              colorful              donbass               greyblue              lodestone             night                 railscasts            solarized             umber-green
+" bluegreen             colorful256           doorhinge             guardian              louver                nightVision           rainbow_fine_blue     sonofobsidian         understated
+" blueprint             colorscheme_template  doriath               guepardo              lucius                night_vision          rainbow_fruit         sorcerer              underwater
+
+
+
+
 let NERDTreeIgnore=['\.\.$', '\.$', '\~$']
 let g:indent_guides_enable_on_vim_startup=1
 let g:indent_guides_start_level=1
@@ -55,9 +66,11 @@ autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=255
 
 set noexpandtab
 set copyindent
-set softtabstop=4
-set shiftwidth=4
-set tabstop=4
+set softtabstop=2
+set shiftwidth=2
+set tabstop=2
+set textwidth=80
+set wrapmargin=2
 set expandtab
 
 "

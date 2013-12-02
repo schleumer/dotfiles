@@ -21,7 +21,7 @@
       <property name="monitorHDMI-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color1" type="array">
-            <value type="uint" value="32614"/>
+            <value type="uint" value="32543"/>
             <value type="uint" value="0"/>
             <value type="uint" value="4"/>
             <value type="uint" value="65535"/>
@@ -36,9 +36,10 @@
     <property name="icon-size" type="uint" value="64"/>
     <property name="style" type="int" value="2"/>
     <property name="file-icons" type="empty">
-      <property name="show-removable" type="bool" value="true"/>
+      <property name="show-removable" type="bool" value="false"/>
       <property name="show-filesystem" type="bool" value="false"/>
       <property name="show-home" type="bool" value="false"/>
+      <property name="show-trash" type="bool" value="false"/>
     </property>
     <property name="single-click" type="bool" value="false"/>
     <property name="show-thumbnails" type="bool" value="false"/>
