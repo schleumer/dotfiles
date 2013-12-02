@@ -1,0 +1,35 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/schleumer/Área de Trabalho/WebStorm.desktop]
+row=4
+col=0
+
+[/home/schleumer/Área de Trabalho/Steam.desktop]
+row=1
+col=1
+
+[/home/schleumer/Área de Trabalho/Google Chrome.desktop]
+row=2
+col=0
+
+[/home/schleumer/Área de Trabalho/Sublime Text.desktop]
+row=5
+col=0
+
+[/home/schleumer/Área de Trabalho/PhpStorm.desktop]
+row=3
+col=0
+
+[/home/schleumer/Área de Trabalho/VIM.desktop]
+row=0
+col=1
+
+[4b6c8835-dd2c-454e-abd4-e8ca4ae3ec5c]
+row=1
+col=0
+
+[Lixeira]
+row=0
+col=0
+
