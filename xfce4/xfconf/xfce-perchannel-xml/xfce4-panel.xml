@@ -48,6 +48,7 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
+<<<<<<< HEAD
         <value type="string" value="thunar"/>
         <value type="string" value="empathy"/>
         <value type="string" value="networkmanager applet"/>
@@ -55,6 +56,13 @@
         <value type="string" value="miniaplicativo gerenciador de redes"/>
         <value type="string" value="pidgin"/>
         <value type="string" value="bitcoin-qt"/>
+=======
+        <value type="string" value="gerenciador de tarefas"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="miniaplicativo gerenciador de redes"/>
+        <value type="string" value="bitcoin-qt"/>
+        <value type="string" value="clipman"/>
+>>>>>>> 6c9c59e186a46fe87c765d17b2e6e4978eddd9f4
         <value type="string" value="gmusicbrowser"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
