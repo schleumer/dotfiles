@@ -30,6 +30,16 @@
           <property name="image-style" type="int" value="1"/>
         </property>
       </property>
+      <property name="monitorVGA1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color1" type="array">
+            <value type="uint" value="13107"/>
+            <value type="uint" value="13107"/>
+            <value type="uint" value="13107"/>
+            <value type="uint" value="65535"/>
+          </property>
+        </property>
+      </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
