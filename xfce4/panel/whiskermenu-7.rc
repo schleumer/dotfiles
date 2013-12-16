@@ -15,8 +15,8 @@ position-commands-alternate=false
 command-settings=xfce4-settings-manager
 command-lockscreen=xflock4
 command-logout=xfce4-session-logout
-favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=exo-web-browser.desktop,google-chrome.desktop,ccsm.desktop,exo-file-manager.desktop,mysql-workbench.desktop,pidgin.desktop,empathy.desktop,xfce-ui-settings.desktop
+favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop,gmusicbrowser.desktop
+recent=mysql-workbench.desktop,gmusicbrowser.desktop,sublime_text.desktop,steam.desktop,exo-file-manager.desktop,google-chrome.desktop,exo-web-browser.desktop,gedit.desktop,luakit.desktop,debian-xterm.desktop
 menu-width=400
 menu-height=500
 

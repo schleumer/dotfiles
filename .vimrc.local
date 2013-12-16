@@ -1,7 +1,7 @@
 UnBundle 'bling/vim-airline'
 
 set encoding=utf-8
-colorscheme whitebox
+colorscheme zenburn
 
 " 256-grayvim           blueshift             colorzone             dual                  h80                   luinnar               nightflight           rainbow_neon          soso                  underwater-mod
 " 256-jungle            bluez                 contrasty             dull                  habiLight             made_of_code          nightflight2          random                southernlights        up
@@ -61,8 +61,8 @@ let g:indent_guides_enable_on_vim_startup=1
 let g:indent_guides_start_level=1
 let g:indent_guides_guide_size=1
 let g:indent_guides_auto_colors = 0
-autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=255
-autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=255
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=255
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=255
 
 set noexpandtab
 set copyindent

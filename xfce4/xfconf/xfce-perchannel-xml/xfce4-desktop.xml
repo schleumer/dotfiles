@@ -33,11 +33,12 @@
       <property name="monitorVGA1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color1" type="array">
-            <value type="uint" value="13107"/>
-            <value type="uint" value="13107"/>
-            <value type="uint" value="13107"/>
+            <value type="uint" value="2570"/>
+            <value type="uint" value="2827"/>
+            <value type="uint" value="3341"/>
             <value type="uint" value="65535"/>
           </property>
+          <property name="last-image" type="string" value="/home/schleumer/Downloads/nodejs-wallpaper-nsfw.jpg"/>
         </property>
       </property>
     </property>

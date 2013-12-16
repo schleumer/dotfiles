@@ -56,3 +56,5 @@ unsetopt correct_all
 loadkeys br-abnt2 > /dev/null 2>&1
 
 export ZSH_THEME=powerline
+
+export TERM=xterm-256color

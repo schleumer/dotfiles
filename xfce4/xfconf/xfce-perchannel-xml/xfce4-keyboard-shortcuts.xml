@@ -34,7 +34,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Page_Up" type="string" value="dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:PrevSong"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;End" type="string" value="dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:Stop"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;j" type="string" value="dbus-send --dest=org.gmusicbrowser /org/gmusicbrowser org.gmusicbrowser.RunCommand string:OpenSearch"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="terminator"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="xterm"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
