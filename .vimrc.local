@@ -1,4 +1,6 @@
 UnBundle 'bling/vim-airline'
+UnBundle 'spf13/PIV'
+UnBundle 'mhinz/vim-signify'
 
 set encoding=utf-8
 colorscheme zenburn
@@ -81,7 +83,6 @@ set expandtab
 :set guioptions-=L  "remove left-hand scroll bar
 
 autocmd VimEnter * :set number
-autocmd BufEnter * :set number
 autocmd BufEnter * :set nospell
 
 "au GUIEnter * simalt ~x "x on an English Windows version. n on a French
@@ -90,8 +91,6 @@ if has('gui_running')
   set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 9
 endif
 
-set ttyfast
-set lazyredraw
 
 set mouse=a
 

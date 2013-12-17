@@ -49,7 +49,7 @@ function vimclean() {
 unsetopt correct
 unsetopt correct_all
 
-#export TERM=xterm-256color
+export TERM=xterm-256color
 
 #alias tmux="TERM=screen-256color-bce tmux"
 
@@ -58,3 +58,10 @@ loadkeys br-abnt2 > /dev/null 2>&1
 export ZSH_THEME=powerline
 
 export TERM=xterm-256color
+
+alias -g tmux="tmux -2"
+if [[ -z "$TMUX" ]]; then
+  exec tmux -2
+fi
+
+setopt NO_BEEP
