@@ -1,6 +1,0 @@
-Command=/home/schleumer/.cmd/pingoogle.sh
-UseLabel=0
-Text=Ping Google
-UpdatePeriod=30000
-Font=(default)
-
