@@ -20,10 +20,10 @@
         <value type="int" value="2"/>
         <value type="int" value="1"/>
       </property>
-      <property name="background-alpha" type="uint" value="0"/>
-      <property name="enter-opacity" type="uint" value="70"/>
-      <property name="leave-opacity" type="uint" value="70"/>
-      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="uint" value="100"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="background-style" type="uint" value="0"/>
       <property name="background-image" type="string" value=""/>
       <property name="background-color" type="array">
         <value type="uint" value="56540"/>
@@ -61,8 +61,8 @@
     </property>
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="plugin-9" type="string" value="mixer">
-      <property name="sound-card" type="string" value="PlaybackMicrosoftLifeChatLX3000EstreodigitalIEC958PulseAudioMixer"/>
-      <property name="track" type="string" value="Master"/>
+      <property name="sound-card" type="string" value="MicrosoftLifeChatLX3000Alsamixer"/>
+      <property name="track" type="string" value="Speaker"/>
       <property name="command" type="string" value="xfce4-mixer"/>
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
     </property>

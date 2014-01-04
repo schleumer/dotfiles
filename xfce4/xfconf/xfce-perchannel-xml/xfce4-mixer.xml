@@ -21,9 +21,29 @@
       <value type="string" value="Master"/>
     </property>
     <property name="MicrosoftLifeChatLX3000Alsamixer" type="array">
-      <value type="string" value="Microfone Captura"/>
-      <value type="string" value="Microfone"/>
       <value type="string" value="Speaker"/>
+      <value type="string" value="Microfone"/>
+      <value type="string" value="Microfone Captura"/>
+    </property>
+    <property name="HDAATISBAlsamixer" type="array">
+      <value type="string" value="Rear Mic Boost"/>
+      <value type="string" value="Rear Mic"/>
+      <value type="string" value="IEC958 Default PCM"/>
+      <value type="string" value="Entrada de linha"/>
+      <value type="string" value="Front Mic Boost"/>
+      <value type="string" value="Front Mic"/>
+      <value type="string" value="Front"/>
+      <value type="string" value="PCM"/>
+      <value type="string" value="Headphone"/>
+      <value type="string" value="Principal"/>
+    </property>
+    <property name="HDANVidiaAlsamixer" type="array">
+    </property>
+    <property name="PlaybackGF116HighDefinitionAudioControllerDigitalStereoHDMIPulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+    <property name="PlaybackudiointernoEstreoanalgicoPulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
     </property>
   </property>
   <property name="window-height" type="int" value="481"/>

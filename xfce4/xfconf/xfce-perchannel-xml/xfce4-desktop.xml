@@ -41,6 +41,16 @@
           <property name="last-image" type="string" value="/home/schleumer/Downloads/nodejs-wallpaper-nsfw.jpg"/>
         </property>
       </property>
+      <property name="monitorHDMI-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color1" type="array">
+            <value type="uint" value="65535"/>
+            <value type="uint" value="65535"/>
+            <value type="uint" value="65535"/>
+            <value type="uint" value="65535"/>
+          </property>
+        </property>
+      </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
