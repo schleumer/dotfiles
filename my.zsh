@@ -60,8 +60,5 @@ export ZSH_THEME=powerline
 export TERM=xterm-256color
 
 alias -g tmux="tmux -2"
-if [[ -z "$TMUX" ]]; then
-  exec tmux -2
-fi
 
 setopt NO_BEEP
