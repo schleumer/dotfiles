@@ -49,20 +49,21 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
-        <value type="string" value="bitcoin-qt"/>
-        <value type="string" value="miniaplicativo gerenciador de redes"/>
-        <value type="string" value="gerenciador de tarefas"/>
-        <value type="string" value="gmusicbrowser"/>
         <value type="string" value="thunar"/>
-        <value type="string" value="clipman"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="gerenciador de tarefas"/>
+        <value type="string" value="miniaplicativo gerenciador de redes"/>
         <value type="string" value="pidgin"/>
+        <value type="string" value="bitcoin-qt"/>
+        <value type="string" value="gmusicbrowser"/>
+        <value type="string" value="clipman"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="plugin-9" type="string" value="mixer">
-      <property name="sound-card" type="string" value="MicrosoftLifeChatLX3000Alsamixer"/>
-      <property name="track" type="string" value="Speaker"/>
+      <property name="sound-card" type="string" value="HDAIntelAlsamixer"/>
+      <property name="track" type="string" value="Master"/>
       <property name="command" type="string" value="xfce4-mixer"/>
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
     </property>
