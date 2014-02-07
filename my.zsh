@@ -62,3 +62,5 @@ export TERM=xterm-256color
 alias -g tmux="tmux -2"
 
 setopt NO_BEEP
+
+unset SSH_ASKPASS

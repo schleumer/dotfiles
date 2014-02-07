@@ -1,9 +1,8 @@
 [global_config]
-  window_state = fullscreen
   title_transmit_fg_color = "#7e7979"
-  title_receive_bg_color = "#333333"
-  title_inactive_fg_color = "#999999"
   geometry_hinting = False
+  title_inactive_fg_color = "#999999"
+  title_receive_bg_color = "#333333"
   title_transmit_bg_color = "#e9e9e9"
   title_receive_fg_color = "#999999"
   tab_position = bottom
