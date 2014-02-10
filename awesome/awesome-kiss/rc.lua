@@ -97,7 +97,7 @@ myawesomemenu = {
 }
 
 mymainmenu = awful.menu({ items = {
-									{ "FUCKING AWESOME BROWSER", "luakit"},
+                   { "FUCKING AWESOME BROWSER", "google-chrome-stable"},
                                     { "XTerm", "xterm" },
 									{ "Terminator", "terminator -m" },
 									{ "awesome", myawesomemenu, beautiful.awesome_icon }
@@ -467,6 +467,6 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 
 
-awful.util.spawn_with_shell("/usr/bin/setxkbmap br")
+awful.util.spawn_with_shell("setxkbmap br")
 awful.util.spawn_with_shell([[xmodmap -e "remove lock = Caps_Lock"]])
 awful.util.spawn_with_shell([[setxkbmap -option ctrl:nocaps]])
