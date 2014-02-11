@@ -1,0 +1,3800 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1 パスワード"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. USBの接触面を上向きにしてYubiKeyをUSBポートに挿入します"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. モバイル機器のGoogle認証アプリを実行する"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. ワンタイムパスワードを生成するためにLastPass Sesameを実行します"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. 下の入力ボックスに認証コードを入力"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. ワンタイムパスワードを入力ボックスに貼り付けて、'認証'をクリックします。"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. YubiKeyのタッチボタンが安定して光るまで待ちます"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. 認証をクリック"
+   },
+   "ACTION": {
+      "message": "アクション"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "SMS暗証番号がモバイル端末に送信されました。"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "LastPassの更新が利用可能です。ダウンロードしてインストールを開始するためにOKを押してください。"
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "再試行ファイルが見つかりました。サイトの変更が完全には保存されていないようです。変更がいくつか失われるかも知れませんが、このファイルを削除しますか？"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "リクエスト処理中にサーバーエラーが発生しました。"
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "以前に共有したサイトは共有フォルダに移動できません。コピーを作成しますか。"
+   },
+   "About": {
+      "message": "情報"
+   },
+   "About___": {
+      "message": "LastPassについて..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "アブダビ、マスカット、モスクワ、サンクトペテルブルグ、ボルゴグラード"
+   },
+   "Accept": {
+      "message": "受諾する"
+   },
+   "Account_Settings": {
+      "message": "アカウント設定"
+   },
+   "Account_Type": {
+      "message": "アカウントの種類"
+   },
+   "Account_number": {
+      "message": "口座番号"
+   },
+   "Actionproper": {
+      "message": "操作"
+   },
+   "Actions": {
+      "message": "操作"
+   },
+   "Add": {
+      "message": "追加"
+   },
+   "Add_Credit_Card": {
+      "message": "クレジットカードを追加"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "クレジットカードプロファイルを追加"
+   },
+   "Add_Field": {
+      "message": "フィールドを追加"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "フォーム入力プロファイルを追加"
+   },
+   "Add_Identity": {
+      "message": "アイデンティティを追加"
+   },
+   "Add_New_Site": {
+      "message": "新しいサイトを追加"
+   },
+   "Add_Note": {
+      "message": "メモを追加"
+   },
+   "Add_Profile": {
+      "message": "プロファイルを追加"
+   },
+   "Add_Secure_Note": {
+      "message": "セキュアノートを追加"
+   },
+   "Add_Site": {
+      "message": "サイトを追加"
+   },
+   "Add_another_custom_field": {
+      "message": "他のカスタムフィールドを追加"
+   },
+   "Address": {
+      "message": "住所"
+   },
+   "Address_1": {
+      "message": "住所 1"
+   },
+   "Address_2": {
+      "message": "住所 2"
+   },
+   "Address_3": {
+      "message": "住所 3"
+   },
+   "Adelaide": {
+      "message": "アデレード"
+   },
+   "Admin_Console": {
+      "message": "管理コンソール"
+   },
+   "Admin_Tools": {
+      "message": "管理ツール"
+   },
+   "Advanced": {
+      "message": "詳細設定"
+   },
+   "Advanced_Options": {
+      "message": "詳細オプション"
+   },
+   "Afghanistan": {
+      "message": "アフガニスタン"
+   },
+   "Agent_Name": {
+      "message": "職員名"
+   },
+   "Agent_Phone": {
+      "message": "職員の電話番号"
+   },
+   "Aland_Islands": {
+      "message": "オーランド諸島"
+   },
+   "Alaska": {
+      "message": "アラスカ州"
+   },
+   "Albania": {
+      "message": "アルバニア"
+   },
+   "Algeria": {
+      "message": "アルジェリア"
+   },
+   "Alias": {
+      "message": "エイリアス"
+   },
+   "All": {
+      "message": "すべて"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "LastPassがコンピュータ内の安全でないデータを検索してもよろしいですか？"
+   },
+   "Almaty": {
+      "message": "アルマトイ"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "または下のボックスにパスコードを入力"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "または、以下の入力欄に暗証番号を入力してください。"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "常にこれらのプロファイルとクレジットカードを選択"
+   },
+   "American_Samoa": {
+      "message": "アメリカ領サモア"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "アンマン、アテネ、イスタンブール、ベイルート、カイロ、エルサレム"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "アムステルダム、ベルリン、ローマ、ウィーン、プラハ、ブリュッセル"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "更新が可能です。インストールしますか？"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "サイトのロード中にエラーが発生しました。再ログインしてください。"
+   },
+   "An_error_occurred": {
+      "message": "エラーが発生しました"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Google Chromeのパスワードのインポート中にエラーが発生しました。"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "データを再暗号化中にエラーが発生しました"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "データをアップロード中にエラーが発生しました。再試行しますか？"
+   },
+   "Andorra": {
+      "message": "アンドラ"
+   },
+   "Angola": {
+      "message": "アンゴラ"
+   },
+   "Anguilla": {
+      "message": "アンギラ"
+   },
+   "Antarctica": {
+      "message": "南極"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "アンティグア・バーブーダ"
+   },
+   "Appearance": {
+      "message": "表示"
+   },
+   "Application_": {
+      "message": "アプリケーション："
+   },
+   "Applications": {
+      "message": "アプリケーション"
+   },
+   "April": {
+      "message": "4月"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "このフォーム入力プロファイルに保存される任意のメモ"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "このIDを削除してもよろしいですか？"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "このサイトを削除してもよろしいですか?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "本当にLastPassがパスワードを記憶してもよろしいですか？ パスワードを記憶させると、LastPassアカウントの安全性は著しく低下します！"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "この項目を共有してもよろしいですか？そうすることで、あなたがこの項目に加えた変更を失うことになります！"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "履歴を表示してもよろしいですか？そうすることで、あなたがこの項目に加えた変更を失うことになります！"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "本当に削除してもよろしいですか?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "本当に選択した項目を削除しますか。"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "本当に選択されたものを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "本当にこのアプリケーションを削除してもよろしいですか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "本当にこのフィールドを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "本当にこのフォーム入力プロファイルを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "本当に生成されたパスワードを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "本当にこのグループを削除してもよろしいですか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "本当にこのLastPassを使用しないURLを削除してもよろしいですか?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "本当にセキュアノートを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "本当にサイトを削除しますか？"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "この添付ファイルを削除してもよろしいですか？"
+   },
+   "Argentina": {
+      "message": "アルゼンチン"
+   },
+   "Arizona": {
+      "message": "アリゾナ州"
+   },
+   "Armenia": {
+      "message": "アルメニア"
+   },
+   "Aruba": {
+      "message": "アルバ"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "アスタナ、ダッカ、エカテリンブルグ"
+   },
+   "At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "少なくともこの多くの数字が生成されたパスワードになります。"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "大西洋標準時間（カナダ）、マナウス、サンティアゴ"
+   },
+   "Auckland__Wellington": {
+      "message": "オークランド、ウェリントン"
+   },
+   "August": {
+      "message": "8月"
+   },
+   "Australia": {
+      "message": "オーストラリア"
+   },
+   "Austria": {
+      "message": "オーストリア"
+   },
+   "Authenticate": {
+      "message": "認証"
+   },
+   "Authentication": {
+      "message": "認証"
+   },
+   "Authentication_Failed_": {
+      "message": "認証に失敗しました。"
+   },
+   "AutoFill": {
+      "message": "自動記入"
+   },
+   "AutoLogin": {
+      "message": "自動ログイン"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "自動的にログイン情報を記入する"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "アイドル状態になった後、自動的にログオフするまでの時間 (分)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "すべてのブラウザが閉じられていてChromeが閉じられた後に自動ログオフする(分)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "前回のログイン後、自動的にログインするまでの時間 > (秒)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "曖昧な文字を避ける"
+   },
+   "Azerbaijan": {
+      "message": "アゼルバイジャン"
+   },
+   "Azores": {
+      "message": "アゾレス諸島"
+   },
+   "BACKUPPER": {
+      "message": "戻る"
+   },
+   "Back": {
+      "message": "戻る"
+   },
+   "Baghdad": {
+      "message": "バグダッド"
+   },
+   "Bahamas": {
+      "message": "バハマ"
+   },
+   "Bahrain": {
+      "message": "バーレーン"
+   },
+   "Baku__Yerevan": {
+      "message": "バクー、エレバン"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "バンコク、ハノイ、ジャカルタ、ノボシビルスク"
+   },
+   "Bangladesh": {
+      "message": "バングラデシュ"
+   },
+   "Bank_Account": {
+      "message": "銀行口座"
+   },
+   "Bank_accountformfill": {
+      "message": "銀行口座"
+   },
+   "Bank_name": {
+      "message": "銀行名"
+   },
+   "Barbados": {
+      "message": "バルバドス"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "LastPassを使用する前に、最初に指紋リーダーを接続して1つ以上の指紋を登録する必要があります。"
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "北京、香港、シンガポール、台北、クラスノヤルスク"
+   },
+   "Belarus": {
+      "message": "ベラルーシ"
+   },
+   "Belgium": {
+      "message": "ベルギー"
+   },
+   "Belize": {
+      "message": "ベリーズ"
+   },
+   "Benin": {
+      "message": "ベナン"
+   },
+   "Bermuda": {
+      "message": "バミューダ"
+   },
+   "Bhutan": {
+      "message": "ブータン"
+   },
+   "Binary_Component_": {
+      "message": "バイナリコンポーネント:"
+   },
+   "Birthday": {
+      "message": "誕生日"
+   },
+   "Bit_Strength": {
+      "message": "ビット強度"
+   },
+   "Blacklist": {
+      "message": "何度もログインに失敗したためアカウントが一時的に停止されています。(5分間)"
+   },
+   "Blog": {
+      "message": "ブログ"
+   },
+   "Bolivia": {
+      "message": "ボリビア"
+   },
+   "Bookmarklets": {
+      "message": "ブックマークレット"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "ボスニアヘルツェゴビナ"
+   },
+   "Botswana": {
+      "message": "ボツワナ"
+   },
+   "Bouvet_Island": {
+      "message": "ブーベ島"
+   },
+   "Branch_Address": {
+      "message": "支店住所"
+   },
+   "Branch_Phone": {
+      "message": "支店電話番号"
+   },
+   "Brazil": {
+      "message": "ブラジル"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "ブリスベン、グアム、ポートモレスビー、ヤクーツク"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "イギリス領インド洋地域"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "いつものようにウェブブラウジングをすると、LastPassは入力されたパスワードを自動的に記憶します。"
+   },
+   "Brunei_Darussalam": {
+      "message": "ブルネイ"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "ブエノスアイレス、ジョージタウン"
+   },
+   "Built_": {
+      "message": "ビルド:"
+   },
+   "Bulgaria": {
+      "message": "ブルガリア"
+   },
+   "Burkina_Faso": {
+      "message": "ブルキナファソ"
+   },
+   "Burundi": {
+      "message": "ブルンジ"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "ただ私は忘れっぽいのです…もしパスワードを忘れたらどうしたらいいですか？"
+   },
+   "CSV_Files": {
+      "message": "CSVファイル"
+   },
+   "Cambodia": {
+      "message": "カンボジア"
+   },
+   "Cameroon": {
+      "message": "カメルーン"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "隠れたLastPassウィンドウを見つけることができません"
+   },
+   "Canada": {
+      "message": "カナダ"
+   },
+   "Canary_Islands": {
+      "message": "カナリア諸島"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "キャンベラ、メルボルン、シドニー、ホバート"
+   },
+   "Cancel": {
+      "message": "キャンセル"
+   },
+   "Cape_Verde": {
+      "message": "カーボベルデ"
+   },
+   "Cape_Verde_Is_": {
+      "message": "カーボベルデ諸島"
+   },
+   "Caracas": {
+      "message": "カラカス"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "カサブランカ、モンロビア、レイキャビク"
+   },
+   "Catalan": {
+      "message": "カタロニア語"
+   },
+   "Cayman_Islands": {
+      "message": "ケイマン諸島"
+   },
+   "Central_African_Republic": {
+      "message": "中央アフリカ共和国"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "中央アメリカ、サスカチュワン州"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "中央標準時（米国とカナダ）、グアダラハラ、メキシコシティ"
+   },
+   "Chad": {
+      "message": "チャド"
+   },
+   "Change": {
+      "message": "変更"
+   },
+   "Change_Group_Name": {
+      "message": "グループを変更"
+   },
+   "Change_Password": {
+      "message": "パスワードの変更"
+   },
+   "Check_For_Updates": {
+      "message": "更新の確認"
+   },
+   "Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "パスワードの生成方法を微調整するために、このボックスをチェックします。"
+   },
+   "Checkbox": {
+      "message": "チェックボックス"
+   },
+   "Checking_For_Updates___": {
+      "message": "アップデートを確認中..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "チェンナイ、コルカタ、ムンバイ、ニューデリー、スリジャヤワルダナプラコッテ"
+   },
+   "Chile": {
+      "message": "チリ"
+   },
+   "China": {
+      "message": "中国"
+   },
+   "Chinese__Simplified_": {
+      "message": "中国語(簡体)"
+   },
+   "Chinese__Traditional_": {
+      "message": "中国語(繁体)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "プロファイルとクレジットカードの選択"
+   },
+   "Choose_a_source_above_": {
+      "message": "上のソースを選びます。"
+   },
+   "Christmas_Island": {
+      "message": "クリスマス島"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "市区町村"
+   },
+   "Clear": {
+      "message": "クリア"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "使用後にクリップボードをクリア (秒)"
+   },
+   "Clear_Forms": {
+      "message": "フォームをクリア"
+   },
+   "Clear_Local_Cache": {
+      "message": "ローカルキャッシュをクリア"
+   },
+   "Clear_Recent": {
+      "message": "最近使用したものをクリア"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "ログオフ時に入力済みのフォームをクリアする"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "LastPassを使い始めるには続行をクリックしてください。"
+   },
+   "Click_Icons_in_Fields": {
+      "message": "フィールドのアイコンをクリック"
+   },
+   "Click_here_for_instructions_on_importing_from_a_generic_CSV_file_": {
+      "message": "一般的なCSVファイルからインポートする手順についてはこちらをクリックしてください。"
+   },
+   "Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "お使いの携帯電話やモバイルデバイスに2段階認証を設定するにはこちらをクリックしてください"
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "アカウント設定を表示するにはここをクリック"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "フィードバックを起動するにはここをクリック"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "LastPassユーザーマニュアルを表示するにはここをクリック"
+   },
+   "Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "追加アクションの下部にあるアイコンをクリックします。"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "閉じる"
+   },
+   "Close_this_window": {
+      "message": "このウィンドウを閉じる"
+   },
+   "Co_pay": {
+      "message": "自己負担"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "ココス(キーリング)諸島"
+   },
+   "Collapse_All": {
+      "message": "すべてたたむ"
+   },
+   "Colombia": {
+      "message": "コロンビア"
+   },
+   "Comoros": {
+      "message": "コモロ"
+   },
+   "Company": {
+      "message": "会社"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "会社の方針によりこの操作は禁止しています。"
+   },
+   "Company_Phone": {
+      "message": "会社の電話"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "当社の方針により、変更できない項目があります。いくつかの設定は保存できませんでした。"
+   },
+   "Configure_Form_Fill": {
+      "message": "フォーム入力の設定"
+   },
+   "Confirm": {
+      "message": "確認"
+   },
+   "Confirm_Password": {
+      "message": "パスワードを確認"
+   },
+   "Congo": {
+      "message": "コンゴ"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "コンゴ民主共和国"
+   },
+   "Congratulations": {
+      "message": "おめでとうございます"
+   },
+   "Connection_Mode": {
+      "message": "接続モード"
+   },
+   "Connection_Type": {
+      "message": "接続の種類"
+   },
+   "Contact": {
+      "message": "連絡先"
+   },
+   "Continue": {
+      "message": "続行"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "選択されたファイル名に制御文字がみつかりました。これは処理されません。"
+   },
+   "Cook_Islands": {
+      "message": "クック諸島"
+   },
+   "Copy": {
+      "message": "コピー"
+   },
+   "Copy_Note": {
+      "message": "ノートをコピー"
+   },
+   "Copy_Password": {
+      "message": "パスワードをコピー"
+   },
+   "Copy_URL": {
+      "message": "URLをコピー"
+   },
+   "Copy_Username": {
+      "message": "ユーザー名をコピー"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. All Rights Reserved.\nこのソフトウェアの一部はサードパーティからライセンスを受けています:"
+   },
+   "Costa_Rica": {
+      "message": "コスタリカ"
+   },
+   "Cote_D_ivoire": {
+      "message": "コートジボワール"
+   },
+   "Country": {
+      "message": "国"
+   },
+   "County": {
+      "message": "郡"
+   },
+   "Create_Account": {
+      "message": "アカウントを作成"
+   },
+   "Create_Group": {
+      "message": "グループを作成"
+   },
+   "Create_Sub_Group": {
+      "message": "サブグループを作成"
+   },
+   "Create_an_Account": {
+      "message": "アカウントを作成"
+   },
+   "Creating_Account___": {
+      "message": "アカウント作成中..."
+   },
+   "Credit_Card": {
+      "message": "クレジットカード"
+   },
+   "Credit_Monitoring": {
+      "message": "クレジットモニタリング"
+   },
+   "Credit_card_number": {
+      "message": "クレジットカード番号"
+   },
+   "Credit_cardformfill": {
+      "message": "クレジットカード"
+   },
+   "Croatia": {
+      "message": "クロアチア"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "キューバ"
+   },
+   "Custom_Value": {
+      "message": "カスタム値"
+   },
+   "Custom_field__": {
+      "message": "カスタムフィールド番号"
+   },
+   "Custom_fields": {
+      "message": "カスタムフィールド"
+   },
+   "Cyprus": {
+      "message": "キプロス"
+   },
+   "Czech_Republic": {
+      "message": "チェコ共和国"
+   },
+   "Danish": {
+      "message": "デンマーク語"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "ダーウィン"
+   },
+   "Dashlane": {
+      "message": "Dashlane"
+   },
+   "Database": {
+      "message": "データベース"
+   },
+   "Date": {
+      "message": "日付"
+   },
+   "Date_of_Birth": {
+      "message": "生年月日"
+   },
+   "December": {
+      "message": "12月"
+   },
+   "Default": {
+      "message": "デフォルト"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "既定のフォーム入力プロファイル"
+   },
+   "Delete": {
+      "message": "削除"
+   },
+   "Delete_Cache": {
+      "message": "キャッシュの削除"
+   },
+   "Delete_Formfill_Profile": {
+      "message": "フォーム入力プロファイルを削除"
+   },
+   "Delete_Group": {
+      "message": "グループを削除"
+   },
+   "Delete_Identity_": {
+      "message": "アイデンティティを削除しますか?"
+   },
+   "Delete_Selected": {
+      "message": "選択項目を削除"
+   },
+   "Delete_Site": {
+      "message": "サイトを削除"
+   },
+   "Delete_Site_": {
+      "message": "サイトを削除しますか?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "このフォーム入力プロファイルを削除する"
+   },
+   "Denmark": {
+      "message": "デンマーク"
+   },
+   "Disable": {
+      "message": "無効"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "安全でないChromeパスワードマネージャを無効にする"
+   },
+   "Disable_LastPass": {
+      "message": "LastPassを無効にする"
+   },
+   "Disable_LastPass_for_this_page_or_the_entire_site_": {
+      "message": "このページまたはサイト全体でLastPassを無効にしますか？"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "マルチファクタ認証の無効化"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "シングルファクタ認証の無効化"
+   },
+   "Disable_for_all_sites": {
+      "message": "すべてのサイトで無効にする"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "変更を破棄してこのウィンドウを閉じる"
+   },
+   "Djibouti": {
+      "message": "ジブチ"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "既に記入されているフィールドを上書きしない"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "再表示しない"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "LastPassが好きですか?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "本当に終了しますか？ アカウントを作成せずにLastPassは使用できません。"
+   },
+   "Dominica": {
+      "message": "ドミニカ"
+   },
+   "Dominican_Republic": {
+      "message": "ドミニカ共和国"
+   },
+   "Down": {
+      "message": "Down"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "運転免許"
+   },
+   "Duplicate_password": {
+      "message": "重複パスワード"
+   },
+   "Dutch": {
+      "message": "オランダ語"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "エラー: 共有フォルダ間のサイトの移動は現在サポートされていません。"
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "エラー: 共有フォルダ外へのサイトの移動はできません。削除のみ行えます。"
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "東部標準時(米国とカナダ)"
+   },
+   "Ecuador": {
+      "message": "エクアドル"
+   },
+   "Edit": {
+      "message": "編集"
+   },
+   "Edit_Application": {
+      "message": "アプリケーションの編集"
+   },
+   "Edit_Application_Fields": {
+      "message": "アプリケーションフィールドを編集"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "クレジットカードプロファイルを編集"
+   },
+   "Edit_Form_Fields": {
+      "message": "フォームフィールドを編集"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "フォーム入力プロファイルの編集"
+   },
+   "Edit_Secure_Note": {
+      "message": "セキュアノートを編集"
+   },
+   "Edit_Secure_Notes": {
+      "message": "セキュアノートの編集"
+   },
+   "Edit_Site": {
+      "message": "サイトの編集"
+   },
+   "Edit_Site_Fields": {
+      "message": "サイトのフィールドを編集"
+   },
+   "Egypt": {
+      "message": "エジプト"
+   },
+   "El_Salvador": {
+      "message": "エルサルバドル"
+   },
+   "Email": {
+      "message": "メールアドレス"
+   },
+   "Email_Account": {
+      "message": "メールアカウント"
+   },
+   "Email_address": {
+      "message": "メールアドレス"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "このメールアドレスは既に使われています。パスワードを忘れてしまいましたか？"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "クレジット監視を有効にする"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "フリークレジット監視を有効にする"
+   },
+   "Enable_new_login_screen": {
+      "message": "新しいログイン画面を有効化"
+   },
+   "Encryption": {
+      "message": "暗号化"
+   },
+   "End": {
+      "message": "End"
+   },
+   "English": {
+      "message": "英語"
+   },
+   "English__United_Kingdom_": {
+      "message": "英語(イギリス)"
+   },
+   "Enter_Code_": {
+      "message": "コードを入力:"
+   },
+   "Enter_PIN": {
+      "message": "PINを入力"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "以下の入力欄に暗証番号を入力してください。"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "任意にメモを記入して下さい"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "スマートカードのPINを入力してください:"
+   },
+   "Enterprise": {
+      "message": "エンタープライズ"
+   },
+   "Equatorial_Guinea": {
+      "message": "赤道ギニア"
+   },
+   "Eritrea": {
+      "message": "エリトリア"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "LastPassサイトの取得中にエラーが発生しました。しばらくしてから再ログインしてください。"
+   },
+   "ErrorLoginMsg": {
+      "message": "LastPassへログイン中にエラーが発生しました。インターネット接続を確認してください。"
+   },
+   "ErrorSendingMsg": {
+      "message": "サーバーへの接続中にエラーが発生しました。インターネット接続を確認してください。"
+   },
+   "ErrorSessionMsg": {
+      "message": "LastPassセッションの有効期限が過ぎました。再ログインしてください。"
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "エラー：このフォルダは、すでに移動されましたか？"
+   },
+   "Error_opening_attachment_": {
+      "message": "添付ファイルを開く際にエラーが発生しました。"
+   },
+   "Estonia": {
+      "message": "エストニア"
+   },
+   "Ethiopia": {
+      "message": "エチオピア"
+   },
+   "Evening_number": {
+      "message": "夜間連絡先電話番号"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPassはマスターパスワードを忘れた場合にアカウントを復旧することを可能にするワンタイムパスワード(OTP)をローカルに保存できるようになりました。OTPはサーバーでアクティベートするまで無効化されています。\n\nアカウント復旧のアクティベートを行いますか？"
+   },
+   "Expand_All": {
+      "message": "すべて展開"
+   },
+   "Expiration": {
+      "message": "期限切れ"
+   },
+   "Expiration_date": {
+      "message": "有効期限"
+   },
+   "Export": {
+      "message": "エクスポート"
+   },
+   "Export_To": {
+      "message": "エクスポート"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "LastPass CSVファイルにエクスポート"
+   },
+   "FIPS_Mode": {
+      "message": "FIPSモード"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "フォークランド諸島(マルビナス)"
+   },
+   "Faroe_Islands": {
+      "message": "フェロー諸島"
+   },
+   "Favorite": {
+      "message": "お気に入り"
+   },
+   "Favoritesproper": {
+      "message": "お気に入り"
+   },
+   "Fax_number": {
+      "message": "FAX番号"
+   },
+   "February": {
+      "message": "2月"
+   },
+   "Feedback": {
+      "message": "フィードバック"
+   },
+   "Female": {
+      "message": "女性"
+   },
+   "Fields_": {
+      "message": "フィールド:"
+   },
+   "Fiji": {
+      "message": "フィジー"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "フィジー、カムチャツカ、マーシャル諸島"
+   },
+   "File": {
+      "message": "ファイル"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "ファイルが大きすぎます。10MB未満にしてください。"
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "ファイルが大きすぎます。5MB未満でなければいけません。"
+   },
+   "Files": {
+      "message": "ファイル"
+   },
+   "Fill": {
+      "message": "記入"
+   },
+   "Fill_Current": {
+      "message": "現在のものを記入"
+   },
+   "Fill_Form": {
+      "message": "フォーム入力"
+   },
+   "Fill_Forms": {
+      "message": "フォーム入力"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "既定のフォーム入力プロファイルで記入"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "次のログイン情報を記入(複数ある時)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "前のログイン情報を記入(複数ある時)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "フォーム入力データの入力/編集"
+   },
+   "Fill_with": {
+      "message": "フォーム入力プロファイルを選択"
+   },
+   "FillableFormDetected": {
+      "message": "このページに入力可能なフォームを検出しました。"
+   },
+   "Filter": {
+      "message": "フィルター"
+   },
+   "Find_a_site": {
+      "message": "サイト検索"
+   },
+   "Finland": {
+      "message": "フィンランド"
+   },
+   "Finnish": {
+      "message": "フィンランド語"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefoxパスワードマネージャ"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "電話番号の最初の3桁"
+   },
+   "First_name": {
+      "message": "名"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "以下の各座標について、あなたの暗号表から値を見つけ、その値を入力して下さい。"
+   },
+   "Forgot_Password_": {
+      "message": "パスワードをお忘れですか？"
+   },
+   "FormFill": {
+      "message": "フォーム入力"
+   },
+   "FormFill_Profiles": {
+      "message": "フォーム入力プロファイル"
+   },
+   "Form_Fill": {
+      "message": "フォーム入力"
+   },
+   "Form_Fill_Profile": {
+      "message": "プロファイル"
+   },
+   "Form_Fill_Profiles": {
+      "message": "フォーム記入プロファイル"
+   },
+   "Form_Fills": {
+      "message": "フォーム記入"
+   },
+   "Form_Name_": {
+      "message": "フォーム名:"
+   },
+   "Format": {
+      "message": "形式"
+   },
+   "Forums": {
+      "message": "フォーラム"
+   },
+   "France": {
+      "message": "フランス"
+   },
+   "French": {
+      "message": "フランス語"
+   },
+   "French_Guiana": {
+      "message": "フランス領ギアナ"
+   },
+   "French_Polynesia": {
+      "message": "フランス領ポリネシア"
+   },
+   "French_Southern_Territories": {
+      "message": "フランス領南方地域"
+   },
+   "French__Canada_": {
+      "message": "フランス語(カナダ)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "インポートするファイルのフルパス:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "インポートするファイルのフルパス:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "無料でプレミアムを入手"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "グリニッジ標準時 ダブリン、エジンバラ、リスボン、ロンドン"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: ダブリン、エジンバラ、リスボン、ロンドン"
+   },
+   "Gabon": {
+      "message": "ガボン"
+   },
+   "Gambia": {
+      "message": "ガンビア"
+   },
+   "Gender": {
+      "message": "性別"
+   },
+   "General": {
+      "message": "全般"
+   },
+   "Generate": {
+      "message": "生成"
+   },
+   "GeneratePassword": {
+      "message": "アカウントの作成やパスワードの変更をするとき、生成をクリックすれば、LastPassが固有の安全なパスワードを生成します。"
+   },
+   "Generate_Password": {
+      "message": "パスワード生成"
+   },
+   "Generate_Secure_Password": {
+      "message": "安全なパスワードを生成"
+   },
+   "Generated_Password_for": {
+      "message": "パスワードの生成"
+   },
+   "Generic": {
+      "message": "一般"
+   },
+   "Generic_CSV_File": {
+      "message": "一般的なCSVファイル"
+   },
+   "Georgia": {
+      "message": "ジョージア"
+   },
+   "German": {
+      "message": "ドイツ語"
+   },
+   "Germany": {
+      "message": "ドイツ"
+   },
+   "Ghana": {
+      "message": "ガーナ"
+   },
+   "Gibraltar": {
+      "message": "ジブラルタル"
+   },
+   "Go_Back": {
+      "message": "戻る"
+   },
+   "Go_Back_": {
+      "message": "戻りますか？"
+   },
+   "Go_Premium_": {
+      "message": "プレミアム版を購入！"
+   },
+   "Go_to_URL": {
+      "message": "URLに移動"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Googleの多要素認証"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chromeパスワードマネージャ"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chromeは拡張機能がブラウザと同じ言語を利用します。そのため、LastPassの言語を変更するには、Chromeのオプションからメインブラウザの言語を変更してください。"
+   },
+   "Greece": {
+      "message": "ギリシャ"
+   },
+   "Greenland": {
+      "message": "グリーンランド"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "グリーンランド、ブラジリア、モンテビデオ"
+   },
+   "Grenada": {
+      "message": "グレナダ"
+   },
+   "Group_": {
+      "message": "グループ:"
+   },
+   "Group_ID": {
+      "message": "グループID"
+   },
+   "Group_Name": {
+      "message": "グループ名"
+   },
+   "Group_will_be_created_under": {
+      "message": "次のグループの中にサブグループが作られます"
+   },
+   "Groups": {
+      "message": "グループ"
+   },
+   "Guadeloupe": {
+      "message": "グアドループ"
+   },
+   "Guam": {
+      "message": "グアム"
+   },
+   "Guatemala": {
+      "message": "グアテマラ"
+   },
+   "Guernsey": {
+      "message": "ガーンジー"
+   },
+   "Guinea": {
+      "message": "ギニア"
+   },
+   "Guinea_Bissau": {
+      "message": "ギニアビサウ"
+   },
+   "Guyana": {
+      "message": "ガイアナ"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "ハイチ"
+   },
+   "Harare__Pretoria": {
+      "message": "ハラーレ、プレトリア"
+   },
+   "Hawaii": {
+      "message": "ハワイ"
+   },
+   "Health_Insurance": {
+      "message": "健康保険"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "ハード島とマクドナルド諸島"
+   },
+   "Height": {
+      "message": "身長"
+   },
+   "Help": {
+      "message": "ヘルプ"
+   },
+   "Help_Translate": {
+      "message": "翻訳に協力"
+   },
+   "Help___": {
+      "message": "ヘルプ..."
+   },
+   "Help_spread_the_word": {
+      "message": "口コミで広げる手伝いをする"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "コンテキストメニューのオプションを隠す"
+   },
+   "Hide_Password": {
+      "message": "パスワードを隠す"
+   },
+   "Highlight_input_boxes": {
+      "message": "入力ボックスの強調"
+   },
+   "History": {
+      "message": "履歴"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "ローマ法王庁(バチカン市国)"
+   },
+   "Home": {
+      "message": "ホーム"
+   },
+   "Honduras": {
+      "message": "ホンジュラス"
+   },
+   "Hong_Kong": {
+      "message": "香港"
+   },
+   "Hostname": {
+      "message": "ホスト名"
+   },
+   "HotKeys": {
+      "message": "ホットキー"
+   },
+   "Hungarian": {
+      "message": "ハンガリー語"
+   },
+   "Hungary": {
+      "message": "ハンガリー"
+   },
+   "IBAN_Number": {
+      "message": "IBAN番号"
+   },
+   "IMPORT_": {
+      "message": "インポート?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "重要なのは、新しいLastPassのパスワードを決して忘れないことです。"
+   },
+   "I_Forgot_my_Password": {
+      "message": "パスワードを忘れた場合"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "パスワードを忘れた！助けて！"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "私は以下を読み、同意します"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "私は暗号化されたデータがLastPassに送られることを理解しています"
+   },
+   "I_ve_forgot_the_answer": {
+      "message": "答えを忘れた"
+   },
+   "I_ve_lost_my_Google_Authenticator_device": {
+      "message": "Google認証端末をなくした"
+   },
+   "I_ve_lost_my_Sesame_device": {
+      "message": "Sesame端末をなくした"
+   },
+   "I_ve_lost_my_YubiKey_device": {
+      "message": "YubiKey端末をなくした"
+   },
+   "I_ve_lost_my_device": {
+      "message": "端末をなくした"
+   },
+   "I_ve_lost_my_grid": {
+      "message": "グリッドをなくした"
+   },
+   "Iceland": {
+      "message": "アイスランド"
+   },
+   "Identities": {
+      "message": "アイデンティティ"
+   },
+   "Identity": {
+      "message": "アイデンティティ"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "チェックしている場合、フォーム入力プロファイルにアクセスする前にマスターパスワードの再入力が求められます"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "チェックした場合、あなたのクレジットは定期的に監視され、不審な行為が発見された場合に警告が表示されます。"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "既にLastPassアカウントをお持ちの場合、このウィンドウを閉じてログインできます。"
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "LastPassマスターパスワードを忘れた場合、"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "答えを忘れてしまった場合、セキュリティ保護用の質問をリセットするにはここをクリックします"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "LastPassが現在サポートしていないその他のフォーマットをお持ちの場合、データをCSVファイルとしてのインポートを試すことができます。\n\n必ずCSVファイルの最初の行をLastPassが判別できるように編集しなければなりません。\n\n最初の行のカラム名はカラム内のデータに則って正しくセットアップされなければなりません。\n最善な最初の行の名前はこのようになります:\n\nurl,username,password,extra,name,grouping\n\n'extra' は 'notes' と 'grouping' がどのグループに入るべきかを表します。 すべてのカラム名を使う必要はなく、どのような順番でも構いません。例えばこのようになります。\n\nname,username,password,url\n\nもしサイトの代わりにセキュアノートとしてインポートしたい場合は、まず単純に'url'を確定し、 'username'と'password'カラムは空のままにします(または 'url'を省略し、 'username'及び/もしくは 'password' が入力されていること)。そして'extra'カラムが空にならないようにします。 これら2つのことがされている限り, CSVファイルのデータはサイトの代わりにセキュアノートとして自動的にインポートされるでしょう。\n\nこれはすごくシンプルな方法で、Excelで保存されたCSVファイルを開き、その上部からどのようになっているか、最初の行に適した名前が付けられていることを確認するだけです。保存して、出力したファイルをインポートしてください。"
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "もしGoogle 認証機器を失くした場合、ここをクリックして、Google 認証機器での認証を無効化してください。"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Sesameデバイスをなくした場合、Sesame認証を無効化するにはここをクリックしてください"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "YubiKeyデバイスをなくした場合、YubiKey認証を無効にするにはここをクリックしてください"
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "お使いのデバイスを紛失した場合、多要素認証を無効にするにはここをクリック"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "暗号表をなくした場合、ここをクリックして暗号表認証を無効にして下さい"
+   },
+   "Import": {
+      "message": "インポート"
+   },
+   "Import_From": {
+      "message": "インポート"
+   },
+   "Import_Your_Data": {
+      "message": "データのインポート"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "LastPass保管庫にデータをインポートすることはデータを安全にし、個人情報盗難を防ぎます。インポートされるすべてのデータは完全に機密が保たれます: あなたのデータを見ることができるのはあなただけです。"
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "LastPassがBASIC認証ダイアログを入力するためには、アシストデバイスのアクセスを有効にする必要があります。"
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "LastPassがBASIC認証ダイアログを入力するためには、LastPass for Chromeのバイナリバージョンをインストールする必要があります。"
+   },
+   "India": {
+      "message": "インド"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "インディアナ州、ボゴタ、リマ、キト、リオブランコ"
+   },
+   "Indonesia": {
+      "message": "インドネシア"
+   },
+   "Install": {
+      "message": "インストール"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "アイドル後の自動ログオフを有効にするには、Chrome用LastPassライブラリをインストールします。"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "アイドル状態になってから自動ログオフを有効化するためにChrome用のバイナリ版LastPassをインストールします"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Google Chromeパスワードマネージャからのパスワードのインポートを有効化するためにChrome用のバイナリ版LastPassをインストールします"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "ログイン状態を他のブラウザと共有するためにChrome用のバイナリ版LastPassをインストールします"
+   },
+   "Instant_Messenger": {
+      "message": "インスタントメッセンジャー"
+   },
+   "Instructions": {
+      "message": "説明"
+   },
+   "Insurance": {
+      "message": "保険"
+   },
+   "International_Date_Line_West": {
+      "message": "国際日付変更線西側"
+   },
+   "Invalid_Password_": {
+      "message": "無効なパスワードです。"
+   },
+   "Invalid_email_address__try_again": {
+      "message": "無効なメールアドレスです。もう一度やり直してください。"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "無効なファイルタイプです。ファイルタイプはブラウザで表示することができる画像でなければいけません。"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "イラン(イスラム共和国)"
+   },
+   "Iraq": {
+      "message": "イラク"
+   },
+   "Ireland": {
+      "message": "アイルランド"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "イスラマバード、カラチ、タシケント"
+   },
+   "Isle_of_Man": {
+      "message": "マン島"
+   },
+   "Israel": {
+      "message": "イスラエル"
+   },
+   "Issue_number": {
+      "message": "発行番号"
+   },
+   "Issued_Date": {
+      "message": "発行日"
+   },
+   "Issuing_Authority": {
+      "message": "発行機関"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "利用後に添付ファイルを削除することをお勧めします"
+   },
+   "Italian": {
+      "message": "イタリア語"
+   },
+   "Italy": {
+      "message": "イタリア"
+   },
+   "IterationsReduction": {
+      "message": "LastPassのマスターパスワードを生成するために必要な試行回数が、キャッシュされているバージョンより減少しているようです。ログインを続けますか？"
+   },
+   "Jamaica": {
+      "message": "ジャマイカ"
+   },
+   "January": {
+      "message": "1月"
+   },
+   "Japan": {
+      "message": "日本"
+   },
+   "Japanese": {
+      "message": "日本語"
+   },
+   "Japanese_Only____First_Fur": {
+      "message": "メイ"
+   },
+   "Japanese_Only____First_Rom": {
+      "message": "名"
+   },
+   "Japanese_Only____First_Std": {
+      "message": "名"
+   },
+   "Japanese_Only____Last_Fur": {
+      "message": "セイ"
+   },
+   "Japanese_Only____Last_Rom": {
+      "message": "姓"
+   },
+   "Japanese_Only____Last_Std": {
+      "message": "姓"
+   },
+   "Japanese_Only____Name_Fur": {
+      "message": "フリガナ"
+   },
+   "Japanese_Only____Name_Rom": {
+      "message": "ローマ字"
+   },
+   "Japanese_Only____Name_Std": {
+      "message": "お名前"
+   },
+   "Jersey": {
+      "message": "ジャージー"
+   },
+   "Jordan": {
+      "message": "ヨルダン"
+   },
+   "July": {
+      "message": "7月"
+   },
+   "June": {
+      "message": "6月"
+   },
+   "Kabul": {
+      "message": "カブール"
+   },
+   "Kathmandu": {
+      "message": "カトマンズ"
+   },
+   "Kazakhstan": {
+      "message": "カザフスタン"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "ログインやフォーム入力の履歴を保存する"
+   },
+   "Kenya": {
+      "message": "ケニア"
+   },
+   "Key_Index": {
+      "message": "キーインデックス"
+   },
+   "Key_Type": {
+      "message": "キータイプ"
+   },
+   "Kiribati": {
+      "message": "キリバス"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "大韓民国"
+   },
+   "Korea__Republic_Of": {
+      "message": "大韓民国"
+   },
+   "Korean": {
+      "message": "韓国語"
+   },
+   "Kuwait": {
+      "message": "クウェート"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "クウェート、リヤド、ナイロビ、トビリシ"
+   },
+   "Kyrgyzstan": {
+      "message": "キルギスタン"
+   },
+   "La_Paz": {
+      "message": "ラパス"
+   },
+   "Language": {
+      "message": "言語"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "ラオス人民民主共和国"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSVファイル"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chromeツールバー"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass暗号化ファイル"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass暗号表多要素認証"
+   },
+   "LastPass_Menu": {
+      "message": "LastPassメニュー"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPassはワンクリックでウェブページのフォームを自動的に入力できます。自動'フォーム入力'を使えば、時間をセーブするだけでなく、オンラインショッピング時のセキュリティも強化されます。"
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPassはlastpass.comからのCookieが許可されるまでログインできません"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPassはログインフォームが安全でないことを検出しました。\n\n続行しますか？"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPassはログインフォームが安全でないことを検出しました。\n\nそれでも、LastPassにフォームを記入してよろしいですか？"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPassはパスワードの変更を検知しました"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPassはドメインのパスワードの変更を検知しました:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPassはユーザーのパスワードの変更を検知しました:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "インストールエラーを検知しました。インストールし直してください。"
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPassはこのページのフォームにログイン情報を既に入力しています。"
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPassは完全にインストールされました！LastPassを他のコンピュータにインストールするときはこのプロセスを繰り返す必要はありません。シンプルにログインできます。LastPassの従業員を含め、誰ともあなたのマスターパスワードを共有してはいけません。我々は絶対にパスワードを尋ねることはありません！LastPassは慎重に扱われるべきデータをローカルで暗号化し、LastPassの従業員さえもパスワードにアクセスする手段を持っていません。LastPassアイコンをクリックし、ヘルプを得ることができます。"
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPassは覚えなければならない最後のパスワードです。あなたがLastPassを初めて使う場合でも、数分でアカウントをセットアップできます。このアカウントはあなたが使うどのPCでもあなたの個人的なデータを同期することを可能にします。始めるにはアカウント作成をクリックしてください。"
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "キー変更のため、LastPassは全てののデータを再暗号化します。"
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "電話番号の最後の4桁"
+   },
+   "Last_Name2": {
+      "message": "名2"
+   },
+   "Last_Touch": {
+      "message": "最後に使用"
+   },
+   "Last_name": {
+      "message": "姓"
+   },
+   "Latvia": {
+      "message": "ラトビア"
+   },
+   "Launch": {
+      "message": "起動する"
+   },
+   "Lebanon": {
+      "message": "レバノン"
+   },
+   "Left": {
+      "message": "Left"
+   },
+   "Lesotho": {
+      "message": "レソト"
+   },
+   "Liberia": {
+      "message": "リベリア"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "リビア"
+   },
+   "License_Class": {
+      "message": "ライセンスクラス"
+   },
+   "License_Key": {
+      "message": "ライセンスキー"
+   },
+   "Liechtenstein": {
+      "message": "リヒテンシュタイン"
+   },
+   "Link_Personal_Account": {
+      "message": "個人アカウントをリンク"
+   },
+   "Lithuania": {
+      "message": "リトアニア"
+   },
+   "Local": {
+      "message": "ローカル"
+   },
+   "Log_into_a_Site": {
+      "message": "サイトにログイン"
+   },
+   "LoggedInOffline": {
+      "message": "LastPassはログインサーバーに接続することができませんでしたので、オフラインモードになります。\n\n一部の機能が制限される場合があります。"
+   },
+   "Login": {
+      "message": "ログイン"
+   },
+   "LoginError": {
+      "message": "LastPassへログイン中にエラーが発生しました。もう一度やり直してください。"
+   },
+   "Login_to_LastPass": {
+      "message": "LastPassにログイン"
+   },
+   "Logoff": {
+      "message": "ログオフ"
+   },
+   "Logoff_": {
+      "message": "ログオフ:"
+   },
+   "LoseChanges": {
+      "message": "本当にこのサイトのフィールドを編集してもよろしいですか？編集するとあなたがこのサイトでしたあらゆる変更が失われる原因になります！"
+   },
+   "LoseChangesApp": {
+      "message": "本当にこのアプリケーションのフィールドを編集してもよろしいですか？ 編集するとこのアプリケーションにしたあらゆる変更が失われる原因になります！"
+   },
+   "Luxembourg": {
+      "message": "ルクセンブルク"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "マカオ"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "マケドニア(旧ユーゴスラビア共和国)"
+   },
+   "Madagascar": {
+      "message": "マダカスカル"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "マガダン、ソロモン諸島、ニューカレドニア、ウラジオストク"
+   },
+   "Make_Pronounceable": {
+      "message": "発音可能"
+   },
+   "Malawi": {
+      "message": "マラウイ"
+   },
+   "Malaysia": {
+      "message": "マレーシア"
+   },
+   "Maldives": {
+      "message": "モルディブ"
+   },
+   "Male": {
+      "message": "男性"
+   },
+   "Mali": {
+      "message": "マリ"
+   },
+   "Malta": {
+      "message": "マルタ"
+   },
+   "Manage_Shared_Folders": {
+      "message": "共有フォルダの管理"
+   },
+   "March": {
+      "message": "3月"
+   },
+   "Marshall_Islands": {
+      "message": "マーシャル諸島"
+   },
+   "Martinique": {
+      "message": "マルティニーク"
+   },
+   "Master_Password": {
+      "message": "マスターパスワード"
+   },
+   "Matching_Sites": {
+      "message": "サイトのマッチング"
+   },
+   "Mauritania": {
+      "message": "モーリタニア"
+   },
+   "Mauritius": {
+      "message": "モーリシャス"
+   },
+   "Maxthon": {
+      "message": "Maxthon"
+   },
+   "May": {
+      "message": "5月"
+   },
+   "Mayotte": {
+      "message": "マヨット"
+   },
+   "Member_ID": {
+      "message": "メンバーID"
+   },
+   "Member_Name": {
+      "message": "メンバー名"
+   },
+   "Membership": {
+      "message": "会員"
+   },
+   "Membership_Number": {
+      "message": "会員番号"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "メキシコ"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "ミクロネシア連邦"
+   },
+   "Mid_Atlantic": {
+      "message": "中部大西洋"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "電話番号の中央の3桁"
+   },
+   "Middle_name": {
+      "message": "ミドルネーム"
+   },
+   "Midway_Island__Samoa": {
+      "message": "ミッドウェイ諸島、サモア"
+   },
+   "Minimum_Digit_Count": {
+      "message": "最小桁数"
+   },
+   "Mobile_Email_Address": {
+      "message": "携帯メール"
+   },
+   "Mobile_number": {
+      "message": "携帯電話番号"
+   },
+   "Moldova__Republic_Of": {
+      "message": "モルドバ共和国"
+   },
+   "Monaco": {
+      "message": "モナコ"
+   },
+   "Mongolia": {
+      "message": "モンゴル"
+   },
+   "Montenegro": {
+      "message": "モンテネグロ"
+   },
+   "Montserrat": {
+      "message": "モントセラト"
+   },
+   "More": {
+      "message": "その他"
+   },
+   "More_Information": {
+      "message": "詳細情報"
+   },
+   "Morocco": {
+      "message": "モロッコ"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "山岳部夏時間(米国とカナダ)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "選択されたものをグループへ移動"
+   },
+   "Move_matching_sites_to_top_menu": {
+      "message": "一致するサイトをトップメニューに移動する"
+   },
+   "Move_to_Group": {
+      "message": "グループへ移動"
+   },
+   "Move_to_Sub_Group": {
+      "message": "サブグループに移動"
+   },
+   "Mozambique": {
+      "message": "モザンビーク"
+   },
+   "Mr": {
+      "message": "Mr"
+   },
+   "Mrs": {
+      "message": "Mrs"
+   },
+   "Ms": {
+      "message": "Ms"
+   },
+   "Multifactor_Authentication": {
+      "message": "多要素認証"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "マイアカウント"
+   },
+   "My_LastPass_Vault": {
+      "message": "My LastPass保管庫"
+   },
+   "Myanmar": {
+      "message": "ミャンマー"
+   },
+   "NAME": {
+      "message": "名前"
+   },
+   "Name_": {
+      "message": "名前:"
+   },
+   "Name_on_card": {
+      "message": "カード上の名前"
+   },
+   "Nameproper": {
+      "message": "名前"
+   },
+   "Namibia": {
+      "message": "ナミビア"
+   },
+   "Nationality": {
+      "message": "国籍"
+   },
+   "Nauru": {
+      "message": "ナウル"
+   },
+   "Nepal": {
+      "message": "ネパール"
+   },
+   "Netherlands": {
+      "message": "オランダ"
+   },
+   "Netherlands_Antilles": {
+      "message": "オランダ領アンティル"
+   },
+   "Never": {
+      "message": "未使用"
+   },
+   "Never_Add_Site": {
+      "message": "サイトの追加を無効にする"
+   },
+   "Never_AutoFill": {
+      "message": "自動入力を無効にする"
+   },
+   "Never_AutoLogin": {
+      "message": "自動ログインを無効にする"
+   },
+   "Never_Fill_Forms": {
+      "message": "フォーム入力を無効にする"
+   },
+   "Never_For_This_Domain": {
+      "message": "このドメインで無効にする"
+   },
+   "Never_For_This_Page": {
+      "message": "このページで無効にする"
+   },
+   "Never_For_This_Site": {
+      "message": "このサイトで無効にする"
+   },
+   "Never_Generate_Password": {
+      "message": "パスワード生成を無効にする"
+   },
+   "Never_Show_Again": {
+      "message": "再表示しない"
+   },
+   "Never_Show_Context_Icons": {
+      "message": "コンテキストアイコンを表示しない"
+   },
+   "Never___": {
+      "message": "二度としない..."
+   },
+   "New_Caledonia": {
+      "message": "ニューカレドニア"
+   },
+   "New_Master_Password": {
+      "message": "新しいマスターパスワード"
+   },
+   "New_Zealand": {
+      "message": "ニュージーランド"
+   },
+   "New_here__Create_an_Account_": {
+      "message": "ここははじめてですか？アカウントを作成しましょう。"
+   },
+   "Newfoundland": {
+      "message": "ニューファンドランド州"
+   },
+   "Nicaragua": {
+      "message": "ニカラグア"
+   },
+   "Niger": {
+      "message": "ニジェール"
+   },
+   "Nigeria": {
+      "message": "ナイジェリア"
+   },
+   "Niue": {
+      "message": "ニウエ"
+   },
+   "No": {
+      "message": "いいえ"
+   },
+   "No_Matching_Sites_": {
+      "message": "合致するサイトがありません！"
+   },
+   "No_Thanks": {
+      "message": "結構です"
+   },
+   "No_Updates_Are_Available": {
+      "message": "更新はありません"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "コンピュータ上にWi-Fiアダプタが検出されませんでした。この機能には、Wi-Fiアダプタが必要です。"
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "いいえ、LastPassに自動的にフォーム入力してもらいたくありません"
+   },
+   "No__Save_as_New_Entry": {
+      "message": "いいえ(新規エントリとして保存)"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "いいえ、安全でないアイテムをインポートしません"
+   },
+   "No_matches_found__Please_search_again_": {
+      "message": "一致する結果が見つかりませんでした。再度検索してください。"
+   },
+   "None_Available": {
+      "message": "利用できるものがありません"
+   },
+   "Norfolk_Island": {
+      "message": "ノーフォーク島"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "北マリアナ諸島"
+   },
+   "Norway": {
+      "message": "ノルウェー"
+   },
+   "Norwegian": {
+      "message": "ノルウェー語"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "ノルウェー語"
+   },
+   "Not_Now": {
+      "message": "今はしない"
+   },
+   "Note_Type": {
+      "message": "ノートの種類"
+   },
+   "Notes": {
+      "message": "メモ"
+   },
+   "Notes_": {
+      "message": "メモ:"
+   },
+   "Notifications": {
+      "message": "通知"
+   },
+   "November": {
+      "message": "11月"
+   },
+   "Nuku_alofa": {
+      "message": "ヌクアロファ"
+   },
+   "Number": {
+      "message": "番号"
+   },
+   "Number_of_Licenses": {
+      "message": "ライセンス数"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "10月"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "安全なパスワードを生成するように提案"
+   },
+   "Old_Password": {
+      "message": "古いパスワード"
+   },
+   "Oman": {
+      "message": "オマーン"
+   },
+   "One_Time_Passwords": {
+      "message": "ワンタイムパスワード"
+   },
+   "Open_All": {
+      "message": "すべて開く"
+   },
+   "Open_Dashlane___File___Export___CSV___Import_the_resulting_file_": {
+      "message": "Dashlaneを開きFile-Export-CSVを選択、結果ファイルをインポート"
+   },
+   "Open_Favorites": {
+      "message": "お気に入りを開く"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "My LastPass保管庫を開く"
+   },
+   "Open_New_Pages_in": {
+      "message": "新規ページを開く場所"
+   },
+   "Open_Popover": {
+      "message": "ポップオーバーを開く"
+   },
+   "Open_Security_Check": {
+      "message": "セキュリティチェックを開く"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Sticky Password - データベース管理 - エクスポート - テキストでエクスポート を開き、そのファイルをインポートしてください。"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "ブラウザ起動時にログインダイアログを開く"
+   },
+   "Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "パスワードの生成方法を微調整するために開きます。"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Operaパスワードマネージャ"
+   },
+   "Or__would_you_like_LastPass_to_save_a_new_user_password_for_this_site_": {
+      "message": "または、LastPassでこのサイトの新しいユーザー/パスワードを保存しますか？"
+   },
+   "Order_Number": {
+      "message": "注文番号"
+   },
+   "Order_Total": {
+      "message": "注文合計"
+   },
+   "Organization": {
+      "message": "組織"
+   },
+   "Other": {
+      "message": "その他"
+   },
+   "Other_Sessions": {
+      "message": "他のセッション"
+   },
+   "PASSWORDupper": {
+      "message": "パスワード"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Password Manager"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "太平洋時間(米国とカナダ)"
+   },
+   "Page_Down": {
+      "message": "Page Down"
+   },
+   "Page_Up": {
+      "message": "Page Up"
+   },
+   "Pakistan": {
+      "message": "パキスタン"
+   },
+   "Palau": {
+      "message": "パラオ"
+   },
+   "Palestinian_Territories": {
+      "message": "パレスチナ自治区"
+   },
+   "Panama": {
+      "message": "パナマ"
+   },
+   "Papua_New_Guinea": {
+      "message": "パプアニューギニア"
+   },
+   "Paraguay": {
+      "message": "パラグアイ"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "パスフレーズ"
+   },
+   "Passport": {
+      "message": "パスポート"
+   },
+   "Password": {
+      "message": "パスワード"
+   },
+   "Password_": {
+      "message": "パスワード:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Password Depot"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "パスワードの長さ"
+   },
+   "Password_Length_": {
+      "message": "パスワードの長さ:"
+   },
+   "Password_Reminder": {
+      "message": "パスワードリマインダー"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "パスワードリマインダーはパスワードと同じにはできません"
+   },
+   "Password_updated_": {
+      "message": "パスワードを更新しました！"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "個人"
+   },
+   "Peru": {
+      "message": "ペルー"
+   },
+   "Philippines": {
+      "message": "フィリピン"
+   },
+   "Phone_number": {
+      "message": "電話番号"
+   },
+   "Physician_Address": {
+      "message": "医師の住所"
+   },
+   "Physician_Name": {
+      "message": "医師名"
+   },
+   "Physician_Phone": {
+      "message": "医師の電話"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "ピトケアン"
+   },
+   "Please_Make_a_Selection": {
+      "message": "選択してください"
+   },
+   "Please_Wait___": {
+      "message": "お待ちください..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "次の質問に答えてください："
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "実行したいエクスポートの種類を選択してください:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "実行したい印刷の種類を選択してください："
+   },
+   "Please_close_this_window": {
+      "message": "このウィンドウを閉じてください"
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "お使いの携帯電話やモバイル端末で2段階認証を完了させてください。"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "パスワードリマインダーを入力してください"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "インポートするファイルのフルパスを入力してください。"
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "操作が完了するまでこのページを閉じないでください。"
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "共有フォルダから一つずつサイトを移動してください。"
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "LastPassローカルからLastPassオンラインへのアップグレードによりあなたのパスワードデータは暗号形式でLastPassサーバーにアップロードされることに注意して下さい。あなたはどこからでもあなたのデータにアクセスできるようになり、LastPassはそれを読み取ることができません。本当に続行してもよろしいですか?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "このコンピュータに名前を付けて下さい"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "更新されました。ページをリロードしてください。"
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "オンラインでLastPassを使用開始するにはすべてのブラウザを再起動してください。"
+   },
+   "Please_select": {
+      "message": "選択してください"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "この変更を適用したいサイトを選択してください。"
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "後でアカウントを作成するには https://lastpass.com をご覧ください。"
+   },
+   "Poland": {
+      "message": "ポーランド"
+   },
+   "Policy_Number": {
+      "message": "保険番号"
+   },
+   "Policy_Type": {
+      "message": "保険の種類"
+   },
+   "Polish": {
+      "message": "ポーランド語"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "アカウントの更新をサーバーに問い合わせる時間(分)"
+   },
+   "Port": {
+      "message": "ポート"
+   },
+   "Portugal": {
+      "message": "ポルトガル"
+   },
+   "Portuguese": {
+      "message": "ポルトガル語"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "ポルトガル語(ブラジル)"
+   },
+   "Preferences": {
+      "message": "設定"
+   },
+   "Price": {
+      "message": "価格"
+   },
+   "Print": {
+      "message": "印刷"
+   },
+   "Print_Screen": {
+      "message": "画面を印刷"
+   },
+   "Print_Secure_Notes": {
+      "message": "セキュアノートの印刷"
+   },
+   "Print_Sites": {
+      "message": "サイトの印刷"
+   },
+   "Private_Key": {
+      "message": "秘密鍵"
+   },
+   "Profile": {
+      "message": "プロファイル"
+   },
+   "Profile_language": {
+      "message": "プロファイル言語"
+   },
+   "Profile_name": {
+      "message": "プロファイル名"
+   },
+   "Pronounceable": {
+      "message": "発音可能"
+   },
+   "Protected": {
+      "message": "保護"
+   },
+   "Public_Key": {
+      "message": "公開鍵"
+   },
+   "Publisher": {
+      "message": "発行元"
+   },
+   "Puerto_Rico": {
+      "message": "プエルトリコ"
+   },
+   "Purchase_Date": {
+      "message": "購入日"
+   },
+   "Qatar": {
+      "message": "カタール"
+   },
+   "Re_enter_Password": {
+      "message": "パスワードを再入力してください"
+   },
+   "Recent_Sites": {
+      "message": "最近アクセスしたサイト"
+   },
+   "Recently_Used": {
+      "message": "最近使用したもの"
+   },
+   "Recently_Used_list_size": {
+      "message": "最近使用した一覧のサイズ"
+   },
+   "Recheck_Page": {
+      "message": "ページを再チェック"
+   },
+   "Reencrypting_Data___": {
+      "message": "データを再暗号化中..."
+   },
+   "Refresh": {
+      "message": "更新"
+   },
+   "Refresh_Sites": {
+      "message": "サイトを更新"
+   },
+   "Reject": {
+      "message": "拒否"
+   },
+   "Remember_Email": {
+      "message": "メールアドレスを記憶"
+   },
+   "Remember_Password": {
+      "message": "パスワードを記憶"
+   },
+   "Remove_Personal_Account": {
+      "message": "個人アカウントを削除"
+   },
+   "Rename_Group": {
+      "message": "グループ名を変更"
+   },
+   "Replace_Existing_Site": {
+      "message": "既存のサイトと置換"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "要求が失敗しました。インターネット接続がダウンしていませんか？"
+   },
+   "Require_All_Character_Type": {
+      "message": "全ての文字種が必要"
+   },
+   "Require_All_Character_Types": {
+      "message": "全ての文字種が必要"
+   },
+   "Require_Every_Character_Type": {
+      "message": "全ての文字種が必要"
+   },
+   "Require_Password_Reprompt": {
+      "message": "パスワードの確認が必要"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "セキュリティの確認が必要な場合:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "オートコンプリート設定を重視=オフ:すべてのウェブサイトへの自動記入を無効にする"
+   },
+   "Reunion": {
+      "message": "再結合"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "Right": {
+      "message": "Right"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "ルーマニア"
+   },
+   "Routing_number": {
+      "message": "支店番号"
+   },
+   "Run_the_Google_Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "モバイルデバイス上でGoogle認証システムアプリケーションを実行し、下記の入力ボックスに確認コードを入力してください。"
+   },
+   "Russian": {
+      "message": "ロシア語"
+   },
+   "Russian_Federation": {
+      "message": "ロシア連邦"
+   },
+   "Rwanda": {
+      "message": "ルワンダ"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "サイト"
+   },
+   "SMTP_Port": {
+      "message": "SMTPポート"
+   },
+   "SMTP_Server": {
+      "message": "SMTPサーバ"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Wallet"
+   },
+   "SSH_Key": {
+      "message": "SSH鍵"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFTコード"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safariパスワードマネージャ"
+   },
+   "Saint_Barthelemy": {
+      "message": "セントバーツ"
+   },
+   "Saint_Helena": {
+      "message": "セントヘレナ"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "セントクリストファー・ネイビス"
+   },
+   "Saint_Lucia": {
+      "message": "セントルシア"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "セント・マーチン(フランス領)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "サンピエールとミクロン"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "セントビンセントおよびグレナディーン"
+   },
+   "Samoa": {
+      "message": "サモア"
+   },
+   "San_Marino": {
+      "message": "サンマリノ"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "サントメ・プリンシペ"
+   },
+   "Saudi_Arabia": {
+      "message": "サウジアラビア"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "Save_All_Entered_Data": {
+      "message": "入力されたすべてのデータを保存"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "クレジットカードプロファイルを保存"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "フォーム入力プロファイルを保存"
+   },
+   "Save_New_Site": {
+      "message": "新しいサイトを保存"
+   },
+   "Save_Password_to_Vault": {
+      "message": "LastPass保管庫にパスワードを保存"
+   },
+   "Save_Password_to_Vault_": {
+      "message": "LastPass保管庫にパスワードを保存しますか？"
+   },
+   "Save_Site": {
+      "message": "サイトを保存"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "アカウント復旧のために、無効化されたワンタイムパスワードをローカルに保存"
+   },
+   "Save_the_password_to_your_LastPass_Vault_": {
+      "message": "このパスワードをLastPass保管庫に保存しますか？"
+   },
+   "Save_this_password_as_a_new_entry": {
+      "message": "新しいエントリとしてこのパスワードを保存する"
+   },
+   "Save_this_password_as_a_new_entry_": {
+      "message": "新しいエントリとしてこのパスワードを保存しますか？"
+   },
+   "Save_this_website_into_your_LastPass_Vault_": {
+      "message": "このサイトをLastPass保管庫に保存しました！"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "変更を保存してウィンドウを閉じる"
+   },
+   "Save_your_password_to_your_LastPass_Vault_": {
+      "message": "LastPass保管庫にあなたのパスワードを保存しますか？"
+   },
+   "Saved_Passwords": {
+      "message": "保存されたパスワード"
+   },
+   "Screen_Keyboard": {
+      "message": "スクリーンキーボード"
+   },
+   "Search_All_Data": {
+      "message": "すべてのデータの検索"
+   },
+   "Search_All_Groups": {
+      "message": "すべてのグループを検索"
+   },
+   "Search_All_Notes": {
+      "message": "すべてのノートを検索"
+   },
+   "Search_All_Sites": {
+      "message": "すべてのサイトの検索"
+   },
+   "Search_LastPass_Vault": {
+      "message": "LastPass保管庫を検索"
+   },
+   "Search_Vault": {
+      "message": "保管庫を検索"
+   },
+   "Search_within_secure_notes": {
+      "message": "セキュアノート内の検索"
+   },
+   "Searchproper": {
+      "message": "検索"
+   },
+   "Secure_Notes": {
+      "message": "セキュアノート"
+   },
+   "Security": {
+      "message": "セキュリティ"
+   },
+   "Security_Check": {
+      "message": "セキュリティーチェック"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "多要素認証のセキュリティの質問"
+   },
+   "Security_code": {
+      "message": "セキュリティコード"
+   },
+   "Select": {
+      "message": "選択"
+   },
+   "Select_All": {
+      "message": "すべて選択"
+   },
+   "Select_a_group_in_your_LastPass_Vault_to_place_this_website___Optional_": {
+      "message": "保管庫でこのウェブサイトを配置するグループを選択します。 [オプション]"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "新しいグループ名を選択するか入力"
+   },
+   "Send_SMS_passcodes": {
+      "message": "SMS暗証番号を送信"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "LastPassの改善に協力するために匿名でエラー報告データを送る"
+   },
+   "Senegal": {
+      "message": "セネガル"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "ソウル、大阪、札幌、東京、イルクーツク"
+   },
+   "September": {
+      "message": "9月"
+   },
+   "Serbia": {
+      "message": "セルビア"
+   },
+   "Server": {
+      "message": "サーバ"
+   },
+   "SesameWrongButton": {
+      "message": "オフラインでデータを表示するにはSesameを実行する必要があります。\n'ワンタイムパスワードを生成'ボタンの代わりに'オフラインパスワードを\nコピー'ボタンを使用します。"
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesameマルチファクタ認証"
+   },
+   "Sessions": {
+      "message": "セッション"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "カスタムフォームフィールドの設定"
+   },
+   "Settings": {
+      "message": "設定"
+   },
+   "Sex": {
+      "message": "性別"
+   },
+   "Seychelles": {
+      "message": "セイシェル"
+   },
+   "Share": {
+      "message": "共有"
+   },
+   "Share_Selected": {
+      "message": "選択項目の共有"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "他のブラウザとログイン状態を共有する"
+   },
+   "Share_offer_from": {
+      "message": "共有要求元"
+   },
+   "Shares": {
+      "message": "共有"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "LastPassにこのパスワードを記憶しますか？"
+   },
+   "Show": {
+      "message": "表示"
+   },
+   "Show_Advanced_Options": {
+      "message": "詳細オプションを表示"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "パスワードの変更通知バーを表示する"
+   },
+   "Show_Deleted_Sites": {
+      "message": "削除されたサイトを表示"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "記入通知バーを表示"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "フォーム入力通知を表示"
+   },
+   "Show_Matching_Sites": {
+      "message": "一致するサイトを表示する"
+   },
+   "Show_Matching_Sites_Count_in_Toolbar": {
+      "message": "一致するサイト数をツールバーに表示する"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "ログイン後にMy LastPass保管庫を表示"
+   },
+   "Show_Notifications": {
+      "message": "通知を表示"
+   },
+   "Show_Password": {
+      "message": "パスワードを表示"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "サイト保存通知バーを表示"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "サイト保存通知を表示"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "グループでサイトを表示"
+   },
+   "Show_Vault_After_Login": {
+      "message": "ログイン後に保管庫を表示"
+   },
+   "Show_all_sites": {
+      "message": "すべてのサイトを表示"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "クリック後にのみ確定した通知を表示"
+   },
+   "Show_or_Hide_Password": {
+      "message": "パスワードを表示/非表示"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "他のカスタムフィールドエントリーを表示"
+   },
+   "Sierra_Leone": {
+      "message": "シエラレオネ"
+   },
+   "Sign_In": {
+      "message": "サインイン"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "生活をシンプルに: このサイトのログイン情報を自動記入するためにLastPassを使いましょう！"
+   },
+   "Singapore": {
+      "message": "シンガポール"
+   },
+   "Site_Search": {
+      "message": "サイト検索"
+   },
+   "Sites": {
+      "message": "サイト"
+   },
+   "Slovak": {
+      "message": "スロバキア語"
+   },
+   "Slovakia": {
+      "message": "スロバキア"
+   },
+   "Slovenia": {
+      "message": "スロベニア"
+   },
+   "Social_Security": {
+      "message": "社会保障"
+   },
+   "Social_security_number": {
+      "message": "社会保障番号"
+   },
+   "Software_License": {
+      "message": "ソフトウェアライセンス"
+   },
+   "Solomon_Islands": {
+      "message": "ソロモン諸島"
+   },
+   "Somalia": {
+      "message": "ソマリア"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "このフォルダは読み取り専用です。"
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "申し訳ありません。この動作は共有と非共有フォルダに同時に、あるいは複数の共有フォルダに対して同時に行うことはできません。"
+   },
+   "Source_": {
+      "message": "ソース:"
+   },
+   "South_Africa": {
+      "message": "南アフリカ"
+   },
+   "South_Georgia": {
+      "message": "サウスジョージア島"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "サウスジョージアと南サンドイッチ諸島"
+   },
+   "Spain": {
+      "message": "スペイン"
+   },
+   "Spanish": {
+      "message": "スペイン語"
+   },
+   "Spanish__Mexico_": {
+      "message": "スペイン語(メキシコ)"
+   },
+   "Special": {
+      "message": "記号"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "スリランカ"
+   },
+   "Start_date": {
+      "message": "開始日"
+   },
+   "State": {
+      "message": "都道府県"
+   },
+   "State___Province": {
+      "message": "都道府県"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "フォーム送信"
+   },
+   "Submitting___": {
+      "message": "送信中..."
+   },
+   "Sudan": {
+      "message": "スーダン"
+   },
+   "Support_Email": {
+      "message": "サポートメール"
+   },
+   "Suriname": {
+      "message": "スリナム"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "選択されたファイル名に不審な文字が見つかりました。これは処理されません。"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "スバールバルとヤンマイエン"
+   },
+   "Swaziland": {
+      "message": "スワジランド"
+   },
+   "Sweden": {
+      "message": "スウェーデン"
+   },
+   "Swedish": {
+      "message": "スウェーデン語"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "現在のユーザの指を通して下さい。"
+   },
+   "Swipe_finger": {
+      "message": "指紋をスキャン"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "指紋センサーでスキャンしてください"
+   },
+   "Switzerland": {
+      "message": "スイス"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "シリア"
+   },
+   "Tabs": {
+      "message": "タブ"
+   },
+   "Taiwan": {
+      "message": "台湾"
+   },
+   "Tajikistan": {
+      "message": "タジキスタン"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "タンザニア連合共和国"
+   },
+   "Tehran": {
+      "message": "テヘラン"
+   },
+   "Telephone": {
+      "message": "電話番号"
+   },
+   "Tell_a_friend_": {
+      "message": "友達に紹介する！"
+   },
+   "Text": {
+      "message": "テキスト"
+   },
+   "Text_to_find": {
+      "message": "検索するテキスト"
+   },
+   "Thailand": {
+      "message": "タイ"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "ファイルが見つからないか、空です。インポートするファイルのフルパスを入力してください。"
+   },
+   "That_group_already_exists_": {
+      "message": "そのグループは既に存在します。"
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "クレジットカードの4桁の発行年度"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "コンピュータ上にLastPassのWi-Fiユーティリティが検出されませんでした。インストールするために、LastPass Universal Installerを実行しますか？"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "再入力されたLastPassマスターパスワードが合致しません"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "入力された'古いパスワード'はLastPassマスターパスワードと一致しません"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "この操作には バイナリバージョンのLastPassプラグインが必要です。lastpass.comからダウンロードして下さい。"
+   },
+   "The_credit_card_number": {
+      "message": "クレジットカード番号"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "クレジットカードの4桁の有効期限年度"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "クレジットカードの有効期限の月"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "クレジットカードの発行番号です。\nMaestro等の特定の欧州のデビットカードブランドにのみ適用されます。"
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "クレジットカードのセキュリティコードです。\n多くのクレジットカードでは、これはカード背面に印刷されている数字の末尾3桁です。\nアメリカンエクスプレスのクレジットカードでは、クレジットカード前面に小さく印刷された末尾4桁の番号です。"
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "クレジットカードに印字されたフル ネーム"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "このフォーム入力プロファイルが使用されるウェブサイトの言語"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "クレジットカードの発行月"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "フォーム入力プロファイルの名前"
+   },
+   "The_name_of_your_bank": {
+      "message": "銀行の名前"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "メモフィールドのデータが大きすぎます。 メモあたり45000文字(半角)まで保存できます。\n\nメモを切り詰めてもよろしいですか？ 収めることのできないデータは失われます。"
+   },
+   "The_password_that_you_use_to_log_into_this_website_": {
+      "message": "あなたがこのウェブサイトにログインするのに使用するパスワード"
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "の名前、またはfilled.\nIf複数の項目であるため、フォームフィールドのIDの横にあるテキストが一致するか、別々の行にそれぞれの一致を指定します。"
+   },
+   "The_value_to_be_filled": {
+      "message": "記入される値"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "あなたが現在使用しているChromeのバージョンはHTML5データベースのサポートが有効になっていません。このように、ログインページはあなたのメールアドレスとパスワードを記憶せず、またブラウザ再起動時の自動ログインのような他の機能は動作しません。"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "現在ご使用のChromeのバージョンはHTML5データベースのサポートが有効になっていません。このままだと、このログインページでのメールアドレスやパスワードは記憶されず、ブラウザを再起動した際の自動ログインのような機能も使えません。解決するには --enable-databases というパラメータをGoogle Chromeのショートカットに付け加えて下さい。"
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "この添付ファイルは、最初に保存する必要があります。"
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "これはウェブページからのみ処理できます"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "このコンピュータを信用して、2番目の認証フォームを要求しない"
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "この機能はこのバージョンでは使用できません。https://lastpass.com/dlに行き、バイナリ拡張をインストールしてください"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "この機能はブラウザ拡張機能のバイナリを必要とします。今インストールしますか？"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "直接読むには新しい機能を実装する必要があります"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "これは共有サイトです。あなたがパスワードを閲覧することは許可されていません。"
+   },
+   "This_is_the_name_or_URL_of_this_web_page_": {
+      "message": "このウェブページの名前またはURLです。"
+   },
+   "This_may_take_a_while___": {
+      "message": "しばらくお待ちください..."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "ページが正しく読み込めませんでした。最新バージョンのMaxthon（LastPassは少なくともMaxthonは4.0.3.2000が必要です）を実行していることを確認してください。そうでなければ、これはMaxthonバグが原因である可能性があります。もう一度このページを開いてみてください。"
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "ページが正しく読み込めませんでした。最新バージョンのMaxthon（LastPassは少なくともMaxthonは4.0.3.3000が必要です）を実行していることを確認してください。そうでなければ、これはMaxthonバグが原因である可能性があります。もう一度このページを開いてみてください。"
+   },
+   "This_password_you_use_to_log_into_this_website_": {
+      "message": "このパスワードはこのウェブサイトへのログインに使用します。"
+   },
+   "Time_Zone": {
+      "message": "タイムゾーン"
+   },
+   "Timor_Leste": {
+      "message": "東ティモール"
+   },
+   "Title": {
+      "message": "肩書き"
+   },
+   "To_create_your_account__please_re_enter_your_LastPass_master_password": {
+      "message": "アカウントを作成するにはもう一度LastPassのマスターパスワードを入力してください。"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "1Passwordログインをエクスポートするために1Passwordにログインします。エクスポートしたいパスワードすべてまたはパスワードごとに選択します。それから: File menu / Export All / Text file... か File menu / Export Selected / Text file... を選択しエクスポートボタンを押してパスワードファイルを保存します、その後出力されたファイルをインポートします。"
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Clipperz cardをエクスポートするには、 www.clipperz.com にログインし、data、Exportとクリックし、JSON形式でエクスポートします。全てのテキストをコピーし、お使いのテキスト エディタでファイルに保存し、それをインポートします。field nameをデフォルトから変更している場合、正しくインポートできないことがあります。"
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "FireFormプロファイルをエクスポートするには、FireFormのアイコンを右クリックし、Simple setupを選択します。General optionsのタブへ行き、Export all profilesを選択し、XMLファイルとして保存します。出力されたファイルをインポートします。"
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "HP Password Safeをエクスポートするには、HTMLファイルに保存します。出力ファイルをインポートします。"
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "KeePass のログイン情報をエクスポートするには、KeePassのデータベースを開き、ファイル - エクスポート - XMLファイル のメニューを開き、ファイルの保存場所を指定して、保存ボタンを押してください。それからOKボタンを押し、ファイルをインポートしてください。"
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "LastPassのログイン情報をエクスポートするには、LastPass プラグインがインストールされたブラウザのメニューで、LastPass - ツール - エクスポート - CSVファイル を選択し、保存場所を指定し、保存ボタンを押してください。"
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "パスワードエージェントログインをエクスポートするには、パスワードエージェントのデータベースを開き、[ファイル]をクリック - 印刷およびエクスポート - XMLファイルに出力形式を変更する　を選びます。その際、'グループ'がチェックされていることを確認してください。ファイルの場所を選択し、[保存]ボタンを押してください。結果のファイルをインポートします。"
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "Passwords Max のパスワードをエクスポートするには、[ファイル]-[データベース]-[エクスポート]-[テキスト]を選び、[はい]をクリックすると、CSVファイルで保存されます。そのファイルをインポートしてください。"
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "RoboForm のログイン情報をエクスポートするには、[ロボフォーム-ログイン...]-[リスト印刷]を選び、URLのチェックボックスをチェックし、保存ボタンを押してください。\n得られたファイルをインポートしてください。\n\nロボフォーム セーフノートからエクスポートする時は、RoboForm - SafeNotes - リスト印刷 を選び、保存ボタンを押し、得られたファイルをインポートしてください。"
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "eWalletのカードをエクスポートするには、eWalletを開き、[ツール] - [エクスポート]メニューを開き、テキストフ​​ァイルとして保存し、そのファイルをインポートします。"
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "MyPasswordSafe からエクスポートするには、[ファイル]-[名前をつけて保存]-[非暗号化XMLを選択]としてファイルを保存し、そのファイルをインポートしてください。"
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Password Safe からエクスポートするには、[ファイル]-[エクスポート]-[XML]でファイルを保存し、そのファイルをインポートしてください。"
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "パスワードをエクスポートするには、デスクトップアプリケーションにログインし、ファイルにアクセスしてください - エクスポート - CSV - すべてのエントリを。結果のファイルをインポートします。"
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "Darn! Passwords!からパスワードをエクスポートするには、[ツール]-[印刷]をクリックします。 [設定]をクリックし、エクスポートの注意点をチェックし、次に、[印刷]をクリックし、青いディスクのように見える[ファイルにエクスポート]アイコンをクリックします。ファイルに名前を付け、[開く]をクリックします。結果のファイルをインポートします。"
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Passpackからエクスポートするには: ログインし、Toolsスクリーンに行き、エクスポートをクリックします。 _What Type of Format Would You Like To Export?_ 下の _Comma Separated Values_ を選択し、 _Which Entries Would You Like To Export?_ の _All of my entries_ を選択し、 _Continue_ をクリックします。次のスクリーンに表示されるテキストボックス内のテキストを全て選択し、クリップボードにコピーし、メモ帳に貼り付け、passpack.csvとして新規ファイルを作成します。このファイルをインポートします。"
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Password Corral からパスワードをエクスポートするには、ログインし、[ファイル]-[パスワードをエクスポート]を選択し、すべてのパスワードの単純テキストファイルを作成し、そのファイルをインポートします。"
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Password Depotからパスワードをエクスポートするには「ツール」タブをクリックし、「エクスポート」を選択します。それから、「拡張マークアップ言語形式（*.XML）」を選択して、ターゲットファイルを指定し、エクスポートするフォルダを選択します。"
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "Password Dragonからパスワードをエクスポートするには:ログインし、[ファイル]-[エクスポート]-[テキストファイル]を開き、既定ではオフの'パスワード'をチェックします。保存されたファイルをインポートします。"
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "Revelation Password Managerからパスワードをエクスポートするには、XMLとしてデータをエクスポートします。"
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "SPB Walletからパスワードをエクスポートするには、ウォレットを開き、「File」「Export」をクリックし、ダイアログボックスでファイルの保存先を選択し、「Save」をクリックします。次に、このページのボックスにデータを貼り付けます。"
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "LastPassを使い始めるには、アカウントにサイトを追加する必要があります。"
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Wi-Fiのパスワードをインポートするには、単に以下のインポートをクリックします。"
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "PINs Password Managerからインポートするには、Tab Separated formatでエクスポートし、出力されたファイルをインポートします。"
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Operaのパスワードマネージャからパスワードをインポートするには、単に以下のインポートをクリックします。"
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Safariのパスワードマネージャからパスワードをインポートするには、単に以下のインポートをクリックします。"
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "MSI PasswordKeeperのログイン情報をインポートするには、MSI PasswordKeeperを開始し、'Txt'をクリックしてから、'Open'をクリックします。出力されたファイルインポートします。"
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "Password Keeper のログイン情報をインポートするには、Password Keeper を起動し、ファイル - ファイルをエクスポート を選び、はい をクリックし、パスワードを入力し、OKをクリックします。するとWindowsの標準のファイル保存ダイアログが開きますので、保存場所とファイル名を入力し、得られたファイルをインポートしてください。"
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "TurboPasswordsのログイン情報をインポートするには、TurboPasswordsを開始し、パスワードファイルをエクスポートさせます。エクスポートするファイルを特定のカテゴリーやタイプに制限する場合、メインウィンドウ上部のドロップダウンを使ってエントリを表示しないようフィルタします。File|Export Categoryをクリックします。Windowsの標準的な保存ダイアログが開くので、ファイル名と出力先を入力し、ファイルタイプをCSVファイルにして保存します。"
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "プライバシーを保護し、データを秘密に保つには、"
+   },
+   "Togo": {
+      "message": "トーゴ"
+   },
+   "Tokelau": {
+      "message": "トケラウ"
+   },
+   "Tonga": {
+      "message": "トンガ"
+   },
+   "Tools": {
+      "message": "ツール"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "トリニダードトバゴ"
+   },
+   "Trust_this_computer": {
+      "message": "このコンピュータを信頼する"
+   },
+   "Try_Again": {
+      "message": "再試行"
+   },
+   "Tunisia": {
+      "message": "チュニジア"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "トルコ"
+   },
+   "Turkmenistan": {
+      "message": "トルクメニスタン"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "タークス・カイコス諸島"
+   },
+   "Tutorials": {
+      "message": "チュートリアル"
+   },
+   "Tuvalu": {
+      "message": "ツバル"
+   },
+   "Type": {
+      "message": "種類"
+   },
+   "Type_": {
+      "message": "タイプ:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "ユーザー名"
+   },
+   "Uganda": {
+      "message": "ウガンダ"
+   },
+   "Ukraine": {
+      "message": "ウクライナ"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "ウランバートル,パース"
+   },
+   "United_Arab_Emirates": {
+      "message": "アラブ首長国連邦"
+   },
+   "United_Kingdom": {
+      "message": "イギリス"
+   },
+   "United_States": {
+      "message": "アメリカ合衆国"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "合衆国領有小離島"
+   },
+   "Unknown": {
+      "message": "不明"
+   },
+   "Unselect_All": {
+      "message": "すべての選択を解除"
+   },
+   "Up": {
+      "message": "Up"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "LastPassオンラインへアップグレード！"
+   },
+   "Uploading_Data___": {
+      "message": "データをアップロード中..."
+   },
+   "Uruguay": {
+      "message": "ウルグアイ"
+   },
+   "Use_802_1X": {
+      "message": "802.1X認証を使用する"
+   },
+   "Use_Special_Characters_": {
+      "message": "特殊文字を使用しますか？"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "今すぐこのパスワードを(このサイトに)使用しますか？"
+   },
+   "User_Manual": {
+      "message": "ユーザーマニュアル"
+   },
+   "User_name": {
+      "message": "ユーザー名"
+   },
+   "Username_": {
+      "message": "ユーザー名:"
+   },
+   "Usernameproper": {
+      "message": "ユーザー名"
+   },
+   "Uzbekistan": {
+      "message": "ウズベキスタン"
+   },
+   "Value_to_fill": {
+      "message": "記入される値"
+   },
+   "Vanuatu": {
+      "message": "バヌアツ"
+   },
+   "Vault": {
+      "message": "保管庫"
+   },
+   "Venezuela": {
+      "message": "ベネズエラ"
+   },
+   "Version": {
+      "message": "バージョン"
+   },
+   "Version_": {
+      "message": "バージョン:"
+   },
+   "Viet_Nam": {
+      "message": "ベトナム"
+   },
+   "View_Image": {
+      "message": "画像を表示"
+   },
+   "View_Passwords": {
+      "message": "パスワードの表示"
+   },
+   "Virgin_Islands__British_": {
+      "message": "ヴァージン諸島(イギリス領)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "ヴァージン諸島(アメリカ領)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "ウォリス・フツナ"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "安全でないフォームに入力する前に警告"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "基本的な使い方の動画を見る"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "また、コピーやバックアップはとりません。"
+   },
+   "Weak_Password": {
+      "message": "弱いパスワード"
+   },
+   "Website": {
+      "message": "ウェブサイト"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "LastPassへようこそ！"
+   },
+   "West_Central_Africa": {
+      "message": "西中部アフリカ"
+   },
+   "Western_Sahara": {
+      "message": "西サハラ"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "このチェックボックスをオンに設定すると英字の小文字及び大文字、特殊文字が最低でも1文字ずつ使用されます"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "このチェックボックスをオンに設定すると英字の小文字及び大文字、特殊文字が最低でも1文字ずつ使用されます。"
+   },
+   "When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "このチェックボックスをオンに設定すると、ランダムにパスワードを生成する際に#や!のような文字が使用されます。"
+   },
+   "When_this_box_is_checked__confusing_characters__1_I_L_0_O__are_not_used_": {
+      "message": "このチェックボックスをオンに設定すると紛らわしい文字(1、I、L、0、O)が使用されません。"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "このチェックボックスをオンに設定すると、発音しやすいパスワードが生成されます"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "このチェックボックスをオンに設定すると、発音しやすいパスワードが生成されます。"
+   },
+   "When_this_box_is_checked__potentially_confusing_characters__1_I_L_0_O__are_not_used": {
+      "message": "このチェックボックスをオンに設定すると紛らわしい文字(1、I、L、0、O)が使用されません"
+   },
+   "When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "このチェックボックスをオンに設定すると、パスワードに#や!のような文字が使用されます"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fiパスワード"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fiパスワード"
+   },
+   "Windows": {
+      "message": "ウィンドウズ"
+   },
+   "Would_you_like_LastPass_to_generate_a_secure_password_for_you_": {
+      "message": "LastPassで安全なパスワードを生成しますか？"
+   },
+   "Would_you_like_LastPass_to_save_your_site_information_": {
+      "message": "LastPassでサイトの情報を保存しますか？"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "フォーム入力プロファイルを今すぐセットアップしますか？"
+   },
+   "XML_Files": {
+      "message": "XMLファイル"
+   },
+   "Yangon__Rangoon_": {
+      "message": "ヤンゴン（ラングーン）"
+   },
+   "Yemen": {
+      "message": "イエメン"
+   },
+   "Yes": {
+      "message": "はい"
+   },
+   "Yes__Use_for_this_Site": {
+      "message": "はい(このサイトで使用)"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "はい、LastPassにインポートしたい項目を選択します"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "はい、フォーム入力に使うデータを入力、確認します"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "共有フォルダから保管庫にサイトを移動しています。これは、もしかすると他人が使用できなくなるかも知れません。\n\n続行しますか？"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "別の共有フォルダにサイトを移動しています。これはサイトへのアクセス権を変更するかも知れません。\n\n 続行しますか？"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "共有フォルダにサイトを移動しようとしています。これは行うと他の人もサイトを利用できるようになるかもしれません。\n\n続行してもよろしいですか？"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "あるホットキーに設定された値と同じ値を他に割り当てることはできません。"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "共有フォルダへ個別に共有サイトを移動することは出来ません。"
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "現在パスワードを記憶するように設定されています。この設定により自動ログオフするオプションは機能しません。LastPassがパスワードを記憶しないようにしますか？"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "既定のフォーム入力プロファイルが選択されていません。今すぐ選択しますか?"
+   },
+   "You_have_saved_your_password_to_your_LastPass_Vault_": {
+      "message": "あなたのパスワードはLastPass保管庫に保存されました。"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "すべてのCookieをブロックされることがあり、ChromeはHTML5データベースへアクセスできなくなります。"
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "暗号化されたデータをLastPass.comに送ることに同意しなければなりません。\n\nLastPass.comはデータを暗号化し、安全なサーバーに送ります。\nあなたの使う秘密のパスワードで機密データが暗号化され、あなただけがパスワードを\n知っているため、LastPassの誰も機密データを読むことはできません。"
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "続行するには利用規約に同意してください"
+   },
+   "You_must_enter_a_name_": {
+      "message": "名前を入力してください。"
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "固有の名前を入力してください。"
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "変更を反映するにはChromeを再起動するかブラウザを閉じてログオフ状態に戻る必要があります。"
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "すべての変更を反映させるにはブラウザを再起動してください"
+   },
+   "Your_4_digit_birth_year": {
+      "message": "4桁の誕生年"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Google Chromeのパスワードは正常にインポートされました。"
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "郵便番号"
+   },
+   "Your_address_information": {
+      "message": "住所情報"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "添付ファイルは次の場所にあります:"
+   },
+   "Your_bank_account_information": {
+      "message": "銀行口座情報"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "銀行の口座番号\nこの番号は通常、個人用小切手上の支店番号の右側に見つけることができます。"
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "銀行の支店番号\nこの9桁の番号は通常、個人用小切手の左下隅に見つけることができます。"
+   },
+   "Your_birth_day": {
+      "message": "誕生日"
+   },
+   "Your_birth_month": {
+      "message": "誕生月"
+   },
+   "Your_city_name": {
+      "message": "市区町村"
+   },
+   "Your_company_s_name": {
+      "message": "会社名"
+   },
+   "Your_contact_information": {
+      "message": "連絡先情報"
+   },
+   "Your_country_name": {
+      "message": "国名"
+   },
+   "Your_county_name": {
+      "message": "郡名"
+   },
+   "Your_credit_card_information": {
+      "message": "クレジットカード情報"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "あなたの現在の設定でこの操作を完了するにはLastPassパスワードを入力する必要があります。"
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "次の場所にエクスポートされました"
+   },
+   "Your_email_address": {
+      "message": "メールアドレス"
+   },
+   "Your_first_name": {
+      "message": "名"
+   },
+   "Your_government_ID_number": {
+      "message": "社会保障番号"
+   },
+   "Your_last_name": {
+      "message": "姓"
+   },
+   "Your_middle_name": {
+      "message": "ミドルネーム"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "パスワードをメールアドレスと同じにすることはできません。"
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "簡単に予測できてしまうパスワードです。"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "パスワードが短すぎます。最低でも6文字以上でなければなりません"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "パスワードが短すぎます。少なくとも8文字以上の長さが必要です"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "パスワードリマインダーは機密を保ったまま、"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "パスワードが一致しません。"
+   },
+   "Your_personal_information": {
+      "message": "個人情報"
+   },
+   "Your_phone_number": {
+      "message": "電話番号"
+   },
+   "Your_phone_number_extension": {
+      "message": "電話の内線番号"
+   },
+   "Your_prefix_or_title": {
+      "message": "敬称または肩書き"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "選択したアイデンティティはもうありません。'すべて'をデフォルトにしてログオフします。"
+   },
+   "Your_sex": {
+      "message": "性別"
+   },
+   "Your_state_or_province_name": {
+      "message": "都道府県"
+   },
+   "Your_street_address": {
+      "message": "住所"
+   },
+   "Your_time_zone": {
+      "message": "タイムゾーン"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "ウェブサイトにログインするときのユーザー名"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKeyマルチファクタ認証"
+   },
+   "Yugoslavia": {
+      "message": "ユーゴスラビア"
+   },
+   "ZIP___Postal_code": {
+      "message": "郵便番号"
+   },
+   "Zambia": {
+      "message": "ザンビア"
+   },
+   "Zimbabwe": {
+      "message": "ジンバブエ"
+   },
+   "_Hide_": {
+      "message": "[隠す]"
+   },
+   "_History_": {
+      "message": "[履歴]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(保留している共有についての新しい要求)"
+   },
+   "_Not_applicable_when_the_Pronounceable_box_is_checked__": {
+      "message": "(発音可能がオンに設定されている場合は適用されません)。"
+   },
+   "_Show_": {
+      "message": "[表示]"
+   },
+   "_domain_": {
+      "message": "(ドメイン)"
+   },
+   "_none_": {
+      "message": "(グループなし)"
+   },
+   "_unknown_": {
+      "message": "[不明]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "本当のパスワードが何であるかを思い出させるよう働きます。"
+   },
+   "ago": {
+      "message": "前"
+   },
+   "and": {
+      "message": "および"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "連絡していただくと、パスワードリマインダーをあなたにメールします。"
+   },
+   "day": {
+      "message": "日"
+   },
+   "days": {
+      "message": "日"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "内線"
+   },
+   "false": {
+      "message": "false"
+   },
+   "favorites": {
+      "message": "お気に入り"
+   },
+   "hour": {
+      "message": "時間"
+   },
+   "hours": {
+      "message": "時間"
+   },
+   "just_now": {
+      "message": "今すぐ"
+   },
+   "minute": {
+      "message": "分"
+   },
+   "minutes": {
+      "message": "分"
+   },
+   "month": {
+      "message": "月"
+   },
+   "months": {
+      "message": "月"
+   },
+   "privacy_statement": {
+      "message": "プライバシーステートメント"
+   },
+   "recently_usedlower": {
+      "message": "最近使用したもの"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "second": {
+      "message": "秒"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "send_more": {
+      "message": "さらに送る"
+   },
+   "terms_of_service": {
+      "message": "利用規約"
+   },
+   "the_current_tab": {
+      "message": "現在のタブ"
+   },
+   "true": {
+      "message": "true"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "我々はあなたのLastPassパスワードが何であるか知りません。"
+   },
+   "week": {
+      "message": "週"
+   },
+   "weeks": {
+      "message": "週"
+   },
+   "year": {
+      "message": "年"
+   },
+   "years": {
+      "message": "年"
+   }
+}

@@ -1,0 +1,3437 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Cắm YubiKey của bạn vào cổng USB với mặt nhận dạng ở phía trên"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Chạy chương trình xác định nhận dạng của Google trên thiết bị di động của bạn"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Chạy ứng dụng LastPass Sesame để tạo một mật khẩu sử dụng một lần"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Nhập mã xác minh hiện tại của bạn vào ô bên dưới"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Dán mật khẩu sử dụng một lần vào ô phía dưới rồi nhấn 'Xác Thực'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Chờ nút cảm ứng trên YubiKey sáng ổn định"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Nhấp vào ô Xác định danh tính"
+   },
+   "ACTION": {
+      "message": "HÀNH ĐỘNG"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Có một bản cập nhật bắt buộc cho LastPass. Xin nhấn OK để bắt đầu tải về và cài đặt."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Tìm thấy một tập tin yêu cầu thử lại. Rất có thể tất cả thay đổi trên trang web của bạn chưa được lưu hết. Bạn có muốn xóa tập tin này và có khả năng mất một số thay đổi không?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Có lỗi máy chủ khi đang xử lý yêu cầu của bạn."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Trang được chia sẻ trước đây không thể chuyển sang thư mục chia sẻ.\n\nBạn có muốn tạo một bản sao?"
+   },
+   "About": {
+      "message": "Về"
+   },
+   "About___": {
+      "message": "Giới thiệu..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dhabi, Muscat, Moscow, St. Petersburg, Volgograd"
+   },
+   "Accept": {
+      "message": "Chấp Nhận"
+   },
+   "Account_Settings": {
+      "message": "Cài Đặt Tài Khoản"
+   },
+   "Account_Type": {
+      "message": "Loại tài khoản"
+   },
+   "Account_number": {
+      "message": "Số tài khoản"
+   },
+   "Actionproper": {
+      "message": "Hành động"
+   },
+   "Actions": {
+      "message": "Hành động"
+   },
+   "Add": {
+      "message": "Thêm"
+   },
+   "Add_Credit_Card": {
+      "message": "Thêm Thẻ Tín Dụng"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Thêm Hồ Sơ Thẻ Tín Dụng"
+   },
+   "Add_Field": {
+      "message": "Thêm Trường"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Thêm Hồ Sơ Điền Mẫu"
+   },
+   "Add_Identity": {
+      "message": "Thêm Danh Tính"
+   },
+   "Add_New_Site": {
+      "message": "Thêm Trang Web Mới"
+   },
+   "Add_Note": {
+      "message": "Thêm Ghi Chú"
+   },
+   "Add_Profile": {
+      "message": "Thêm Hồ Sơ"
+   },
+   "Add_Secure_Note": {
+      "message": "Thêm Ghi Chú Bảo Mật"
+   },
+   "Add_Site": {
+      "message": "Thêm Trang Web"
+   },
+   "Add_another_custom_field": {
+      "message": "Thêm một ô tùy chỉnh khác"
+   },
+   "Address": {
+      "message": "Địa Chỉ"
+   },
+   "Address_1": {
+      "message": "Địa Chỉ 1"
+   },
+   "Address_2": {
+      "message": "Địa Chỉ 2"
+   },
+   "Address_3": {
+      "message": "Địa Chỉ 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Công Cụ Quản Trị"
+   },
+   "Advanced": {
+      "message": "Nâng Cao"
+   },
+   "Advanced_Options": {
+      "message": "Tùy chọn nâng cao"
+   },
+   "Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "Agent_Name": {
+      "message": "Tên Đại Lý"
+   },
+   "Agent_Phone": {
+      "message": "Điện Thoại Đại Lý"
+   },
+   "Aland_Islands": {
+      "message": "Quần đảo Aland"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albania"
+   },
+   "Algeria": {
+      "message": "Algeria"
+   },
+   "Alias": {
+      "message": "Bí Danh"
+   },
+   "All": {
+      "message": "Tất Cả"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Cho phép LastPass tìm dữ liệu không an toàn trên máy tính của bạn?"
+   },
+   "Almaty": {
+      "message": "Almaty"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Luôn Chọn Hồ Sơ và Thẻ Tín Dụng"
+   },
+   "American_Samoa": {
+      "message": "Samoa thuộc Mỹ"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Athens, Istanbul, Beirut, Cairo, Jerusalem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlin, Roma, Wien, Praha, Brussels"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Đã Có Bản Cập Nhật. Bạn có muốn cài đặt không?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Gặp lỗi khi đang tải trang. Vui lòng đăng nhập lại."
+   },
+   "An_error_occurred": {
+      "message": "Đã xảy ra lỗi"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Một lỗi đã xảy trong khi nhập mật khẩu từ Google Chrome"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Một lỗi xảy ra trong khi tái mã hóa dữ liệu của bạn"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Có lỗi xảy ra khi tải dữ liệu lên. Bạn có muốn làm lại?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Nam Cực"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua và Barbuda"
+   },
+   "Appearance": {
+      "message": "Giao Diện"
+   },
+   "Application_": {
+      "message": "Ứng dụng:"
+   },
+   "Applications": {
+      "message": "Ứng Dụng"
+   },
+   "April": {
+      "message": "Tháng Tư"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Ghi chú ngẫu nhiên để lưu cùng với Hồ Sơ Điền Mẫu này"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Bạn có chắc bạn muốn xóa danh tính này?"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Bạn có chắc bạn muốn xóa trang web này?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Bạn có chắc muốn LastPass lưu mật khẩu của bạn không? Điều này sẽ làm giảm đáng kể tính bảo mật tài khoản LastPass của bạn!"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Bạn có chắc bạn muốn chia sẻ mục này? Làm vậy sẽ gây mất mọi thay đổi bạn đã thực hiện với mục này!"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Bạn có chắc bạn muốn thay đổi xem lịch sử? Làm vậy sẽ gây mất mọi thay đổi bạn đã thực hiện với mục này!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Bạn có chắc muốn xóa?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Bạn có chắc chắn muốn xóa các mục đã chọn?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Bạn có chắc chắn muốn xóa các trang web đã chọn không?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Bạn có chắc muốn xóa ứng dụng này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Bạn có chắc chắn muốn xóa ô này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Bạn có chắc chắn muốn xóa hồ sơ điền mẫu này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Bạn có chắc chắn muốn xóa mật khẩu vừa được tạo ra này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Bạn có chắc muốn xóa nhóm này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Bạn có chắc muốn xóa URL không bao giờ này?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Bạn có chắc muốn xóa ghi chú bảo mật này không?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Bạn có chắc muốn xóa website này không?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Bạn có chắc bạn muốn loại bỏ tập tin đính kèm này?"
+   },
+   "Argentina": {
+      "message": "Argentina"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armenia"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dhaka, Ekaterinburg"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Giờ Đại Tây Dương (Canada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "Tháng Tám"
+   },
+   "Australia": {
+      "message": "Úc"
+   },
+   "Austria": {
+      "message": "Áo"
+   },
+   "Authenticate": {
+      "message": "Xác thực"
+   },
+   "Authentication": {
+      "message": "Xác thực"
+   },
+   "Authentication_Failed_": {
+      "message": "Xác thực hỏng."
+   },
+   "AutoFill": {
+      "message": "Tự Động Điền"
+   },
+   "AutoLogin": {
+      "message": "Tự Động Đăng Nhập"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Tự Động Điền Thông Tin Đăng Nhập"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Tự Động Đăng Xuất sau khi nhàn rỗi (phút)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Tự động đăng xuất sau khi tất cả các trình duyệt và Chrome đóng được (phút)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Tự động đăng nhập vào các website nếu thời gian tính từ lần cuối đăng nhập > (giây)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Tránh Ký Tự Nhập Nhằng"
+   },
+   "Azerbaijan": {
+      "message": "Azerbaijan"
+   },
+   "Azores": {
+      "message": "Azores"
+   },
+   "Back": {
+      "message": "Trở lại"
+   },
+   "Baghdad": {
+      "message": "Baghdad"
+   },
+   "Bahamas": {
+      "message": "Bahamas"
+   },
+   "Bahrain": {
+      "message": "Bahrain"
+   },
+   "Baku__Yerevan": {
+      "message": "Baku, Yerevan"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Novosibirsk"
+   },
+   "Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "Bank_Account": {
+      "message": "Tài khoản ngân hàng"
+   },
+   "Bank_accountformfill": {
+      "message": "Tài khoản ngân hàng"
+   },
+   "Bank_name": {
+      "message": "Tên ngân hàng"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Trước khi sử dụng LastPass, bạn phải kết nối đầu đọc dấu vân tay rồi quét một hoặc hai ngón tay lên."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Beijing, Hong Kong, Singapore, Taipei, Krasnoyarsk"
+   },
+   "Belarus": {
+      "message": "Belarus"
+   },
+   "Belgium": {
+      "message": "Bỉ"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Binary_Component_": {
+      "message": "Cấu phần nhị phận:"
+   },
+   "Birthday": {
+      "message": "Ngày Sinh"
+   },
+   "Blacklist": {
+      "message": "Tài khoản của bạn đã bị tạm ngưng (trong vòng 5 phút) vì có quá nhiều lần đăng nhập thất bại."
+   },
+   "Blog": {
+      "message": "Blog"
+   },
+   "Bolivia": {
+      "message": "Bolivia"
+   },
+   "Bookmarklets": {
+      "message": "Bộ Đánh Dấu Trang"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosna và Hercegovina"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Đảo Bouvet"
+   },
+   "Branch_Address": {
+      "message": "Địa Chỉ Chi Nhánh"
+   },
+   "Branch_Phone": {
+      "message": "Điện Thoại Chi Nhánh"
+   },
+   "Brazil": {
+      "message": "Brasil"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Yakutsk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Lãnh thổ Ấn Độ Dương thuộc Anh"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Duyệt web như bình thường và LastPass sẽ tự động ghi nhớ mật khẩu khi bạn nhập chúng."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Phiên Bản:"
+   },
+   "Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Nhưng tôi là một người hay quên...tôi nên làm gì nếu tôi quên mật khẩu?"
+   },
+   "CSV_Files": {
+      "message": "Tập tin CSV"
+   },
+   "Cambodia": {
+      "message": "Campuchia"
+   },
+   "Cameroon": {
+      "message": "Cameroon"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Không thể tìm thấy cửa sổ Lastpass ẩn"
+   },
+   "Canada": {
+      "message": "Canada"
+   },
+   "Canary_Islands": {
+      "message": "Đảo Canary"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "Cancel": {
+      "message": "Hủy"
+   },
+   "Cape_Verde": {
+      "message": "Cabo Verde"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Đảo Cabo Verde"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Tiếng Catalonia"
+   },
+   "Cayman_Islands": {
+      "message": "Quần đảo Cayman"
+   },
+   "Central_African_Republic": {
+      "message": "Cộng hòa Trung Phi"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Trung Mỹ, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Giờ Trung Tâm (Mỹ & Canada), Guadalajara, Mexico City"
+   },
+   "Chad": {
+      "message": "Tchad"
+   },
+   "Change": {
+      "message": "Thay Đổi"
+   },
+   "Change_Group_Name": {
+      "message": "Thay Đổi Tên Nhóm"
+   },
+   "Change_Password": {
+      "message": "Thay Đổi Mật Khẩu"
+   },
+   "Check_For_Updates": {
+      "message": "Kiểm Tra Cập Nhật"
+   },
+   "Checkbox": {
+      "message": "Hộp Kiểm"
+   },
+   "Checking_For_Updates___": {
+      "message": "Kiểm tra cập nhật..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Chile"
+   },
+   "China": {
+      "message": "Trung Quốc"
+   },
+   "Chinese__Simplified_": {
+      "message": "Trung Quốc (giản thể)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Trung Quốc (truyền thống)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Chọn Hồ Sơ và Thẻ Tín Dụng"
+   },
+   "Choose_a_source_above_": {
+      "message": "Chọn một nguồn ở trên."
+   },
+   "Christmas_Island": {
+      "message": "Đảo Christmas"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "Thành Phố / Thị Trấn"
+   },
+   "Clear": {
+      "message": "Tẩy Trống"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Xóa bộ nhớ tạm Clipboard sau khi dùng (giây)"
+   },
+   "Clear_Forms": {
+      "message": "Xóa Mẫu Đơn"
+   },
+   "Clear_Local_Cache": {
+      "message": "Xóa Bộ Đệm Tại Máy"
+   },
+   "Clear_Recent": {
+      "message": "Tẩy Gần Đây"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Nhấp vào Tiếp Tục để sử dụng LastPass."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Nhấn vào đây để khởi động cấu hình tài khoản"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Nhấn vào đây để khởi động phản hồi"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "Bấm vào đây để xem Hướng Dẫn Sử Dụng LastPass"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Đóng"
+   },
+   "Close_this_window": {
+      "message": "Đóng cửa sổ này"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Quần đảo Cocos (Keeling)"
+   },
+   "Collapse_All": {
+      "message": "Đóng Tất Cả"
+   },
+   "Colombia": {
+      "message": "Colombia"
+   },
+   "Comoros": {
+      "message": "Comoros"
+   },
+   "Company": {
+      "message": "Công Ty"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Chính sách công ty nghiêm cấp hành động này."
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Chính sách công ty hạn chế thay đổi một số thiết lập, chứ không phải tất cả cập nhật chưa được lưu."
+   },
+   "Configure_Form_Fill": {
+      "message": "Cấu Hình Điền Mẫu"
+   },
+   "Confirm": {
+      "message": "Xác Nhận"
+   },
+   "Confirm_Password": {
+      "message": "Xác Nhận Mật Khẩu"
+   },
+   "Congo": {
+      "message": "Congo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Congo, Cộng hòa Dân chủ"
+   },
+   "Congratulations": {
+      "message": "Xin Chúc Mừng"
+   },
+   "Connection_Mode": {
+      "message": "Chế độ kết nối"
+   },
+   "Connection_Type": {
+      "message": "Kiểu Kết Nối"
+   },
+   "Contact": {
+      "message": "Liên hệ"
+   },
+   "Continue": {
+      "message": "Tiếp Tục"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Ký tự điều khiển được tìm thấy trong tập tin, sẽ không xử lý"
+   },
+   "Cook_Islands": {
+      "message": "Quần đảo Cook"
+   },
+   "Copy": {
+      "message": "Sao Chép"
+   },
+   "Copy_Note": {
+      "message": "Sao chép chú ý"
+   },
+   "Copy_Password": {
+      "message": "Chép Mật khẩu"
+   },
+   "Copy_URL": {
+      "message": "Chép URL"
+   },
+   "Copy_Username": {
+      "message": "Chép Tên Người Dùng"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Bản quyền 2010 LastPass. Giữ toàn quyền. Một vài phần của phần mêm này được cấp phép từ bên thứ ba:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Côte d'Ivoire"
+   },
+   "Country": {
+      "message": "Quốc Gia"
+   },
+   "County": {
+      "message": "Quận"
+   },
+   "Create_Account": {
+      "message": "Tạo Tài Khoản"
+   },
+   "Create_Group": {
+      "message": "Tạo nhóm"
+   },
+   "Create_Sub_Group": {
+      "message": "Tạo Nhóm Con"
+   },
+   "Create_an_Account": {
+      "message": "Mở Tài Khoản"
+   },
+   "Creating_Account___": {
+      "message": "Đang Mở Tài Khoản..."
+   },
+   "Credit_Card": {
+      "message": "Thẻ tín dụng"
+   },
+   "Credit_Monitoring": {
+      "message": "THeo dõi tiền"
+   },
+   "Credit_card_number": {
+      "message": "Số thẻ tín dụng"
+   },
+   "Credit_cardformfill": {
+      "message": "Thẻ tín dụng"
+   },
+   "Croatia": {
+      "message": "Croatia"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Cuba"
+   },
+   "Custom_Value": {
+      "message": "Tuỳ chỉnh giá trị"
+   },
+   "Custom_field__": {
+      "message": "Ô tùy chỉnh #"
+   },
+   "Custom_fields": {
+      "message": "Ô tùy chỉnh"
+   },
+   "Cyprus": {
+      "message": "Síp"
+   },
+   "Czech_Republic": {
+      "message": "Cộng hòa Séc"
+   },
+   "Danish": {
+      "message": "Đan Mạch"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Cơ sở dữ liệu"
+   },
+   "Date": {
+      "message": "Ngày"
+   },
+   "Date_of_Birth": {
+      "message": "Ngày sinh"
+   },
+   "December": {
+      "message": "Tháng Mười Hai"
+   },
+   "Default": {
+      "message": "Mặc Định"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Hồ Sơ Điền Mẫu Mặc Định"
+   },
+   "Delete": {
+      "message": "Xóa"
+   },
+   "Delete_Cache": {
+      "message": "Xóa cache"
+   },
+   "Delete_Group": {
+      "message": "Xoá Nhóm"
+   },
+   "Delete_Identity_": {
+      "message": "Xóa Danh Tính?"
+   },
+   "Delete_Selected": {
+      "message": "Xóa Những Mục Đã Chọn"
+   },
+   "Delete_Site_": {
+      "message": "Xóa trang web?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Xóa hồ sơ điền mẫu này"
+   },
+   "Denmark": {
+      "message": "Đan Mạch"
+   },
+   "Disable": {
+      "message": "Vô hiệu hoá"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Vô hiệu Trình Quản lí Mật khẩu không an toàn của Chrome"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Tắt Xác Thực Đa Nhân Tố"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Tắt Xác Thực Một Nhân Tố"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Hủy thay đổi và đóng cửa sổ này"
+   },
+   "Djibouti": {
+      "message": "Djibouti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Đừng ghi đè lên các ô đã được điền"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Không nhắc lại cho"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Bạn có thích LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Bạn có thật sự muốn thoát? Bạn không thể dùng LastPass mà không tạo một tài khoản."
+   },
+   "Dominica": {
+      "message": "Dominica"
+   },
+   "Dominican_Republic": {
+      "message": "Cộng hòa Dominica"
+   },
+   "Down": {
+      "message": "Xuống"
+   },
+   "Dr": {
+      "message": "Tiến sĩ"
+   },
+   "Driver_s_License": {
+      "message": "Bằng Lái Xe"
+   },
+   "Dutch": {
+      "message": "Tiếng Hà Lan"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "LỖI: Di chuyển các trang web vào các thư mục chia sẻ hiện không được hỗ trợ."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "LỖI: Bạn không được phép để di chuyển các trang web ra khỏi các thư mục chia sẻ. Xóa là hoạt động hỗ trợ duy nhất."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Giờ Miền Đông (Mỹ & Canada)"
+   },
+   "Ecuador": {
+      "message": "Ecuador"
+   },
+   "Edit": {
+      "message": "Chỉnh Sửa"
+   },
+   "Edit_Application": {
+      "message": "Chỉnh sửa ứng dụng"
+   },
+   "Edit_Application_Fields": {
+      "message": "Sửa Các Ô Điền Của Ứng Dụng"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Sửa Hồ Sơ Thẻ Tín Dụng"
+   },
+   "Edit_Form_Fields": {
+      "message": "Sửa Ô Mẫu"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Sửa Hồ Sơ Điền Mẫu"
+   },
+   "Edit_Secure_Note": {
+      "message": "Sửa Ghi Chú Bảo Mật"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Sửa ghi chú bảo mật"
+   },
+   "Edit_Site": {
+      "message": "Sửa trang"
+   },
+   "Edit_Site_Fields": {
+      "message": "Sửa Ô Website"
+   },
+   "Egypt": {
+      "message": "Ai Cập"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "Email"
+   },
+   "Email_Account": {
+      "message": "Tài khoản Email"
+   },
+   "Email_address": {
+      "message": "Địa chỉ email"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Email đã được sử dụng rồi, bạn có quên mật khẩu không?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Kích hoạt tính năng theo dõi tín dụng"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Kích hoạt tính năng giám sát tín dụng miễn phí"
+   },
+   "Enable_new_login_screen": {
+      "message": "Bật màn hình đăng nhập mới"
+   },
+   "Encryption": {
+      "message": "Mã hóa"
+   },
+   "End": {
+      "message": "Cuối"
+   },
+   "English": {
+      "message": "Tiếng Anh"
+   },
+   "English__United_Kingdom_": {
+      "message": "Tiếng Anh (Anh)"
+   },
+   "Enter_PIN": {
+      "message": "Nhập mã PIN"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Thêm ghi chú tùy ý"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Nhập PIN thẻ thông minh:"
+   },
+   "Enterprise": {
+      "message": "Doanh nghiệp"
+   },
+   "Equatorial_Guinea": {
+      "message": "Guinea Xích đạo"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Đã xảy ra lỗi trong khi truy xuất trang LastPass của bạn. Vui lòng cố gắng đăng nhập lại để lấy trang web của bạn."
+   },
+   "ErrorLoginMsg": {
+      "message": "Đã xảy ra lỗi trong khi đăng nhập vào LastPass. Vui lòng kiểm tra kết nối Internet của bạn."
+   },
+   "ErrorSendingMsg": {
+      "message": "Gặp lỗi khi đang cố gắng liên lạc với máy chủ. Vui lòng kiểm tra kết nối Internet của bạn."
+   },
+   "ErrorSessionMsg": {
+      "message": "Phiên làm việc LastPass của bạn đã hết hạn. Hãy đăng nhập lại."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Lỗi: Thư mục này đã được di chuyển?"
+   },
+   "Error_opening_attachment_": {
+      "message": "Lỗi mở tập tin đính kèm."
+   },
+   "Estonia": {
+      "message": "Estonia"
+   },
+   "Ethiopia": {
+      "message": "Ethiopia"
+   },
+   "Evening_number": {
+      "message": "Số ban đêm"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass đã có thể lưu giữ một mật khẩu một lần (OTP) trên máy tính của bạn, mật khẩu này có thể dùng thể khôi phục tài khoản của bạn nếu bạn quên mật khẩu chính. Mật khẩu một lần này sẽ không hoạt động cho đến khi nó được kích hoạt trên máy chủ."
+   },
+   "Expand_All": {
+      "message": "Mở Rộng Tất Cả"
+   },
+   "Expiration": {
+      "message": "Hết Hạn"
+   },
+   "Expiration_date": {
+      "message": "Ngày hết hạn"
+   },
+   "Export": {
+      "message": "Xuất"
+   },
+   "Export_To": {
+      "message": "Xuất Sang"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Xuất Ra Tập CSV LastPass"
+   },
+   "FIPS_Mode": {
+      "message": "Chế Độ FIPS"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Quần đảo Falkland (Malvinas)"
+   },
+   "Faroe_Islands": {
+      "message": "Quần đảo Faroe"
+   },
+   "Favorite": {
+      "message": "Yêu Thích"
+   },
+   "Favoritesproper": {
+      "message": "Yêu Thích"
+   },
+   "Fax_number": {
+      "message": "Số fax"
+   },
+   "February": {
+      "message": "Tháng Hai"
+   },
+   "Feedback": {
+      "message": "Phản Hồi"
+   },
+   "Female": {
+      "message": "Nữ"
+   },
+   "Fields_": {
+      "message": "Trường:"
+   },
+   "Fiji": {
+      "message": "Fiji"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fiji, Kamchatka, Đảo Marshall"
+   },
+   "File": {
+      "message": "Tập Tin"
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "File quá lớn, nó phải ít hơn 5MB."
+   },
+   "Files": {
+      "message": "Tập Tin"
+   },
+   "Fill": {
+      "message": "Điền"
+   },
+   "Fill_Current": {
+      "message": "Điền Mẫu Hiện Tại"
+   },
+   "Fill_Form": {
+      "message": "Điền Mẫu"
+   },
+   "Fill_Forms": {
+      "message": "Điền Mẫu"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Điền Vào Hồ Sơ Điền Mẫu Mặc Định"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Điền đăng nhập tiếp theo (nếu có nhiều đăng nhập)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Điền đăng nhập kề trước (nếu có nhiều đăng nhập)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Điền hoặc Sửa mẫu dữ liệu điền"
+   },
+   "FillableFormDetected": {
+      "message": "Phát hiện một biểu mẫu có thể điền trên trang này."
+   },
+   "Filter": {
+      "message": "Lọc"
+   },
+   "Find_a_site": {
+      "message": "Tìm một website"
+   },
+   "Finland": {
+      "message": "Phần Lan"
+   },
+   "Finnish": {
+      "message": "Phần Lan"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Trình Quản Lý Mật Khẩu Firefox"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "3 chữ số đầu tiên của số điện thoại của bạn"
+   },
+   "First_name": {
+      "message": "Tên"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "Với mỗi tọa độ liệt kê bên dưới, hãy tìm giá trị trên lưới và nhập giá trị vào."
+   },
+   "Forgot_Password_": {
+      "message": "Quên Mật Khẩu?"
+   },
+   "FormFill": {
+      "message": "ĐiềnMẫu"
+   },
+   "FormFill_Profiles": {
+      "message": "Hồ sơ ĐiềnMẫu"
+   },
+   "Form_Fill": {
+      "message": "Điền Mẫu"
+   },
+   "Form_Fill_Profile": {
+      "message": "Mẫu Điền Hồ Sơ"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Hồ Sơ Điền Mẫu"
+   },
+   "Form_Fills": {
+      "message": "Điền Biểu Mẫu"
+   },
+   "Form_Name_": {
+      "message": "Mẫu tên"
+   },
+   "Forums": {
+      "message": "Diễn Đàn"
+   },
+   "France": {
+      "message": "Pháp"
+   },
+   "French": {
+      "message": "Pháp"
+   },
+   "French_Guiana": {
+      "message": "Guyane thuộc Pháp"
+   },
+   "French_Polynesia": {
+      "message": "Polynésie thuộc Pháp"
+   },
+   "French_Southern_Territories": {
+      "message": "Lãnh thổ Phía Nam của Pháp"
+   },
+   "French__Canada_": {
+      "message": "Tiếng Pháp (Canada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "Đường dẫn đầy đủ của tập tin nhập khẩu:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "Đường dẫn đầy đủ của tập tin để nhập khẩu:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "ĐĂNG KÝ PREMIUM MIỄN PHÍ"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburgh, Lisbon, London"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lisbon, Luân Đôn"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambia"
+   },
+   "Gender": {
+      "message": "Giới Tính"
+   },
+   "General": {
+      "message": "Chung"
+   },
+   "Generate": {
+      "message": "Tạo"
+   },
+   "GeneratePassword": {
+      "message": "Nếu bạn đang tạo một tài khoản hay thay đổi mật khẩu, nhấn nút tạo để tạo ra một mật khẩu độc nhất, an toàn với LastPass."
+   },
+   "Generate_Password": {
+      "message": "Tạo Mật Khẩu"
+   },
+   "Generate_Secure_Password": {
+      "message": "Tạo Mật Khẩu An Toàn"
+   },
+   "Generated_Password_for": {
+      "message": "Đã Tạo Mật Khẩu cho"
+   },
+   "Generic": {
+      "message": "Chung"
+   },
+   "Generic_CSV_File": {
+      "message": "Tập Tin CSV Nói Chung"
+   },
+   "Georgia": {
+      "message": "Gruzia"
+   },
+   "German": {
+      "message": "Đức"
+   },
+   "Germany": {
+      "message": "Đức"
+   },
+   "Ghana": {
+      "message": "Ghana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Premium_": {
+      "message": "Nâng cấp tài khoản!"
+   },
+   "Go_to_URL": {
+      "message": "Đến URL"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Sự xác nhận đa cấp của trình xác nhập Google"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Trình quản lý Mật khẩu Google Chrome"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome bắt buộc các trình mở rộng phải dùng cùng ngôn ngữ với trình duyệt, vì vậy để chuyển đổi ngôn ngữ LastPass, xin đổi ngôn ngữ chính của trình duyệt trong Chrome's Options."
+   },
+   "Greece": {
+      "message": "Hy Lạp"
+   },
+   "Greenland": {
+      "message": "Greenland"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Greenland, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Nhóm:"
+   },
+   "Group_Name": {
+      "message": "Tên Nhóm"
+   },
+   "Groups": {
+      "message": "Nhóm"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Đảo Heard và Quần đảo McDonald"
+   },
+   "Height": {
+      "message": "Cao"
+   },
+   "Help": {
+      "message": "Trợ Giúp"
+   },
+   "Help_Translate": {
+      "message": "Giúp Dịch"
+   },
+   "Help___": {
+      "message": "Trợ Giúp..."
+   },
+   "Help_spread_the_word": {
+      "message": "Giúp thông báo cho mọi người"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Ẩn Tùy Chọn Trình Đơn Ngữ Cảnh"
+   },
+   "Hide_Password": {
+      "message": "Ẩn Mật khẩu"
+   },
+   "Highlight_input_boxes": {
+      "message": "Tô màu ô nhập liệu."
+   },
+   "History": {
+      "message": "Lịch Sử"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Tòa Thánh (Vatican)"
+   },
+   "Home": {
+      "message": "Trang Chủ"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hồng Kông"
+   },
+   "Hostname": {
+      "message": "Tên Chủ"
+   },
+   "HotKeys": {
+      "message": "Phím Nóng"
+   },
+   "Hungarian": {
+      "message": "Hungary"
+   },
+   "Hungary": {
+      "message": "Hungary"
+   },
+   "IBAN_Number": {
+      "message": "Số IBAN"
+   },
+   "IMPORT_": {
+      "message": "NHẬP?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "CỐT YẾU LÀ BẠN KHÔNG BAO GIỜ ĐƯỢC QUÊN MẬT KHẨU LASTPASS MỚI CỦA BẠN."
+   },
+   "I_Forgot_my_Password": {
+      "message": "Quên mật khẩu"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Quên mật khẩu?"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Tôi đã đọc và đồng ý với"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Tôi hiểu rằng dữ liệu mã hóa của tôi sẽ được gửi đến LastPass"
+   },
+   "Iceland": {
+      "message": "Iceland"
+   },
+   "Identities": {
+      "message": "Danh Tính"
+   },
+   "Identity": {
+      "message": "Danh Tính"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Nếu chọn, bạn sẽ được yêu cầu nhập lại mật khẩu chủ trước khi có thể truy cập vào Hồ Sơ Điền Mẫu này"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Nếu chọn, báo cáo tín dụng của bạn sẽ được thường xuyên theo dõi và bạn sẽ được cảnh báo nếu bất kỳ hoạt động đáng ngờ xảy ra."
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Nếu bạn đã có một tài khoản LastPass bạn có thể đóng cửa sổ này và đăng nhập."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Nếu rốt cuộc bạn vẫn quên mật khẩu chủ LastPass của bạn,"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Nếu bạn quên câu trả lời, bấm vào đây để khôi phục câu hỏi bảo mật"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Nếu bạn có một định dạng khác mà LastPass chưa hỗ trợ, bạn có thể lưu nó thành một tập tin CSV\n\nBẠN PHẢI ĐIỀU CHỈNH HÀNG ĐẦU TIÊN CỦA TẬP TIN CSV ĐỂ LASTPASS CÓ THỂ NHẬN DẠNG ĐƯỢC NÓ\n\nTên cột tại hàng đầu tiên phải được định dạng đúng với dữ liệu tại các cột\nCác tên hàng đầu tiên có thể là:\n\nurl,username,password,extra,name,grouping\n\n'extra' có nghĩa là 'ghi chú' và 'tạo nhóm' là nhóm mà thông tin thuộc về. Bạn không phải sử dụng mọi tên cột và chúng cũng không cần phải theo đúng một thứ tự cố định. Ví dụ hàng đầu tiên của tập tin của bạn có thể:\n\nname,username,password,url\n\nNếu bạn muốn nhập một Ghi Chú An Toàn thay vì một trang web, chỉ cần bảo đảm các cột 'url', 'username', và 'password' phải để trống (hoặc bỏ luôn các cột 'url', 'username', và/hoặc 'password'), và bảo đảm rằng cột 'extra' không được trống. Miễn là hai điều này được thực hiện, bản ghi đó sẽ tự động được nhập thành Ghi Chú An Toàn thay vì Website.\n\nRất đơn giản, chỉ cần mở tập tin CSV đã lưu của bạn trong Excel và chắc chắn hàng đầu tiên có tên thích hợp như đã nói ở trên.  Lưu nó lại, rồi nhập tập tin cuối vào."
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Nếu bạn mất thiết bị nhận dạng Google của bạn, nhấn vào đây để vo hiệu hóa sự xác nhận qua thiết bị nhận dạng Google"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Nếu bạn mất thiết bị Sesame, hãy nhấn vào đây để tắt chứng thực bằng Sesame"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Nếu bạn mất thiết bị YubiKey, bấm vào đây để tắt tính năng xác thực YubiKey"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Nếu bạn mất lưới, nhấn vào đây để tắt xác thực lưới"
+   },
+   "Import": {
+      "message": "Nhập "
+   },
+   "Import_From": {
+      "message": "Nhập Từ"
+   },
+   "Import_Your_Data": {
+      "message": "Nhập Dữ Liệu Của Bạn"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Nhập dữ liệu của bạn vào Hầm LastPass sẽ đảm bảo an toàn cho mật khẩu  và bảo vệ khỏi bị trộm. Tất cả dữ liệu đã nhập sẽ được giữ bí mật hoàn toàn: người duy nhất có thể xem chúng là BẠN."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "Để LastPass có thể điền vào các hộp thoại xác thực cơ bản, bạn cần phải kích hoạt quyền truy cập cho các thiết bị hỗ trợ."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "Để LastPass có thể điền vào các hộp thoại xác thực cơ bản, bạn cần phải cài bản cài đặt của LastPass cho Chrome."
+   },
+   "India": {
+      "message": "Ấn Độ"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonesia"
+   },
+   "Install": {
+      "message": "Cài đặt"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Cài đặt Thư viện LastPass cho Chrome để cho phép tự động đăng xuất khi nhàn rỗi"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Cài đặt phiên bản nhị phân của LastPass cho Chrome để cho phép tự động đăng xuất sau khi rảnh rỗi"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Cài đặt bản đã biên dịch của LastPass cho Chrome để kích hoạt nhập khẩu mật khẩu từ trình quản lý mật khẩu Google Chrome"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Cài đặt phiên bản nhị phân của LastPass cho Chrome để cho phép chia sẻ tình trạng đăng nhập giữa các trình duyệt"
+   },
+   "Instant_Messenger": {
+      "message": "Tin nhắn tức thì"
+   },
+   "Instructions": {
+      "message": "Hướng Dẫn"
+   },
+   "Insurance": {
+      "message": "Bảo hiểm"
+   },
+   "International_Date_Line_West": {
+      "message": "Ngày Quốc tế đường Tây"
+   },
+   "Invalid_Password_": {
+      "message": "Mật Khẩu Không Hợp Lệ."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Địa chỉ email không hợp lệ, hãy thử lại"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Loại tập tin không hợp lệ, nó phải là một hình ảnh có thể được hiển thị bởi trình duyệt của bạn."
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Iran (Cộng hòa Hồi giáo)"
+   },
+   "Iraq": {
+      "message": "Iraq"
+   },
+   "Ireland": {
+      "message": "Ireland"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karachi, Tashkent"
+   },
+   "Isle_of_Man": {
+      "message": "Đảo Man"
+   },
+   "Israel": {
+      "message": "Israel"
+   },
+   "Issue_number": {
+      "message": "Số phát hành"
+   },
+   "Issued_Date": {
+      "message": "Ngày Cấp"
+   },
+   "Issuing_Authority": {
+      "message": "Cơ Quan Cấp"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Khuyến cáo bạn nên xóa tập tin đính kèm sau khi bạn dùng nó."
+   },
+   "Italian": {
+      "message": "Ý"
+   },
+   "Italy": {
+      "message": "Ý"
+   },
+   "Jamaica": {
+      "message": "Jamaica"
+   },
+   "January": {
+      "message": "Tháng Một"
+   },
+   "Japan": {
+      "message": "Nhật Bản"
+   },
+   "Japanese": {
+      "message": "Tiếng Nhật"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordan"
+   },
+   "July": {
+      "message": "Tháng Bảy"
+   },
+   "June": {
+      "message": "Tháng Sáu"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Giữ lịch sử các lần đăng nhập và điền mẫu của tôi"
+   },
+   "Kenya": {
+      "message": "Kenya"
+   },
+   "Key_Index": {
+      "message": "Khóa Index"
+   },
+   "Key_Type": {
+      "message": "Loại Khóa"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Triều Tiên, Cộng hòa Dân chủ Nhân dân"
+   },
+   "Korea__Republic_Of": {
+      "message": "Hàn Quốc"
+   },
+   "Korean": {
+      "message": "Hàn Quốc"
+   },
+   "Kuwait": {
+      "message": "Kuwait"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuwait, Riyadh, Nairobi, Tbilisi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kyrgyzstan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Ngôn Ngữ"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Lào, Cộng hòa Dân chủ Nhân dân"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "Tập tin LastPass CSV"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "Thanh công cụ LastPass cho Chrome"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "Tập Tin Mã Hóa LastPass"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "Xác Thực Đa Nhân Tố Lưới LastPass"
+   },
+   "LastPass_Menu": {
+      "message": "Thực đơn LastPass"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass có thể tự động điền các mẫu đơn trên trang web chỉ bằng một cú nhấn chuột. Dùng 'Điền Đơn' tự động sẽ không chỉ làm bạn đỡ mất thời gian, mà nó còn nâng độ bảo mật của bạn lên khi mua sắm trực tuyến."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass không thể đăng nhập cho đến khi cho phép cookie từ lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass phát hiệu một mẫu đăng nhập không an toàn.\n\nBạn có muốn tiếp tục?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass phát hiện một mẫu đăng nhập không an toàn.\n\nBạn vẫn muốn LastPass điền vào mẫu?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass phát hiện có sự thay đổi mật khẩu đối với"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass phát hiện có sự thay đổi mật khẩu cho tên miền:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass phát hiện có sự thay đổi mật khẩu của người dùng:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass phát hiện thấy có lỗi cài đặt. Xin vui lòng cài lại LastPass."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass đã điền thông tin đăng nhập của bạn vào mẫu của trang này."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass hoàn tất cài đặt!   Khi bạn cài đặt LastPass trên máy tính khác, bạn sẽ không phải làm lại quá trình này nữa, bạn chỉ cần đăng nhập.   Đừng chia sẻ Mật Khẩu Chủ của bạn bất cứ ai, kể cả nhân viên LastPass, chúng tôi sẽ không bao giờ hỏi nó!  LastPass sẽ mã hóa dữ liệu nhạy cảm của bạn trên máy tính của chính bạn vì vậy ngay cả nhân viên LastPass cũng không thể xem được nó. Bạn có thể nhận được giúp đỡ bằng cách nhấp vào biểu tượng LastPass và vào Trợ Giúp."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass là mật khẩu cuối cùng bạn sẽ phải nhớ. Nếu bạn mới đến LastPass, chúng tôi chỉ cần vài phút thời gian của bạn để thiết lập tài khoản của bạn. Bạn sẽ có thể sử dụng tài khoản này vào bất kỳ máy tính khác mà bạn sử dụng để giữ dữ liệu cá nhân của bạn luôn đồng bộ. Bấm tạo tài khoản để bắt đầu."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass phải mã hóa lại mọi dữ liệu của bạn vì chìa khóa thay đổi."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "4 số cuối của số điện thoại"
+   },
+   "Last_Name2": {
+      "message": "Họ2"
+   },
+   "Last_Touch": {
+      "message": "Lần Dùng Cuối"
+   },
+   "Last_name": {
+      "message": "Họ"
+   },
+   "Latvia": {
+      "message": "Latvia"
+   },
+   "Launch": {
+      "message": "Khởi động"
+   },
+   "Lebanon": {
+      "message": "Liban"
+   },
+   "Left": {
+      "message": "Trái"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Liberia"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Libya, Jamahiriya Ả Rập"
+   },
+   "License_Class": {
+      "message": "Loại Giấy Phép"
+   },
+   "License_Key": {
+      "message": "Khóa giấy phép"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Lithuania": {
+      "message": "Litva"
+   },
+   "Local": {
+      "message": "Địa Phương"
+   },
+   "Log_into_a_Site": {
+      "message": "Đăng nhập vào một trang web"
+   },
+   "LoggedInOffline": {
+      "message": "LastPass không thể liên hệ với máy chủ đăng nhập, vì vậy bạn đang ở chế độ offline.\n\nMột vài tính năng có thể bị giới hạn."
+   },
+   "Login": {
+      "message": "Đăng Nhập"
+   },
+   "LoginError": {
+      "message": "Lỗi khi đăng nhập vào LastPass. Hãy thử lại."
+   },
+   "Login_to_LastPass": {
+      "message": "Đăng nhập vào LastPass"
+   },
+   "Logoff": {
+      "message": "Đăng Xuất"
+   },
+   "Logoff_": {
+      "message": "Đăng xuất:"
+   },
+   "LoseChanges": {
+      "message": "Bạn có chắc chắn muốn chỉnh sửa các ô này của trang web? Làm như vậy sẽ làm mất các thay đổi mà bạn đã thực hiện cho trang web này!"
+   },
+   "LoseChangesApp": {
+      "message": "Bạn có chắc bạn muốn chỉnh sửa các ô điền của ứng dụng này? Làm như vậy sẽ làm mất các thay đổi bạn đã thực hiện với ứng dụng này!"
+   },
+   "Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI TrôngGiữMã"
+   },
+   "Macao": {
+      "message": "Ma Cao"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Macedonia, Cộng hòa Nam Tư cũ"
+   },
+   "Madagascar": {
+      "message": "Madagascar"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Solomon Is., New Caledonia, Vladivostok"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malaysia"
+   },
+   "Maldives": {
+      "message": "Maldives"
+   },
+   "Male": {
+      "message": "Nam"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Quản Lý Thư Mục Chia Sẻ"
+   },
+   "March": {
+      "message": "Tháng Ba"
+   },
+   "Marshall_Islands": {
+      "message": "Quần đảo Marshall"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Mật Khẩu Chủ"
+   },
+   "Matching_Sites": {
+      "message": "Trang web phù hợp "
+   },
+   "Mauritania": {
+      "message": "Mauritania"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "May": {
+      "message": "Tháng Năm"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_Name": {
+      "message": "Tên thành viên"
+   },
+   "Membership": {
+      "message": "Thành viên"
+   },
+   "Membership_Number": {
+      "message": "Số thành viên"
+   },
+   "Meta": {
+      "message": "Tiền tố"
+   },
+   "Mexico": {
+      "message": "Mexico"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Micronesia, Liên bang"
+   },
+   "Mid_Atlantic": {
+      "message": "Giữa Đại Tây Dương"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "3 số giữa của số điện thoại"
+   },
+   "Middle_name": {
+      "message": "Tên lót"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Đảo Midway, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Số chữ số tối thiểu"
+   },
+   "Mobile_Email_Address": {
+      "message": "Email Di Động"
+   },
+   "Mobile_number": {
+      "message": "Số điện thoại di động"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldova, Cộng hòa"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Mông Cổ"
+   },
+   "Montenegro": {
+      "message": "Montenegro"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Thêm nữa"
+   },
+   "More_Information": {
+      "message": "Thông tin thêm"
+   },
+   "Morocco": {
+      "message": "Maroc"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Giờ Miền Núi (Mỹ & Canada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Di chuyển cái được chọn vào nhóm"
+   },
+   "Move_to_Group": {
+      "message": "Chuyển đến nhóm"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Di chuyển sang Nhóm Con"
+   },
+   "Mozambique": {
+      "message": "Mozambique"
+   },
+   "Mr": {
+      "message": "Ông"
+   },
+   "Mrs": {
+      "message": "Bà"
+   },
+   "Ms": {
+      "message": "Cô"
+   },
+   "Multifactor_Authentication": {
+      "message": "Xác Minh Đa Nhân Tố"
+   },
+   "MyPasswordSafe": {
+      "message": "MậtKhẩuAnToànCủaTôi"
+   },
+   "My_Account": {
+      "message": "Tài khoản của tôi"
+   },
+   "My_LastPass_Vault": {
+      "message": "Kho Lastpass"
+   },
+   "Myanmar": {
+      "message": "Myanma"
+   },
+   "NAME": {
+      "message": "TÊN"
+   },
+   "Name_": {
+      "message": "Tên:"
+   },
+   "Name_on_card": {
+      "message": "Tên trên thẻ"
+   },
+   "Nameproper": {
+      "message": "Tên"
+   },
+   "Namibia": {
+      "message": "Namibia"
+   },
+   "Nationality": {
+      "message": "Quốc Tịch"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Hà Lan"
+   },
+   "Netherlands_Antilles": {
+      "message": "Antilles thuộc Hà Lan"
+   },
+   "Never": {
+      "message": "Không Bao Giờ"
+   },
+   "Never_Show_Again": {
+      "message": "Không Hiển Thị Lại Nữa"
+   },
+   "Never___": {
+      "message": "Không bao giờ..."
+   },
+   "New_Caledonia": {
+      "message": "New Caledonia"
+   },
+   "New_Master_Password": {
+      "message": "Mật khẩu mới"
+   },
+   "New_Zealand": {
+      "message": "New Zealand"
+   },
+   "Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigeria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Không"
+   },
+   "No_Matching_Sites_": {
+      "message": "Không Có Trang Phù Hợp!"
+   },
+   "No_Thanks": {
+      "message": "Không, cảm ơn"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Không Có Cập Nhật Nào"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Không có thiết bị Wi-Fi đã được phát hiện trên máy tính này. Tính năng này đòi hỏi một thiết bị Wi-Fi."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Không, tôi không muốn LastPass giúp tôi tự động điền vào các mẫu"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Không, đừng nhập mục không an toàn nào của tôi hết"
+   },
+   "None_Available": {
+      "message": "Không Có Gì"
+   },
+   "Norfolk_Island": {
+      "message": "Đảo Norfolk"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Quần đảo Bắc Mariana"
+   },
+   "Norway": {
+      "message": "Na Uy"
+   },
+   "Norwegian": {
+      "message": "Tiếng Na Uy"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Na Uy"
+   },
+   "Not_Now": {
+      "message": "Không Phải Lúc Này"
+   },
+   "Note_Type": {
+      "message": "Kiểu Ghi Chú"
+   },
+   "Notes": {
+      "message": "Ghi Chú"
+   },
+   "Notes_": {
+      "message": "Ghi Chú:"
+   },
+   "Notifications": {
+      "message": "Thông báo"
+   },
+   "November": {
+      "message": "Tháng Mười Một"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Số"
+   },
+   "Number_of_Licenses": {
+      "message": "Số giấy phép"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Tháng Mười"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Đề Nghị Tạo Mật Khẩu An Toàn"
+   },
+   "Old_Password": {
+      "message": "Mật khẩu cũ"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "One_Time_Passwords": {
+      "message": "Mật Khẩu Một Lần"
+   },
+   "Open_All": {
+      "message": "Mở Tất Cả"
+   },
+   "Open_Favorites": {
+      "message": "Mở Trang Yêu Thích"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Mở Kho LastPass"
+   },
+   "Open_New_Pages_in": {
+      "message": "Mở trang mới trong"
+   },
+   "Open_Popover": {
+      "message": "Mở Popover"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Mở Sticky Password - Manage Database - Export - Export as text. Nhập file này"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Mở hộp thoại đăng nhập khi bắt đầu trình duyệt"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Trình quản lý mật khẩu Opera"
+   },
+   "Order_Number": {
+      "message": "Số đặt hàng"
+   },
+   "Order_Total": {
+      "message": "Tổng đặt hàng"
+   },
+   "Organization": {
+      "message": "Tổ chức"
+   },
+   "Other": {
+      "message": "Khác"
+   },
+   "Other_Sessions": {
+      "message": "Các Phiên Làm Việc Khác"
+   },
+   "PASSWORDupper": {
+      "message": "MẬT KHẨU"
+   },
+   "PINs_Password_Manager": {
+      "message": "Quản lí mã PIN"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Giờ Thái Bình Dương (Mỹ & Canada)"
+   },
+   "Page_Down": {
+      "message": "Xuống Trang"
+   },
+   "Page_Up": {
+      "message": "Lên Trang"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Lãnh thổ Palestin"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua New Guinea"
+   },
+   "Paraguay": {
+      "message": "Paraguay"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passport": {
+      "message": "Hộ chiếu"
+   },
+   "Password": {
+      "message": "Mật Khẩu"
+   },
+   "Password_": {
+      "message": "Mật Khẩu:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Bức thành Mật khẩu"
+   },
+   "Password_Depot": {
+      "message": "Kho mật khẩu"
+   },
+   "Password_Dragon": {
+      "message": "Mật khẩu Trông giữ nghiêm ngặt"
+   },
+   "Password_Keeper": {
+      "message": "Giữ Mật Khẩu"
+   },
+   "Password_Length": {
+      "message": "Độ dài Mật khẩu"
+   },
+   "Password_Length_": {
+      "message": "Độ Dài Mật Khẩu:"
+   },
+   "Password_Reminder": {
+      "message": "Gợi Ý Mật Khẩu"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Gợi ý mật khẩu không được trùng với mật khẩu"
+   },
+   "Password_updated_": {
+      "message": "Mật khẩu được cập nhật!"
+   },
+   "Passwords_Max": {
+      "message": "Mật khẩu Tối đa"
+   },
+   "Personal": {
+      "message": "Cá nhân"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Philippines"
+   },
+   "Phone_number": {
+      "message": "Số điện thoại"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Xin Hãy Lựa Chọn"
+   },
+   "Please_Wait___": {
+      "message": "Vui lòng đợi..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Vui long trả lời câu hỏi sau:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Xin vui lòng chọn kiểu xuất ra mà bạn muốn thực hiện:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Vui lòng chọn loại in bạn muốn thực hiện:"
+   },
+   "Please_close_this_window": {
+      "message": "Vui long đóng cửa sổ"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Xin vui lòng nhập Lời Nhắc Mật Khẩu"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Xin vui lòng nhập đường dẫn đầy đủ của tập tin nhập khẩu."
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Vui lòng mở trang này đến khi hoàn thành tác vụ."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Di chuyển các trang web từ chỉ một thư mục chia sẻ trong một lần."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Xin chú ý rằng việc nâng cấp từ LastPass Địa Phương lên LastPass Online sẽ làm cho dữ liệu mật khẩu đã mã hóa của bạn được tải lên máy chủ LastPass. Bạn sẽ có thể truy cập dữ liệu của bạn từ bất cứ nơi đâu, và LastPass sẽ không đọc được nó. Bạn có muốn tiếp tục không?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Xin cung cấp một cái tên cho máy tính này"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Xin vui lòng tải lại trang web để xem các thay đổi của bạn."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Vui lòng khởi động lại tất cả trình duyệt để sử dụng LastPass Online."
+   },
+   "Please_select": {
+      "message": "Xin chọn"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Hãy chọn các trang web bạn muốn áp dụng thay đổi này."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Vui lòng truy cập https://lastpass.com trong thời gian tới để tạo một tài khoản."
+   },
+   "Poland": {
+      "message": "Ba Lan"
+   },
+   "Policy_Number": {
+      "message": "Số Bảo Hiểm"
+   },
+   "Policy_Type": {
+      "message": "Loại Bảo Hiểm"
+   },
+   "Polish": {
+      "message": "Ba Lan"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Thăm dò ý kiến máy chủ để thay đổi tài khoản (phút)"
+   },
+   "Port": {
+      "message": "Cổng"
+   },
+   "Portugal": {
+      "message": "Bồ Đào Nha"
+   },
+   "Portuguese": {
+      "message": "Bồ Đào Nha"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Bồ Đào Nha (Brazil)"
+   },
+   "Preferences": {
+      "message": "Tùy Chọn"
+   },
+   "Price": {
+      "message": "Giá"
+   },
+   "Print": {
+      "message": "In"
+   },
+   "Print_Screen": {
+      "message": "In trang"
+   },
+   "Print_Secure_Notes": {
+      "message": "In Ghi Chú An Toàn"
+   },
+   "Print_Sites": {
+      "message": "In Trang Web"
+   },
+   "Profile": {
+      "message": "Hồ Sơ"
+   },
+   "Profile_language": {
+      "message": "Ngôn ngữ hồ sơ"
+   },
+   "Profile_name": {
+      "message": "Tên hồ sơ"
+   },
+   "Pronounceable": {
+      "message": "Có thể phát âm"
+   },
+   "Protected": {
+      "message": "Bảo vệ"
+   },
+   "Publisher": {
+      "message": "Hãng Phát Hành"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Ngày Mua"
+   },
+   "Qatar": {
+      "message": "Qatar"
+   },
+   "Re_enter_Password": {
+      "message": "Nhập Lại Mật Khẩu"
+   },
+   "Recent_Sites": {
+      "message": "Sites Gần đây "
+   },
+   "Recently_Used": {
+      "message": "Sử Dụng Gần Đây"
+   },
+   "Recently_Used_list_size": {
+      "message": "Kích thước danh sách Vừa Dùng"
+   },
+   "Recheck_Page": {
+      "message": "Tái Kiểm Tra Trang"
+   },
+   "Reencrypting_Data___": {
+      "message": "Đang tái mã hóa dữ liệu ..."
+   },
+   "Refresh": {
+      "message": "Làm Mới"
+   },
+   "Refresh_Sites": {
+      "message": "Làm Mới Trang"
+   },
+   "Reject": {
+      "message": "Từ Chối"
+   },
+   "Remember_Email": {
+      "message": "Ghi Nhớ Địa Chỉ Email"
+   },
+   "Remember_Password": {
+      "message": "Ghi Nhớ Mật Khẩu"
+   },
+   "Rename_Group": {
+      "message": "Đổi Tên Nhóm"
+   },
+   "Replace_Existing_Site": {
+      "message": "Thay Thế Trang Web Hiện Tại"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "Yêu cầu không thành, có phải kết nối Internet của bạn đứt rồi không?"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Cần Có Mọi Loại Ký Tự"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Cần Phải Nhập Lại Mật Khẩu"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Yêu cầu nhập lại an toàn khi:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Tôn trọng AutoComplete=off: cho phép trang web tắt Tự Động Điền Mẫu"
+   },
+   "Reunion": {
+      "message": "Reunion"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Quản lí Mật khẩu Khai quang"
+   },
+   "Right": {
+      "message": "Phải"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Romania"
+   },
+   "Routing_number": {
+      "message": "Số định tuyến"
+   },
+   "Russian": {
+      "message": "Nga"
+   },
+   "Russian_Federation": {
+      "message": "Nga, Liên bang"
+   },
+   "Rwanda": {
+      "message": "Rwanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "TRANG"
+   },
+   "SMTP_Port": {
+      "message": "Cổng SMTP"
+   },
+   "SMTP_Server": {
+      "message": "Máy chủ SMTP"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Túi"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "Mã SWIFT"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Quản lý mật khẩu của Safari"
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "Saint_Helena": {
+      "message": "Saint Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts và Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Saint Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (phần thuộc Pháp)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre và Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent và Grenadines"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sao Tome và Principe"
+   },
+   "Saudi_Arabia": {
+      "message": "Ả Rập Saudi"
+   },
+   "Save": {
+      "message": "Lưu"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Lưu Mọi Dữ Liệu Nhập"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Lưu thông tin thẻ tín dụng"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Lưu Hồ Sơ Điền Mẫu"
+   },
+   "Save_New_Site": {
+      "message": "Lưu Trang Web Mới"
+   },
+   "Save_Site": {
+      "message": "Lưu Trang"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Lưu một Mật Khẩu Một Lần không còn sử dụng vào máy tính để Phục Hồi Tài Khoản"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Lưu thay đổi và đóng cửa sổ này"
+   },
+   "Screen_Keyboard": {
+      "message": "Bàn Phím Trên Màn Hình"
+   },
+   "Search_All_Data": {
+      "message": "Tìm kiếm tất cả các dữ liệu"
+   },
+   "Search_All_Groups": {
+      "message": "Tìm kiếm tất cả các nhóm"
+   },
+   "Search_All_Notes": {
+      "message": "Tìm kiếm Tất cả Ghi chú"
+   },
+   "Search_All_Sites": {
+      "message": "Tìm kiếm tất cả các trang web"
+   },
+   "Search_Vault": {
+      "message": "Tìm Kho"
+   },
+   "Search_within_secure_notes": {
+      "message": "Tìm kiếm trong ghi chú an toàn"
+   },
+   "Searchproper": {
+      "message": "Tìm Kiếm"
+   },
+   "Secure_Notes": {
+      "message": "Ghi chú bảo mật"
+   },
+   "Security": {
+      "message": "Bảo Mật"
+   },
+   "Security_Check": {
+      "message": "Kiểm Tra An Ninh"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Câu Hỏi Bảo Mật Xác Thực Đa Lớp"
+   },
+   "Security_code": {
+      "message": "Mã an toàn"
+   },
+   "Select": {
+      "message": "Chọn"
+   },
+   "Select_All": {
+      "message": "Chọn Tất Cả"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Chọn hoặc nhập tên nhóm mới"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Gửi dữ liệu báo cáo lỗi nặc danh để giúp cải thiện LastPass"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Seoul, Osaka, Sapporo, Tokyo, Irkutsk"
+   },
+   "September": {
+      "message": "Tháng Chín"
+   },
+   "Serbia": {
+      "message": "Serbia"
+   },
+   "Server": {
+      "message": "Máy chủ"
+   },
+   "SesameWrongButton": {
+      "message": "Để xem dữ liệu khi ngoại tuyến bạn phải chạy Sesame và dùng nút 'Chép Mật Khẩu Ngoại Tuyến' thay vì nút 'Tạo Mật Khẩu Một Lần'."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Xác Thực Đa Nhân Tố Sesame"
+   },
+   "Sessions": {
+      "message": "Phiên làm việc"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Thiết lập ô mẫu tùy chỉnh"
+   },
+   "Settings": {
+      "message": "Thiết Lập"
+   },
+   "Sex": {
+      "message": "Giới tính"
+   },
+   "Seychelles": {
+      "message": "Seychelles"
+   },
+   "Share": {
+      "message": "Chia Sẻ"
+   },
+   "Share_Selected": {
+      "message": "Chia Sẻ Những Mục Được Chọn"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Chia sẻ tình trạng đăng nhập giữa các trình duyệt"
+   },
+   "Share_offer_from": {
+      "message": "Chia sẻ lời mời từ"
+   },
+   "Shares": {
+      "message": "Chia Sẻ"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "LastPass có thể ghi nhớ mật khẩu này không?"
+   },
+   "Show": {
+      "message": "Hiển thị"
+   },
+   "Show_Advanced_Options": {
+      "message": "Hiển Thị Tùy Chọn Nâng Cao"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Hiện Thanh Thông Báo Thay Đổi Mật Khẩu"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Hiển Thị Trang Web Đã Xóa"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Hiện Thanh Thông Báo Điền Mẫu"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Hiển Thị Thông Báo Điền Mẫu"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Hiển Thị Hầm LastPass Sau Khi Đăng Nhập"
+   },
+   "Show_Notifications": {
+      "message": "Hiển Thị Thông Báo"
+   },
+   "Show_Password": {
+      "message": "Hiện Mật Khẩu"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Hiện Thanh Thông Báo Lưu Trang"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Hiển Thị Thông Báo Lưu Trang"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Hiển Thị Các Trang Trong Nhóm"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Hiện Hầm Sau Khi Đăng Nhập"
+   },
+   "Show_all_sites": {
+      "message": "Hiển thị tất cả các trang"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Hiển thị các thông báo nào đó sau khi nhấp chuột"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Hiển thị một mục ô tùy chỉnh khác"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Đăng Nhập"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Đơn giản hóa cuộc sống: Sử dụng LastPass để tự động điền vào thông tin đăng nhập của trang web này!"
+   },
+   "Singapore": {
+      "message": "Singapore"
+   },
+   "Site_Search": {
+      "message": "Tìm Kiếm Trang"
+   },
+   "Sites": {
+      "message": "Trang Web"
+   },
+   "Slovak": {
+      "message": "Tiếng Slovakia"
+   },
+   "Slovakia": {
+      "message": "Slovakia"
+   },
+   "Slovenia": {
+      "message": "Slovenia"
+   },
+   "Social_Security": {
+      "message": "An sinh xã hội"
+   },
+   "Social_security_number": {
+      "message": "Số an sinh xã hội"
+   },
+   "Software_License": {
+      "message": "Giấy phép phần mềm"
+   },
+   "Solomon_Islands": {
+      "message": "Quần đảo Solomon"
+   },
+   "Somalia": {
+      "message": "Somalia"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Xin lỗi, thư mục chia sẻ này chỉ cho phép đọc."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Xin lỗi, bạn không thể thực hiện thao tác này trong sự hỗn hợp của thư mục chia sẻ và không chia sẻ, hoặc các thư mục đa chia sẻ cùng một lúc."
+   },
+   "Source_": {
+      "message": "Nguồn:"
+   },
+   "South_Africa": {
+      "message": "Nam Phi"
+   },
+   "South_Georgia": {
+      "message": "Nam Georgia"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Quần đảo Nam Georgia và Nam Sandwich"
+   },
+   "Spain": {
+      "message": "Tây Ban Nha"
+   },
+   "Spanish": {
+      "message": "Tiếng Tây Ban Nha"
+   },
+   "Spanish__Mexico_": {
+      "message": "Tây Ban Nha (Mexico)"
+   },
+   "Special": {
+      "message": "Đặc Biệt"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Ngày bắt đầu"
+   },
+   "State": {
+      "message": "Bang"
+   },
+   "State___Province": {
+      "message": "Bang / Tỉnh"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Gửi đơn"
+   },
+   "Submitting___": {
+      "message": "Đang gửi..."
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "Email hỗ trợ"
+   },
+   "Suriname": {
+      "message": "Suriname"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Ký tự lạ tìm thấy trong tập tin được chon, sẽ không xử lý"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard và Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Swaziland"
+   },
+   "Sweden": {
+      "message": "Thụy Điển"
+   },
+   "Swedish": {
+      "message": "Tiếng Thụy Điển"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Quét ngón tay của người dùng hiện tại"
+   },
+   "Swipe_finger": {
+      "message": "Quét ngón tay"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Hãy đặt ngón tay lên bộ đọc vân tay"
+   },
+   "Switzerland": {
+      "message": "Thụy Sĩ"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Syria, Cộng hòa Ả Rập"
+   },
+   "Tabs": {
+      "message": "Các thẻ"
+   },
+   "Taiwan": {
+      "message": "Đài Loan"
+   },
+   "Tajikistan": {
+      "message": "Tajikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tanzania, Cộng hòa"
+   },
+   "Tehran": {
+      "message": "Tehran"
+   },
+   "Telephone": {
+      "message": "Điện thoại"
+   },
+   "Tell_a_friend_": {
+      "message": "Kể với bạn bè!"
+   },
+   "Text": {
+      "message": "Văn Bản"
+   },
+   "Text_to_find": {
+      "message": "Văn bản cần tìm"
+   },
+   "Thailand": {
+      "message": "Thái Lan"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Thiếu hoặc không có tập tin hoặc. Xin vui lòng nhập đường dẫn đầy đủ của tập tin để nhập khẩu."
+   },
+   "That_group_already_exists_": {
+      "message": "Nhóm đó đã tồn tại."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "Năm phát hành thẻ gồm 4 chữ số"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "Tiện ích LastPass Wi-Fi không phát hiện trên máy tính này. Bạn có muốn chạy trình cài đặt LastPass Hoàn cầu để cài đặt nó?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Mật khẩu chủ LastPass mà bạn nhập lại không trùng khớp"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "'Mật Khẩu Cũ' mà bạn nhập vào không phải là mật khẩu chủ LastPass đúng"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "Cần phải có bản cài đặt của bộ mở rộng LastPass cho tác vụ này. Bạn có thể tải nó từ lastpass.com."
+   },
+   "The_credit_card_number": {
+      "message": "Số thẻ tín dụng"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Năm hết hạn thẻ gồm 4 chữ số"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Tháng hết hạn thẻ tín dụng"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Số phát hành thẻ tín dụng.\nChỉ áp dụng cho một số nhãn hiệu thẻ ghi nợ của châu Âu, như Maestro."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Mã an ninh của thẻ tín dụng.\nVới phần lớn thẻ tín dụng, đây là 3 số cuối của con số in trên mặt sau của thẻ.\nVới thẻ tín dụng American Express, đây là 4 số cuối của con số in nhỏ ở mặt trước của thẻ."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Tên đầy đủ in trên thẻ tín dụng"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Ngôn ngữ trang web nơi bạn sẽ dùng Hồ Sơ Điền Mẫu này"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Tháng phát hành thẻ"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Tên Hồ Sơ Điền Mẫu"
+   },
+   "The_name_of_your_bank": {
+      "message": "Tên ngân hàng của bạn"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Ô ghi chú có quá nhiều dữ liệu.  Bạn có thể lưu trữ tối đa 45.000 ký tự trong mỗi ghi chú.\n\nBạn có muốn chúng tôi cắt ngắn ghi chú của bạn không? Bạn sẽ mất một số dữ liệu. "
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Điền vào ô bên cạnh tên, hoặc ID của biểu mẫu.\nNếu nhiều mục được chọn, tách mỗi mục thành hàng riêng."
+   },
+   "The_value_to_be_filled": {
+      "message": "Giá trị sẽ điền"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Các phiên bản của Chrome hiện đang chạy không có HTML5 cơ sở dữ liệu hỗ trợ được kích hoạt. Như vậy, trang đăng nhập này sẽ không nhớ email và mật khẩu của bạn, và các tính năng khác như đăng nhập tự động khởi động lại trình duyệt sẽ không làm việc."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Phiên bản Chrome bạn đang sử dụng không kích hoạt hỗ trợ cơ sở dữ liệu HTML5. Như vậy, trang đăng nhập này sẽ không ghi nhớ email và mật khẩu của bạn, và các tính năng khác như đăng nhập tự động khi khởi động lại trình duyệt sẽ không hoạt động. Bạn có thể sửa lại điều này bằng cách thêm cơ sở dữ liệu --enable-- làm tham số cho shortcut trình duyệt Google Chrome."
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "Tập tin đính kèm này cần được lưu đầu tiên."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Chỉ có xử lý từ một trang web"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Máy tính này được tin cậy, không cần phải có hình thức xác thực thứ hai."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Tính năng này là không có sẵn trong phiên bản này. Xin vui lòng cài đặt các phần mở rộng nhị phân bằng cách để https://lastpass.com/dl"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Tính năng này đòi hỏi phiên bản nhị phân của phần mở rộng trình duyệt này. Bạn có muốn cài đặt nó ngay bây giờ?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Tính năng này vẫn cần được thực hiện, xem trực tiếp từ"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Đây là một trang được chia sẻ. Bạn không được phép xem mật khẩu."
+   },
+   "This_may_take_a_while___": {
+      "message": "Có thể mất một lúc...."
+   },
+   "Time_Zone": {
+      "message": "Múi Giờ"
+   },
+   "Timor_Leste": {
+      "message": "Timor-Leste"
+   },
+   "Title": {
+      "message": "Danh Hiệu"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "Để xuất thông tin đăng nhập 1Password, đăng nhập vào 1Password. Chọn tất cả hoặc chỉ những mật khẩu nào bạn muốn xuất. Rồi chọn: Trình đơn File / Export All / Text file...  Hoạc    Trình đơn File / Export Selected / Text file... Nhấn nút Export và Lưu tập tin mật khẩu, và Nhập tập tin đã tạo ra."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Để xuất các thẻ Clipperz, đăng nhập vào www.clipperz.com. Nhấn vào dữ liệu, rồi Export, rồi Export to JSON. Chép tất cả nội dung văn bản và lưu nó vào một tập tin bằng một trình soạn thảo văn bản, rồi nhập khẩu nó. Xin lưu ý là cách nhập này có thể không hoạt động đúng nếu bạn thay đổi tên trường khác với mặc định."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "Để xuất hồ sơ FireForm, nhấn chuột phải vào biểu tượng FireForm rồi chọn Simple setup. Vào thẻ General options, nhấn Export all profiles rồi lưu vào tập tin XML. Nhập tập tin vừa có được."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "Để xuất HP Password Safe lưu vào tập tin HTML. Nhập khẩu tập tin đó."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu đăng nhập KeePass, mở cơ sở dữ liệu KeePass của bạn, và click vào File - Export - file XML. Chọn một vị trí tập tin và nhấn nút Save. Sau đó, bấm nút OK. Nhập khẩu các tập tin kết quả."
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "Để xuất đăng nhập LastPass, mở trình duyệt của bạn với các plugin LastPass đã được cài đặt, và click vào LastPass - Công cụ - Xuất khẩu - CSV file. Chọn một vị trí tập tin và nhấn nút Save. Nhập khẩu các tập tin thu được."
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "Xuất đăng nhập từ Password Agent, mở cơ sở dữ liệu Password Agent của bạn, click vào Tập Tin - In và Xuất - Thay đổi định dạng đầu ra thành File XML. Chắc chắn 'Nhóm' được chọn. Chọn một vị trí tập tin và nhấn nút Lưu. Nhập tập tin vừa tạo."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu mật khẩu mật khẩu tối đa, hãy nhấp vào File - Cơ sở dữ liệu - Xuất khẩu - Văn bản. Click OK, và lưu một tập tin CSV. Nhập khẩu các tập tin có được."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "Để xuất khẩu đăng nhập RoboForm, nhấp chuột vào RoboForm Đăng nhập ...-In Danh sách. Nhấp vào kiểm tra các URL Full-box và nhấn vào nút lưu. Nhập khẩu file thu được.\n\nĐể xuất khẩu RoboForm SafeNotes, bấm vào Danh sách RoboForm-SafeNotes-In danh sách. Nhấn vào nút lưu. Nhập khẩu file.\n\nĐể xuất khẩu các Nhận dạng RoboForm, bấm vào Danh sách RoboForm-Nhận dạng-In. Nhấn vào nút lưu. Nhập khẩu các tập tin thu được."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "Để xuất khẩu Ewallet thẻ, đi Ewallet - Tools - Xuất khẩu. Tiết kiệm như một tập tin văn bản. Nhập khẩu các tập tin kết quả."
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu MyPasswordSafe, Click vào File - Save As Chọn loại UNENCRYPTED XML - Lưu tập tin. Nhập khẩu các tập tin thu được."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu từ mật khẩu an toàn, Click vào File - Export - XML ​​- Lưu tập tin. Nhập khẩu các tập tin kết quả."
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu mật khẩu, đăng nhập vào ứng dụng máy tính để bàn và đi đến File - Export - CSV - tất cả các mục. Nhập khẩu các tập tin kết quả."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "Để xuất khẩu mật khẩu từ Darn! Mật khẩu, nhấp chuột vào Tools - In. Nhấp vào Cài đặt, và kiểm tra Bao gồm Ghi chú về xuất khẩu. Nhấp vào In, và nhấp vào xuất khẩu để tập tin biểu tượng trông giống như một đĩa màu xanh. Đặt tên cho tập tin, và nhấn Mở. Nhập khẩu các tập tin kết quả."
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Để xuất mật khẩu từ Passpack: Đăng nhập, vào màn hình Tools, và nhấn Export. Dưới _What Type of Format Would You Like To Export?_ Chọn _Comma Separated Values_, và tại _Which Entries Would You Like To Export?_ Chọn _All of my entries_, rồi nhấn _Continue_. Chọn tất cả các văn bản trong hộp văn bản tại màn hình kế tiếp, chép nó vào clipboard, tạo một tập tin mới trong notepad có tên passpack.csv, dán nội dung vào tập tin này. Nhập khẩu tập tin này."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Để xuất khẩu mật khẩu từ Mật khẩu Corral: Đăng nhập, vào File - Mật khẩu xuất khẩu - Tạo một xuất khẩu chữ đơn giản của tất cả các mật khẩu của bạn. Nhập khẩu tập tin này."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Để xuất khẩu mật khẩu Kho Password, click vào tab 'Tools' và chọn 'xuất khẩu'. Chọn định dạng Ngôn ngữ đánh dấu mở rộng (*.xml), chỉ định một tập tin mục tiêu và chọn thư mục mà bạn muốn xuất khẩu."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "Để xuất khẩu mật khẩu từ Mật khẩu Dragon: Đăng nhập, vào File - Export - File văn bản, chắc chắn rằng bạn kiểm tra 'Mật khẩu', nó mặc định tắt. Nhập khẩu các tập tin đã lưu."
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "Để xuất khẩu mật khẩu từ quản lý Khai quang mật khẩu, hãy xuất khẩu các dữ liệu như XML."
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "Để xuất khẩu mật khẩu từ SPB túi, mở túi, hãy nhấp vào File, Export, chọn điểm đến tập tin trong hộp thoại và nhấp vào Lưu. Sau đó, dán dữ liệu vào hộp trên trang này."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Để bắt đầu với Lastpass, bạn sẽ cần thêm trang web vào tài khoản của bạn."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Để nhập mật khẩu Wi-Fi, chỉ cần nhấp vào Nhập khẩu dưới đây."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "Để nhập khẩu từ PINs Password Manager, Xuất ra theo định dạng phân tách bằng tab. Rồi, nhập khẩu tập tin vừa tạo."
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Để nhập mật khẩu từ Trình quản lý mật khẩu Opera, chỉ cần nhấp vào Nhập khẩu dưới đây."
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Để nhập mật khẩu từ Quản lý mật khẩu Safari, chỉ cần nhấp vào Nhập khẩu dưới đây."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "Để nhập thông tin đăng nhập MSI PasswordKeeper, mở chương trình. Nhấn 'Txt', rồi 'Open'. Nhập khẩu tập tin vừa tạo."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "Để nhập khẩu các đăng nhập giữ Mật khẩu của bạn, mở chương trình, và các tập tin mật khẩu được xuất khẩu. Click vào File - Export File. Nhấn Yes, nhập mật khẩu của bạn, và nhấn OK. Điều này sẽ mở ra hộp thoại Lưu Windows tiêu chuẩn, do đó, nhập tên file và vị trí. Nhập khẩu các tập tin kết quả."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "Để nhập thông tin đăng nhập TurboPasswords của bạn, mở chương trình, và tập tin mật khẩu muốn xuất. Nếu bạn muốn hạn chế chỉ xuất ra một thể loại hoặc kiểu nào đó, hãy lọc các mục hiển thị bằng cách dùng hộp thả xuống Category và Type ở trên cửa sổ chính. Nhấn File|Export Category. Nó sẽ mở một hộp thoại Windows Save bình thường, nhập tên tập tin và vị trí, và chọn Comma Separated Values (.csv) từ ô Save as Type."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Để bảo vệ sự riêng tư và giữ bí mật dữ liệu của bạn,"
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Công Cụ"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad và Tobago"
+   },
+   "Try_Again": {
+      "message": "Thử Lại"
+   },
+   "Tunisia": {
+      "message": "Tunisia"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "Thổ Nhĩ Kỳ"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Quần đảo Turks và Caicos"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Kiểu"
+   },
+   "Type_": {
+      "message": "Loại"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "TÊN NGƯỜI DÙNG"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukraina"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulaan Bataar, Perth"
+   },
+   "United_Arab_Emirates": {
+      "message": "Các tiểu vương quốc Ả Rập thống nhất"
+   },
+   "United_Kingdom": {
+      "message": "Vương quốc Anh"
+   },
+   "United_States": {
+      "message": "Hoa Kỳ"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Các tiểu đảo xa của Hoa Kỳ"
+   },
+   "Unknown": {
+      "message": "Không biết"
+   },
+   "Unselect_All": {
+      "message": "Bỏ Chọn Tất Cả"
+   },
+   "Up": {
+      "message": "Lên"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Nâng cấp lên LastPass Online!"
+   },
+   "Uploading_Data___": {
+      "message": "Đang tải lên dữ liệu ..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use_802_1X": {
+      "message": "Sử dụng 802.1X"
+   },
+   "User_Manual": {
+      "message": "Hướng Dẫn Sử Dụng"
+   },
+   "User_name": {
+      "message": "Tên người dùng"
+   },
+   "Username_": {
+      "message": "Tên Người Dùng:"
+   },
+   "Usernameproper": {
+      "message": "Tên Người Dùng"
+   },
+   "Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "Value_to_fill": {
+      "message": "Giá trị sẽ điền"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Kho"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Phiên bản"
+   },
+   "Version_": {
+      "message": "Phiên Bản:"
+   },
+   "Viet_Nam": {
+      "message": "Việt Nam"
+   },
+   "View_Image": {
+      "message": "Xem Ảnh"
+   },
+   "View_Passwords": {
+      "message": "Xem mật khẩu"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Quần đảo Virgin (Anh)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Quần đảo Virgin (Mỹ)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis và Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Cảnh báo trước khi điền mẫu đơn không an toàn"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Xem video về cách sử dụng cơ bản"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Chúng tôi cũng KHÔNG giữ bản sao của nó hoặc sao lưu nó."
+   },
+   "Website": {
+      "message": "Website"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Chào mừng đến với LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Tây Trung Phi"
+   },
+   "Western_Sahara": {
+      "message": "Tây Sahara"
+   },
+   "Wi_Fi_Password": {
+      "message": "Mật khẩu Wi-Fi"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Mật khẩu Wi-Fi"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Bạn có muốn thiết lập một 'Điền mẫu' bây giờ không?"
+   },
+   "XML_Files": {
+      "message": "Tệp tin XML"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Yemen"
+   },
+   "Yes": {
+      "message": "Có"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Vâng, để tôi chọn mục nào tôi muốn nhập vào LastPass"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Vâng, để tôi nhập và xem lại dữ liệu sẽ được dùng khi điền mẫu"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Bạn di chuyển các trang web từ một thư mục chia sẻ vào hầm chung của bạn. Điều này có khả năng sẽ làm cho họ không có đối với người khác.\n\nBạn có muốn tiếp tục?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Bạn đang di chuyển các trang web vào một thư mục chia sẻ khác. Điều này có thể thay đổi những người có quyền truy cập vào sites.\n\nBạn có muốn tiếp tục?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Bạn đang chuyển mội trang đến thư mục chia sẻ. Nó sẽ làm cho trang của bạn có thể được nhìn thấy từ nhiều người khác.\n\nBạn có chắc là sẽ tiếp tục chứ?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Bạn không thể thêm cùng giá trị vào nhiều hơn một HotKey."
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Bạn không thể di chuyển các site chia sẻ riêng lẻ vào một thư mục chia se"
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Bạn hiện thiết lập LastPass ghi nhớ mật khẩu. Làm vậy khiến cho tùy chọn tự động thoát trở nên vô ích. Bạn có muốn LastPass thôi ghi nhớ mật khẩu không?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Bạn chưa chọn hồ sơ điền mẫu mặc định. Bạn có muốn chọn nó ngay bây giờ?"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Bạn cũng có thể đang chặn tất cả cookie, khiến cho Chrome không cho phép truy cập cơ sở dữ liệu HTML5."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Bạn phải đồng ý gửi dữ liệu đã mã hóa cho LastPass.com.\n\nLastPass.com mã hóa dữ liệu của bạn và gửi nó đến máy chủ bảo mật của hãng.\nKhông một ai ở LastPass có thể đọc được dữ liệu bí mật của bạn vì nó đã được mã hóa bằng\nmật khẩu bí mật và bạn là người duy nhất biết được \nmật khẩu."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Bạn phải đồng ý với các điều khoản để tiếp tục"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Bạn phải nhập tên vào."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Bạn phải nhập một tên duy nhất."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Bạn cần khởi động lại Chrome hoặc đăng xuất và quay lại để thay đổi"
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Bạn cần phải khởi động lại trình duyệt để áp dụng tất cả các thay đổi."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Năm sinh gồm 4 chữ số"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Mật khẩu Google Chrome của bạn đã được nhập thành công."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Mã ZIP hoặc bưu chính"
+   },
+   "Your_address_information": {
+      "message": "Thông tin địa chỉ của bạn"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Tập tin đính kèm của bạn đặt tại:"
+   },
+   "Your_bank_account_information": {
+      "message": "Thông tin tài khoản ngân hàng"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Số tài khoản ngân hàng.\nSố này có thể tìm thấy ở bên phải số định tuyến trên séc cá nhân."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Số định tuyến ngân hàng.\nĐây là 9 chữ số có thể tìm trên séc cá nhân ở góc dưới bên trái."
+   },
+   "Your_birth_day": {
+      "message": "Ngày sinh của bạn"
+   },
+   "Your_birth_month": {
+      "message": "Tháng sinh của bạn"
+   },
+   "Your_city_name": {
+      "message": "Tên thành phố"
+   },
+   "Your_company_s_name": {
+      "message": "Tên công ty của bạn"
+   },
+   "Your_contact_information": {
+      "message": "Thông tin liên lạc"
+   },
+   "Your_country_name": {
+      "message": "Tên quốc gia của bạn"
+   },
+   "Your_county_name": {
+      "message": "Tên quận của bạn"
+   },
+   "Your_credit_card_information": {
+      "message": "Thông tin thẻ tín dụng của bạn"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Cấu hình hiện tại của bạn yêu cầu bạn nhập mật khẩu LastPass để hoàn tất hành động."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Dữ liệu của bạn đã được xuất sang"
+   },
+   "Your_email_address": {
+      "message": "Địa chỉ email của bạn"
+   },
+   "Your_first_name": {
+      "message": "Tên của bạn"
+   },
+   "Your_government_ID_number": {
+      "message": "Mã số do chính phủ cấp cho bạn"
+   },
+   "Your_last_name": {
+      "message": "Họ của bạn"
+   },
+   "Your_middle_name": {
+      "message": "Tên lót của bạn"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Mật khẩu của bạn không thể giống như email của bạn."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Mật khẩu của bạn quá dễ đoán."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Mật khẩu của bạn quá ngắn. Nó phải có ít nhất 6 ký tự"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Mật khẩu của bạn quá ngắn. Nó phải dài tối thiểu 8 ký tự"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Phần nhắc mật khẩu dùng để nhắc cho bạn nhớ"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Mật khẩu của bạn không trùng khớp."
+   },
+   "Your_personal_information": {
+      "message": "Thông tin cá nhân của bạn"
+   },
+   "Your_phone_number": {
+      "message": "Số điện thoại của bạn"
+   },
+   "Your_phone_number_extension": {
+      "message": "Số mở rộng điện thoại của bạn"
+   },
+   "Your_prefix_or_title": {
+      "message": "Danh hiệu hoặc tiền tố tên của bạn"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Danh Tính bạn chọn không còn tồn tại. Mặc định sẽ là 'Tất Cả' và thoát."
+   },
+   "Your_sex": {
+      "message": "Giới tính của bạn"
+   },
+   "Your_state_or_province_name": {
+      "message": "Tên bang hoặc tỉnh"
+   },
+   "Your_street_address": {
+      "message": "Địa chỉ nhà của bạn"
+   },
+   "Your_time_zone": {
+      "message": "Múi giờ của bạn"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Tên người dùng khi đăng nhập vào trang web của bạn"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "Xác Thực Đa Nhân Tố YubiKey"
+   },
+   "Yugoslavia": {
+      "message": "Nam Tư"
+   },
+   "ZIP___Postal_code": {
+      "message": "ZIP / Mã bưu chính"
+   },
+   "Zambia": {
+      "message": "Zambia"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "_Hide_": {
+      "message": "[Ẩn]"
+   },
+   "_History_": {
+      "message": "[Lịch sử]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Đang Chờ Các Đề Nghị Chia Sẻ Mới)"
+   },
+   "_Show_": {
+      "message": "[Hiện]"
+   },
+   "_domain_": {
+      "message": "(tên miền)"
+   },
+   "_none_": {
+      "message": "(không)"
+   },
+   "_unknown_": {
+      "message": "[không rõ]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "mật khẩu thực là gì, và vẫn giữ tính bí mật."
+   },
+   "ago": {
+      "message": "cách đây"
+   },
+   "and": {
+      "message": "và"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "liên hệ với chúng tôi và chúng tôi sẽ gửi cho bạn lời nhắc mật khẩu qua email."
+   },
+   "day": {
+      "message": "ngày"
+   },
+   "days": {
+      "message": "ngày"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "mở rộng"
+   },
+   "false": {
+      "message": "sai"
+   },
+   "favorites": {
+      "message": "sở thích"
+   },
+   "hour": {
+      "message": "giờ"
+   },
+   "hours": {
+      "message": "giờ"
+   },
+   "just_now": {
+      "message": "chỉ bây giờ"
+   },
+   "minute": {
+      "message": "phút"
+   },
+   "minutes": {
+      "message": "phút"
+   },
+   "month": {
+      "message": "tháng"
+   },
+   "months": {
+      "message": "tháng"
+   },
+   "privacy_statement": {
+      "message": "tuyên bố quyền riêng tư"
+   },
+   "recently_usedlower": {
+      "message": "đã được sử dụng gần đây"
+   },
+   "search": {
+      "message": "tìm "
+   },
+   "second": {
+      "message": "hai"
+   },
+   "seconds": {
+      "message": "giây"
+   },
+   "terms_of_service": {
+      "message": "điều khoản dịch vụ"
+   },
+   "the_current_tab": {
+      "message": "thẻ hiện tại"
+   },
+   "true": {
+      "message": "đúng"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "chúng tôi KHÔNG BIẾT mật khẩu LastPass của bạn là gì."
+   },
+   "week": {
+      "message": "tuần"
+   },
+   "weeks": {
+      "message": "tuần"
+   },
+   "year": {
+      "message": "năm"
+   },
+   "years": {
+      "message": "năm"
+   }
+}

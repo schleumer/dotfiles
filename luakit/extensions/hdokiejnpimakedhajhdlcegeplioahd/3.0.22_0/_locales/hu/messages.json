@@ -1,0 +1,3839 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Csatlakoztassa YubiKey-jét az USB portba úgy, hogy az fölfelé nézzen."
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Indítsa el a Google hitelesítő alkalmazást mobil eszközén"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Futtassa a LastPass Sesame alkalmazást, hogy létrehozzon egy egyszeri jelszót"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Adja meg a jelenlegi ellenőrző kódját az alábbi mezőbe"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Illessze be az egyszer használatos jelszót az alábbi beviteli mezőbe és kattintson a 'hitelesítés'-re "
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Várjon, amíg a YubiKey érintőgombja folyamatosan kezd világítani."
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Kattintson a hitelesítéshez"
+   },
+   "3__Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. Tartsa ujj hegyét 1 másodpercig az érintőgombon"
+   },
+   "ACTION": {
+      "message": "ESEMÉNY"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "Egy csomó SMS jelszót küldtünk mobil eszközére."
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_password_change_for_this_site_": {
+      "message": "Új jelszó jött létre. Szeretné hogy a LastPass megjegyezze ezt a jelszó változást ezen az oldalon?"
+   },
+   "A_new_password_has_been_generated_": {
+      "message": "Új jelszót generált!"
+   },
+   "A_randomly_generated_password_": {
+      "message": "Véletlenszerűen generált jelszó."
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Egy szükséges LastPass frissítés érhető el. Kérjük, nyomja meg az OK gombot a letöltés és telepítés elkezdéséhez."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Egy helyreállítási fájl található a rendszerben. Valószínűleg nem minden oldal változása lett elmentve. Szeretné törölni ezt a fájlt és a változásokat elveszíteni?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Hiba történt a szerveren a kérés feldolgozása közben."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Egy korábban megosztott honlap nem vihető a megosztottak mappájába.\n\nSzeretne másolatot készíteni?"
+   },
+   "About": {
+      "message": "Névjegy"
+   },
+   "About___": {
+      "message": "Névjegy..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dhabi, Muscat, Moszkva, Szentpétervár, Volgográd"
+   },
+   "Accept": {
+      "message": "Elfogad"
+   },
+   "Account_Settings": {
+      "message": "Fiókbeállítások"
+   },
+   "Account_Type": {
+      "message": "Fiók típusa"
+   },
+   "Account_number": {
+      "message": "Számlaszám"
+   },
+   "Actionproper": {
+      "message": "Művelet"
+   },
+   "Actions": {
+      "message": "Művelet"
+   },
+   "Add": {
+      "message": "Hozzáadás"
+   },
+   "Add_Credit_Card": {
+      "message": "Hitelkártya hozzáadása"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Hitelkártya profil hozzáadása"
+   },
+   "Add_Field": {
+      "message": "Mező hozzáadása"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Űrlapkitöltési profil hozzáadása"
+   },
+   "Add_Identity": {
+      "message": "Identitás hozzáadása"
+   },
+   "Add_New_Site": {
+      "message": "Új honlap hozzáadása"
+   },
+   "Add_Note": {
+      "message": "Megjegyzés hozzáadása"
+   },
+   "Add_Profile": {
+      "message": "Profil hozzáadása"
+   },
+   "Add_Secure_Note": {
+      "message": "Biztonságos jegyzet hozzáadása"
+   },
+   "Add_Site": {
+      "message": "Honlap hozzáadása"
+   },
+   "Add_another_custom_field": {
+      "message": "Újabb egyéni mezõ hozzáadása"
+   },
+   "Address": {
+      "message": "Cím"
+   },
+   "Address_1": {
+      "message": "Cím 1"
+   },
+   "Address_2": {
+      "message": "Cím 2"
+   },
+   "Address_3": {
+      "message": "Cím 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Console": {
+      "message": "Admin konzol"
+   },
+   "Admin_Tools": {
+      "message": "Admin eszközök"
+   },
+   "Advanced": {
+      "message": "Haladó"
+   },
+   "Advanced_Options": {
+      "message": "Speciális opciók"
+   },
+   "Advanced_Tools": {
+      "message": "Speciális eszközök"
+   },
+   "Afghanistan": {
+      "message": "Afganisztán"
+   },
+   "Agent_Name": {
+      "message": "Ügynök neve"
+   },
+   "Agent_Phone": {
+      "message": "Ügynök telefonszáma"
+   },
+   "Aland_Islands": {
+      "message": "Aland-szigetek"
+   },
+   "Alaska": {
+      "message": "Alaszka"
+   },
+   "Albania": {
+      "message": "Albánia"
+   },
+   "Algeria": {
+      "message": "Algéria"
+   },
+   "Alias": {
+      "message": "Álnév"
+   },
+   "All": {
+      "message": "Mind"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Engedi, hogy a LastPass nem biztonságos adatokat keressen ezen a számítógépen?"
+   },
+   "Almaty": {
+      "message": "Alma-Ata"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "Vagy írja be a jelszót az alábbi mezőbe"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "Vagy írja be a jelszót az alábbi helyre:"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Mindig válasszon fiókot és hitelkártyát"
+   },
+   "American_Samoa": {
+      "message": "Amerikai Szamoa"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Athén, Isztambul, Bejrút, Kairó, Jeruzsálem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amszterdam, Berlin, Róma, Bécs, Prága, Brüsszel"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Elérhető egy frissítés. Szeretné telepíteni?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Hiba lépett fel a honlap betöltése közben. Kérem, jelentkezzen be újra."
+   },
+   "An_error_occurred": {
+      "message": "Hiba történt"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "A Google Chrome jelszavak importálása során hiba történt."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Hiba történt adatainak újrakódolásakor"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Hiba történt adatai feltöltése közben. Szeretné újra próbálni?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Antarktisz"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua és Barbuda"
+   },
+   "Appearance": {
+      "message": "Megjelenés"
+   },
+   "Application_": {
+      "message": "Alkalmazás:"
+   },
+   "Applications": {
+      "message": "Alkalmazások"
+   },
+   "April": {
+      "message": "Április"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Tetszőleges megjegyzések tárolása ezzel az űrlapkitöltési profillal."
+   },
+   "Are_you_sure_you_want_to_delete_this_": {
+      "message": "Biztos benne, hogy törli ezt?"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Biztosan törölni szeretné ezt az identitást?"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Biztos benne, hogy törölni kívánja ezt az oldalt?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Biztosan szeretné, hogy a LastPass megjegyezze a jelszavát? Ez nagymértékben csökkenti LastPass hozzáférésének biztonságát!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Biztos benne, hogy szeretné törölni?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Biztos benne, hogy szeretné törölni a kiválasztott elemeket?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Biztos, hogy törölni szeretné a kijelölt honlapokat?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Biztos benne, hogy szeretné törölni ezt az alkalmazást?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Biztos, hogy törölni szeretné ezt a mezőt?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Biztos, hogy törölni szeretné ezt az űrlap profilt?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Biztos, hogy törölni szeretné ezt a generált jelszót?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Biztos benne, hogy szeretné törölni ezt a csoportot?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Biztos benne, hogy szeretné törölni ezt az URL korlátozást?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Biztos, hogy törölni szeretné ezt a biztonságos jegyzetet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Biztosan törölni szeretné ezt a weboldalt?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Biztosan el szeretné távolítani ezt a mellékletet?"
+   },
+   "Argentina": {
+      "message": "Argentína"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Örményország"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dakka, Jekatyerinburg"
+   },
+   "At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "Legalább ez a sok szám lesz a generált jelszóban."
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlanti-óceáni idő (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "Augusztus"
+   },
+   "Australia": {
+      "message": "Ausztrália"
+   },
+   "Austria": {
+      "message": "Ausztria"
+   },
+   "Authenticate": {
+      "message": "Hitelesít"
+   },
+   "Authentication": {
+      "message": "Hitelesítés"
+   },
+   "Authentication_Failed_": {
+      "message": "A hitelesítés nem sikerült."
+   },
+   "AutoFill": {
+      "message": "Automatikus kitöltés"
+   },
+   "AutoLogin": {
+      "message": "Belépek"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Bejelentkezési adatok automatikus kitöltése"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Automatikus kijelentkezés tétlen állapot miatt (perc)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Automatikus kijelentkezés, amikor az összes böngésző zárva és Chrome bezárva (perc)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Automatikus belépés az oldalra, ha az idő a LastPass belépés után > (másodperc)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Nem egyértelmű karakterek kerülése"
+   },
+   "Azerbaijan": {
+      "message": "Azerbajdzsán"
+   },
+   "Azores": {
+      "message": "Azori-szigetek"
+   },
+   "BACKUPPER": {
+      "message": "VISSZA"
+   },
+   "Back": {
+      "message": "Vissza"
+   },
+   "Baghdad": {
+      "message": "Bagdad"
+   },
+   "Bahamas": {
+      "message": "Bahama-szigetek"
+   },
+   "Bahrain": {
+      "message": "Bahrein"
+   },
+   "Baku__Yerevan": {
+      "message": "Baku, Jereván"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Dzsakarta, Novoszibirszk"
+   },
+   "Bangladesh": {
+      "message": "Banglades"
+   },
+   "Bank_Account": {
+      "message": "Bankszámla"
+   },
+   "Bank_accountformfill": {
+      "message": "Bankszámla"
+   },
+   "Bank_name": {
+      "message": "Bank neve"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Mielőtt használná a LastPass-t, csatlakoztatnia kell az ujjlenyomat-olvasót és fel kell vele vennie egy vagy több ujjának lenyomatát."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Peking, Hong Kong, Szingapúr, Taipei, Krasnoyarsk"
+   },
+   "Belarus": {
+      "message": "Fehéroroszország"
+   },
+   "Belgium": {
+      "message": "Belgium"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhután"
+   },
+   "Binary_Component_": {
+      "message": "Bináris komponens:"
+   },
+   "Birthday": {
+      "message": "Születésnap"
+   },
+   "Bit_Strength": {
+      "message": "Bit erősség"
+   },
+   "Blacklist": {
+      "message": "Fiókját ideiglenesen felfüggesztették (5 percig), a túl sok sikertelen bejelentkezés miatt."
+   },
+   "Blog": {
+      "message": "Blog"
+   },
+   "Bolivia": {
+      "message": "Bolívia"
+   },
+   "Bookmarklets": {
+      "message": "Bookmarkletek"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosznia és Hercegovina"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvet-sziget"
+   },
+   "Branch_Address": {
+      "message": "Branch Cím"
+   },
+   "Branch_Phone": {
+      "message": "Ágazati telefon"
+   },
+   "Brazil": {
+      "message": "Brazília"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Jakutszk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Brit Indiai-óceáni terület"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Böngéssze a webet, ahogy eddig és a LastPass automatikusan megjegyzi a jelszavakat, amiket beír."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Készült:"
+   },
+   "Bulgaria": {
+      "message": "Bulgária"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "De én egy feledékeny ember vagyok... mit tegyek, ha elfelejtem a jelszavam?"
+   },
+   "CSV_Files": {
+      "message": "CSV fájlok"
+   },
+   "Cambodia": {
+      "message": "Kambodzsa"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Nem található rejtett LastPass ablak."
+   },
+   "Canada": {
+      "message": "Kanada"
+   },
+   "Canary_Islands": {
+      "message": "Kanári-szigetek"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "Cancel": {
+      "message": "Mégse"
+   },
+   "Cape_Verde": {
+      "message": "Zöld-foki Köztársaság"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Zöld-foki Köztársaság."
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalán"
+   },
+   "Cayman_Islands": {
+      "message": "Kajmán-szigetek"
+   },
+   "Central_African_Republic": {
+      "message": "Közép-afrikai Köztársaság"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Közép-Amerika, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Közép-idő (USA és Kanada), Guadalajara, Mexikóváros"
+   },
+   "Chad": {
+      "message": "Csád"
+   },
+   "Change": {
+      "message": "Változtatás"
+   },
+   "Change_Group_Name": {
+      "message": "Csoportnév váltása"
+   },
+   "Change_Password": {
+      "message": "Jelszó módosítása"
+   },
+   "Check_For_Updates": {
+      "message": "Frissítések keresése"
+   },
+   "Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Jelölje be ezt a kockát, a jelszó finom generálásához."
+   },
+   "Checkbox": {
+      "message": "Jelölőnégyzet"
+   },
+   "Checking_For_Updates___": {
+      "message": "Frissítések keresése..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Csennaj, Kolkata, Mumbai, Delhi, Sri Dzsajavardenepura"
+   },
+   "Chile": {
+      "message": "Chile"
+   },
+   "China": {
+      "message": "Kína"
+   },
+   "Chinese__Simplified_": {
+      "message": "Kínai (egyszerűsített)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Kínai (hagyományos)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Fiók és hitelkártya váltása"
+   },
+   "Choose_a_source_above_": {
+      "message": "Válasszon egy forrást fentről."
+   },
+   "Christmas_Island": {
+      "message": "Karácsony-sziget"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "Város"
+   },
+   "Clear": {
+      "message": "Törlés"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Használatot követően törli a vágólapot (mp)"
+   },
+   "Clear_Forms": {
+      "message": "Űrlapok törlése"
+   },
+   "Clear_Local_Cache": {
+      "message": "Helyi gyorsítótár ürítése"
+   },
+   "Clear_Recent": {
+      "message": "Törölje ezt"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Kitöltött mezők törlése kijelentkezéskor"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Kattintson a Folytatás gombra a LastPass használatának megkezdéséhez."
+   },
+   "Click_Icons_in_Fields": {
+      "message": "Kattintson a mezőkben az ikonokra"
+   },
+   "Click_here_for_instructions_on_importing_from_a_generic_CSV_file_": {
+      "message": "Kattintson ide az általános CSV fájlok importálásával kapcsolatos utasításokhoz."
+   },
+   "Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Kattintson ide, hogy többtényezős hitelesítést kezdeményezzen telefonján vagy mobil eszközén."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Kattintson ide a fiók beállításainak megnyitásához."
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Kattintson ide a visszajelzés megnyitásához."
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "Kattintson ide a LastPass Felhasználói kézikönyv megtekintéséhez"
+   },
+   "Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Kattintson ide a jelszógenerálás finomításához."
+   },
+   "Click_to_hide_advanced_options_": {
+      "message": "Kattintson ide a Speciális lehetőségek elrejtése."
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Bezárás"
+   },
+   "Close_this_window": {
+      "message": "Zárja be ezt az ablakot"
+   },
+   "Co_pay": {
+      "message": "Társ fizetés"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Kókusz (Keeling)-szigetek"
+   },
+   "Collapse_All": {
+      "message": "Összes becsukása"
+   },
+   "Colombia": {
+      "message": "Kolumbia"
+   },
+   "Comoros": {
+      "message": "Comore-szigetek"
+   },
+   "Company": {
+      "message": "Cég"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "A vállalati politika tiltja ezt a műveletet."
+   },
+   "Company_Phone": {
+      "message": "Céges telefon"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "A vállalati politika megakadályozza néhány beállítás megváltoztatását, nem minden frissítés van elmentve."
+   },
+   "Configure_Form_Fill": {
+      "message": "Űrlapkitöltés konfigurálása"
+   },
+   "Confirm": {
+      "message": "Megerősítés"
+   },
+   "Confirm_Password": {
+      "message": "Jelszó megerősítése"
+   },
+   "Congo": {
+      "message": "Kongó"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongói Demokratikus Köztársaság"
+   },
+   "Congratulations": {
+      "message": "Gratulálunk"
+   },
+   "Connection_Mode": {
+      "message": "Kapcsolati mód"
+   },
+   "Connection_Type": {
+      "message": "Kapcsolat típusa"
+   },
+   "Contact": {
+      "message": "Kapcsolat"
+   },
+   "Continue": {
+      "message": "Tovább"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Vezérlő karakterek találhatók a kiválasztott fájl névben, nem lesz feldolgozva"
+   },
+   "Cook_Islands": {
+      "message": "Cook-szigetek"
+   },
+   "Copy": {
+      "message": "Másolás"
+   },
+   "Copy_Note": {
+      "message": "Megjegyzés másolása"
+   },
+   "Copy_Password": {
+      "message": "Jelszó másolása"
+   },
+   "Copy_URL": {
+      "message": "URL másolása"
+   },
+   "Copy_Username": {
+      "message": "Felhasználónév másolása"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. Minden jog fenntartva.\nE szoftver egyes részei felett harmadik személyek rendelkeznek joggal az alábbiak szerint:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Elefántcsontpart"
+   },
+   "Country": {
+      "message": "Ország"
+   },
+   "County": {
+      "message": "Megye"
+   },
+   "Create_Account": {
+      "message": "Fiók létrehozása"
+   },
+   "Create_Group": {
+      "message": "Csoport létrehozása"
+   },
+   "Create_Sub_Group": {
+      "message": "Alcsoport létrehozása"
+   },
+   "Create_an_Account": {
+      "message": "Új fiók létrehozása"
+   },
+   "Creating_Account___": {
+      "message": "Fiók létrehozása..."
+   },
+   "Credit_Card": {
+      "message": "Hitelkártya"
+   },
+   "Credit_Monitoring": {
+      "message": "Hitelfigyelés"
+   },
+   "Credit_card_number": {
+      "message": "Hitelkártya száma"
+   },
+   "Credit_cardformfill": {
+      "message": "Hitelkártya"
+   },
+   "Croatia": {
+      "message": "Horvátország"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Kuba"
+   },
+   "Custom_Value": {
+      "message": "Egyéni érték"
+   },
+   "Custom_field__": {
+      "message": "Egyéni mezõ #"
+   },
+   "Custom_fields": {
+      "message": "Egyéni mezők"
+   },
+   "Cyprus": {
+      "message": "Ciprus"
+   },
+   "Czech_Republic": {
+      "message": "Cseh Köztársaság"
+   },
+   "Danish": {
+      "message": "Dán"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Dashlane": {
+      "message": "Dashlane"
+   },
+   "Database": {
+      "message": "Adatbázis"
+   },
+   "Date": {
+      "message": "Dátum"
+   },
+   "Date_of_Birth": {
+      "message": "Születési idő"
+   },
+   "December": {
+      "message": "December"
+   },
+   "Default": {
+      "message": "Alapértelmezett"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Alapértelmezett űrlapkitöltési profil"
+   },
+   "Delete": {
+      "message": "Törlés"
+   },
+   "Delete_Cache": {
+      "message": "Gyorsítótár törlése"
+   },
+   "Delete_Formfill_Profile": {
+      "message": "Az űrlapkitöltő profil törlése"
+   },
+   "Delete_Group": {
+      "message": "Csoport törlése"
+   },
+   "Delete_Identity_": {
+      "message": "Törli az identitást?"
+   },
+   "Delete_Selected": {
+      "message": "Kiválasztottak törlése"
+   },
+   "Delete_Site": {
+      "message": "Honlap törlése"
+   },
+   "Delete_Site_": {
+      "message": "Törli az oldalt?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Törli ezt az űrlapkitöltő profilt"
+   },
+   "Denmark": {
+      "message": "Dánia"
+   },
+   "Disable": {
+      "message": "Letilt"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Letiltja a Chrome nem biztonságos jelszókezelőjét."
+   },
+   "Disable_LastPass": {
+      "message": "LastPass letiltása"
+   },
+   "Disable_LastPass_for_this_page_or_the_entire_site_": {
+      "message": "Tiltsa le a LastPass-t erre az oldalra vagy teljes honlapra?"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Letiltja a többtényezős hitelesítést."
+   },
+   "Disable_Page": {
+      "message": "Oldal letiltása"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Egytényezős hitelesítés letiltása."
+   },
+   "Disable_Site": {
+      "message": "Honlap letiltása"
+   },
+   "Disable_alert___": {
+      "message": "Riasztás tiltása..."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Riasztás tiltása ennél a honlapnál"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "Az összes gyenge vagy ismétlődő honlap riasztás tiltása"
+   },
+   "Disable_for_all_sites": {
+      "message": "Tiltva minden honlapra"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Változások elvetése és ennek az ablaknak becsukása"
+   },
+   "Djibouti": {
+      "message": "Dzsibuti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Ne írja felül a már kitöltött mezőket."
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Ne kérdezze újra"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Tetszik Önnek a LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Valóban ki akar lépni? Fiók létrehozása nélkül nem használhatja a LastPass-t."
+   },
+   "Dominica": {
+      "message": "Dominika"
+   },
+   "Dominican_Republic": {
+      "message": "Dominikai Köztársaság"
+   },
+   "Down": {
+      "message": "Le"
+   },
+   "Dr": {
+      "message": "Dr."
+   },
+   "Driver_s_License": {
+      "message": "Jogosítvány"
+   },
+   "Duplicate_password": {
+      "message": "Ismétlődő jelszó"
+   },
+   "Dutch": {
+      "message": "Holland"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "HIBA: Megosztott mappák közötti honlap mozgatás jelenleg nem támogatott"
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "HIBA: Nem megengedett megosztott mappákból honlapok eltávolítása. Kizárólag a törlés megengedett."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Keleti idő (Egyesült Államok és Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ecuador"
+   },
+   "Edit": {
+      "message": "Szerkesztés"
+   },
+   "Edit_Application": {
+      "message": "Alkalmazás szerkesztése"
+   },
+   "Edit_Application_Fields": {
+      "message": "Alkalmazási mezők szerkesztése"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Hitelkártya profil szerkesztése"
+   },
+   "Edit_Form_Fields": {
+      "message": "Űrlap mezőinek szerkesztése"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Űrlapkitöltési profil szerkesztése"
+   },
+   "Edit_Secure_Note": {
+      "message": "Biztonságos jegyzet szerkesztése"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Biztonságos jegyzetek szerkesztése"
+   },
+   "Edit_Site": {
+      "message": "Honlap szerkesztése"
+   },
+   "Edit_Site_Fields": {
+      "message": "Oldal mezőinek szerkesztése"
+   },
+   "Egypt": {
+      "message": "Egyiptom"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-mail"
+   },
+   "Email_Account": {
+      "message": "E-mail fiók"
+   },
+   "Email_address": {
+      "message": "E-mail cím"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Ez az e-mail cím már foglalt, elfelejtette a jelszavát?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Kredit megfigyelés engedélyezése"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Ingyenes kredit megfigyelés engedélyezése"
+   },
+   "Enable_new_login_screen": {
+      "message": "Új bejelentkezési képernyő engedélyezése"
+   },
+   "Encryption": {
+      "message": "Titkosítás"
+   },
+   "End": {
+      "message": "Vége"
+   },
+   "English": {
+      "message": "Angol"
+   },
+   "English__United_Kingdom_": {
+      "message": "Angol (Egyesült Királyság)"
+   },
+   "Enter_Code_": {
+      "message": "Írja be a kódot:"
+   },
+   "Enter_PIN": {
+      "message": "Adja meg a PIN kódot"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "Írja be a jelszót az alábbi mezőbe:"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Tetszőleges jegyzet bevitele"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Írja be smart kártyája PIN kódját:"
+   },
+   "Enterprise": {
+      "message": "Vállalkozás"
+   },
+   "Equatorial_Guinea": {
+      "message": "Egyenlítői-Guinea"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Hiba történt az ön LastPass oldalainak lekérése közben. Próbáljon meg újra bejelentkezni az oldalak lekéréséhez."
+   },
+   "ErrorLoginMsg": {
+      "message": "Hiba történt a LastPass bejelentkezése közben. Kérjük, ellenőrizze az internetkapcsolatot."
+   },
+   "ErrorSendingMsg": {
+      "message": "Hiba történt, miközben megpróbálta felvenni a kapcsolatot a szerverrel. Kérjük, ellenőrizze az internetkapcsolatot."
+   },
+   "ErrorSessionMsg": {
+      "message": "LastPass munkamenete lejárt. Kérjük, lépjen be újra."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Hiba: Ez a mappa már el van távolítva?"
+   },
+   "Error_opening_attachment_": {
+      "message": "Hiba a melléklet megnyitásakor."
+   },
+   "Estonia": {
+      "message": "Észtország"
+   },
+   "Ethiopia": {
+      "message": "Etiópia"
+   },
+   "Evening_number": {
+      "message": "Esti szám"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "A LastPass most el tud tárolni egy egyszeri jelszót (One Time Password), mely a fiók helyreállítására szolgál, ha elfelejtette a LastPass mesterjelszavát. Ez a jelszó mindaddig tiltva marad, amíg a szerveren nem aktiválják.\n\nKívánja aktiválni a fiók helyreállítást?"
+   },
+   "Expand_All": {
+      "message": "Összes kibontása"
+   },
+   "Expiration": {
+      "message": "Lejárat"
+   },
+   "Expiration_date": {
+      "message": "Lejárati idő"
+   },
+   "Export": {
+      "message": "Exportálás"
+   },
+   "Export_To": {
+      "message": "Exportálás mint.."
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "CSV fájl exportálása a LastPass-ba"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS üzemmód"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falkland-szigetek (Malvinas)"
+   },
+   "Faroe_Islands": {
+      "message": "Feröer-szigetek"
+   },
+   "Favorite": {
+      "message": "Kedvenc"
+   },
+   "Favoritesproper": {
+      "message": "Kedvencek"
+   },
+   "Fax_number": {
+      "message": "Faxszám"
+   },
+   "February": {
+      "message": "Február"
+   },
+   "Feedback": {
+      "message": "Visszajelzés"
+   },
+   "Female": {
+      "message": "Nő"
+   },
+   "Fields_": {
+      "message": "Mezők"
+   },
+   "Fiji": {
+      "message": "Fidzsi-szigetek"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fidzsi-szigetek, Kamcsatka, Marshall."
+   },
+   "File": {
+      "message": "Fájl"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Túl nagy a fájl, 10 MB-nál kevesebb kell legyen."
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "A fájl mérete túl nagy, 5 MB-nál kisebbnek kell lennie."
+   },
+   "Files": {
+      "message": "Fájlok"
+   },
+   "Fill": {
+      "message": "Kitölt"
+   },
+   "Fill_Current": {
+      "message": "Aktuális kitöltése"
+   },
+   "Fill_Form": {
+      "message": "Kitöltés"
+   },
+   "Fill_Forms": {
+      "message": "Űrlapok kitöltése"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Töltse ki az alapértelmezett űrlapkitöltési profilt"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Töltse ki a következő bejelentkezést (ha több van)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Töltse ki az előző bejelentkezést (ha több van)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Töltse ki vagy szerkessze az űrlapkitöltő adatokat"
+   },
+   "Fill_with": {
+      "message": "Töltse ki"
+   },
+   "FillableFormDetected": {
+      "message": "Ezen a lapon kitölthető űrlap van."
+   },
+   "Filter": {
+      "message": "Szűrő"
+   },
+   "Find_a_site": {
+      "message": "Weblap keresése"
+   },
+   "Finland": {
+      "message": "Finnország"
+   },
+   "Finnish": {
+      "message": "Finn"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefox jelszókezelő"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Telefonszámának első három számjegye"
+   },
+   "First_name": {
+      "message": "Keresztnév"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "Az egyes felsorolt koordinátákhoz keresse meg az értéket a táblázatban és adja meg."
+   },
+   "Forgot_Password_": {
+      "message": "Elfelejtette a jelszavát?"
+   },
+   "FormFill": {
+      "message": "Űrtlapkitöltés"
+   },
+   "FormFill_Profiles": {
+      "message": "Űrlapkitöltő profilok"
+   },
+   "Form_Fill": {
+      "message": "Űrlap kitöltése"
+   },
+   "Form_Fill_Profile": {
+      "message": "Űrlapkitöltő profil"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Űrlapkitöltő profilok"
+   },
+   "Form_Fills": {
+      "message": "Űrlapkitöltés"
+   },
+   "Form_Name_": {
+      "message": "Űrlap neve:"
+   },
+   "Format": {
+      "message": "Formátum"
+   },
+   "Forums": {
+      "message": "Fórumok"
+   },
+   "France": {
+      "message": "Franciaország"
+   },
+   "French": {
+      "message": "Francia"
+   },
+   "French_Guiana": {
+      "message": "Francia Guyana"
+   },
+   "French_Polynesia": {
+      "message": "Francia Polinézia"
+   },
+   "French_Southern_Territories": {
+      "message": "Francia Déli Területek"
+   },
+   "French__Canada_": {
+      "message": "Francia (Kanada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "A fájl teljes elérési útvonala az importáláshoz:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "Az importálandó fájl teljes elérési útja:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "SZEREZZE MEG A PREMIUM-OT"
+   },
+   "GMT_5": {
+      "message": "5 GMT"
+   },
+   "GMT_7": {
+      "message": "GMT +7"
+   },
+   "GMT_9": {
+      "message": "9 GMT"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburgh, Lisszabon, London"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lisszabon, London"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambia"
+   },
+   "Gender": {
+      "message": "Nem"
+   },
+   "General": {
+      "message": "Általános"
+   },
+   "Generate": {
+      "message": "Generálás"
+   },
+   "GeneratePassword": {
+      "message": "Ha egy új fiókot létesít vagy megváltoztat egy jelszót, kattintson a generálásra, hogy egyedi és biztonságos jelszót hozzon létre a LastPass segítségével. "
+   },
+   "Generate_Password": {
+      "message": "Jelszó generálása"
+   },
+   "Generate_Secure_Password": {
+      "message": "Biztonságos jelszó generálása"
+   },
+   "Generated_Password_for": {
+      "message": "Generált jelszó ehhez:"
+   },
+   "Generic": {
+      "message": "Általános"
+   },
+   "Generic_CSV_File": {
+      "message": "Sima CSV fájl"
+   },
+   "Georgia": {
+      "message": "Grúzia"
+   },
+   "German": {
+      "message": "Német"
+   },
+   "Germany": {
+      "message": "Németország"
+   },
+   "Ghana": {
+      "message": "Ghána"
+   },
+   "Gibraltar": {
+      "message": "Gibraltár"
+   },
+   "Go_Back": {
+      "message": "Vissza lép"
+   },
+   "Go_Back_": {
+      "message": "Vissza lép?"
+   },
+   "Go_Premium_": {
+      "message": "Válassza a Premiumot!"
+   },
+   "Go_to_URL": {
+      "message": "Ugrás URL-re"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Többtényezős Azonosítású Hitelesítő"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome Password Manager"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "A Google Chrome megköveteli, hogy a kiegészítők a böngészővel azonos nyelvet használjanak, ezért a LastPass nyelvének beállításához változtassa meg a böngésző nyelvét a Chrome Opció menüjében."
+   },
+   "Greece": {
+      "message": "Görögország"
+   },
+   "Greenland": {
+      "message": "Grönland"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Grönland, Brazília, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Csoport:"
+   },
+   "Group_ID": {
+      "message": "Csoport azonosító"
+   },
+   "Group_Name": {
+      "message": "Csoport neve"
+   },
+   "Group_will_be_created_under": {
+      "message": "Csoport létrehozása fog történni vagy már létezik"
+   },
+   "Groups": {
+      "message": "Csoportok"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey-sziget"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Bissau-Guinea"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Health_Insurance": {
+      "message": "Egészségbiztosítás"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heard-sziget és McDonald-szigetek"
+   },
+   "Height": {
+      "message": "Magasság"
+   },
+   "Help": {
+      "message": "Segítség"
+   },
+   "Help_Translate": {
+      "message": "Segítsen fordítani!"
+   },
+   "Help___": {
+      "message": "Súgó..."
+   },
+   "Help_spread_the_word": {
+      "message": "Beszéljen róla!"
+   },
+   "Hide_Advanced_Options": {
+      "message": "Speciális lehetőségek elrejtése"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "LastPass elrejtése a helyi menüből"
+   },
+   "Hide_Password": {
+      "message": "Jelszó elrejtése"
+   },
+   "Highlight_input_boxes": {
+      "message": "Beviteli mezők kiemelése"
+   },
+   "History": {
+      "message": "Eddigi események"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Apostoli Szentszék (Vatikáni Városállam)"
+   },
+   "Home": {
+      "message": "Főoldal"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hongkong"
+   },
+   "Hostname": {
+      "message": "Host neve"
+   },
+   "HotKeys": {
+      "message": "Gyorsgombok"
+   },
+   "Hungarian": {
+      "message": "Magyar"
+   },
+   "Hungary": {
+      "message": "Magyarország"
+   },
+   "IBAN_Number": {
+      "message": "IBAN szám"
+   },
+   "IMPORT_": {
+      "message": "IMPORT?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "NAGYON FONTOS, HOGY SOHA NE FELEJTSE EL ÚJ LASTPASS JELSZAVÁT!"
+   },
+   "I_Forgot_my_Password": {
+      "message": "Elfelejtettem a jelszavam"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Elfelejtettem a jelszavam"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Elolvastam és elfogadom a(z)"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Tudomásul veszem, hogy titkosított adataim elküldésre kerülnek a LastPass-hoz."
+   },
+   "I_ve_forgot_the_answer": {
+      "message": "Elfelejtettem a választ"
+   },
+   "I_ve_lost_my_Google_Authenticator_device": {
+      "message": "Elvesztettem a Google hitelesítő eszközömet"
+   },
+   "I_ve_lost_my_Sesame_device": {
+      "message": "Elvesztettem a Sesame eszközömet"
+   },
+   "I_ve_lost_my_YubiKey_device": {
+      "message": "Elvesztettem a Yubikey eszközömet"
+   },
+   "I_ve_lost_my_device": {
+      "message": "Elvesztettem az eszközömet"
+   },
+   "I_ve_lost_my_grid": {
+      "message": "Elvesztettem a táblázatomat"
+   },
+   "Iceland": {
+      "message": "Izland"
+   },
+   "Identities": {
+      "message": "Identitások"
+   },
+   "Identity": {
+      "message": "Identitás"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Ha be van jelölve, kérni fogja, hogy ismételje meg mester jelszavát, mielőtt hozzáférhetne ehhez az űrlapkitöltési profilhoz"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Ha ki van választva, kredit jelentését automatikusan figyeli és figyelmeztetést küld, ha bármilyen gyanús tevékenységet észlel."
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Ha nincs megadva, az alábbi file kiterjesztések egyikét fogja alkalmazni:"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Ha már van LastPass fiókja, bezárhatja ezt az ablakot és bejelentkezhet."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Ha valóban befejezi a LastPass mesterjelszót elfelejtve,"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Ha elfelejtette a választ, kattintson ide, és visszaállíthatja biztonsági kérdését"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Ha Önnek a LastPass által nem támogatott más formátuma van, megkísérelheti az adatokat CSV fájlként elmenteni.\\\n\\\nA CSV ELSŐ SORÁT MÓDOSÍTANI KELL, HOGY A LASTPASS FELISMERJE!\\\n\\\nAz első sor oszlopneveit pontosan meg kell adni az oszlopbeli adatnak megfelelően\\\n\\\nLehetséges oszlopnevek az első sorban:\\\n\\\nurl,username,password,extra,name,grouping\\\n\\\n\\\\'extra\\\\' megjegyzést jelent és a \\\\'csoportosítás\\\\' az, hogy melyik csoportba tartozzon.  Nem szükséges minden oszlopot megadni és a sorrend is lehet más.\\\nPéldául lehet az alábbi is:\\\n\\\nname,username,password,url\\\n\\\nHa Biztonságos jegyzetet kíván importálni egy honlap helyett, biztosítsa, hogy az 'url', a 'felhasználónév' és a 'jelszó' oszlop üres (vagy hagyja ki teljesen az 'url', a 'felhasználó név' és/vagy a 'jelszó' oszlopokat) és győződjön meg arról, hogy az 'extra' oszlop ki legyen töltve. Amint ez a két dolog megvan, a rekord automatikusan importálva lesz Biztonságos jegyzetként a honlap helyett.\\\n\\\nEz nagyon egyszerű, csak nyissa meg az elmentett CSV fájlt Excel-ben és ellenőrizze, hogy a felső sor a megfelelő neveket tartalmazza a fentiekből. Mentse el, majd importálja a létrejött fájlt.\\"
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Ha elvesztette a Google Hitelesítő eszközét, kattintson ide, hogy kikapcsolja a Google Hitelesítő azonosítást"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Ha elvesztette Sesame eszközét, kattintson ide, hogy letilthassa Sesame hitelesítését."
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Ha elvesztette YubiKey eszközét, kattintson ide, hogy letiltsa YubiKey hitelesítését "
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "Ha elvesztette a készülékét, kattintson ide, hogy letilthassa a többtényezős hitelesítést"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Ha elvesztette a táblázatát, kattintson ide a táblázatos hitelesítés letiltásához "
+   },
+   "Import": {
+      "message": "Importálás"
+   },
+   "Import_From": {
+      "message": "Importálás innen"
+   },
+   "Import_Your_Data": {
+      "message": "Saját adatok importálása"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Adatainak LastPass széfjébe importálásával biztonságba helyezi azokat és megóvja az azonosság eltulajdonításától. Valamennyi importált adat TELJESEN bizalmas marad: az egyetlen személy, ak az ÖN adatait láthatja, az ÖN."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "Annak érdekében, hogy a LastPass kitöltse az alapvető hitelesítési párbeszédablakokat, engedélyeznie kell a hozzáférést a segítő eszközökhöz."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "Annak érdekében, hogy a LastPass kitöltse a bejelentkezéseket, telepítenie kell a LastPass for Chrome bináris verzióját."
+   },
+   "India": {
+      "message": "India"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonézia"
+   },
+   "Install": {
+      "message": "Telepít"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Telepítse a LastPass Library for Chrome alkalmazást, hogy engedélyezhesse az automatikus kilépést üresjárat esetén."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Telepítse a LastPass bináris változatát a Chrome-hoz, hogy engedélyezni lehessen az automatikus kijelentkezést, ha nem használják."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Telepítse a LastPass Chrome változatának bináris verzióját, hogy importálni tudja jelszavait a Google Chrome jelszókezelőjéből."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Telepítse a LastPass bináris változatát a Chrome-hoz, hogy engedélyezni lehessen a megosztásos bejelentkezést más böngészők között."
+   },
+   "Instant_Messenger": {
+      "message": "Azonnali üzenetküldő"
+   },
+   "Instructions": {
+      "message": "Utasítások"
+   },
+   "Insurance": {
+      "message": "Biztosítás"
+   },
+   "International_Date_Line_West": {
+      "message": "Nemzetközi dátumválasztó vonal, nyugati oldal"
+   },
+   "Invalid_Password_": {
+      "message": "Érvénytelen jelszó"
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Érvénytelen e-mail cím, próbálja meg újra"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Érvénytelen fájl típus, képnek kell lennie, melyet böngészője meg tud jeleníteni."
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Irán (Iszlám Köztársaság)"
+   },
+   "Iraq": {
+      "message": "Irak"
+   },
+   "Ireland": {
+      "message": "Írország"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Iszlámábád, Karacsi, Taskent"
+   },
+   "Isle_of_Man": {
+      "message": "Isle of Man"
+   },
+   "Israel": {
+      "message": "Izrael"
+   },
+   "Issue_number": {
+      "message": "Kibocsátási szám"
+   },
+   "Issued_Date": {
+      "message": "Kiadás dátuma"
+   },
+   "Issuing_Authority": {
+      "message": "Kibocsátó hatóság"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Javasoljuk, hogy törölje a mellékelt fájlt a használatát követően."
+   },
+   "Italian": {
+      "message": "Olasz"
+   },
+   "Italy": {
+      "message": "Olaszország"
+   },
+   "IterationsReduction": {
+      "message": "LastPass mesterjelszavának generálásához szükséges ciklus száma csökkent a rögzített verzióhoz képest. Szeretné folytatni a bejelentkezést?"
+   },
+   "Jamaica": {
+      "message": "Jamaica"
+   },
+   "January": {
+      "message": "Január"
+   },
+   "Japan": {
+      "message": "Japán"
+   },
+   "Japanese": {
+      "message": "Japán"
+   },
+   "Jersey": {
+      "message": "Jersey-sziget"
+   },
+   "Jordan": {
+      "message": "Jordánia"
+   },
+   "July": {
+      "message": "Július"
+   },
+   "June": {
+      "message": "Június"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Katmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kazahsztán"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Naplózza belépéseimet és az űrlapkitöltéseimet"
+   },
+   "Kenya": {
+      "message": "Kenya"
+   },
+   "Key_Index": {
+      "message": "Billentyű index"
+   },
+   "Key_Type": {
+      "message": "Billentyű típus"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Koreai Demokratikus Népköztársaság"
+   },
+   "Korea__Republic_Of": {
+      "message": "Koreai Köztársaság"
+   },
+   "Korean": {
+      "message": "Koreai"
+   },
+   "Kuwait": {
+      "message": "Kuvait"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuvait, Rijád, Nairobi, Tbiliszi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kirgizisztán"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Nyelv"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Laoszi Népi Demokratikus Köztársaság"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV fájl"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome Eszköztár"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass titkosított fájl"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass táblázatos többtényezős hitelesítés"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass Menü"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "A LastPass egyetlen kattintással, automatikusan kitölti a weboldalon levő űrlapokat. Az automatikus 'nyomtatványkitöltés' funkcióval nem csak időt takarít meg, hanem növelni fogja on-line vásárlásai biztonságát."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "A sütiket engedélyezni kell a LastPass.com-hoz, ha be akar jelentkezni."
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "A LastPass nem biztonságos bejelentkezési űrlapot észlelt.\\\n\\\nKívánja folytatni?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "A LastPass nem biztonságos bejelentkezési űrlapot észlelt. \n\nTovábbra is szeretné, ha a LastPass kitöltené az űrlapot?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "A LastPass jelszóváltozást észlelt."
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "A LastPass jelszóváltozást észlelt a tartományban:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "A LastPass jelszóváltozást észlelt ehhez:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "A LastPass telepítési hibát érzékelt. Kérjük telepítse újra a LastPass-t."
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "A LastPass érzékelte, hogy ezena honlapon gyenge jelszót használ. Javasoljuk, hogy lépjen be a honlaphoz tartozó fiókbeállításokba és hozzon létre egy új jelszót. Használja a LastPass-t egy egyedi, erős jelszó létrehozásához. Ezután a módosításokat mentse el."
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "A LastPass érzékelte, hogy ezt a jelszót más honlapon való bejelentkezéskor is használta. Javasoljuk, hogy lépjen be a fiókbeállításba e honlapnál és hozzon létre egy új jelszót.Használja a LastPass-t egy egyedi, erős jelszó létrehozásához. Ezután a módosításokat mentse el."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "A LastPass betöltötte az Ön belépési adatait az oldalon levő űrlapra."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "A LastPass teljesen telepítve van. Amikor a LastPass-t egy másik számítógépre telepíti, nem kell megismételni a telepítési folyamatot, csak egyszerűen be kell jelentkezni. Ne ossza meg senkivel a mester jelszót, beleértve a LastPass alkalmazottait is, mi soha nem fogjuk azt kérdezni! A LastPass az Ön érzékeny adatait Önnél helyben kódolja, így még a LastPass alkalmazottai sem férhetnek hozzá. Segítséget a LastPass ikonra kattintva kaphat a Segítség menüpont kiválasztásával."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass a legutolsó jelszó, amit meg kell jegyeznie. Ha még nem ismeri a LastPass-t, csak néhány percre van szükségünk az Ön idejéből, hogy elkészítsük felhasználói fiókját. Ezt a fiókot bármelyik számítógépről használhatja személyes adatait szinkronban tartva. Kattintson a fiók létrehozása gombra."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "A LastPass újra titkosítja összes adatát, mert változott a kódkulcs."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Telefonszámának utolsó négy számjegye"
+   },
+   "Last_Name2": {
+      "message": "Vezetéknév2"
+   },
+   "Last_Touch": {
+      "message": "Utolsó megtekintés"
+   },
+   "Last_name": {
+      "message": "Vezetéknév"
+   },
+   "Latvia": {
+      "message": "Lettország"
+   },
+   "Launch": {
+      "message": "Megnyit"
+   },
+   "Lebanon": {
+      "message": "Libanon"
+   },
+   "Left": {
+      "message": "Bal"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Libéria"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Líbia"
+   },
+   "License_Class": {
+      "message": "Licenc osztály"
+   },
+   "License_Key": {
+      "message": "Licenszkulcs"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Link_Personal_Account": {
+      "message": "Személyes fiók összekapcsolása"
+   },
+   "Lithuania": {
+      "message": "Litvánia"
+   },
+   "Local": {
+      "message": "Helyi"
+   },
+   "Log_into_a_Site": {
+      "message": "Bejelentkezés egy honlapra"
+   },
+   "LoggedInOffline": {
+      "message": "A LastPass nem tudott kapcsolatba lépni a bejelentkező szerverrel, így most offline módban van.\n\nNéhány funkció korlátozottan elérhető."
+   },
+   "Login": {
+      "message": "Bejelentkezés"
+   },
+   "LoginError": {
+      "message": "Hiba a LastPassba való belépéskor. Kérjük, próbálja újra. "
+   },
+   "Login_to_LastPass": {
+      "message": "Belépés a LastPass-ba"
+   },
+   "Logoff": {
+      "message": "Kijelentkezés"
+   },
+   "Logoff_": {
+      "message": "Kijelentkezés:"
+   },
+   "LoseChanges": {
+      "message": "Biztos, hogy szerkeszteni kívánja ezen oldal mezőit? Ha igen, akkor ezen az oldalon minden korábbi változtatás el fog veszni."
+   },
+   "LoseChangesApp": {
+      "message": "Biztos, hogy szerkeszteni kívánja ennek az alkalmazásnak a mezőit? Ha igen, elveszít minden eddigi változtatást."
+   },
+   "Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Makaó"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Macedónia"
+   },
+   "Madagascar": {
+      "message": "Madagaszkár"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Salamon-szigetek, Új-Kaledónia, Vlagyivosztok"
+   },
+   "Make_Pronounceable": {
+      "message": "Legyen kiejthető"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malajzia"
+   },
+   "Maldives": {
+      "message": "Maldív-szigetek"
+   },
+   "Male": {
+      "message": "Férfi"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Málta"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Megosztott mappák kezelése"
+   },
+   "March": {
+      "message": "Március"
+   },
+   "Marshall_Islands": {
+      "message": "Marshall-szigetek"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Mesterjelszó"
+   },
+   "Matching_Sites": {
+      "message": "Honlapok illesztése"
+   },
+   "Mauritania": {
+      "message": "Mauritánia"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "Maxthon": {
+      "message": "Maxthon"
+   },
+   "May": {
+      "message": "Május"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_ID": {
+      "message": "Tag azonosító"
+   },
+   "Member_Name": {
+      "message": "Tag neve"
+   },
+   "Membership": {
+      "message": "Tagság"
+   },
+   "Membership_Number": {
+      "message": "Tagsági száma"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mexikó"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Mikronézia"
+   },
+   "Mid_Atlantic": {
+      "message": "Közép Atlanti-óceán"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Telefonszámának középső három számjegye"
+   },
+   "Middle_name": {
+      "message": "Középső név"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway-sziget, Szamoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Számjegyek minimális száma"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobil E-mail cím"
+   },
+   "Mobile_number": {
+      "message": "Mobiltelefon szám"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldovai Köztársaság"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Mongólia"
+   },
+   "Montenegro": {
+      "message": "Montenegró"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Egyéb"
+   },
+   "More_Information": {
+      "message": "További információk"
+   },
+   "More_Options": {
+      "message": "További beállítások"
+   },
+   "Morocco": {
+      "message": "Marokkó"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Hegyi idő (Egyesült Államok és Kanada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Vigye a kiválasztottat a csoporthoz."
+   },
+   "Move_matching_sites_to_top_menu": {
+      "message": "Mozgassa a megtalált oldalakat felfelé"
+   },
+   "Move_to_Group": {
+      "message": "Csoportba helyezés"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Alcsoporthoz lépés"
+   },
+   "Mozambique": {
+      "message": "Mozambik"
+   },
+   "Mr": {
+      "message": "úr"
+   },
+   "Mrs": {
+      "message": "asszony"
+   },
+   "Ms": {
+      "message": "kisasszony"
+   },
+   "Multifactor_Authentication": {
+      "message": "Többtényezős hitelesítés"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Fiókom"
+   },
+   "My_LastPass_Vault": {
+      "message": "LastPass széfem"
+   },
+   "Myanmar": {
+      "message": "Mianmar"
+   },
+   "NAME": {
+      "message": "NÉV"
+   },
+   "Name_": {
+      "message": "Név:"
+   },
+   "Name_on_card": {
+      "message": "Név a kártyán"
+   },
+   "Nameproper": {
+      "message": "Név"
+   },
+   "Namibia": {
+      "message": "Namíbia"
+   },
+   "Nationality": {
+      "message": "Állampolgárság"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepál"
+   },
+   "Netherlands": {
+      "message": "Hollandia"
+   },
+   "Netherlands_Antilles": {
+      "message": "Holland Antillák"
+   },
+   "Never": {
+      "message": "soha"
+   },
+   "Never_Add_Site": {
+      "message": "Webhely hozzáadás tiltása"
+   },
+   "Never_AutoFill": {
+      "message": "Automatikus kitöltés tiltása"
+   },
+   "Never_AutoLogin": {
+      "message": "Automatikus bejelentkezés tiltása"
+   },
+   "Never_Fill_Forms": {
+      "message": "Űrlapok kitöltésének tiltása"
+   },
+   "Never_For_This_Domain": {
+      "message": "Tiltás erre a tartományra"
+   },
+   "Never_For_This_Page": {
+      "message": "Tiltva ehhez az oldalhoz"
+   },
+   "Never_For_This_Site": {
+      "message": "Tiltva ehhez a honlaphoz"
+   },
+   "Never_Generate_Password": {
+      "message": "Jelszó generálás tiltása"
+   },
+   "Never_Show_Again": {
+      "message": "Soha ne mutassa meg újra"
+   },
+   "Never_Show_Context_Icons": {
+      "message": "Soha ne mutassa az összefüggési ikonokat"
+   },
+   "Never___": {
+      "message": "Soha..."
+   },
+   "New_Caledonia": {
+      "message": "Új-Kaledónia"
+   },
+   "New_Master_Password": {
+      "message": "Új mesterjelszó"
+   },
+   "New_Zealand": {
+      "message": "Új-Zéland"
+   },
+   "New_here__Create_an_Account_": {
+      "message": "Új még itt? Hozzon létre egy fiókot."
+   },
+   "Newfoundland": {
+      "message": "Újfundland"
+   },
+   "Next_SMS_passcode_starts_with": {
+      "message": "A következő sms jelszó    kezdődik"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigéria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Nem"
+   },
+   "No_Matching_Sites_": {
+      "message": "Nincsenek megfelelő oldalak!"
+   },
+   "No_Thanks": {
+      "message": "Köszönöm, nem"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Nincs elérhető frissítés"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Nincs Wi-Fi adapter a számítógépen. A funkció használatához szükség van Wi-Fi adapterre."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Nem, nem szeretném, ha a LastPass segítene automatikusan kitölteni űrlapokat"
+   },
+   "No__Save_as_New_Entry": {
+      "message": "Nem, mentse el új bevitelként"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Nem, ne importálja egyik nem biztonságos adatomat se."
+   },
+   "No_matches_found__Please_search_again_": {
+      "message": "Nincs találat. Kérjük, keressen újra."
+   },
+   "None_Available": {
+      "message": "Nincs elérhető"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolk-sziget"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Észak-Mariana-szigetek"
+   },
+   "Norway": {
+      "message": "Norvégia"
+   },
+   "Norwegian": {
+      "message": "norvég"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norvég (új)"
+   },
+   "Not_Now": {
+      "message": "Nem most"
+   },
+   "Note_Type": {
+      "message": "Megjegyzés típusa"
+   },
+   "Notes": {
+      "message": "Megjegyzések"
+   },
+   "Notes_": {
+      "message": "Megjegyzés:"
+   },
+   "Notifications": {
+      "message": "Értesítések"
+   },
+   "November": {
+      "message": "November"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Szám"
+   },
+   "Number_of_Licenses": {
+      "message": "Licencek száma"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Október"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Biztonságos jelszó készítésének felajánlása"
+   },
+   "Old_Password": {
+      "message": "Régi jelszó"
+   },
+   "Oman": {
+      "message": "Omán"
+   },
+   "One_Time_Passwords": {
+      "message": "Egyszeri jelszavak   "
+   },
+   "Open_All": {
+      "message": "Összes megnyitása"
+   },
+   "Open_Dashlane___File___Export___CSV___Import_the_resulting_file_": {
+      "message": "Nyissa meg Dashlane - Fájl - Export - CSV. Importálja a megjelenő fájlt."
+   },
+   "Open_Favorites": {
+      "message": "Kedvencek megnyitása"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "LastPass széfem megnyitása"
+   },
+   "Open_New_Pages_in": {
+      "message": "Nyisson lapokat..."
+   },
+   "Open_Popover": {
+      "message": "Popover megnyitása"
+   },
+   "Open_Security_Check": {
+      "message": "Biztonsági ellenőrzés megnyitása"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Nyissa meg a Sticky Password-öt majd Adatbázis kezelése > Export > Exportálás szövegként. Importálja ezt a fájlt"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Bejelentkező ablak mutatása a böngésző indulásakor"
+   },
+   "Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Nyissa meg, hogy jelszógenerálása finomítva legyen."
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Opera Password Manager"
+   },
+   "Or__would_you_like_LastPass_to_save_a_new_user_password_for_this_site_": {
+      "message": "Vagy szeretné, ha a LastPass egy új felhasználó/jelszó párt mentsen el ehhez a honlaphoz?"
+   },
+   "Order_Number": {
+      "message": "Rendelési szám"
+   },
+   "Order_Total": {
+      "message": "Rendelés összesen"
+   },
+   "Organization": {
+      "message": "Szervezet"
+   },
+   "Other": {
+      "message": "Egyéb"
+   },
+   "Other_Sessions": {
+      "message": "Egyéb munkamenetek"
+   },
+   "PASSWORDupper": {
+      "message": "JELSZÓ"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Password Manager"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Csendes-óceáni idő (Egyesült Államok és Kanada)"
+   },
+   "Page_Down": {
+      "message": "Oldal mozgás lefelé."
+   },
+   "Page_Up": {
+      "message": "Oldal mozgás felfelé."
+   },
+   "Pakistan": {
+      "message": "Pakisztán"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Palesztin Területek"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Pápua Új-Guinea"
+   },
+   "Paraguay": {
+      "message": "Paraguay"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "Összetett jelszó"
+   },
+   "Passport": {
+      "message": "Útlevél"
+   },
+   "Password": {
+      "message": "Jelszó"
+   },
+   "Password_": {
+      "message": "Jelszó:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Password Depot"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "Jelszó hossza"
+   },
+   "Password_Length_": {
+      "message": "Jelszó hossza:"
+   },
+   "Password_Reminder": {
+      "message": "Jelszó emlékeztető"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "A jelszó emlékeztető ne legyen ugyanaz, mint maga a jelszó"
+   },
+   "Password_updated_": {
+      "message": "Jelszó frissítve!"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "Személyes"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Fülöp-szigetek"
+   },
+   "Phone_number": {
+      "message": "Telefonszám"
+   },
+   "Physician_Address": {
+      "message": "Orvos címe"
+   },
+   "Physician_Name": {
+      "message": "Orvos neve"
+   },
+   "Physician_Phone": {
+      "message": "Orvos telefonszáma"
+   },
+   "Pin": {
+      "message": "Azonosító"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Kérjük válasszon"
+   },
+   "Please_Wait___": {
+      "message": "Kérem várjon..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Kérjük, válaszoljon az alábbi kérdésre:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Kérjük, válassza ki, melyen exportálást szeretne végezni:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Kérjük, válasszon, melyik nyomtatási fajtát szeretne elvégezni:"
+   },
+   "Please_close_this_window": {
+      "message": "Kérjük, zárja be ezt az ablakot"
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Kérjük fejezze be a többtényezős hitelesítés telepítését telefonjára vagy mobileszközére."
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Adjon meg egy jelszó emlékeztetőt"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Kérjük írja be az importálandó fájl teljes elérési útvonalát."
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Kérjük, hagyja nyitva ezt az oldalt, amíg a művelet befejeződik."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Kérjük, hogy egyszerre csak egy megosztott mappából vigyen el honlapot."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Felhívjuk figyelmét arra, hogy ha LastPass helyi módból LastPass online módba frissít, jelszava titkosított formában kerül fel a LastPass szervereire. Adataihoz mindenhonnan hozzá fog férni és a LastPass nem fogja tudni olvasni. Szeretné folytatni?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Kérjük, adjon nevet ennek a számítógépnek"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Kérjük, töltse újra a lapot, hogy megnézhesse változtatásait."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Kérjük indítsa újra böngészőjét, hogy elkezdhesse használni a LastPass Online-t."
+   },
+   "Please_select": {
+      "message": "Kérjük, válasszon"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Kérjük válassza ki, mely oldalak esetében kívánja alkalmazni ezeket a változásokat."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Kérjük, látogasson el a https://lastpass.com honlapra, ha később kíván fiókot létrehozni."
+   },
+   "Poland": {
+      "message": "Lengyelország"
+   },
+   "Policy_Number": {
+      "message": "Irányelv száma"
+   },
+   "Policy_Type": {
+      "message": "Irányelv típusa"
+   },
+   "Polish": {
+      "message": "Lengyel"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Mintavételező szerver a fiókváltozásokhoz (perc)"
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portugália"
+   },
+   "Portuguese": {
+      "message": "Portugál"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portugál (brazil)"
+   },
+   "Preferences": {
+      "message": "Beállítások"
+   },
+   "Price": {
+      "message": "Ár"
+   },
+   "Print": {
+      "message": "Nyomtatás"
+   },
+   "Print_Screen": {
+      "message": "Képernyő tartalom nyomtatása"
+   },
+   "Print_Secure_Notes": {
+      "message": "Biztonságos jegyzet nyomtatása"
+   },
+   "Print_Sites": {
+      "message": "Honlapok nyomtatása"
+   },
+   "Private_Key": {
+      "message": "Privát kulcs"
+   },
+   "Profile": {
+      "message": "Profil"
+   },
+   "Profile_language": {
+      "message": "Profil nyelv"
+   },
+   "Profile_name": {
+      "message": "Profil név"
+   },
+   "Pronounceable": {
+      "message": "Kiejthető"
+   },
+   "Protected": {
+      "message": "Védett"
+   },
+   "Public_Key": {
+      "message": "Nyilvános kulcs"
+   },
+   "Publisher": {
+      "message": "Kiadó"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "A vásárlás dátuma"
+   },
+   "Qatar": {
+      "message": "Katar"
+   },
+   "Re_enter_Password": {
+      "message": "Jelszó újra"
+   },
+   "Recent_Sites": {
+      "message": "Legutóbbi oldalak"
+   },
+   "Recently_Used": {
+      "message": "Legutóbb használt"
+   },
+   "Recently_Used_list_size": {
+      "message": "Legutóbb használt lista mérete"
+   },
+   "Recheck_Page": {
+      "message": "Oldal újraellenőrzése"
+   },
+   "Reencrypting_Data___": {
+      "message": "Adatok újrakódolása..."
+   },
+   "Refresh": {
+      "message": "Frissítés"
+   },
+   "Refresh_Sites": {
+      "message": "Oldalak frissítése"
+   },
+   "Reject": {
+      "message": "Elutasítás"
+   },
+   "Remember_Email": {
+      "message": "E-mail megjegyzése"
+   },
+   "Remember_Password": {
+      "message": "Jelszó megjegyzése"
+   },
+   "Remove_Personal_Account": {
+      "message": "Személyes fiók eltávolítása"
+   },
+   "Rename_Group": {
+      "message": "Csoport átnevezése"
+   },
+   "Replace_Existing_Site": {
+      "message": "Meglévő oldal cseréje"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "A kérés hibás, az internet kapcsolat leállt?"
+   },
+   "Require_All_Character_Type": {
+      "message": "Az összes karakter típus igénylése"
+   },
+   "Require_All_Character_Types": {
+      "message": "Az összes karakter típus igénylése"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Minden karaktertípust igényel."
+   },
+   "Require_Password_Reprompt": {
+      "message": "A jelszó újra beírása szükséges"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Biztonsági okokból még egyszer be kell írni, ha:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Automatikus Kitöltés kikapcsolás elfogadva: honlapok engedélyezhetik az automatikus kitöltés letiltását"
+   },
+   "Reunion": {
+      "message": "Réunion sziget"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "Right": {
+      "message": "Jobb"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Románia"
+   },
+   "Routing_number": {
+      "message": "Irányítási szám"
+   },
+   "Run_the_Google_Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "Indítsa el a Google Hitelesítő alkalmazást mobil eszközén és írja be az ellenőrző kódot az alábbi beviteli mezőbe."
+   },
+   "Russian": {
+      "message": "Orosz"
+   },
+   "Russian_Federation": {
+      "message": "Orosz Föderáció"
+   },
+   "Rwanda": {
+      "message": "Ruanda"
+   },
+   "SID": {
+      "message": "Rendszer azonosító"
+   },
+   "SITE": {
+      "message": "HONLAP"
+   },
+   "SMTP_Port": {
+      "message": "SMTP port"
+   },
+   "SMTP_Server": {
+      "message": "SMTP szerver"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Tárca"
+   },
+   "SSH_Key": {
+      "message": "SSH kulcs"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT kód"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safari Password Manager"
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "Saint_Helena": {
+      "message": "Szent Ilona"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts és Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Saint Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (francia rész)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre és Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent és Grenadine-szigetek"
+   },
+   "Samoa": {
+      "message": "Szamoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sao Tome és Principe"
+   },
+   "Saudi_Arabia": {
+      "message": "Szaúd-Arábia"
+   },
+   "Save": {
+      "message": "Mentés"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Bevitt adatok mentése"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Hitelkártya profil mentése"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Űrlapkitöltési profil mentése"
+   },
+   "Save_New_Site": {
+      "message": "Új oldal mentése"
+   },
+   "Save_Password_to_Vault": {
+      "message": "Mentse a jelszót a széfbe"
+   },
+   "Save_Password_to_Vault_": {
+      "message": "Mentse a jelszót a széfbe?"
+   },
+   "Save_Site": {
+      "message": "Oldal mentése"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Mentsen el egy letiltott egyszeri jelszót a fiók helyreállításához"
+   },
+   "Save_the_password_to_your_LastPass_Vault_": {
+      "message": "Mentse a jelszót a széfjébe?"
+   },
+   "Save_this_password_as_a_new_entry": {
+      "message": "Mentse ezt a jelszót, mint új bevitelt"
+   },
+   "Save_this_website_into_your_LastPass_Vault_": {
+      "message": "Mentse ezt a honlapot a LastPass széfjébe!"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Mentse el a változásokat és zárja be ezt az ablakot"
+   },
+   "Save_your_password_to_your_LastPass_Vault_": {
+      "message": "Mentse ezt a honlapot a LastPass széfjébe?"
+   },
+   "Saved_Passwords": {
+      "message": "Mentett jelszavak"
+   },
+   "Screen_Keyboard": {
+      "message": "Képernyő-billentyűzet"
+   },
+   "Search_All_Data": {
+      "message": "Összes adat keresése"
+   },
+   "Search_All_Groups": {
+      "message": "Összes csoport keresése"
+   },
+   "Search_All_Notes": {
+      "message": "Összes megjegyzés keresése"
+   },
+   "Search_All_Sites": {
+      "message": "Összes honlap keresése"
+   },
+   "Search_LastPass_Vault": {
+      "message": "LastPass széf kereső"
+   },
+   "Search_Vault": {
+      "message": "Keresés a Széfben"
+   },
+   "Search_within_secure_notes": {
+      "message": "Keresés a biztonságos jegyzetekben"
+   },
+   "Searchproper": {
+      "message": "Keresés"
+   },
+   "Secure_Notes": {
+      "message": "Biztonságos jegyzet"
+   },
+   "Security": {
+      "message": "Biztonság"
+   },
+   "Security_Check": {
+      "message": "Biztonsági ellenőrzés"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Biztonsági kérdéses többtényezős hitelesítés"
+   },
+   "Security_code": {
+      "message": "Biztonsági kód"
+   },
+   "Select": {
+      "message": "Válasszon"
+   },
+   "Select_All": {
+      "message": "Mindet kijelöl"
+   },
+   "Select_a_group_in_your_LastPass_Vault_to_place_this_website___Optional_": {
+      "message": "Válasszon ki egy csoportot LastPass széfjében, ahová ezt a honlapot elhelyezi. [opcionális]"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Válassza ki, vagy adja meg az új csoport nevét"
+   },
+   "Send_SMS_passcodes": {
+      "message": "SMS jelszavak küldése"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Küldjön névtelen hibaüzenetet, ezzel segítve a LastPass-t jobbá tenni"
+   },
+   "Senegal": {
+      "message": "Szenegál"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Szöul, Oszaka, Sapporo, Tokió, Irkutszk"
+   },
+   "September": {
+      "message": "Szeptember"
+   },
+   "Serbia": {
+      "message": "Szerbia"
+   },
+   "Server": {
+      "message": "Szerver"
+   },
+   "SesameWrongButton": {
+      "message": "Kapcsolat nélküli állapotban az adatok megnézéséhez futtatni kell a Sesame-ot és az 'Offline jelszó másolás' gombot kell megnyomni az 'Egyszer használatos jelszó generálása' gomb helyett."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame többtényezős hitelesítés"
+   },
+   "Sessions": {
+      "message": "Munkafázisok"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Egyedi űrlapmezők létrehozása"
+   },
+   "Settings": {
+      "message": "Beállítások"
+   },
+   "Sex": {
+      "message": "Neme"
+   },
+   "Seychelles": {
+      "message": "Seychelle-szigetek"
+   },
+   "Share": {
+      "message": "Megosztás"
+   },
+   "Share_Selected": {
+      "message": "Kiválasztott megosztása"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Ossza meg más böngészőkkel a belépési állapotot"
+   },
+   "Share_offer_from": {
+      "message": "Ajánlat megosztása"
+   },
+   "Shares": {
+      "message": "Megosztások"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Emlékezzen a LastPass erre a jelszóra?"
+   },
+   "Show": {
+      "message": "Mutat"
+   },
+   "Show_Advanced_Options": {
+      "message": "Haladó opciók mutatása"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Mutassa a Jelszóváltozás értesítő sávot."
+   },
+   "Show_Deleted_Sites": {
+      "message": "Törölt oldalak megtekintése"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Mutassa a kitöltési értesítő sávot"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Kitöltési értesítések mutatása"
+   },
+   "Show_Matching_Sites": {
+      "message": "Mutassa az egyező oldalakat"
+   },
+   "Show_Matching_Sites_Count_in_Toolbar": {
+      "message": "A megfelelt oldalak számának mutatása az Eszköztárban"
+   },
+   "Show_Matching_Sites_in_top_level_menu": {
+      "message": "Mutassa az illeszkedő honlapokat a felső szintű menüben"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Mutassa a LastPass széfemet a bejelentkezés után"
+   },
+   "Show_Notifications": {
+      "message": "Értesítések mutatása"
+   },
+   "Show_Password": {
+      "message": "Jelszó mutatása"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Mutassa az oldal mentési sávot."
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Oldalak mentéséről szóló értesítések mutatása"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Honlapok csoportokban"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Mutassa a széfet a bejelentkezés után"
+   },
+   "Show_all_sites": {
+      "message": "Mutassa az összes lapot"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Csak kattintáskor mutasson egyes értesítéseket"
+   },
+   "Show_or_Hide_Password": {
+      "message": "Jelszó mutatás vagy elrejtése"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Mentsen el egy másik egyedi mező bevitelt"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Bejelentkezés"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Egyszerűsítse életét: Használja a LastPass-t az oldalra való belépés adatainak automatikus kitöltéséhez!"
+   },
+   "Singapore": {
+      "message": "Szingapúr"
+   },
+   "Site_Search": {
+      "message": "Oldal keresése"
+   },
+   "Sites": {
+      "message": "Honlapok"
+   },
+   "Slovak": {
+      "message": "Szlovák"
+   },
+   "Slovakia": {
+      "message": "Szlovákia"
+   },
+   "Slovenia": {
+      "message": "Szlovénia"
+   },
+   "Social_Security": {
+      "message": "Társadalombiztosítás"
+   },
+   "Social_security_number": {
+      "message": "Társadalombiztosítási szám"
+   },
+   "Software_License": {
+      "message": "Szoftver licenc"
+   },
+   "Solomon_Islands": {
+      "message": "Salamon-szigetek"
+   },
+   "Somalia": {
+      "message": "Szomália"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Elnézést, ez a megosztott mappa csak olvasható."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Sajnáljuk, de nem tudja végrehajtani ezt a műveletet megosztott és nem megosztott vagy töbszörösen megosztott mappák között."
+   },
+   "Source_": {
+      "message": "Forrás:"
+   },
+   "South_Africa": {
+      "message": "Dél-Afrika"
+   },
+   "South_Georgia": {
+      "message": "Dél-Georgia"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Dél-Georgia és Déli-Sandwich-szigetek"
+   },
+   "Spain": {
+      "message": "Spanyolország"
+   },
+   "Spanish": {
+      "message": "Spanyol"
+   },
+   "Spanish__Mexico_": {
+      "message": "Spanyol (Mexikó)"
+   },
+   "Special": {
+      "message": "Különleges"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Srí Lanka"
+   },
+   "Start_date": {
+      "message": "Kezdési időpont"
+   },
+   "State": {
+      "message": "Állam"
+   },
+   "State___Province": {
+      "message": "Ország / megye"
+   },
+   "Sticky_Password": {
+      "message": "Sticky jelszó"
+   },
+   "Submit_Form": {
+      "message": "Űrlap elküldése"
+   },
+   "Submitting___": {
+      "message": "Küldés..."
+   },
+   "Sudan": {
+      "message": "Szudán"
+   },
+   "Support_Email": {
+      "message": "Támogató e-mail"
+   },
+   "Suriname": {
+      "message": "Suriname"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Gyanús karakterek vannak a kiválasztott fájl névben, nem lesz feldolgozva"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard és Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Szváziföld"
+   },
+   "Sweden": {
+      "message": "Svédország"
+   },
+   "Swedish": {
+      "message": "Svéd"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Aktuális felhasználó ujjának lehúzása"
+   },
+   "Swipe_finger": {
+      "message": "Húzza végig az ujját"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Húzza végig az ujját az ujjlenyomat érzékelőn."
+   },
+   "Switzerland": {
+      "message": "Svájc"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Szíriai Arab Köztársaság"
+   },
+   "Tabs": {
+      "message": "Fülek"
+   },
+   "Taiwan": {
+      "message": "Tajvan"
+   },
+   "Tajikistan": {
+      "message": "Tádzsikisztán"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tanzániai Egyesült Köztársaság"
+   },
+   "Tehran": {
+      "message": "Teherán"
+   },
+   "Telephone": {
+      "message": "Telefon"
+   },
+   "Tell_a_friend_": {
+      "message": "Mondja el ismerősének!"
+   },
+   "Text": {
+      "message": "Szöveg"
+   },
+   "Text_to_find": {
+      "message": "Keresendő szöveg"
+   },
+   "Thailand": {
+      "message": "Thaiföld"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Ez a fájl hiányzik vagy üres. Kérjük, írja be importálandó fájl teljes elérési útvonalát."
+   },
+   "That_group_already_exists_": {
+      "message": "Ez a csoport már létezik."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "A hitelkártya kibocsátási éve 4 számjeggyel"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "A LastPass Wi-Fi eszköz nem található a számítógépen. Szeretné futtatni a LastPass Universal Installer-t a telepítéshez?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Az ismételten beírt LastPass mesterjelszó nem egyezik"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "A bevitt 'Régi jelszó' nem az Ön helyes mester jelszava"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "A LastPass kiegészítő bináris változata szükséges ehhez a művelethez. Letölthető a lastpass.com honlapról."
+   },
+   "The_credit_card_number": {
+      "message": "A hitelkártya száma"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "A hitelkártya lejárati éve 4 számjeggyel"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "A hitelkártya lejárati hónapja"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "A hitelkártya kibocsátási száma. Csak bizonyos európai hitelkártya esetén érvényes, mint pl. a Maestro."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "A hitelkártya biztonsági kódja.\nA legtöbb hitelkártya esetében ez a kártya hátoldalára nyomtatott szám utolsó 3 számjegye.\nAz American Express hitelkártya esetében a kártya elejére apró betűkkel nyomtatott szám utolsó 4 számjegye."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "A hitelkártyára nyomtatott teljes név"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "A weboldalak nyelve, ahol ezt az űrlapkitöltő profilt használni fogják"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "A hónap, amikor a hitelkártyát kiadták"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Az űrlapkitöltő profil neve"
+   },
+   "The_name_of_your_bank": {
+      "message": "Az Ön bankjának a neve"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "A megjegyzés mező túl sok adatot tartalmaz. Megjegyzésenként maximum 45.000 karakter tárolható.\n\nMegengedi, hogy lerövidítsük a megjegyzést? Néhány adat el fog veszni. "
+   },
+   "The_number_of_characters_in_the_generated_password_": {
+      "message": "Karakterek száma a generált jelszóban."
+   },
+   "The_password_that_you_use_to_log_into_this_website_": {
+      "message": "A jelszó, amit használ, hogy bejelentkezzen erre a weboldalra."
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Kitöltendő az űrlapkitöltő mögötti szöveg, az űrlapkitöltő neve vagy azonosítója.\nHa több tételnek kell egyszerre megfelelni, mindegyiket külön sorba írja."
+   },
+   "The_value_to_be_filled": {
+      "message": "A beírandó érték"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "A jelenleg használt Chrome esetében a HTML5 adatbázis támogatás nincs engedélyezve. Így ez a belépési oldal nem fog emlékezni e-mail címére és jelszavára továbbá az olyan tulajdonságok, mint pl. az automatikus bejelentkezés a böngésző újraindításakor, nem fog működni."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Az éppen futó Chrome változatnak nincs HTML5 adatbázis támogatás engedélyezve. Így ez a belépési oldal nem fog az Ön e-mail-jére és jelszavára emlékezni továbbá az olyan fukciók, mint a honlap újraindítását követő automatikus belépés, nem fognak működni. Megoldhatja ezt a problémát az adatbázis engedélyezési paraméter hozzáadását a Google Chrome böngésző shortcut fájljában."
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "Először ezt a mellékletet kell menteni."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Ezt csak weblapon keresztül lehet beállítani"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Ez a számítógép megbízható, nincs szükség egy második hitelesítésre."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Ez a funkció nem elérhető ebben a verzióban. Kérjük, telepítse a bináris kiterjesztést a https://lastpass.com/dl címről"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "A funkció használatához szükség van a kiegészítő bináris verziójára. Szeretné most telepíteni?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Ezt a funkciót még végre kell hajtami, hogy közvetlenül olvasson a"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Ez egy megosztott oldal. A jelszó megtekintése nem engedélyezett."
+   },
+   "This_is_the_name_or_URL_of_this_web_page_": {
+      "message": "Ez a neve vagy URL-je ennek a honlapnak."
+   },
+   "This_may_take_a_while___": {
+      "message": "Ez eltarthat egy ideig ..."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Ez az oldal hibásan töltődött fel. Biztosítsa, hogy a Maxthon legfrissebb verzióját futtassa (a LastPass legalább Maxthon 4.0.3.2000 verziót kíván). Egyébként pedig ez azért történhetett, mert vírus van a Maxthon-ban. Kérjük próbálja meg újra megnyitni ezt az oldalt."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Az oldal nem tudott hibátlanul feltöltődni. Kérjük, győződjön meg arról, hogy a Maxthon legújabb verzióját használja-e (a LastPass a Maxthon 4.0.3.3000 verzót igényli). Ha a legújabb verziót használja, akkor a Maxthon-ban vírus van. Próbálja újra megnyitni ezt az oldalt."
+   },
+   "This_password_you_use_to_log_into_this_website_": {
+      "message": "Ezt a jelszót használja az erre a honlapra való bejelentkezéshez."
+   },
+   "Time_Zone": {
+      "message": "Időzóna"
+   },
+   "Timor_Leste": {
+      "message": "Kelet-Timor"
+   },
+   "Title": {
+      "message": "Cím"
+   },
+   "To_create_your_account__please_re_enter_your_LastPass_master_password": {
+      "message": "Fiókja létrehozásához írja be újra LastPass mesterjelszavát."
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "Az 1Password bejegyzések exportálásához először lépjen be 1Password fiókjába. Jelölje ki az összes bejegyzést vagy csak azokat, melyeket exportálni szeretne. Ezután válassza a File menü / Export All / Text file... vagy a File menü / Export Selected / Text file... lehetőséget. Kattintson az Export gombra és mentse le a jelszó fájlt, majd importálja azt a LastPass-ba."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "A Clipperz kártyák exportálásához lépjen be a www.clipperz.com oldalra. Kattintson az adatra, majd az Export gombra és exportálja JSON-ba. Másolja le az összes szöveget és mentse szövegszerkesztő fájlba, majd importálja a fájlt. Megjegyezzük, hogy ez az importálás nem fog megfelelően működni, ha megváltoztatta az eredeti mező neveket. "
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "FireForm profilok exportálásához kattintson jobb egérgombbal a FireForm ikonra, válassza a Simple beállítást. Lépjen a General options fülre, kattintson az 'Export all profiles'-ra és XML fájlként mentse el. Importálja az így létrejött fájlt. "
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "HP Password Safe jelszavak exportálásához mentse el azokat egy HTML fájlba. Importálja az így létrejött fájlt."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "A KeePass belépési adatok exportálásához nyissa meg a KeePass adatbázist, kattintson a File > Export to > XML file menüpontra és nyomja meg a Save gombot. Ezután az OK gombot nyomja meg. Importálja az így létrejött fájlt. "
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "A LastPass belépési adatok exportálásához nyissa meg a LastPass-szal rendelkező böngészőt, kattintson a LastPass - Eszközök - Export to > CSV file menüpontra. Válasszon egy helyet a fájlnak majd nyomja meg a Save gombot. Importálja az így létrejött fájlt."
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "A Password Agent belépési adatainak exportálásához nyissa meg a Password Agent adatbázisát, kattintson File > Print and Export > Kimeneti formátum XML-re módosítása menüpontra. Győződjön meg arról, hogy a 'Group' ki van jelölve. Importálja az így létrejött fájlt."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "A Password Max jelszavak exportálásához kattintson a File > Database > Export > Text menüre és mentse el a CSV fájlt. Importálja az így létrejött fájlt."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "A RoboForm belépési információinak exportálásához kattintson a RoboForm-Logins....Print List menüre. Kattintson a Full URL jelölő négyzetre és nyomja meg a Save gombot. Importálja az így létrejött fájlt.\n\nA Roboform SafeNotes exportálásához kattintson a RoboForm-SafeNotes-PrintList menüre. Nyomja meg a Save gombot. Importálja az így létrejött fájlt.\n\nA RoboForm Identities exportálásához kattintson a RoboForm-Identities-Print List menüre. Nyomja meg a Save gombot. Importálja az így létrejött fájlt."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "Az eWallet kártyák exportálásához  menjen az eWallet > Tools > Export menühöz. Mentse el a szövegfájlt. Importálja az így létrejött fájlt."
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "A MyPasswordSafe-ből való exportáláshoz kattintson a File > Save As > Select type of UNENCRYPTED XML - Save menüre. Importálja az így létrejött fájlt."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "A Password Safe-ből való exportáláshoz kattintson a File > Export to > XML > Save menüre. Importálja az így létrejött fájlt. "
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "A jelszavak exportálásához lépjen be az asztali alkalmazásba és menjen a File > Export > CSV > All Entries menüponthoz. Importálja az így létrejött fájlt."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "A Darn! Passwords! jelszavak exportálásához kattintson a Tools > Print menüre. Kattiontson a Settings-re és jelölje ki az Include Notes in Export menüt. Kattintson a Print-re majd a kék lemez formájú Export to File ikonra. Adjon nevet a fájlnak és kattinbtson az Open-re. Importálja az így létrejött fájlt. "
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Jelszavak exportálása a Passpack-ból: Jelentkezzen be, menjen az Eszközök képernyőre, kattintson az Export-ra. A 'Milyen formátumot szeretne exportálni?' menüpontban válassza a CSV értékeket és a 'Milyen bevitt értékeket kíván importálni' menüben válassza az 'Összes bevitt érték' menüpontot, majd nyomja meg a Folytatás gombot. Jelölje ki a szövegdobozban az összes szöveget a következő képernyőn, másolja be a vágólapra, hozzon létre egy új fájlt passpack.csv névvel a Jegyzettömb-ben és illessze be a vágólap tartalmát ebbe a fájlba. Importálja ezt a fájlt."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Password Corral jelszavak importálásához jelentkezzen be, lépjen a File > Export Password > Create a plaintext menüponthoz összes jelszavának exportálásához. Importálja a létrehozott fájlt."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Jelszavak exportálásához a Password Depot-ból előbb kattintson az 'Eszközök' fülre majd válassza az 'Export' menüt. Válassza az 'Extensible Markup Language format (*.xml)'-t, határozza meg a cél fájlt és válassza ki azt a mappát, ahová exportálni szeretne."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "A Password Dragon jelszavainak exportálásához jelentkezzen be, menjen a File > Export > Text File menühöz, győződjön meg arról, hogy a 'Password' ki van jelölve (alapértelmezetten nincs). Importálja a mentett fájlt. "
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "A Revelation Password Manager-ből XML-ként exportálja a jelszavakat."
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "Az SPB Wallet-ből való jelszó exportáláshoz kattintson a File, Export menüre, válassza ki a fájl helyét a párbeszédablakban kattintson a Mentés-re. Ezután illessze be az adatot az ezen az oldalon látható keretbe."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "A LastPass elindításához másoljon oldalakat a fiókjába."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Wi-Fi jelszavak importálásához egyszerűen kattintson az alábbi Importálás menüre."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "A PIN Password Manager-ból való importáláshoz tabulátor elválasztású formába exportáljon. Ezután importálja az így létrejött fájlt."
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Opera Password Manager-ből való jelszó importáláshoz csak kattintson az alábbi Import gombra."
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Jelszavak Safari Password Manager-ből történő importálásához egyszerűen kattintson az alábbi Import gombra."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "Az MSI PasswordKeeper belépési kódjainak importálásához nyissa meg a programot. Kattintson a 'Txt'-re, majd az 'Open'-re. Importálja az így létrejött fájlt."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "A Password Keeper belépési adatainak exportálásához nyissa meg a programot és az exportálandó jelszó fájlt. Kattintson a File > Export File menüre. Kattintson a Yes-re, írja be jelszavát és kattintson az OK gombra. Ez egy normál Windows mentési párbeszéd ablakot nyit meg, írja be a fájl nevét és helyét. Importálja az így létrejött fájlt."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "A TurboPasswords belépési kódok importálásához nyissa meg a programot és az importálandó jelszófájlt. Ha egy bizonyos kategóriába vagy típusba való exportálást meg akarja tiltani, szűrje az adatokat a Kategória és Típus legördülő menüvel a fő ablak felett. Kattintson a File/Export Kategória menüpontra. Ez egy normál Windows mentési ablakot nyit meg. Írjon be egy fájlnevet és a mentés helyét, majd válassza a .csv fájltípust a Mentés másként mezőben."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Titkainak megőrzéséhez tartsa adatait biztonságos helyen."
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Eszközök"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad és Tobago"
+   },
+   "Trust_this_computer": {
+      "message": "Bízzon ebben a számítógépben"
+   },
+   "Try_Again": {
+      "message": "Próbálja újra"
+   },
+   "Tunisia": {
+      "message": "Tunézia"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "Törökország"
+   },
+   "Turkmenistan": {
+      "message": "Türkmenisztán"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks- és Caicos-szigetek"
+   },
+   "Tutorials": {
+      "message": "Oktatóanyagok"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Típus"
+   },
+   "Type_": {
+      "message": "Típus:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "FELHASZNÁLÓ NÉV"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukrajna"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulánbátor, Perth"
+   },
+   "Unexpected_data_type__": {
+      "message": "Váratlan adattípus:"
+   },
+   "United_Arab_Emirates": {
+      "message": "Egyesült Arab Emírségek"
+   },
+   "United_Kingdom": {
+      "message": "Egyesült Királyság"
+   },
+   "United_States": {
+      "message": "Egyesült Államok"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Amerikai Egyesült Államok Külső Szigetei"
+   },
+   "Unknown": {
+      "message": "Ismeretlen"
+   },
+   "Unselect_All": {
+      "message": "Kijelölések visszavonása"
+   },
+   "Up": {
+      "message": "Fel"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Frissítsen a LastPass Online-ra!"
+   },
+   "Uploading_Data___": {
+      "message": "Adatok feltöltése ..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use": {
+      "message": "Használ"
+   },
+   "Use_802_1X": {
+      "message": "802.1X használata"
+   },
+   "Use_Password": {
+      "message": "Jelszó használata"
+   },
+   "Use_Special_Characters": {
+      "message": "Speciális karakterek használata"
+   },
+   "Use_Special_Characters_": {
+      "message": "Használ speciális karaktereket?"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "Használja most ezt a jelszót (ehhez a honlaphoz)?"
+   },
+   "User_Manual": {
+      "message": "Felhasználói kézikönyv"
+   },
+   "User_name": {
+      "message": "Felhasználónév"
+   },
+   "Username_": {
+      "message": "Felhasználónév:"
+   },
+   "Usernameproper": {
+      "message": "Felhasználónév"
+   },
+   "Uzbekistan": {
+      "message": "Üzbegisztán"
+   },
+   "Value_to_fill": {
+      "message": "Kitöltendő érték"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Széf"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Változat"
+   },
+   "Version_": {
+      "message": "Verzió:"
+   },
+   "Viet_Nam": {
+      "message": "Vietnam"
+   },
+   "View_Image": {
+      "message": "Kép megnézése"
+   },
+   "View_Passwords": {
+      "message": "Jelszó megtekintése"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Virgin-szigetek (brit)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Virgin-szigetek (USA)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis és Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Figyelmeztetés nem biztonságos űrlapok kitöltése előtt"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Videó megtekintése az alapvető használatról"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "NEKÜNK NINCS másolatunk erről."
+   },
+   "Weak_Password": {
+      "message": "Gyenge jelszó"
+   },
+   "Website": {
+      "message": "Honlap"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Üdvözöl a LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Nyugat-Közép-Afrika"
+   },
+   "Western_Sahara": {
+      "message": "Nyugat-Szahara"
+   },
+   "What_you_use_to_log_into_this_website_": {
+      "message": "Amit erre a honlapra bejelentkezéshez használ."
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "Ha ez be van jelölve, legalább egy kisbetűt, egy nagybetűt és egy speciális karaktert kerül használásra"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "Amikor ez a négyzet be van jelölve, akkor legalább 1 kisbetű, 1 nagybetű és 1 speciális karakter lesz a jelszóban."
+   },
+   "When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "Amikor ez a négyzet be van jelölve, olyan karakterek, mint # és ! lesz a véletlen generált jelszóban."
+   },
+   "When_this_box_is_checked__confusing_characters__1_I_L_0_O__are_not_used_": {
+      "message": "Amikor ez a négyzet be van jelölve, akkor a nem egyértelmű karakterek (1,I,L,0,O) nem kerülnek a jelszóba."
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "Ha ez be van jelölve, generál egy jelszót, amit könnyű kiejteni"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "Amikor ez a négyzet be van jelölve, könnyen kiejthető jelszót generál."
+   },
+   "When_this_box_is_checked__potentially_confusing_characters__1_I_L_0_O__are_not_used": {
+      "message": "Ha ez be van jelölve, a potenciálisan zavaró karaktereket (1, I, L, 0, O) nem használja"
+   },
+   "When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "Ha ez be van jelölve, akkor olyan karaktereket használ, mint a # és a ! a jelszóban"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi jelszó"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi jelszavak"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "Would_you_like_LastPass_to_generate_a_secure_password_for_you_": {
+      "message": "Szeretné, ha a LastPass, létrehozna Önnek egy biztonságos jelszót?"
+   },
+   "Would_you_like_LastPass_to_save_your_site_information_": {
+      "message": "Szeretné, ha a LastPass elmentené a honlap információt?"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Szeretne most létrehozni egy űrlapkitöltő profilt?"
+   },
+   "XML_Files": {
+      "message": "XML-fájlok"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Jemen"
+   },
+   "Yes": {
+      "message": "Igen"
+   },
+   "Yes__Use_for_this_Site": {
+      "message": "Igen, használja ehhez a honlaphoz"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Igen, engedje, hogy eldöntsem, mely adatokat akarom a LastPass-ba importálni."
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Igen, engedje meg, hogy bevigyem és felülvizsgáljam az űrlap kitöltése során használandó adatokat."
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Honlapokat visz át megosztott mappájából széfjébe. Emiatt ezek elérhetetlenek lesznek mások számára.\n\nKívánja folytatni? "
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Ön honlapokat visz egy másik megosztott mappába. Ez megváltoztathatja azt, aki a hozzáféréssel rendelkezik a honlapokhoz.\n\nKívánja folytatni?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Megosztott mappába helyez honlapokat. Ezzel mások számára is láthatóvá válik.\n\nBiztos, hogy folytatja?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Ugyanahhoz a Gyorsbillentyűhöz csak egy érték rendelhető hozzá."
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Egyenként megosztott oldalak nem vihetők megosztott mappába."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Pillanatnyilag úgy állította be a Lastpass-t, hogy az emlékezzen az Ön jelszavára. Ezzel a beállított automatikus kijelentkezés használhatatlanná vált. Kívánja, hogy a LastPass ne emlékezzen a jelszavára?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Még nem választott alapértelmezett űrlapkitöltési profilt. Szeretne választani most?"
+   },
+   "You_have_saved_your_password_to_your_LastPass_Vault_": {
+      "message": "Elmentette jelszavát LastPass széfjébe."
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Ön is blokkolja az összes cookie-t, ami miatt a Chrome, nem engedi a HTML5 adatbázis-hozzáférést."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Bele kell egyeznie, hogy kódolt adatait elküldi a LastPass.com-hoz.\n\nA LastPass.com kódolja adatait és továbbítja biztonságos szervereire. A LastPass-nál senki sem tudja elolvasni bizalmas adatait, mivel azok az Ön titkos jelszavával vannak kódolva és Ön az egyetlen, aki ismeri a jelszót."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "A folytatáshoz el kell fogadnia a feltételeket"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Meg kell adnia egy nevet."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Meg kell adnia egy egyedi nevet."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Újra kell indítani a Chrome-ot vagy ki- és be kell jelentkezni a böngészőbeli változások érvényesítéséhez."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Újra kell indítania a böngészőt, mielőtt a változások érvénybe lépnek."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Az Ön születési éve 4 számjeggyel"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Google Chrome jelszavainak importálása sikeres volt."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Az Ön irányítószáma"
+   },
+   "Your_address_information": {
+      "message": "Cím adatok"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Melléklete a következő helyen található:"
+   },
+   "Your_bank_account_information": {
+      "message": "Bankszámla információ"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Az Ön bankszámlaszáma.\nEz a szám jellemzően a banki irányítószámtól jobbra található a csekken."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Az Ön banki irányítószáma.\nEz a 9 jegyű szám a csekk bal alsó sarkában található."
+   },
+   "Your_birth_day": {
+      "message": "Az Ön születésnapja"
+   },
+   "Your_birth_month": {
+      "message": "Az Ön születési hónapja"
+   },
+   "Your_city_name": {
+      "message": "Az Ön városának neve"
+   },
+   "Your_company_s_name": {
+      "message": "Cégének neve"
+   },
+   "Your_contact_information": {
+      "message": "Az Ön elérhetősége"
+   },
+   "Your_country_name": {
+      "message": "Az országa neve"
+   },
+   "Your_county_name": {
+      "message": "A megye neve"
+   },
+   "Your_credit_card_information": {
+      "message": "Hitelkártyája adatai"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "A jelenlegi beállítások miatt be kell írnia LastPass jelszavát a művelet befejezése érdekében."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Adatait már exportáltuk"
+   },
+   "Your_email_address": {
+      "message": "Az Ön e-mail címe"
+   },
+   "Your_first_name": {
+      "message": "Az Ön keresztneve"
+   },
+   "Your_government_ID_number": {
+      "message": "Kormányzati azonosító száma"
+   },
+   "Your_last_name": {
+      "message": "Az Ön vezetékneve"
+   },
+   "Your_middle_name": {
+      "message": "Az Ön középső neve"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "A jelszó nem egyezhet meg az e-mail címmel."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Az Ön jelszava könnyen kitalálható."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "A jelszó túl rövid. Legalább 6 karakter hosszúnak kell lennie"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Jelszava túl rövid. Legalább 8 karakter hosszúságúnak kell lennie."
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "A jelszó emlékeztető arra szolgál, hogy emlékeztessen, mi ..."
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Jelszavak nem egyeznek."
+   },
+   "Your_personal_information": {
+      "message": "Személyes adatai"
+   },
+   "Your_phone_number": {
+      "message": "Az Ön telefonszáma"
+   },
+   "Your_phone_number_extension": {
+      "message": "Telefonmellék"
+   },
+   "Your_prefix_or_title": {
+      "message": "Körzetszám"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "A kiválasztott azonosító már nem létezik többet. Visszaállt 'Összes'-re és kilépett."
+   },
+   "Your_sex": {
+      "message": "Az Ön neme"
+   },
+   "Your_state_or_province_name": {
+      "message": "Állam vagy tartomány neve"
+   },
+   "Your_street_address": {
+      "message": "Utca, házszám"
+   },
+   "Your_time_zone": {
+      "message": "Időzóna"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Felhasználónév a honlapra való bejelentkezéskor"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey többtényezős hitelesítés"
+   },
+   "Yugoslavia": {
+      "message": "Jugoszlávia"
+   },
+   "ZIP___Postal_code": {
+      "message": "Irányítószám"
+   },
+   "Zambia": {
+      "message": "Zambia"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "_Hide_": {
+      "message": "[Eltüntet]"
+   },
+   "_History_": {
+      "message": "[Előzmény]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Új, függő megosztási ajánlások)"
+   },
+   "_Not_applicable_when_the_Pronounceable_box_is_checked__": {
+      "message": "(Nem alkalmazható, ha a 'Kiejthető' ki van jelölve)."
+   },
+   "_Show_": {
+      "message": "[Mutat]"
+   },
+   "_domain_": {
+      "message": "(tartomány)"
+   },
+   "_none_": {
+      "message": "(nincs)"
+   },
+   "_unknown_": {
+      "message": "[Ismeretlen]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "... az aktuális jelszó, miközben titkosságát megőrzi."
+   },
+   "ago": {
+      "message": "ezelőtt"
+   },
+   "and": {
+      "message": "és"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "lépjen kapcsolatba velünk és el fogjuk küldeni e-mail-ben a jelszóemlékeztetőt."
+   },
+   "day": {
+      "message": "nappal"
+   },
+   "days": {
+      "message": "napja"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "telefonmellék"
+   },
+   "false": {
+      "message": "nem"
+   },
+   "favorites": {
+      "message": "kedvencek"
+   },
+   "hour": {
+      "message": "óra"
+   },
+   "hours": {
+      "message": "órával"
+   },
+   "just_now": {
+      "message": "most"
+   },
+   "minute": {
+      "message": "perc"
+   },
+   "minutes": {
+      "message": "perce"
+   },
+   "month": {
+      "message": "hónappal"
+   },
+   "months": {
+      "message": "hónapok"
+   },
+   "privacy_statement": {
+      "message": "adatvédelmi nyilatkozat"
+   },
+   "recently_usedlower": {
+      "message": "utoljára használt"
+   },
+   "search": {
+      "message": "keresés"
+   },
+   "second": {
+      "message": "másodperc"
+   },
+   "seconds": {
+      "message": "másodperc"
+   },
+   "send_more": {
+      "message": "küldjön többet"
+   },
+   "terms_of_service": {
+      "message": "szolgáltatási feltételek"
+   },
+   "the_current_tab": {
+      "message": "A jelenlegi fül"
+   },
+   "true": {
+      "message": "igen"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "NEM TUDJUK a LastPass jelszavát."
+   },
+   "week": {
+      "message": "héttel"
+   },
+   "weeks": {
+      "message": "héttel"
+   },
+   "year": {
+      "message": "évvel"
+   },
+   "years": {
+      "message": "éve"
+   }
+}

@@ -1,0 +1,1 @@
+function doexport(a){a?(getBG().g_is_win||(document.getElementById("wifi").style.display="none"),getBG().have_binary()||(document.getElementById("encrypted").style.display="none",document.getElementById("wifi").style.display="none")):get_data("export_choose",function(){doexport(!0)})};

@@ -1,0 +1,311 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1.अपनी यूबी-की को इस प्रकार से यूएसबी पोर्ट में प्रविष्ट करें कि यूएसबी-कॉनटक्ट ऊपर की ओर सामना करे "
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. तब तक प्रतीक्षा करें जब तक Yubikey स्पर्श बटन एक स्थिर प्रकाश के साथ नहीं चमकता। "
+   },
+   "ACTION": {
+      "message": "कार्रवाई"
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "एक पुनः प्रयास फाइल पाई गयी है. इसकी एक सम्भावना यह है की आपके सारे साईट के परिवर्तन Save (बचाए) नहीं जा  थे. क्या आप इस फाइल को हटाना चाहेंगे और संभवत: खोना चाहेंगे?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "आपका अनुरोध संसाधित करते समय एक सर्वर त्रुटि हो गई है. "
+   },
+   "About": {
+      "message": "के बारे में"
+   },
+   "About___": {
+      "message": "के बारे में ..."
+   },
+   "Accept": {
+      "message": "स्वीकार करें "
+   },
+   "Account_Settings": {
+      "message": "खाता सेटिंग्स"
+   },
+   "Actionproper": {
+      "message": "कार्रवाई"
+   },
+   "Actions": {
+      "message": "क्रियाएँ"
+   },
+   "Add_Credit_Card": {
+      "message": "क्रेडिट कार्ड जोड़ें"
+   },
+   "Add_Field": {
+      "message": "फील्ड जोड़ें"
+   },
+   "Add_Identity": {
+      "message": "पहचान जोड़ें"
+   },
+   "Add_New_Site": {
+      "message": "नया साइट जोड़ें"
+   },
+   "Add_Profile": {
+      "message": "प्रोफ़ाइल जोड़ें"
+   },
+   "Add_Secure_Note": {
+      "message": "सुरक्षित नोट शामिल करें"
+   },
+   "Add_Site": {
+      "message": "साइट जोड़ें"
+   },
+   "Address_1": {
+      "message": "पता 1"
+   },
+   "Address_2": {
+      "message": "पता 2"
+   },
+   "Address_3": {
+      "message": "पता 3"
+   },
+   "Admin_Tools": {
+      "message": "व्यवस्थापक उपकरण"
+   },
+   "Advanced": {
+      "message": "उन्नत"
+   },
+   "All": {
+      "message": "सभी"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "आपके कंप्यूटर पर असुरक्षित डेटा खोजने के लिए LastPass को अनुमति दें?"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "हमेशा प्रोफाइल और क्रेडिट कार्ड चुनें"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "एक अद्यतन उपलब्ध है. क्या आप स्थापित करने के लिए पसंद है?"
+   },
+   "Appearance": {
+      "message": "दिखावट"
+   },
+   "Application_": {
+      "message": "आवेदन:"
+   },
+   "April": {
+      "message": "अप्रैल"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "क्या आप चाहते हें की लास्टपास आपका पासवर्ड याद रखे? इससे आपके खाते की सुरक्षा में कमी होगी!"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "आप सुनिश्चित हैं कि आप चयनित साइटों को नष्ट करना चाहते हैं?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "क्या आप इस आवेदन को वाकई नष्ट करना चाहते हें?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "क्या आप इस सुरक्षित नोट को वाकई हटाना चाहते हें?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "क्या आप इस साइट को वाकई नष्ट करना चाहते हें?"
+   },
+   "Authenticate": {
+      "message": "प्रामाणीकरण"
+   },
+   "AutoFill": {
+      "message": "स्वत: भरण"
+   },
+   "AutoLogin": {
+      "message": "स्वचालित लॉगइन"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "स्वत: लॉगिन जानकारी भरें"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "अस्पष्ट वर्ण से बचें"
+   },
+   "Bit_Strength": {
+      "message": "बिट शक्ति"
+   },
+   "Cancel": {
+      "message": "रद्द"
+   },
+   "Co_pay": {
+      "message": "सह भुगतान"
+   },
+   "Company_Phone": {
+      "message": "कंपनी फोन"
+   },
+   "Copy_Password": {
+      "message": "पासवर्ड कॉपी करे"
+   },
+   "Copy_URL": {
+      "message": "कॉपी URL"
+   },
+   "Copy_Username": {
+      "message": "यूजर का नाम कॉपी करे"
+   },
+   "Create_Account": {
+      "message": "खाता बनाएँ"
+   },
+   "Date": {
+      "message": "तारीख"
+   },
+   "Delete": {
+      "message": "दूर करे"
+   },
+   "Disable_alert___": {
+      "message": "सतर्क को अक्षम करें ..."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "इस साइट के लिए सतर्क को अक्षम करें"
+   },
+   "Duplicate_password": {
+      "message": "पासवर्ड डुप्लिकेट"
+   },
+   "ErrorSendingMsg": {
+      "message": "एक त्रुटि हो गई जबकि सर्वर से संपर्क करने का प्रयास. अपने इंटरनेट कनेक्शन की जाँच करें."
+   },
+   "Expiration": {
+      "message": "समाप्ति"
+   },
+   "File": {
+      "message": "फ़ाइल"
+   },
+   "Fill_Forms": {
+      "message": "फार्म भरें"
+   },
+   "Filter": {
+      "message": "फ़िल्टर"
+   },
+   "Format": {
+      "message": "प्रारूप"
+   },
+   "Group_": {
+      "message": "समूह:"
+   },
+   "Group_ID": {
+      "message": "समूह आईडी"
+   },
+   "Health_Insurance": {
+      "message": "स्वास्थ्य बीमा"
+   },
+   "Hide_Password": {
+      "message": "पासवर्ड छुपाएं"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "Link_Personal_Account": {
+      "message": "व्यक्तिगत खाता लिंक करें"
+   },
+   "Login": {
+      "message": "लॉगिन"
+   },
+   "Logoff": {
+      "message": "लॉग ऑफ़"
+   },
+   "Member_ID": {
+      "message": "सदस्य आईडी"
+   },
+   "Name_": {
+      "message": "नाम:"
+   },
+   "Notes_": {
+      "message": "नोट:"
+   },
+   "OK": {
+      "message": "ठीक"
+   },
+   "Open_Security_Check": {
+      "message": "ओपन सुरक्षा जाँच"
+   },
+   "Passphrase": {
+      "message": "कूटशब्द"
+   },
+   "Password_": {
+      "message": "पासवर्ड:"
+   },
+   "Physician_Address": {
+      "message": "चिकित्सक पता"
+   },
+   "Physician_Name": {
+      "message": "चिकित्सक का नाम"
+   },
+   "Physician_Phone": {
+      "message": "फिजिशियन फोन"
+   },
+   "Please_answer_the_following_question_": {
+      "message": "निम्नलिखित प्रश्न का उत्तर दें:"
+   },
+   "Private_Key": {
+      "message": "निजी कुंजी"
+   },
+   "Public_Key": {
+      "message": "सार्वजनिक कुंजी"
+   },
+   "Refresh_Sites": {
+      "message": "Refresh साइटें"
+   },
+   "Remember_Email": {
+      "message": "ईमेल याद रखें"
+   },
+   "Remember_Password": {
+      "message": "पासवर्ड याद रखें"
+   },
+   "Remove_Personal_Account": {
+      "message": "व्यक्तिगत खाता निकालें"
+   },
+   "SSH_Key": {
+      "message": "SSH कुंजी"
+   },
+   "Searchproper": {
+      "message": "खोज"
+   },
+   "Show_Password": {
+      "message": "पासवर्ड दिखाएँ"
+   },
+   "Sites": {
+      "message": "साइटें"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "क्षमा करें, यह Shared फ़ोल्डर केवल पढ़ने के लिए है."
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "यह एक Shared साइट है. आप को पासवर्ड देखने की अनुमति नहीं है."
+   },
+   "Tutorials": {
+      "message": "ट्यूटोरियल"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "Username_": {
+      "message": "प्रयोक्ता नाम:"
+   },
+   "Version": {
+      "message": "संस्करण"
+   },
+   "Weak_Password": {
+      "message": "कमजोर पासवर्ड"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "आप एक Shared फ़ोल्डर में व्यक्तिगत रूप से Shared साइटों मे कदम नहीं कर सकते."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "जारी रखने के लिए आपको शर्तों से सहमत होना चाहिए"
+   },
+   "You_must_enter_a_name_": {
+      "message": "आप एक नाम दर्ज करना होगा."
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(नई लंबित साझा प्रदान करता है)"
+   },
+   "_none_": {
+      "message": "(कोई नहीं)"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   }
+}

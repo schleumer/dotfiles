@@ -1,0 +1,1 @@
+document.getElementById("selectall").value=gs("Select All");document.getElementById("unselectall").value=gs("Unselect All");document.getElementById("lpimport").innerText=gs("Import");document.getElementById("cancel").innerText=gs("Cancel");

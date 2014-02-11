@@ -1,0 +1,1 @@
+document.getElementById("login")&&(document.getElementById("login").innerHTML=gs("Login"));sr(document,"cancel","value","Cancel");sr(document,"forgot","innerHTML","I forgot my password, Help!");sr(document,"screenkeyboard","innerHTML","Screen Keyboard");sr(document,"createaccount","innerHTML","Create Account");

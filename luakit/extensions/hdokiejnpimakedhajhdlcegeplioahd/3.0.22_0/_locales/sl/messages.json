@@ -1,0 +1,2729 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Vstavite vaš YubiKey v USB-port, z USB-kontaktom obrnjenim navzgor"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Počakajte, da gumb na vašem YubiKey-ju zasveti"
+   },
+   "ACTION": {
+      "message": "UKREP"
+   },
+   "A_Zupper": {
+      "message": "A-Ž"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Na voljo je obvezna posodobitev za LastPass. Prosimo pritisnite V redu, da začnete prenos in namestitev."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Datoteka za ponovni poskus je bila najdena. To verjetno pomeni, da niso bile shranjene vse vaše spremembe na spletni strani. Ali želite izbrisati to datoteko in morda izgubiti nekaj sprememb?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Na strežniku je prišlo do napake pri obdelavi vaše zahteve."
+   },
+   "About": {
+      "message": "O nas"
+   },
+   "About___": {
+      "message": "O LastPass"
+   },
+   "Accept": {
+      "message": "Sprejmi"
+   },
+   "Account_Settings": {
+      "message": "Nastavitve računa"
+   },
+   "Account_Type": {
+      "message": "Vrsta računa"
+   },
+   "Account_number": {
+      "message": "Številka računa"
+   },
+   "Actionproper": {
+      "message": "Ukrep"
+   },
+   "Actions": {
+      "message": "Dejanja"
+   },
+   "Add": {
+      "message": "Dodaj"
+   },
+   "Add_Credit_Card": {
+      "message": "Dodaj bančno kartico"
+   },
+   "Add_Field": {
+      "message": "Dodaj polje"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Dodaj predlogo obrazca"
+   },
+   "Add_Identity": {
+      "message": "Dodaj identiteto"
+   },
+   "Add_New_Site": {
+      "message": "Dodaj novo spletno mesto"
+   },
+   "Add_Note": {
+      "message": "Dodaj opombo"
+   },
+   "Add_Profile": {
+      "message": "Dodaj profil"
+   },
+   "Add_Secure_Note": {
+      "message": "Dodaj varnostno opombo"
+   },
+   "Add_Site": {
+      "message": "Dodaj stran"
+   },
+   "Add_another_custom_field": {
+      "message": "Dodaj še eno polje po meri"
+   },
+   "Address": {
+      "message": "Naslov"
+   },
+   "Address_1": {
+      "message": "Naslov 1"
+   },
+   "Address_2": {
+      "message": "Naslov 2"
+   },
+   "Address_3": {
+      "message": "Naslov 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Administratorska orodja"
+   },
+   "Advanced": {
+      "message": "Napredno"
+   },
+   "Afghanistan": {
+      "message": "Afganistan"
+   },
+   "Aland_Islands": {
+      "message": "Alandski otoki"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albanija"
+   },
+   "Algeria": {
+      "message": "Alžirija"
+   },
+   "Alias": {
+      "message": "Alias"
+   },
+   "All": {
+      "message": "Vse"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Dovoli, da LastPass najde nezavarovane podatke na vašem računalniku?"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Vedno izberite profil in Kreditno Kartico"
+   },
+   "American_Samoa": {
+      "message": "Ameriška Samoa"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Atene, Istanbul, Beirut, Kairo, Jeruzalem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlin, Rim, Dunaj, Praga, Bruselj"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Posodobitev je na voljo. Jo želite namestiti?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Med nalaganjem strani je prišlo do napake. Prosimo prijavite se ponovno."
+   },
+   "An_error_occurred": {
+      "message": "Prišlo je do napake"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Prišlo je do napake pri ponovnem šifriranju vaših podatkov"
+   },
+   "Andorra": {
+      "message": "Andora"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Angvila"
+   },
+   "Antarctica": {
+      "message": "Antarktika"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigva in Barbuda"
+   },
+   "Appearance": {
+      "message": "Izgled"
+   },
+   "Application_": {
+      "message": "Aplikacija:"
+   },
+   "April": {
+      "message": "April"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Poljubne opombe predloge obrazca"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Ali zares želite, da si LastPass zapomni vaše geslo? To bo znatno znižalo varnost vašega računa LastPass!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Ali zares želite izbrisati?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Ali zares želite izbrisati izbrane strani?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Ali ste prepričani, da želite izbrisati to aplikacijo?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Ali zares želite izbrisati ta obrazec?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Ali zares želite izbrisati to predlogo obrazca?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Ali zares želite izbrisati ustvarjeno geslo?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Ali zares želite izbrisati to skupino?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Ali zares želite izbrisati ta naslov?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Ali zares želite izbrisati varnostno opombo?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Ali zares želite izbrisati to stran?"
+   },
+   "Argentina": {
+      "message": "Argentina"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armenija"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlantski čas (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "Avgust"
+   },
+   "Australia": {
+      "message": "Avstralija"
+   },
+   "Austria": {
+      "message": "Avstrija"
+   },
+   "Authenticate": {
+      "message": "Preverjanje pristnosti"
+   },
+   "Authentication": {
+      "message": "Avtentifikacija"
+   },
+   "Authentication_Failed_": {
+      "message": "Preverjanje pristnosti ni uspelo."
+   },
+   "AutoFill": {
+      "message": "Samodejno izpolni"
+   },
+   "AutoLogin": {
+      "message": "Samodejna prijava"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Samodejno izpolni prijavne podatke"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Samodejno odjavi pri neaktivnosti (min)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Samodejna prijava v strani, če je čas od zadnje prijave > (sekund)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Izognite se dvoumnim znakom"
+   },
+   "Azerbaijan": {
+      "message": "Azerbajdžan"
+   },
+   "Azores": {
+      "message": "Azori"
+   },
+   "Back": {
+      "message": "Nazaj"
+   },
+   "Bahamas": {
+      "message": "Bahami"
+   },
+   "Bahrain": {
+      "message": "Bahrajn"
+   },
+   "Baku__Yerevan": {
+      "message": "Baku, Erevan"
+   },
+   "Bangladesh": {
+      "message": "Bangladeš"
+   },
+   "Bank_Account": {
+      "message": "Bančni račun"
+   },
+   "Bank_accountformfill": {
+      "message": "Bančni račun"
+   },
+   "Bank_name": {
+      "message": "Naziv banke"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Belarus": {
+      "message": "Belorusija"
+   },
+   "Belgium": {
+      "message": "Belgija"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Butan"
+   },
+   "Birthday": {
+      "message": "Rojstni dan"
+   },
+   "Bit_Strength": {
+      "message": "Moč v bitih"
+   },
+   "Blacklist": {
+      "message": "Vaš račun je bil zaklenjen za krajše časovno obdobje (5 minut) zaradi preveč neuspelih poskusov prijave."
+   },
+   "Blog": {
+      "message": "Blog"
+   },
+   "Bolivia": {
+      "message": "Bolivija"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosna in Hercegovina"
+   },
+   "Botswana": {
+      "message": "Bocvana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvet Island"
+   },
+   "Branch_Address": {
+      "message": "Naslov podružnice"
+   },
+   "Branch_Phone": {
+      "message": "Telefon podružnice"
+   },
+   "Brazil": {
+      "message": "Brazilija"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Britansko ozemlje Indijskega oceana"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Brskajte po spletu kot ponavadi in LastPass si bo samodejno zapomnil gesla, ko jih boste vnesli."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunej"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Različica:"
+   },
+   "Bulgaria": {
+      "message": "Bolgarija"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Včasih sem pozabljiv... kaj naj naredim, če pozabim svoje geslo?"
+   },
+   "CSV_Files": {
+      "message": "CSV datoteke"
+   },
+   "Cambodia": {
+      "message": "Kambodža"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Skrito okno Lastpass ni bilo najdeno"
+   },
+   "Canada": {
+      "message": "Kanada"
+   },
+   "Cancel": {
+      "message": "Prekliči"
+   },
+   "Cape_Verde": {
+      "message": "Zelenortski otoki"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Zelenortski otoki"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalonski"
+   },
+   "Cayman_Islands": {
+      "message": "Kajmanski otoki"
+   },
+   "Central_African_Republic": {
+      "message": "Srednjeafriška republika"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Srednja Amerika, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Centralni časovni pas (ZDA in Kanada), Guadalajara, Mexico City"
+   },
+   "Chad": {
+      "message": "Čad"
+   },
+   "Change": {
+      "message": "Spremeni"
+   },
+   "Change_Group_Name": {
+      "message": "Spremeni ime skupine"
+   },
+   "Change_Password": {
+      "message": "Spremeni geslo"
+   },
+   "Check_For_Updates": {
+      "message": "Poišči posodobitve"
+   },
+   "Checkbox": {
+      "message": "Izbira"
+   },
+   "Checking_For_Updates___": {
+      "message": "Preverjanje za posodobitve ..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, New Delhi, Šri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Čile"
+   },
+   "China": {
+      "message": "Kitajska"
+   },
+   "Chinese__Simplified_": {
+      "message": "Kitajščina (preprosta)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Kitajščina (tradicionalna)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Izberi Profil in kreditno kartico"
+   },
+   "Christmas_Island": {
+      "message": "Božični otok"
+   },
+   "City___Town": {
+      "message": "Mesto / Kraj"
+   },
+   "Clear": {
+      "message": "Počisti"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Briši odložišče po uporabi (sekunde)"
+   },
+   "Clear_Forms": {
+      "message": "Počisti polja"
+   },
+   "Clear_Local_Cache": {
+      "message": "Počisti lokalni predpomnilnik"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Kliknite Nadaljuj, da začnete uporabljati LastPass."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Kliknite sem, če želite odpreti nastavitve računa"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Kliknite sem, če želite poslati povratne informacije"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Zapri"
+   },
+   "Close_this_window": {
+      "message": "Zapri okno"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocos (Keeling) Islands"
+   },
+   "Collapse_All": {
+      "message": "Združi vse"
+   },
+   "Colombia": {
+      "message": "Kolumbija"
+   },
+   "Comoros": {
+      "message": "Komori"
+   },
+   "Company": {
+      "message": "Družba"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Politika podjetja prepoveduje to dejanje."
+   },
+   "Company_Phone": {
+      "message": "Tel. podjetja"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Politika podjetja preprečuje spreminjanje nekaterih nastavitev. Vse spremembe niso bile shranjene."
+   },
+   "Configure_Form_Fill": {
+      "message": "Nastavi predlogo obrazca"
+   },
+   "Confirm": {
+      "message": "Potrdi"
+   },
+   "Confirm_Password": {
+      "message": "Potrdi geslo"
+   },
+   "Congo": {
+      "message": "Kongo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongo, Demokratična republika"
+   },
+   "Congratulations": {
+      "message": "Čestitamo"
+   },
+   "Connection_Mode": {
+      "message": "Način povezave"
+   },
+   "Connection_Type": {
+      "message": "Vrsta povezave"
+   },
+   "Contact": {
+      "message": "Stik"
+   },
+   "Continue": {
+      "message": "Nadaljuj"
+   },
+   "Cook_Islands": {
+      "message": "Cookovi otoki"
+   },
+   "Copy": {
+      "message": "kopiraj"
+   },
+   "Copy_Password": {
+      "message": "Kopiraj geslo"
+   },
+   "Copy_URL": {
+      "message": "Kopiraj URL"
+   },
+   "Copy_Username": {
+      "message": "Kopiraj uporabniško ime"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "© LastPass. Vse pravice pridržane.\nDeli tega programa so bili licencirani od tretjih oseb, kot je opisano:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Slonokoščena obala"
+   },
+   "Country": {
+      "message": "Država"
+   },
+   "County": {
+      "message": "Okrožje"
+   },
+   "Create_Account": {
+      "message": "Ustvari račun"
+   },
+   "Create_Group": {
+      "message": "Ustvarite skupino"
+   },
+   "Create_Sub_Group": {
+      "message": "Naredi Pod-skupino"
+   },
+   "Create_an_Account": {
+      "message": "Ustvari račun"
+   },
+   "Creating_Account___": {
+      "message": "Ustvarjanje računa ..."
+   },
+   "Credit_Card": {
+      "message": "Kreditna kartica"
+   },
+   "Credit_card_number": {
+      "message": "Številka kreditne kartice"
+   },
+   "Credit_cardformfill": {
+      "message": "Kreditna kartica"
+   },
+   "Croatia": {
+      "message": "Hrvaška"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Kuba"
+   },
+   "Custom_Value": {
+      "message": "Vrednost po meri"
+   },
+   "Custom_field__": {
+      "message": "Polje po meri #"
+   },
+   "Custom_fields": {
+      "message": "Polja po meri"
+   },
+   "Cyprus": {
+      "message": "Ciper"
+   },
+   "Czech_Republic": {
+      "message": "Češka"
+   },
+   "Danish": {
+      "message": "Danščina"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Baza"
+   },
+   "Date": {
+      "message": "Datum"
+   },
+   "Date_of_Birth": {
+      "message": "Leto rojstva"
+   },
+   "December": {
+      "message": "December"
+   },
+   "Default": {
+      "message": "Privzet"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Privzeta predloga obrazca"
+   },
+   "Delete": {
+      "message": "Izbriši"
+   },
+   "Delete_Group": {
+      "message": "Izbriši skupino"
+   },
+   "Delete_Selected": {
+      "message": "Izbriši izbrano"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Izbriši predlogo obrazca"
+   },
+   "Denmark": {
+      "message": "Danska"
+   },
+   "Disable": {
+      "message": "Onemogoči"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Onemogoči nevaren upravljalnik gesel v Google Chromu"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Onemogoči večfaktorsko avtentikacijo"
+   },
+   "Djibouti": {
+      "message": "Džibuti"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Ne prikaži ponovnega poziva za"
+   },
+   "Dominica": {
+      "message": "Dominika"
+   },
+   "Dominican_Republic": {
+      "message": "Dominikanska republika"
+   },
+   "Down": {
+      "message": "Dol"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "Vozniško dovoljenje"
+   },
+   "Dutch": {
+      "message": "Nizozemščina"
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Vzhodni časovni pas (ZDA in Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ekvador"
+   },
+   "Edit": {
+      "message": "Uredi"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Uredi profil bančne kartice"
+   },
+   "Edit_Form_Fields": {
+      "message": "Uredi polja obrazca"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Uredi predlogo obrazca"
+   },
+   "Edit_Secure_Note": {
+      "message": "Uredite varne opombe"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Uredi varne zapiske"
+   },
+   "Edit_Site": {
+      "message": "Uredi stran"
+   },
+   "Edit_Site_Fields": {
+      "message": "Uredi polja na strani"
+   },
+   "Egypt": {
+      "message": "Egipt"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-pošta"
+   },
+   "Email_Account": {
+      "message": "E-poštni naslov"
+   },
+   "Email_address": {
+      "message": "Elektronski naslov"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "E-pošta že v uporabi, ali ste pozabili geslo?"
+   },
+   "Encryption": {
+      "message": "Šifriranje"
+   },
+   "End": {
+      "message": "Na konec"
+   },
+   "English": {
+      "message": "Angleščina"
+   },
+   "English__United_Kingdom_": {
+      "message": "Angleščina (Združeno kraljestvo)"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Vnesite poljubne opombe"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Vpišite PIN kodo svoje pametne kartice:"
+   },
+   "Equatorial_Guinea": {
+      "message": "Ekvatorialna Gvineja"
+   },
+   "Eritrea": {
+      "message": "Eritreja"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Prišlo je do napake pri prenosu vaših LastPass mest. Prosimo, poskusite se ponovno prijaviti."
+   },
+   "ErrorLoginMsg": {
+      "message": "Prišlo je do napake pri prijavi v LastPass. Preverite vašo internetno povezavo."
+   },
+   "ErrorSendingMsg": {
+      "message": "Med poskusom dostopa do strežnika je prišlo do napake. Prosimo preverite vašo internetno povezavo. "
+   },
+   "ErrorSessionMsg": {
+      "message": "Vaša LastPass seja se je iztekla. Prosimo, da se ponovno prijavite."
+   },
+   "Estonia": {
+      "message": "Estonija"
+   },
+   "Ethiopia": {
+      "message": "Etiopija"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass zdaj lahko shrani enkratno geslo (OTP) na lokalni ravni, ki se lahko uporablja za povračilo računa, če bi pozabili svoje glavno geslo. Ta OTP bo ostala onemogočen, dokler se aktivira na strežniku.\n\nAli želite omogočiti okrevanje računa?"
+   },
+   "Expand_All": {
+      "message": "Razširi vse"
+   },
+   "Expiration_date": {
+      "message": "Velja do"
+   },
+   "Export_To": {
+      "message": "Izvozi v"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Izvozi v LastPass CSV datoteke"
+   },
+   "FIPS_Mode": {
+      "message": "Način FIPS"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falklandski otoki (Malvini)"
+   },
+   "Faroe_Islands": {
+      "message": "Ferski otoki"
+   },
+   "Favorite": {
+      "message": "Priljubljeno"
+   },
+   "Favoritesproper": {
+      "message": "Priljubljene"
+   },
+   "Fax_number": {
+      "message": "Številka faksa"
+   },
+   "February": {
+      "message": "Februar"
+   },
+   "Feedback": {
+      "message": "Povratne informacije"
+   },
+   "Female": {
+      "message": "Ženska"
+   },
+   "Fields_": {
+      "message": "Polja:"
+   },
+   "Fiji": {
+      "message": "Fidži"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fidži, Kamčatke, Marshallov otok"
+   },
+   "Fill": {
+      "message": "Zapolni"
+   },
+   "Fill_Current": {
+      "message": "Izpolni trenutno"
+   },
+   "Fill_Form": {
+      "message": "Izpolnite Obrazec"
+   },
+   "Fill_Forms": {
+      "message": "Izpolni obrazce"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Izpolnite privzeto predlogo obrazca"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Izpolnite ali uredite podatke v predlogi obrazca"
+   },
+   "FillableFormDetected": {
+      "message": "Na strani je bil najden izpolnitveni obrazec."
+   },
+   "Find_a_site": {
+      "message": "Poišči stran"
+   },
+   "Finland": {
+      "message": "Finska"
+   },
+   "Finnish": {
+      "message": "Finščina"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Mozilla Firefox upravitelj gesel"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Prve 3 cifre vaše telefonske številke"
+   },
+   "First_name": {
+      "message": "Ime"
+   },
+   "Form_Fill": {
+      "message": "Podatki obrazca"
+   },
+   "Form_Fill_Profile": {
+      "message": "Predloga obrazca"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Predloge obrazcev"
+   },
+   "Form_Fills": {
+      "message": "Podatki obrazcev"
+   },
+   "Form_Name_": {
+      "message": "Ime obrazca:"
+   },
+   "Format": {
+      "message": "Oblika"
+   },
+   "Forums": {
+      "message": "Forumi"
+   },
+   "France": {
+      "message": "Francija"
+   },
+   "French": {
+      "message": "Francoščina"
+   },
+   "French_Guiana": {
+      "message": "Francoska Gvajana"
+   },
+   "French_Polynesia": {
+      "message": "Francoska Polinezija"
+   },
+   "French_Southern_Territories": {
+      "message": "Francosko južno ozemlje"
+   },
+   "French__Canada_": {
+      "message": "Francoščina (Kanada)"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lizbona, London"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambija"
+   },
+   "Gender": {
+      "message": "Spol"
+   },
+   "General": {
+      "message": "Splošno"
+   },
+   "Generate": {
+      "message": "Ustvari"
+   },
+   "GeneratePassword": {
+      "message": "Če delate račun ali spreminjate geslo, pritisnite generiraj in LastPass bo ustvaril novo varno geslo."
+   },
+   "Generate_Password": {
+      "message": "Ustvari geslo"
+   },
+   "Generate_Secure_Password": {
+      "message": "Ustvari varno geslo"
+   },
+   "Generated_Password_for": {
+      "message": "Geslo ustvarjeno za"
+   },
+   "Generic": {
+      "message": "Splošno"
+   },
+   "Generic_CSV_File": {
+      "message": "Datoteka CSV"
+   },
+   "Georgia": {
+      "message": "Gruzija"
+   },
+   "German": {
+      "message": "Nemščina"
+   },
+   "Germany": {
+      "message": "Nemčija"
+   },
+   "Ghana": {
+      "message": "Gana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Premium_": {
+      "message": "Nadgradite na Premium!"
+   },
+   "Go_to_URL": {
+      "message": "Pojdi na naslov"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome zahteva, da razširitve uporabljajo isti jezik kot brskalnik. Če želite uporabljati LastPass v drugem jeziku, prosimo spremenite glavni jezik brskalnika v nastavitvah."
+   },
+   "Greece": {
+      "message": "Grčija"
+   },
+   "Greenland": {
+      "message": "Grenlandija"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Grenlandija, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Skupina:"
+   },
+   "Group_ID": {
+      "message": "ID skupine"
+   },
+   "Group_Name": {
+      "message": "Ime skupine"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Gvatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Gvineja"
+   },
+   "Guinea_Bissau": {
+      "message": "Gvineja Bissau"
+   },
+   "Guyana": {
+      "message": "Gvajana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaji"
+   },
+   "Health_Insurance": {
+      "message": "Zdravstveno zavarovanje"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Otok Heard in otočje McDonald"
+   },
+   "Height": {
+      "message": "Višina"
+   },
+   "Help": {
+      "message": "Pomoč"
+   },
+   "Help_Translate": {
+      "message": "Pomagajte prevajati"
+   },
+   "Help___": {
+      "message": "Pomoč ..."
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Skrij možnosti v meniju (desni klik)"
+   },
+   "Hide_Password": {
+      "message": "Skrij Geslo"
+   },
+   "Highlight_input_boxes": {
+      "message": "Označi vnosna polja"
+   },
+   "History": {
+      "message": "Zgodovina"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Sveti sedež (Vatikanska mestna država)"
+   },
+   "Home": {
+      "message": "Domov"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hongkong"
+   },
+   "Hostname": {
+      "message": "Ime gostitelja"
+   },
+   "HotKeys": {
+      "message": "Bližnjice"
+   },
+   "Hungarian": {
+      "message": "Madžarščina"
+   },
+   "Hungary": {
+      "message": "Madžarska"
+   },
+   "IBAN_Number": {
+      "message": "Številka IBAN"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "NIKOLI NE SMETE POZABITI VAŠEGA GESLA ZA LASTPASS!"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Pomoč ob pozabljenem geslu"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Prebral sem in se strinjam s"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Razumem, da bodo moji šifrirani podatki poslani v LastPass"
+   },
+   "Iceland": {
+      "message": "Islandija"
+   },
+   "Identities": {
+      "message": "Identitete"
+   },
+   "Identity": {
+      "message": "Identiteta"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Zahtevaj ponovni vnos glavnega gesla pred uporabo predloge obrazca"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Če že imate račun LastPass, lahko zaprete to okno in se prijavite."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Če boste pozabili glavno geslo za LastPass,"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Če imate drug format, ki ga LastPass trenutno ne podpira, lahko poskusite shraniti podatke v CSV datoteko.\n\nČE ŽELITE DA LASTPASS PREPOZNA DATOTEKO, MORATE PRVO VRSTICO V CSV DATOTEKI SPREMENITI\n\nImena stolpcev v prvi vrstici se morajo ujemati s podatki v stolpcih\nMožna imena v prvi vrstici:\nT\nhe prvo vrstico za imena stolpcev mora biti pravilno nastavitev za podatke v columns\nPossible prvi vrsti imen:\n\n\nurl,username,password,extra,name,grouping\n\n'extra' pomeni 'opombe' in 'grouping' v katero skupino spada. Ni vam potrebno uporabiti vseh imen stolpcev, pravtako ni pomemben vrstni red. Vaša prva vstica lahko npr. izgleda tako:\n\nname,username,password,url\n\nČe želite uvoziti 'Varne opombe' namesto strani, preprosto pustite prazne stolpce 'url', 'username' in 'password' (ali pa stolpcev sploh ne vnesete) in zagotovite, da 'ekstra' stolpec ni prazen. Če boste upoštevali obe stvari, se bo zapis samodejno uvozil kot 'Varna opomba' namesto kot spletna stran.\n\nTa postopek je zelo preprost, samo odprite CSV datoteko v Excelu in se prepričajte, da so v zgornji vrstici ustrezna imena. Datoteko shranite in uvozite shranjeno datoteko."
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Če ste izgubili YubiKey ključ, kliknite tukaj, da onemogočite YubiKey preverjanje pristnosti"
+   },
+   "Import": {
+      "message": "Uvoz"
+   },
+   "Import_From": {
+      "message": "Uvoz iz"
+   },
+   "Import_Your_Data": {
+      "message": "Uvozite Vaše podatke"
+   },
+   "India": {
+      "message": "Indija"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonezija"
+   },
+   "Install": {
+      "message": "Namesti"
+   },
+   "Instant_Messenger": {
+      "message": "Hitro sporočanje"
+   },
+   "Instructions": {
+      "message": "Navodila"
+   },
+   "International_Date_Line_West": {
+      "message": "International Date Line West"
+   },
+   "Invalid_Password_": {
+      "message": "Neveljavno geslo."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Neveljaven e-poštni naslov, poskusite znova"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Iran (Islamska republika)"
+   },
+   "Iraq": {
+      "message": "Irak"
+   },
+   "Ireland": {
+      "message": "Irska"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karači, Taškent"
+   },
+   "Isle_of_Man": {
+      "message": "Otok Man"
+   },
+   "Israel": {
+      "message": "Izrael"
+   },
+   "Issue_number": {
+      "message": "Številka izdaje"
+   },
+   "Issued_Date": {
+      "message": "Datum izdaje"
+   },
+   "Issuing_Authority": {
+      "message": "Organ izdaje"
+   },
+   "Italian": {
+      "message": "Italijanščina"
+   },
+   "Italy": {
+      "message": "Italija"
+   },
+   "Jamaica": {
+      "message": "Jamajka"
+   },
+   "January": {
+      "message": "Januar"
+   },
+   "Japan": {
+      "message": "Japonska"
+   },
+   "Japanese": {
+      "message": "Japonščina"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordan"
+   },
+   "July": {
+      "message": "Julij"
+   },
+   "June": {
+      "message": "Junij"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Katmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kazahstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Obdrži zgodovino moje prijave in izpolnjenih obrazcev"
+   },
+   "Kenya": {
+      "message": "Kenija"
+   },
+   "Key_Index": {
+      "message": "Kazalo ključev"
+   },
+   "Key_Type": {
+      "message": "Tipi ključev"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Koreja, Demokratična ljudska republika Of"
+   },
+   "Korea__Republic_Of": {
+      "message": "Korea, Republic Of"
+   },
+   "Korean": {
+      "message": "Korejščina"
+   },
+   "Kuwait": {
+      "message": "Kuvajt"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuvajt, Riyadh, Nairobi, Tbilisi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kirgizistan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Jezik"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Laoška ​​ljudska demokratična republika"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "Datoteka LastPass CSV"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "Razširitev LastPass za Google Chrome"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass šifrirana datoteka"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass meni"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass lahko samodejno izpolni obrazce na spletnih straneh z enim klikom. Z avtomatskim polnjenjem obrazca ne prihranimo samo čas, ampak tudi okrepimo svojo varnost pri nakupovanju na spletu."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "V Lastpass se ne morete prijaviti, dokler nimate omogočenih piškotkov za lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "Lastpass je zaznal nevaren prijavni obrazec.\n\nAli želite nadeljevati?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "Lastpass je zaznal nevaren prijavni obrazec.\n\nAli še vedno želite, da Lastpass izpolni ta obrazec?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass je zaznal spremembo gesla za"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass je zaznal spremembo gesla za domeno:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass je zaznal spremembo gesla za uporabnika:"
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass je vnesel vaše podatke na tej strani."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass je v celoti nameščen! Če boste namestili LastPass tudi na druge računalnike, bo zahtevana samo še prijava. Ne delite svojega glavnega gesla z nikomer, kar vključuje tudi zaposlene v LastPass - zanj vas nikoli ne bomo vprašali! LastPass šifrira vaše občutljive podatke na lokalni ravni, tako da tudi zaposleni v LastPass nimajo dostopa. Za pomoč kliknite na ikono LastPass in izberite Pomoč."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass je zadnje geslo, ki ga boste kdaj morali zapomniti. Če ste novi v LastPass, boste rabili še nekaj minut da nastavite račun. Ta račun boste lahko uporabili na katerem koli drugem računalniku, vaši podatki bodo vedno sinhronizirani. Kliknite ustvari račun za začetek."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Zadnje 4 cifre vaše telefonske številke"
+   },
+   "Last_Name2": {
+      "message": "Priimek2"
+   },
+   "Last_Touch": {
+      "message": "Last Touch"
+   },
+   "Last_name": {
+      "message": "Priimek"
+   },
+   "Latvia": {
+      "message": "Latvija"
+   },
+   "Launch": {
+      "message": "Lansiraj"
+   },
+   "Lebanon": {
+      "message": "Libanon"
+   },
+   "Left": {
+      "message": "Levo"
+   },
+   "Lesotho": {
+      "message": "Lesoto"
+   },
+   "Liberia": {
+      "message": "Liberija"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Libijska arabska džamahirija"
+   },
+   "License_Class": {
+      "message": "Razred licence"
+   },
+   "License_Key": {
+      "message": "Koda licence"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Lithuania": {
+      "message": "Litva"
+   },
+   "Local": {
+      "message": "Lokalno"
+   },
+   "Log_into_a_Site": {
+      "message": "Prijavite se v stran"
+   },
+   "Login": {
+      "message": "Prijava"
+   },
+   "LoginError": {
+      "message": "Napaka pri prijavi v LastPass. Prosimo, poskusite znova."
+   },
+   "Login_to_LastPass": {
+      "message": "Prijava v LastPass"
+   },
+   "Logoff": {
+      "message": "Odjava"
+   },
+   "Logoff_": {
+      "message": "Odjava:"
+   },
+   "LoseChanges": {
+      "message": "Ali zares želite urediti polja te strani? S tem boste izgubili vse obstoječe spremembe na tej strani!"
+   },
+   "Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Macao"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Makedonija, Nekdanja jugoslovanska republika"
+   },
+   "Madagascar": {
+      "message": "Madagaskar"
+   },
+   "Malawi": {
+      "message": "Malavi"
+   },
+   "Malaysia": {
+      "message": "Malezija"
+   },
+   "Maldives": {
+      "message": "Maldivi"
+   },
+   "Male": {
+      "message": "Moški"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "March": {
+      "message": "Marec"
+   },
+   "Marshall_Islands": {
+      "message": "Marshallovi otoki"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Glavno geslo"
+   },
+   "Mauritania": {
+      "message": "Mavretanija"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "May": {
+      "message": "Maj"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_ID": {
+      "message": "ID člana"
+   },
+   "Member_Name": {
+      "message": "Ime člana"
+   },
+   "Membership": {
+      "message": "Članstvo"
+   },
+   "Membership_Number": {
+      "message": "Številka članstva"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mehika"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Mikronezija, Federativne države"
+   },
+   "Mid_Atlantic": {
+      "message": "Srednje atlantski časovnipas"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Srednje 3 cifre vaše telefonske številke"
+   },
+   "Middle_name": {
+      "message": "Drugo ime"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway Island, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Najmanjše število znakov"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobilni e-poštni naslov"
+   },
+   "Mobile_number": {
+      "message": "Mobilna številka"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldavija, Republika"
+   },
+   "Monaco": {
+      "message": "Monako"
+   },
+   "Mongolia": {
+      "message": "Mongolija"
+   },
+   "Montenegro": {
+      "message": "Črna gora"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Več"
+   },
+   "More_Information": {
+      "message": "Več informacij"
+   },
+   "Morocco": {
+      "message": "Maroko"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Gorski časovni pas (ZDA in Kanada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Premakni izbrano v skupino"
+   },
+   "Move_to_Group": {
+      "message": "Premakni v skupino"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Premakni v Podskupino"
+   },
+   "Mozambique": {
+      "message": "Mozambik"
+   },
+   "Mr": {
+      "message": "G."
+   },
+   "Mrs": {
+      "message": "Ga."
+   },
+   "Ms": {
+      "message": "Gdč."
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_LastPass_Vault": {
+      "message": "Moj trezor LastPass"
+   },
+   "Myanmar": {
+      "message": "Mjanmar"
+   },
+   "NAME": {
+      "message": "IME"
+   },
+   "Name_": {
+      "message": "Ime:"
+   },
+   "Name_on_card": {
+      "message": "Ime na kartici"
+   },
+   "Nameproper": {
+      "message": "Ime"
+   },
+   "Namibia": {
+      "message": "Namibija"
+   },
+   "Nationality": {
+      "message": "Državljanstvo"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Nizozemska"
+   },
+   "Netherlands_Antilles": {
+      "message": "Nizozemski Antili"
+   },
+   "Never": {
+      "message": "Nikoli"
+   },
+   "Never_Show_Again": {
+      "message": "Nikoli več ne prikaži"
+   },
+   "Never___": {
+      "message": "Nikoli ..."
+   },
+   "New_Caledonia": {
+      "message": "Nova Kaledonija"
+   },
+   "New_Master_Password": {
+      "message": "Novo glavno geslo"
+   },
+   "New_Zealand": {
+      "message": "Nova Zelandija"
+   },
+   "Newfoundland": {
+      "message": "Novoodkritoozemlje"
+   },
+   "Nicaragua": {
+      "message": "Nikaragva"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigerija"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Ne"
+   },
+   "No_Matching_Sites_": {
+      "message": "Ni zadetkov!"
+   },
+   "No_Thanks": {
+      "message": "Ne, hvala"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Na voljo ni nobenih posodobitev"
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Ne, ne želim da mi LastPass pomaga izpolniti obrazce samodejno"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Ne, ne uvozi predmetov, ki niso varni"
+   },
+   "None_Available": {
+      "message": "Ni na voljo"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolk Island"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Severni Marianski otoki"
+   },
+   "Norway": {
+      "message": "Norveška"
+   },
+   "Norwegian": {
+      "message": "Norveški"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norveščina"
+   },
+   "Not_Now": {
+      "message": "Ne zdaj"
+   },
+   "Note_Type": {
+      "message": "Vrsta opombe"
+   },
+   "Notes": {
+      "message": "Opombe"
+   },
+   "Notes_": {
+      "message": "Opombe:"
+   },
+   "Notifications": {
+      "message": "Obvestila"
+   },
+   "November": {
+      "message": "November"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Število"
+   },
+   "Number_of_Licenses": {
+      "message": "Število licenc"
+   },
+   "OK": {
+      "message": "V redu"
+   },
+   "October": {
+      "message": "Oktober"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Ponudi generiranje varnih gesel"
+   },
+   "Old_Password": {
+      "message": "Staro geslo"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "Open_All": {
+      "message": "Odpri vse"
+   },
+   "Open_Favorites": {
+      "message": "Odpri priljubljene"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Odpri moj trezor LastPass"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Odpri prijavno okno, ko odprem brskalnik"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Order_Number": {
+      "message": "Številka naročila"
+   },
+   "Order_Total": {
+      "message": "Naročilo, skupaj"
+   },
+   "Organization": {
+      "message": "Organizacija"
+   },
+   "Other": {
+      "message": "Ostalo"
+   },
+   "Other_Sessions": {
+      "message": "Druge seje"
+   },
+   "PASSWORDupper": {
+      "message": "GESLO"
+   },
+   "PINs_Password_Manager": {
+      "message": "Upravljalec gesel PIN"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Pacifik (ZDA in Kanada)"
+   },
+   "Page_Down": {
+      "message": "Page Down"
+   },
+   "Page_Up": {
+      "message": "Page Up"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Palestinska ozemlja"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua Nova Gvineja"
+   },
+   "Paraguay": {
+      "message": "Paragvaj"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "Geslo"
+   },
+   "Passport": {
+      "message": "Potni list"
+   },
+   "Password": {
+      "message": "Geslo"
+   },
+   "Password_": {
+      "message": "Geslo:"
+   },
+   "Password_Agent": {
+      "message": "Agent gesel"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "Dolžina gesla"
+   },
+   "Password_Length_": {
+      "message": "Dolžina gesla:"
+   },
+   "Password_Reminder": {
+      "message": "Opomnik za geslo"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Opomnik gesla se ne ujema z geslom"
+   },
+   "Password_updated_": {
+      "message": "Geslo posodobljeno"
+   },
+   "Passwords_Max": {
+      "message": "Največ gesel"
+   },
+   "Personal": {
+      "message": "Osebno"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Filipini"
+   },
+   "Phone_number": {
+      "message": "Telefonska številka"
+   },
+   "Physician_Address": {
+      "message": "Naslov zdravnika"
+   },
+   "Physician_Name": {
+      "message": "Ime zdravnika"
+   },
+   "Physician_Phone": {
+      "message": "Tel. zdravnika"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Prosimo izberite"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Prosimo, vnesite opomnik gesla"
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Prosimo upoštevajte, da bo nadgradnja iz lokalno nameščenega LastPass na LastPass Online, prenesla vaše podatke o geslih v šifrirani obliki do LastPass strežnikov. Do svojih podatkov boste lahko dostopali od kjerkoli, LastPass pa jih ne bodo mogli prebrati. Želite nadaljevati?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Prosimo, da poimenujete ta računalnik"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Prosimo osvežite stran, da si ogledate spremembe."
+   },
+   "Please_select": {
+      "message": "Izberite"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Prosimo, izberite spletne strani, ki jih želite spremeniti."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Prosimo, obiščite https://lastpass.com, da si pozneje ustvarite račun."
+   },
+   "Poland": {
+      "message": "Poljska"
+   },
+   "Policy_Number": {
+      "message": "Številka politike"
+   },
+   "Policy_Type": {
+      "message": "Tip politike"
+   },
+   "Polish": {
+      "message": "Poljščina"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Kliči strežnik za spremembe računa (min)"
+   },
+   "Port": {
+      "message": "Vrata"
+   },
+   "Portugal": {
+      "message": "Portugalska"
+   },
+   "Portuguese": {
+      "message": "Portugalščina"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portugalščina (Brazilija)"
+   },
+   "Preferences": {
+      "message": "Nastavitve"
+   },
+   "Price": {
+      "message": "Cena"
+   },
+   "Print": {
+      "message": "Natisni"
+   },
+   "Print_Secure_Notes": {
+      "message": "Natisni varne zapiske"
+   },
+   "Print_Sites": {
+      "message": "Natisni strani"
+   },
+   "Private_Key": {
+      "message": "Zasebni ključ"
+   },
+   "Profile": {
+      "message": "Profil"
+   },
+   "Profile_language": {
+      "message": "Jezik profila"
+   },
+   "Profile_name": {
+      "message": "Ime profila"
+   },
+   "Pronounceable": {
+      "message": "Izgovorljivo"
+   },
+   "Protected": {
+      "message": "Zavarovano"
+   },
+   "Public_Key": {
+      "message": "Javni ključ"
+   },
+   "Publisher": {
+      "message": "Izdajatelj"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Datum nakupa"
+   },
+   "Qatar": {
+      "message": "Katar"
+   },
+   "Re_enter_Password": {
+      "message": "Ponovno vnesite geslo"
+   },
+   "Recently_Used": {
+      "message": "Nedavno uporabljeno"
+   },
+   "Recently_Used_list_size": {
+      "message": "Velikost seznama nedavno uporabljenih"
+   },
+   "Recheck_Page": {
+      "message": "Ponovno preveri stran"
+   },
+   "Reencrypting_Data___": {
+      "message": "Poteka ponovno šifriranje podatkov..."
+   },
+   "Refresh": {
+      "message": "Osveži"
+   },
+   "Refresh_Sites": {
+      "message": "Osveži strani"
+   },
+   "Reject": {
+      "message": "Zavrni"
+   },
+   "Remember_Email": {
+      "message": "Zapomni si e-pošto"
+   },
+   "Remember_Password": {
+      "message": "Zapomni si geslo"
+   },
+   "Rename_Group": {
+      "message": "Preimenuj skupino"
+   },
+   "Replace_Existing_Site": {
+      "message": "Zamenjaj obstoječe spletne strani"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Zahtevaj vsak znakovni tip"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Zahtevaj ponovni vnos glavnega gesla"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Zahtevaj varnostno preverjane, ko:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Spoštovanje Samodokončaj=off: dovoli stranem, da preprečijo samodejno izpoljnevanje obrazcev"
+   },
+   "Reunion": {
+      "message": "Reunion"
+   },
+   "Right": {
+      "message": "Desno"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Romunija"
+   },
+   "Routing_number": {
+      "message": "Številka za usmerjanje"
+   },
+   "Russian": {
+      "message": "Ruščina"
+   },
+   "Russian_Federation": {
+      "message": "Ruska federacija"
+   },
+   "Rwanda": {
+      "message": "Ruanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SMTP_Port": {
+      "message": "Vrata SMTP"
+   },
+   "SMTP_Server": {
+      "message": "Strežnik SMTP"
+   },
+   "SSH_Key": {
+      "message": "Ključ SSH"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "Koda SWIFT"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "Saint_Helena": {
+      "message": "Sveta Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts in Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Saint Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (francoski del)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre in Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent in Grenadine"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sao Tome in Principe"
+   },
+   "Saudi_Arabia": {
+      "message": "Savdska Arabija"
+   },
+   "Save": {
+      "message": "Shrani"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Shrani vse vpisane podatke"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Shrani profil bančne kartice"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Shrani predlogo obrazca"
+   },
+   "Save_New_Site": {
+      "message": "Shrani novo stran"
+   },
+   "Save_Site": {
+      "message": "Shrani stran"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Shranite spremembe in zaprite okno"
+   },
+   "Screen_Keyboard": {
+      "message": "Zaslonska tipkovnica"
+   },
+   "Search_All_Notes": {
+      "message": "Išči vse opombe"
+   },
+   "Search_within_secure_notes": {
+      "message": "Išči v varnih zapiskih"
+   },
+   "Searchproper": {
+      "message": "Iskanje"
+   },
+   "Secure_Notes": {
+      "message": "Varni zapiski"
+   },
+   "Security": {
+      "message": "Varnost"
+   },
+   "Security_Check": {
+      "message": "Varnostni pregled"
+   },
+   "Security_code": {
+      "message": "Varnostna koda"
+   },
+   "Select": {
+      "message": "Izberite"
+   },
+   "Select_All": {
+      "message": "Izberi vse"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Izberite ali vnesite novo ime skupine"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Pošlji anonimne podatke o napakah za pomoč pri izboljšanju LastPass-a"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "September": {
+      "message": "September"
+   },
+   "Serbia": {
+      "message": "Srbija"
+   },
+   "Server": {
+      "message": "Strežnik"
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame Multifactor authentikacija"
+   },
+   "Sex": {
+      "message": "Spol"
+   },
+   "Seychelles": {
+      "message": "Sejšeli"
+   },
+   "Share": {
+      "message": "Deli"
+   },
+   "Share_Selected": {
+      "message": "Deli izbrano"
+   },
+   "Share_offer_from": {
+      "message": "Deli obrazec s ponudbo"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Naj LastPass shrani to geslo?"
+   },
+   "Show": {
+      "message": "Prikaži"
+   },
+   "Show_Advanced_Options": {
+      "message": "Prikaži napredne nastavitve"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Prikaži izbrisane strani"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Prikaži obvestila o izpolnitvi obrazca"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Po prijavi prikaži moj trezor LastPass"
+   },
+   "Show_Notifications": {
+      "message": "Prikaži opozorila"
+   },
+   "Show_Password": {
+      "message": "Prikaži Geslo"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Prikaži obvestila 'Shrani stran'"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Prikaži strani v skupinah"
+   },
+   "Show_all_sites": {
+      "message": "Prikaži vse strani"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Prikaži določena obvestila šele po kliku"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Prijava"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Poenostavite brskanje: Uporabite LastPass za vnos uporabniškega imena in gesla!"
+   },
+   "Singapore": {
+      "message": "Singapur"
+   },
+   "Site_Search": {
+      "message": "Iskanje po strani"
+   },
+   "Sites": {
+      "message": "Spletne strani"
+   },
+   "Slovak": {
+      "message": "Slovaščina"
+   },
+   "Slovakia": {
+      "message": "Slovaška"
+   },
+   "Slovenia": {
+      "message": "Slovenija"
+   },
+   "Social_Security": {
+      "message": "EMŠO"
+   },
+   "Social_security_number": {
+      "message": "Številka socialnega zavarovanja"
+   },
+   "Software_License": {
+      "message": "Licenca za programsko opremo"
+   },
+   "Solomon_Islands": {
+      "message": "Salomonovi otoki"
+   },
+   "Somalia": {
+      "message": "Somalija"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Oprostite, ta skupna mapa je samo za branje."
+   },
+   "South_Africa": {
+      "message": "Južna Afrika"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Južna Gruzija in Južni Sandwich otoki"
+   },
+   "Spain": {
+      "message": "Španija"
+   },
+   "Spanish": {
+      "message": "Španščina"
+   },
+   "Spanish__Mexico_": {
+      "message": "Španščina (Mehika)"
+   },
+   "Special": {
+      "message": "Posebni znaki"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Šrilanka"
+   },
+   "Start_date": {
+      "message": "Datum začetka"
+   },
+   "State": {
+      "message": "Država"
+   },
+   "State___Province": {
+      "message": "Zvezna država / provinca"
+   },
+   "Submit_Form": {
+      "message": "Pošlji obrazec"
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "E-poštni naslov podpore"
+   },
+   "Suriname": {
+      "message": "Surinam"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard in Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Svazi"
+   },
+   "Sweden": {
+      "message": "Švedska"
+   },
+   "Swedish": {
+      "message": "Švedščina"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Potegnite prst trenutnega uporabnika"
+   },
+   "Swipe_finger": {
+      "message": "Potegnite prst"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Potegnite prst čez bralnik prstnih odtisov"
+   },
+   "Switzerland": {
+      "message": "Švica"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Sirsko arabsko republiko"
+   },
+   "Tabs": {
+      "message": "Zavihki"
+   },
+   "Taiwan": {
+      "message": "Tajvan"
+   },
+   "Tajikistan": {
+      "message": "Tadžikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tanzanija, Združena republika"
+   },
+   "Tehran": {
+      "message": "Teheran"
+   },
+   "Telephone": {
+      "message": "Telefonska številka"
+   },
+   "Text": {
+      "message": "Besedilo"
+   },
+   "Text_to_find": {
+      "message": "Besedilo za iskanje"
+   },
+   "Thailand": {
+      "message": "Tajska"
+   },
+   "That_group_already_exists_": {
+      "message": "Ta skupina že obstaja."
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Glavni gesli za LastPass se ne ujemata"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "Vnesli ste napačno 'Staro geslo'. Vnesite pravilno glavno geslo za LastPass."
+   },
+   "The_credit_card_number": {
+      "message": "Številka kreditne kartice"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Jezik spletne strani, kjer se bo ta predloga obrazca uporabljala"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Ime predloge obrazca"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Ta računalnik je vreden zaupanja, ne zahtevaj dvo stopenjskega preverjanja prisotnosti."
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "To je skupna stran. Ni vam dovoljeno, da si ogledate geslo."
+   },
+   "Time_Zone": {
+      "message": "Časovni pas"
+   },
+   "Timor_Leste": {
+      "message": "Timor-Leste"
+   },
+   "Title": {
+      "message": "Naslov"
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "To export Clipperz cards, login to www.clipperz.com. Click on data, then Export, then Export to JSON. Copy all of the text and save it to a file using a text editor, then import it. Please note that this import may not work properly if you've changed field names from their defaults."
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Orodja"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad in Tobago"
+   },
+   "Try_Again": {
+      "message": "Poskusite ponovno"
+   },
+   "Tunisia": {
+      "message": "Tunizija"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "Turčija"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks in Caicos"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Vrsta"
+   },
+   "Type_": {
+      "message": "Tip:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "UPORABNIŠKO IME"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukrajina"
+   },
+   "United_Arab_Emirates": {
+      "message": "Združeni arabski emirati"
+   },
+   "United_Kingdom": {
+      "message": "Velika Britanija"
+   },
+   "United_States": {
+      "message": "Združene države Amerike"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Združene države Amerike, Manjši zunanji otoki"
+   },
+   "Unselect_All": {
+      "message": "Opusti vse"
+   },
+   "Up": {
+      "message": "Gor"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Nadgradite na LastPass Online!"
+   },
+   "Uruguay": {
+      "message": "Urugvaj"
+   },
+   "Use_802_1X": {
+      "message": "Uporabi 802.1X"
+   },
+   "User_Manual": {
+      "message": "Navodila za uporabo"
+   },
+   "User_name": {
+      "message": "Uporabniško ime"
+   },
+   "Username_": {
+      "message": "Uporabniško ime:"
+   },
+   "Usernameproper": {
+      "message": "Uporabniško ime"
+   },
+   "Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Trezor"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Različica"
+   },
+   "Version_": {
+      "message": "Različica:"
+   },
+   "Viet_Nam": {
+      "message": "Vietnam"
+   },
+   "View_Passwords": {
+      "message": "Prikaži gesla"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Deviški otoki (britanski)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Deviški otoki (ZDA)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis in Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Opozori pred izpolnitvijo ne-varovanih obrazcev"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Oglejte si video s prikazom osnovne uporabe"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Ne obdržimo kopije niti ne naredimo varnostne kopije."
+   },
+   "Website": {
+      "message": "Spletna stran"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Dobrodošli v LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Zahodna srednja Afrika"
+   },
+   "Western_Sahara": {
+      "message": "Zahodna Sahara"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Geslo"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Želite takoj ustvariti predlogo obrazca?"
+   },
+   "XML_Files": {
+      "message": "XML datoteke"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangun)"
+   },
+   "Yemen": {
+      "message": "Jemen"
+   },
+   "Yes": {
+      "message": "Da"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Da, želim izbrati katere elemente uvoziti v LastPass."
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Strani boste premaknili v skupno mapo. To jih lahko naredi na voljo drugim.\n\nAli ste prepričani, da želite nadaljevati?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Niste še izbrali privzete predloge obrazca. Bi radi izbrali zdaj?"
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Strinjati se morate s pogoji, da lahko nadaljuje"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Vnesti morate ime."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Vnesti morate edinstveno ime."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Vaše 4-mestno leto rojstva"
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Vaša poštna številka"
+   },
+   "Your_bank_account_information": {
+      "message": "Informacije o vašem bančnem računu"
+   },
+   "Your_birth_day": {
+      "message": "Vaš rojstni dan"
+   },
+   "Your_birth_month": {
+      "message": "Vaš mesec rojstva"
+   },
+   "Your_city_name": {
+      "message": "Ime vašega mesta"
+   },
+   "Your_company_s_name": {
+      "message": "Ime vašega podjetja"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Vaše trenutne nastavitve zahtevajo, da vnesete svoje geslo za LastPass, če želite dokončati to dejanje."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Vaši podatki so bili izvožena v"
+   },
+   "Your_first_name": {
+      "message": "Vaše ime"
+   },
+   "Your_last_name": {
+      "message": "Vaš priimek"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Vaše geslo ne more biti isto kot vaš email."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Vaše geslo je preprosto uganljivo."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Vaše geslo je prekratko. Mora biti vsaj 6 znakov"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Vaše geslo je prekratko. Vsebovati mora vsaj 8 znakov"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Gesla se ne ujemajo."
+   },
+   "Your_phone_number": {
+      "message": "Vaša telefonska številka"
+   },
+   "Your_sex": {
+      "message": "Vaš spol"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey Multifactor Authentikacija"
+   },
+   "Yugoslavia": {
+      "message": "Jugoslavija"
+   },
+   "ZIP___Postal_code": {
+      "message": "Poštna številka"
+   },
+   "Zambia": {
+      "message": "Zambija"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabve"
+   },
+   "_Hide_": {
+      "message": "[Skrij]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Nove čakajoče ponudbe deljenja)"
+   },
+   "_Show_": {
+      "message": "[Prikaži]"
+   },
+   "_domain_": {
+      "message": "(domena)"
+   },
+   "_none_": {
+      "message": "(prazno)"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "ago": {
+      "message": "nazaj"
+   },
+   "and": {
+      "message": "in"
+   },
+   "day": {
+      "message": "dan"
+   },
+   "days": {
+      "message": "dni"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "zun."
+   },
+   "false": {
+      "message": "napačno"
+   },
+   "favorites": {
+      "message": "priljubljene"
+   },
+   "hour": {
+      "message": "ura"
+   },
+   "hours": {
+      "message": "ur"
+   },
+   "just_now": {
+      "message": "pravkar"
+   },
+   "minute": {
+      "message": "minuta"
+   },
+   "minutes": {
+      "message": "minut"
+   },
+   "month": {
+      "message": "mesec"
+   },
+   "months": {
+      "message": "mesecev"
+   },
+   "privacy_statement": {
+      "message": "izjava o zasebnost"
+   },
+   "recently_usedlower": {
+      "message": "nedavno uporabljeno"
+   },
+   "second": {
+      "message": "sekunda"
+   },
+   "seconds": {
+      "message": "sekund"
+   },
+   "terms_of_service": {
+      "message": "pogoji uporabe storitev"
+   },
+   "the_current_tab": {
+      "message": "trenutni zavihek"
+   },
+   "true": {
+      "message": "resnično"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "Mi NE VEMO, kakšno je vaše geslo za LastPass."
+   },
+   "week": {
+      "message": "teden"
+   },
+   "weeks": {
+      "message": "tednov"
+   },
+   "year": {
+      "message": "leto"
+   },
+   "years": {
+      "message": "let"
+   }
+}

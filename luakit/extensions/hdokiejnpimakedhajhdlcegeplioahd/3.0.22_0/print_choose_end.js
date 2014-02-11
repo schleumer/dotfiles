@@ -1,0 +1,1 @@
+document.title=gs("Print");if(document.getElementById("_docwrite_print_choose2"))document.getElementById("_docwrite_print_choose2").innerHTML=gs("Please choose the type of print you would like to perform:");

@@ -1,0 +1,328 @@
+.attachimg {
+  border: 3px solid transparent !important;
+  float:left;
+}
+.attachimg:hover {
+  border: 3px solid #ADD8E6 !important;
+  cursor: pointer;
+}
+.attachx {
+  background:url('images/xsmall.png') no-repeat;
+  background-position:center; 
+  font-size:25px;
+  line-height:25px;
+  width:22px;
+  vertical-align:top;
+}
+.attachx:hover {
+  background-image:url('images/xsmallroll.png');
+  cursor: pointer;
+}
+.attach_list_dropStyle { /* this entry is based on combobox.css */
+  border:thin dotted;
+background: #919191 !important; /* for non-css3 browsers */
+  background: -webkit-gradient(linear, left top, left bottom, from(#a9a9a9), to(#7a7a7a)); /* for webkit browsers */
+  font-weight: bold;
+  color: #e7e5e5;
+  position:absolute;
+  cursor:default;
+  text-align:left;
+  font-size:12px;
+  z-index:10000;
+  overflow:auto;
+}
+
+.attach_extension {
+  text-align:center;
+  font-size:12px;
+  padding-right:8px;
+}
+
+.attach_list_dropStyle .item {
+  padding:5px 11px;
+}
+
+#lpaddattach {
+  background:url('images/paperclip.png') no-repeat;
+  background-position:center; 
+  height:30px;
+  width:30px; 
+  padding:10px;
+  min-width:30px;
+}
+#lpaddattach:hover {
+  background-image:url('images/paperclip_hover.png');
+  cursor: pointer;
+}
+
+
+/*------scrollbar css --------*/
+
+::-webkit-scrollbar {
+        width: 6px;
+        height: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+        width: 6px;
+        background: hsla(0,0%,0%,0.15);
+        -webkit-border-radius: 5px;
+        -webkit-box-shadow:inset -2px 0px 5px hsla(0,0%,0%,0.3), inset 1px 0 0 hsla(0,0%,0%,0.2), inset -1px 0 0 hsla(0,0%,0%,0.2), inset 2px 0 0 hsla(0,0%,100%,0.4);
+}
+
+::-webkit-scrollbar-track {
+        width: 6px;
+        border-style: none;
+        -webkit-box-shadow:inset 2px 0px 5px hsla(0,0%,0%,0.15), inset 1px 0 0 hsla(0,0%,0%,0.2);
+        background-color: hsl(0,0%,93%);
+}
+
+#notestype{
+  padding: 5px 25px;
+}
+#passwordtoggle {
+  margin-left: -4px;
+}
+/* to defuse textboxes.css rule */
+#passwordtoggle:hover {
+  background-color: transparent;
+  text-decoration: none;
+  vertical-align: bottom;
+}
+
+/* based against
+** http://www.spiceupyourblog.com/2011/05/simple-css-only-tooltip-descriptions.html
+*/
+.tooltip
+{
+position: relative;
+/*background: #eaeaea;*/
+cursor: help;
+display: inline-block;
+text-decoration: none;
+/*color: #222;*/
+background-color: transparent;
+outline: none;
+}
+
+.tooltip span
+{
+visibility: hidden;
+position: absolute;
+margin-left:8px;
+text-align: center;
+z-index: 999;
+width: 150px;
+font-size:12px;
+font-family: Helvetica, Arial, sans-serif; font-weight:bold;
+padding: 2px;
+border: 1px solid #000;
+opacity: .9;
+line-height:14px;
+color:#fff;
+background-color: #000;
+background-image: -webkit-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -moz-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -ms-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -o-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+-moz-border-radius: 4px;
+border-radius: 4px;
+-moz-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+text-shadow: 0 1px 0 rgba(255,255,255,.4);
+}
+
+.tooltip:hover
+{
+border: 0; /* IE6 fix */
+}
+
+.tooltip:hover span
+{
+visibility: visible;
+}
+
+.tooltip span:after
+{
+  content: "";
+  position: absolute;
+  z-index: 1000;
+  top: 2px;
+  left:-8px;
+  border-top: 8px solid transparent;
+  border-left: 0;
+  border-right: 8px solid #000;
+  border-bottom: 8px solid transparent;
+}
+
+.eye {
+  vertical-align:bottom;
+  background-color:transparent;
+}
+
+.eye:hover {
+  vertical-align:bottom;
+  background-color:transparent;
+}
+/* don't know why it's needed here explicitly; should be covered by rules in textboxes.css */
+#password:focus, #password:hover {
+        border-color: #C9C9C9;
+        -webkit-box-shadow: rgba(0, 198, 255, 0.40) 0px 0px 8px;
+        }
+
+
+#notestype_combo{
+  height:310px;
+  padding: 5px 0px;
+}
+
+input[type=text], input[type=password], textarea{
+  -webkit-border-radius: 1px;
+}
+
+.eye img{
+  opacity:0.5;
+}
+.eye img:hover{
+  opacity:1.0;
+}
+.eye2 {
+  margin-left:-24px;
+}
+.eye {
+  padding-bottom:3px;
+}
+.teardrop{
+  position:absolute;
+}
+
+#siteframe{
+  width:700px;
+  border: 1px solid #c3c3c3;
+  -webkit-border-radius: 1px;
+  font-size:12px;
+  margin:0px auto;
+}
+
+#siteheader{
+  height:65px;
+  border-bottom:1px solid #c3c3c3;
+}
+#siteheader img{
+  padding:22px 0 0 32px;
+}
+
+#sitebody{
+  background:#e6e6e6;
+  padding:15px 25px;
+}
+
+#sitebody hr{
+  width:100%;
+  display: block; height: 1px;
+  border: 0; border-top: 1px solid #ccc;
+  margin-top: 15px;
+}
+
+.bold{
+  font-weight:bold;
+}
+
+#url{
+  width:636px;
+  max-width:636px;
+}
+.stdinput{
+  width:300px !important;
+}
+
+.leftcol{
+  float:left;
+  width:333px;
+}
+.leftcol2{
+  float:left;
+  width:305px;
+}
+
+
+.siterow{
+  padding:10px 0px;
+}
+
+.siterowtop{
+  padding-top:10px;
+}
+
+#notes{
+  height:160px;
+}
+
+input[type=text],input[type=password],textarea{
+  padding-left:10px;
+}
+
+.check{
+  float:left;
+}
+#favcheck{
+  width:100px;
+}
+#never_autofill_td{
+  width:133px;
+}
+#pwcheck{
+  width:210px;
+}
+#autologingrp{
+  width:110px;
+}
+#checkboxrow1{
+  padding:10px 0;
+}
+
+#sitebodymain{
+  padding:50px 0px;
+  color:#4c4c4c;
+}
+
+#sitebodymain a{
+  color:#848484;
+  font-weight:normal;
+  text-decoration:none;
+  background:transparent;
+}
+#notestype_button{
+  background:transparent !important;
+}
+#sitebodymain table{
+  font-size: 13px !important;
+}
+fieldset{
+  border:1px solid #c3c3c3;
+}
+
+#usernamehistory{
+  float:right;
+  padding-right:33px;
+}
+#passwordhistory{
+  float:right;
+  padding-right:7px;
+}
+#siteactions{
+  float:right;
+  margin-top:10px;
+}
+#siteactions a{
+  padding-left:30px;
+}
+#sitebodymain a:hover{
+  color: #4c4c4c;
+}
+
+#password {
+  padding-right: 30px;
+}

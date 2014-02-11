@@ -1,0 +1,3749 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. YubiKey'inizi USB portuna USB temas noktaları yukarı bakacak şekilde takın"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Mobil cihazınızda Google Authenticator uygulamasını çalıştırın"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Tek kullanımlık parola oluşturmak için LastPass Sesame uygulamasını çalıştırın "
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Aşağıdaki kutuya mevcut doğrulama kodununuzu girin"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Bir defalık parolanızı yapıştırın aşağıdaki girdi kutusuna yapıştırın ve 'Onayla' ya tıklayın"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. YubiKey'inizin dokunmatik düğmesi aralıksız yanana kadar bekleyin"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Yetkilendir'e tıklayın"
+   },
+   "3__Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. Parmağınızı dokunmatik düğmesi üzerinde 1 saniye tutun"
+   },
+   "ACTION": {
+      "message": "EYLEM"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "Mobil cihazınıza toplu SMS kodları gönderildi."
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_as_a_password_change_for_this_site_": {
+      "message": "Yeni bir şifre oluşturuldu. LastPass'in bunu bu site için bir şifre değişikliği olarak hatırlamasını ister misiniz?"
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_password_change_for_this_site_": {
+      "message": "Yeni bir şifre üretildi. LastPass'in bu sitede bu şifreyi hatırlamasını ister misiniz?"
+   },
+   "A_new_password_has_been_generated_": {
+      "message": "Yeni şifreniz üretildi!"
+   },
+   "A_randomly_generated_password_": {
+      "message": "Rastgele üretilmiş bir parola."
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "LastPass için gerekli bir güncelleme var.Lütfen indirmeye ve yüklemeye başlamak için Tamam'a tıklayın."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Bir tekrar dene dosyası bulundu. Tüm site değişiklikleriniz kaydedilmemiş olabilir. Bu dosyayı silmek ve bir ihtimal olarak bazı değişiklikleri kaybetmek ister misiniz?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Talebiniz işlenirken bir sunucu hatası oluştu."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Daha önce paylaşılmış bir site paylaşılanlar klasörüne taşınamaz.\nBir kopyasını oluşturmak ister misiniz?"
+   },
+   "About": {
+      "message": "Hakkında"
+   },
+   "About___": {
+      "message": "Hakkında..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dabi, Muscat, Moskova, St. Petersburg, Volgograd"
+   },
+   "Accept": {
+      "message": "Kabul et"
+   },
+   "Account_Settings": {
+      "message": "Hesap Ayarları"
+   },
+   "Account_Type": {
+      "message": "Hesap Türü"
+   },
+   "Account_number": {
+      "message": "Hesap Numarası"
+   },
+   "Actionproper": {
+      "message": "Eylem"
+   },
+   "Actions": {
+      "message": "Eylemler"
+   },
+   "Add": {
+      "message": "Ekle"
+   },
+   "Add_Credit_Card": {
+      "message": "Kredi kartı ekle"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Kredi Kartı profili ekle"
+   },
+   "Add_Field": {
+      "message": "Alan ekle"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Form Doldurma profili ekle"
+   },
+   "Add_Identity": {
+      "message": "Kimlik ekle"
+   },
+   "Add_New_Site": {
+      "message": "Yeni site ekle"
+   },
+   "Add_Note": {
+      "message": "Not Ekle"
+   },
+   "Add_Profile": {
+      "message": "Profil ekle"
+   },
+   "Add_Secure_Note": {
+      "message": "Güvenli not ekle"
+   },
+   "Add_Site": {
+      "message": "Site ekle"
+   },
+   "Add_another_custom_field": {
+      "message": "Bir başka özel alan ekle"
+   },
+   "Address": {
+      "message": "Adres"
+   },
+   "Address_1": {
+      "message": "Adres 1"
+   },
+   "Address_2": {
+      "message": "Adres 2"
+   },
+   "Address_3": {
+      "message": "Adres 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Yönetici Araçları"
+   },
+   "Advanced": {
+      "message": "Gelişmiş"
+   },
+   "Advanced_Options": {
+      "message": "Gelişmiş Seçenekler"
+   },
+   "Advanced_Tools": {
+      "message": "Gelişmiş Araçlar"
+   },
+   "Afghanistan": {
+      "message": "Afganistan"
+   },
+   "Agent_Name": {
+      "message": "Acenta Adı"
+   },
+   "Agent_Phone": {
+      "message": "Acenta Telefonu"
+   },
+   "Aland_Islands": {
+      "message": "Aland Adaları"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Arnavutluk"
+   },
+   "Algeria": {
+      "message": "Cezayir"
+   },
+   "Alias": {
+      "message": "Kod Adları"
+   },
+   "All": {
+      "message": "Hepsi"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "LastPass'in bilgisayarımdaki güvensiz verileri bulmasına izin ver"
+   },
+   "Almaty": {
+      "message": "Almatı"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "Alternatif olarak, aşağıdaki kutuya bir şifre girin."
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "Alternatif olarak, aşağıdaki kutuya bir şifre girin:"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Her zaman profili ve kredi kartını seç"
+   },
+   "American_Samoa": {
+      "message": "Amerikan Samoası"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Atina, İstanbul, Beyrut, Kahire, Kudüs"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlin, Roma, Viyana, Prag, Brüksel"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Yeni bir güncelleme mevcut. Yüklemek ister misiniz?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Siteleriniz yüklenirken bir sorunla karşılaşıldı. Lütfen yeniden giriş yapın."
+   },
+   "An_error_occurred": {
+      "message": "Bir hata oluştu"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Google Chrome şifreleri alırken bir hata oluştu."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Verileriniz terar şifrelenirken bir hata oluştu."
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Veriniz yüklenirken bir hata oluştu. Tekrar denemek ister misiniz?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Antarktika"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua ve Barbuda"
+   },
+   "Appearance": {
+      "message": "Görünüm"
+   },
+   "Application_": {
+      "message": "Uygulama:"
+   },
+   "Applications": {
+      "message": "Uygulamalar"
+   },
+   "April": {
+      "message": "Nisan"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Gelişigüzel notlarınızı saklamak için bu Form Doldurma profili ile birlikte doldurunuz. "
+   },
+   "Are_you_sure_you_want_to_delete_this_": {
+      "message": "Bunu silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Bu kimliği silmek istediğinizden emin misiniz? "
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Bu siteyi silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "LastPass'in şifrenizi hatırlamasını istediğinizden emin misiniz? Bu önemli LastPass hesabınızın güvenlik seviyesini düşurecektir!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Seçilen öğeleri silmeye emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Seçili siteleri silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Bunu uygulamayı silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Bu alanı silmek istediğinize emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Bu forum doldurma profilini silmek istediğinize emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Bu oluşturulan şifreyi silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Bu grubu silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Silmek istediğinden emin misin bunu:'Never URL'"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Bu güvenli notu silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Bu siteyi silmek istediğinizden emin misiniz?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Bu eki kaldırmak istediğinizden emin misiniz?"
+   },
+   "Argentina": {
+      "message": "Arjantin"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Ermenistan"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dhaka, Ekaterinburg"
+   },
+   "At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "Üretilen şifrelerde en az bu adette rakam olur."
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlantik Zamanı (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "Ağustos"
+   },
+   "Australia": {
+      "message": "Avustralya"
+   },
+   "Austria": {
+      "message": "Avusturya"
+   },
+   "Authenticate": {
+      "message": "Doğrulama"
+   },
+   "Authentication": {
+      "message": "Kimlik Doğrulama"
+   },
+   "Authentication_Failed_": {
+      "message": "Doğrulama geçersiz."
+   },
+   "AutoFill": {
+      "message": "Otomatik Doldur"
+   },
+   "AutoLogin": {
+      "message": "Otomatik Giriş"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Giriş bilgilerini otomatik olarak doldur"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Oturumu belirli birkaç dakika sonra otomatik olarak kapat"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Tüm tarayıcılar ve Chrome [mins] dakika boyunca kapalı kalırsa oturumu kapat"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Eğer son giriş zamanı ... (saniye) ise Sitelere otomatik gir."
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Belirsiz karakterlerden kaçının"
+   },
+   "Azerbaijan": {
+      "message": "Azerbaycan"
+   },
+   "Azores": {
+      "message": "Azores"
+   },
+   "Back": {
+      "message": "Geri"
+   },
+   "Baghdad": {
+      "message": "Bağdat"
+   },
+   "Bahamas": {
+      "message": "Bahamalar"
+   },
+   "Bahrain": {
+      "message": "Bahreyn"
+   },
+   "Baku__Yerevan": {
+      "message": "Bakü, Erivan"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Novosibirsk"
+   },
+   "Bangladesh": {
+      "message": "Bangladeş"
+   },
+   "Bank_Account": {
+      "message": "Banka Hesabı"
+   },
+   "Bank_accountformfill": {
+      "message": "Banka hesabı"
+   },
+   "Bank_name": {
+      "message": "Banka adı"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Lastpass'ı kullanmadan önce, öncelikle parmak izi okuyucunuzu bağlamalı ve bir veya daha fazla parmak izinizi kaydetmelisiniz."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Pekin, Hong Kong, Singapur, Taipei, Krasnoyarsk"
+   },
+   "Belarus": {
+      "message": "Beyaz Rusya"
+   },
+   "Belgium": {
+      "message": "Belçika"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Binary_Component_": {
+      "message": "Binary Bileşeni:"
+   },
+   "Birthday": {
+      "message": "Doğum günü"
+   },
+   "Bit_Strength": {
+      "message": "Bit Gücü"
+   },
+   "Blacklist": {
+      "message": "Birden fazla başarısız oturum açma denemesi nedeniyle hesabınız geçici olarak(5 dakika) askıya alınmıştır."
+   },
+   "Blog": {
+      "message": "Blog"
+   },
+   "Bolivia": {
+      "message": "Bolivya"
+   },
+   "Bookmarklets": {
+      "message": "Yer İmletleri"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosna Hersek"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvet Adası"
+   },
+   "Branch_Address": {
+      "message": "Şube Adresi"
+   },
+   "Branch_Phone": {
+      "message": "Şube Telefon"
+   },
+   "Brazil": {
+      "message": "Brezilya"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Yakutsk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "İngiliz Hint Okyanusu Bölgesi"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Normal biçimde web'de gezinin, LastPass otomatik olarak girdiğiniz parolaları hatırlayacak."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei Sultanlığı"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Derleme:"
+   },
+   "Bulgaria": {
+      "message": "Bulgaristan"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Ama ben unutkan biriyim... Şifremi unutursam ne yapmalıyım?"
+   },
+   "CSV_Files": {
+      "message": "CSV Dosyaları"
+   },
+   "Cambodia": {
+      "message": "Kamboçya"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Gizli LastPass penceresi bulunamadı."
+   },
+   "Canada": {
+      "message": "Kanada"
+   },
+   "Canary_Islands": {
+      "message": "Kanarya Adaları"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sidney, Hobart"
+   },
+   "Cancel": {
+      "message": "İptal"
+   },
+   "Cape_Verde": {
+      "message": "Cape Verde"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Yeşil Burun Adaları"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalanca"
+   },
+   "Cayman_Islands": {
+      "message": "Cayman Adaları"
+   },
+   "Central_African_Republic": {
+      "message": "Orta Afrika Cumhuriyeti"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Orta Amerika, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Merkezi Saati (ABD ve Kanada), Guadalajara, Mexico City"
+   },
+   "Chad": {
+      "message": "Çad"
+   },
+   "Change": {
+      "message": "Değiştir"
+   },
+   "Change_Group_Name": {
+      "message": "Grup adını değiştir"
+   },
+   "Change_Password": {
+      "message": "Şifreyi değiştir"
+   },
+   "Check_For_Updates": {
+      "message": "Güncellemeleri denetle"
+   },
+   "Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Şifrenizin nasıl oluşturacağını ayarlamak için bu kutuyu işaretleyin."
+   },
+   "Checkbox": {
+      "message": "Onay kutusu"
+   },
+   "Checking_For_Updates___": {
+      "message": "Güncellemeler kontrol ediliyor..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Madras, Kalküta, Bombay, Yeni Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Şili"
+   },
+   "China": {
+      "message": "Çin"
+   },
+   "Chinese__Simplified_": {
+      "message": "Çince (Basitleştirilmiş)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Çince (Geleneksel)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Profil ve Kredi Kartı  seçin"
+   },
+   "Choose_a_source_above_": {
+      "message": "Yukarıdan bir kaynak seçin."
+   },
+   "Christmas_Island": {
+      "message": "Christmas Adası"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "İl / İlçe"
+   },
+   "Clear": {
+      "message": "Temizle"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Clipboard'u kullanımdan sonra temizle (saniye)"
+   },
+   "Clear_Forms": {
+      "message": "Formları temizle"
+   },
+   "Clear_Local_Cache": {
+      "message": "Yerel önbelleği temizle"
+   },
+   "Clear_Recent": {
+      "message": "Yakın geçmişi temizle"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Çıkışta doldurulmuş alanları temizle"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "LastPass'i kullanmaya başlamak için Devam'a tıklayın."
+   },
+   "Click_Icons_in_Fields": {
+      "message": "Alanlardaki simgelere tıklayın"
+   },
+   "Click_here_for_instructions_on_importing_from_a_generic_CSV_file_": {
+      "message": "Genel bir CSV dosyasından içe aktarmayla ilgili talimatlar için buraya tıklayın."
+   },
+   "Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Telefonunuz veya mobil cihazınızda çok faktörlü kimlik doğrulama başlatmak için buraya tıklayın."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Hesap ayarlarına ulaşmak için buraya tıklayınız."
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Geri Bildirim yapmak için buraya tıklayınız."
+   },
+   "Click_on_a_username_or_formfill_profile_row_to_choose_how_LastPass_will_auto_fill_the_current_web_page_": {
+      "message": "LastPass'in bu sayfayı otomatik olarak nasıl dolduracağını seçmek için bir kullanıcı adına veya form doldurma profiline tıklayın."
+   },
+   "Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "Ek eylemler için alttaki ikonları kullanın."
+   },
+   "Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Şifrenizin nasıl üretileceğini ayarlamak için tıklayın."
+   },
+   "Click_to_hide_advanced_options_": {
+      "message": "Gelişmiş seçenekleri gizle."
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Kapat"
+   },
+   "Close_this_window": {
+      "message": "Bu pencereyi kapat"
+   },
+   "Co_pay": {
+      "message": "Ortak ödeme"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocos (Keeling) Adaları"
+   },
+   "Collapse_All": {
+      "message": "Tümünü daralt"
+   },
+   "Colombia": {
+      "message": "Kolombiya"
+   },
+   "Comoros": {
+      "message": "Komorlar"
+   },
+   "Company": {
+      "message": "Şirket"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "LastPass Form Doldurma'nın tercümesine yardımcı olun ar çevirmek Yardım"
+   },
+   "Company_Phone": {
+      "message": "Şirket Telefonu"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Şirket politikası bazı ayarların değiştirilmesini engelliyor, yapılan güncellemelerin hepsi kaydedilmedi."
+   },
+   "Configure_Form_Fill": {
+      "message": "Form Doldurucuyu Yapılandır"
+   },
+   "Confirm": {
+      "message": "Onayla"
+   },
+   "Confirm_Password": {
+      "message": "Şifreyi Onayla"
+   },
+   "Congo": {
+      "message": "Kongo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongo, Demokratik Cumhuriyeti"
+   },
+   "Congratulations": {
+      "message": "Tebrikler"
+   },
+   "Connection_Mode": {
+      "message": "Bağlantı Modu"
+   },
+   "Connection_Type": {
+      "message": "Bağlantı Türü"
+   },
+   "Contact": {
+      "message": "İletişim"
+   },
+   "Continue": {
+      "message": "Devam"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Seçilen dosya adında kontrol karakterleri bulundu, işlem yapılmayacak"
+   },
+   "Cook_Islands": {
+      "message": "Cook Adaları"
+   },
+   "Copy": {
+      "message": "Kopyala"
+   },
+   "Copy_Note": {
+      "message": "Notu Kopyala"
+   },
+   "Copy_Password": {
+      "message": "Şifreyi kopyala"
+   },
+   "Copy_URL": {
+      "message": "URL'yi Kopyala"
+   },
+   "Copy_Username": {
+      "message": "Kullanıcı adını kopyala"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. Tüm Hakları Saklıdır.\nBu yazılımın parçaları aşağıdaki bağlantıda belirtildiği gibi lisanslanmıştır:"
+   },
+   "Costa_Rica": {
+      "message": "Kostarika"
+   },
+   "Cote_D_ivoire": {
+      "message": "Fildişi Sahili"
+   },
+   "Country": {
+      "message": "Ülke"
+   },
+   "County": {
+      "message": "İlçe"
+   },
+   "Create_Account": {
+      "message": "Hesap Oluştur"
+   },
+   "Create_Group": {
+      "message": "Grup yarat"
+   },
+   "Create_Sub_Group": {
+      "message": "Alt grup oluştur"
+   },
+   "Create_an_Account": {
+      "message": "Hesap oluştur"
+   },
+   "Creating_Account___": {
+      "message": "Hesap oluşturuluyor..."
+   },
+   "Credit_Card": {
+      "message": "Kredi Kartı"
+   },
+   "Credit_Monitoring": {
+      "message": "Kredi İzleme"
+   },
+   "Credit_card_number": {
+      "message": "Kredi kartı numarası"
+   },
+   "Credit_cardformfill": {
+      "message": "Kredi kartı"
+   },
+   "Croatia": {
+      "message": "Hırvatistan"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Küba"
+   },
+   "Custom_Value": {
+      "message": "Özel değer"
+   },
+   "Custom_field__": {
+      "message": "Özel alan #"
+   },
+   "Custom_fields": {
+      "message": "Özel alanlar"
+   },
+   "Cyprus": {
+      "message": "Kıbrıs"
+   },
+   "Czech_Republic": {
+      "message": "Çek Cumhuriyeti"
+   },
+   "Danish": {
+      "message": "Danca"
+   },
+   "Darn__Passwords_": {
+      "message": "Hay aksi! Şifreler!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Veritabanı"
+   },
+   "Date": {
+      "message": "Tarih"
+   },
+   "Date_of_Birth": {
+      "message": "Doğum Tarihi"
+   },
+   "December": {
+      "message": "Aralık"
+   },
+   "Default": {
+      "message": "Varsayılan"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Varsayılan Form Tamamlama Profili"
+   },
+   "Delete": {
+      "message": "Sil"
+   },
+   "Delete_Cache": {
+      "message": "Önbelleği Sil"
+   },
+   "Delete_Formfill_Profile": {
+      "message": "Form Doldurma Profilini Sil"
+   },
+   "Delete_Group": {
+      "message": "Grubu Sil"
+   },
+   "Delete_Identity_": {
+      "message": "Kimlik Sil?"
+   },
+   "Delete_Selected": {
+      "message": "Seçileni sil"
+   },
+   "Delete_Site": {
+      "message": "Siteyi Sil"
+   },
+   "Delete_Site_": {
+      "message": "Siteyi Sil?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Bu Form Doldurma profilini sil"
+   },
+   "Denmark": {
+      "message": "Danimarka"
+   },
+   "Disable": {
+      "message": "Devre dışı bırak"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Güvensiz Chrome Parola Yöneticisini devre dışı bırak"
+   },
+   "Disable_LastPass": {
+      "message": "LastPass'i devre dışı bırak"
+   },
+   "Disable_LastPass_for_this_page_or_the_entire_site_": {
+      "message": "Bu sayfa veya tüm site için LastPass devre dışı bırakılsın mı?"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "ÇokFaktör'lü Doğrulamayı Devre Dışı Bırak"
+   },
+   "Disable_Page": {
+      "message": "Sayfayı devre dışı"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Tek Etmenli Kimlik Doğrulamayı Kapat"
+   },
+   "Disable_Site": {
+      "message": "Siteyi devere dışı bırak"
+   },
+   "Disable_alert___": {
+      "message": "Uyarıları kapat.."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Site için uyarıları kapat"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "Tüm zayıf/yinelenen site uyarlarını devre dışı bırak"
+   },
+   "Disable_for_all_sites": {
+      "message": "Tüm siteler için devre dışı bırak"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Değişiklikleri göz ardı et ve pencereyi kapat"
+   },
+   "Djibouti": {
+      "message": "Cibuti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Zaten doldurulmuş alanlardaki bilgileri değiştirme!"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "için yeniden sorma"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "LastPass'i beğeniyor musunuz?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Gerçekten çıkmak istiyor musunuz? Bir hesap oluşturmadan LastPass'i kullanamazsınız."
+   },
+   "Dominica": {
+      "message": "Dominik"
+   },
+   "Dominican_Republic": {
+      "message": "Dominik Cumhuriyeti"
+   },
+   "Down": {
+      "message": "Aşağı"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "Ehliyet"
+   },
+   "Duplicate_password": {
+      "message": "Yinelenen şifre"
+   },
+   "Dutch": {
+      "message": "Flemenkçe"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "HATA: Siteleri paylaşılan klasörler arasında taşıma şu anda desteklenmiyor."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "HATA: sitelerinde paylaşılan klasörleri dışarı taşımak için izin verilmez. Sil desteklenen tek işlemdir."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Doğu Saati (ABD ve Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ekvador"
+   },
+   "Edit": {
+      "message": "Düzenle"
+   },
+   "Edit_Application": {
+      "message": "Uygulamayı Düzenle"
+   },
+   "Edit_Application_Fields": {
+      "message": "Uygulama Alanlarını Düzenle"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Kredi Kartı profilini düzenle"
+   },
+   "Edit_Form_Fields": {
+      "message": "Form alanlarını düzenle"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Form doldurma profilini düzenle"
+   },
+   "Edit_Secure_Note": {
+      "message": "Güvenli notu düzenle"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Güvenli notları düzenle"
+   },
+   "Edit_Site": {
+      "message": "Siteyi düzenle"
+   },
+   "Edit_Site_Fields": {
+      "message": "Site alanlarını düzenle"
+   },
+   "Egypt": {
+      "message": "Mısır"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-posta"
+   },
+   "Email_Account": {
+      "message": "E-posta Hesabı"
+   },
+   "Email_address": {
+      "message": "Email adresi"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "E-posta zaten kullanımda. Şifrenizi mi unuttunuz?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Kredi İzlemeyi etkinleştirin"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Ücretsiz Kredi İzlemeyi etkinleştirin"
+   },
+   "Encryption": {
+      "message": "Şifreleme"
+   },
+   "End": {
+      "message": "Son"
+   },
+   "English": {
+      "message": "İngilizce"
+   },
+   "English__United_Kingdom_": {
+      "message": "İngilizce (Birleşik Krallık)"
+   },
+   "Enter_Code_": {
+      "message": "Kodu girin:"
+   },
+   "Enter_PIN": {
+      "message": "PIN kodunu girin"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "Aşağıdaki kutuya bir şifre girin:"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Keyfi Notlarınızı Giriniz"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Akıllı kart PIN kodunuzu giriniz:"
+   },
+   "Enterprise": {
+      "message": "Şirket"
+   },
+   "Equatorial_Guinea": {
+      "message": "Ekvator Ginesi"
+   },
+   "Eritrea": {
+      "message": "Eritre"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "LastPass sitelerinizi alırken bir hata oluştu. Lütfen sitelerinizi almak için yeniden giriş yapın."
+   },
+   "ErrorLoginMsg": {
+      "message": "LastPass oturumu açılırken bir hata oluştu. Lütfen internet bağlantınızı kontrol edin."
+   },
+   "ErrorSendingMsg": {
+      "message": "Sunucuya bağlanırken bir hata oluştu.Lütfen internet bağlantınızı kontrol edin."
+   },
+   "ErrorSessionMsg": {
+      "message": "LastPass oturumunuzun süresi dolmuş gözüküyor. Lütfen tekrar giriş yapın."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Hata: Bu klasör zaten taşınmış"
+   },
+   "Error_opening_attachment_": {
+      "message": "Eki açarken hata oluştu."
+   },
+   "Estonia": {
+      "message": "Estonya"
+   },
+   "Ethiopia": {
+      "message": "Etiyopya"
+   },
+   "Evening_number": {
+      "message": "Akşam numarası"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass şiimdi ana LastPass şifrenizi unutursanız hesabınızı kurtarmanız için yerel bir 'Tek Kullanımlık Parola' (TKP) saklayabilir. Bu TKP sunucudan etkin hale getirilene kadar devre dışı kalacaktır.\n\nHesap Kurtarmayı etkin hale getirmek istiyor musunuz?"
+   },
+   "Expand_All": {
+      "message": "Tümünü genişlet"
+   },
+   "Expiration": {
+      "message": "Sona erme"
+   },
+   "Expiration_date": {
+      "message": "Bitiş tarihi"
+   },
+   "Export": {
+      "message": "Dışa Aktar"
+   },
+   "Export_To": {
+      "message": "Şuraya dışa aktar"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "LastPass CSV dosyasına aktar"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS Modu"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falkland Adaları (Malvinas)"
+   },
+   "Faroe_Islands": {
+      "message": "Faroe Adaları"
+   },
+   "Favorite": {
+      "message": "Sık Kullanılan"
+   },
+   "Favoritesproper": {
+      "message": "Yer İmleri"
+   },
+   "Fax_number": {
+      "message": "Faks numarası"
+   },
+   "February": {
+      "message": "Şubat"
+   },
+   "Feedback": {
+      "message": "Geri Bildirim"
+   },
+   "Female": {
+      "message": "Kadın"
+   },
+   "Fields_": {
+      "message": "Alanlar:"
+   },
+   "Fiji": {
+      "message": "Fiji"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fiji, Kamçatka, Marshall Adaları"
+   },
+   "File": {
+      "message": "Dosya"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Dosya çok büyük. 10 MB'den küçük olmalıdır."
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "Dosya boyutu çok büyük, doya boyutu 5MB'tan küçük olmalıdır."
+   },
+   "Files": {
+      "message": "Dosyalar"
+   },
+   "Fill": {
+      "message": "Doldur"
+   },
+   "Fill_Current": {
+      "message": "Geçerliyi doldur"
+   },
+   "Fill_Form": {
+      "message": "Formu doldur"
+   },
+   "Fill_Forms": {
+      "message": "Formları doldur"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Varsayılan Form Tamamlama Profilini Tanımla"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Bir Sonraki Girişte Doldur(Çoklu olduğu zaman)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Bir Önceki Girişte Doldur(Çoklu olduğu zaman)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Form doldurma bilgilerini doldur veya düzenle"
+   },
+   "FillableFormDetected": {
+      "message": "Bu sayfada doldurulabilir bir form algılandı."
+   },
+   "Filter": {
+      "message": "Filtre"
+   },
+   "Find_a_site": {
+      "message": "Bir site bul"
+   },
+   "Finland": {
+      "message": "Finlandiya"
+   },
+   "Finnish": {
+      "message": "Fince"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefox Parola Yöneticisi"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Telefon numaranızın ilk 3 hanesi"
+   },
+   "First_name": {
+      "message": "Ad"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "Aşağıda listelenen her koordinat için, tablodaki değeri bulun ve değerini girin."
+   },
+   "Forgot_Password_": {
+      "message": "Parolanızı mı Unuttunuz?"
+   },
+   "FormFill": {
+      "message": "Form Doldur"
+   },
+   "FormFill_Profiles": {
+      "message": "Form Doldurma Profilleri"
+   },
+   "Form_Fill": {
+      "message": "Formu Doldurma"
+   },
+   "Form_Fill_Profile": {
+      "message": "Form Doldurma Profili"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Form Doldurma Profilleri"
+   },
+   "Form_Fills": {
+      "message": "Form Doldurmaları"
+   },
+   "Form_Name_": {
+      "message": "Form Adı:"
+   },
+   "Format": {
+      "message": "Biçim"
+   },
+   "Forums": {
+      "message": "Forumlar"
+   },
+   "France": {
+      "message": "Fransa"
+   },
+   "French": {
+      "message": "Fransızca"
+   },
+   "French_Guiana": {
+      "message": "Fransız Guyanası"
+   },
+   "French_Polynesia": {
+      "message": "Fransız Polinezyası"
+   },
+   "French_Southern_Territories": {
+      "message": "Fransız Güney Toprakları"
+   },
+   "French__Canada_": {
+      "message": "Fransızca (Kanada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "İçe aktarmak için dosyanın tam yolu:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "İçe Aktarmak için dosyanın tam yolu:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "ÜCRETSİZ PREMIUM ALIN"
+   },
+   "GMT_5": {
+      "message": "GMT +5"
+   },
+   "GMT_7": {
+      "message": "GMT +7"
+   },
+   "GMT_9": {
+      "message": "GMT +9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburg, Lizbon, Londra"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lizbon, Londra"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambiya"
+   },
+   "Gender": {
+      "message": "Cinsiyet"
+   },
+   "General": {
+      "message": "Genel"
+   },
+   "Generate": {
+      "message": "Üret"
+   },
+   "GeneratePassword": {
+      "message": "Bir hesap oluşturuyorsanız veya şifrenizi değiştiriyorsanız, LastPass ile özgün ve güvenli bir şifre için oluşturmak için 'Üret'e tıklayın."
+   },
+   "Generate_Password": {
+      "message": "Şifre Oluştur"
+   },
+   "Generate_Secure_Password": {
+      "message": "Güvenli Şifre Üret"
+   },
+   "Generated_Password_for": {
+      "message": "Üretilen şifre:"
+   },
+   "Generic": {
+      "message": "Genel"
+   },
+   "Generic_CSV_File": {
+      "message": "Genel CSV dosyası"
+   },
+   "Georgia": {
+      "message": "Gürcistan"
+   },
+   "German": {
+      "message": "Almanca"
+   },
+   "Germany": {
+      "message": "Almanya"
+   },
+   "Ghana": {
+      "message": "Gana"
+   },
+   "Gibraltar": {
+      "message": "Cebelitarık"
+   },
+   "Go_Back": {
+      "message": "Geri git"
+   },
+   "Go_Back_": {
+      "message": "Geri gidilsin mi?"
+   },
+   "Go_Premium_": {
+      "message": "Premium Al!"
+   },
+   "Go_to_URL": {
+      "message": "URL'ye git"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Authenticator Çok Faktörlü Doğrulama"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome Şifre Yöneticisi"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Bu eklenti ile Google Chrome' un aynı dilde olması gerekiyor. Şayet LastPass' ın dil ayarını değiştirdiyseniz, Chrome' un Seçenekler (options)- Dil (language) menülerinden dil ayarını da değiştirmelisiniz."
+   },
+   "Greece": {
+      "message": "Yunanistan"
+   },
+   "Greenland": {
+      "message": "Grönland"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Grönland, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Grup:"
+   },
+   "Group_ID": {
+      "message": "Grup Kimliği"
+   },
+   "Group_Name": {
+      "message": "Grup Adı"
+   },
+   "Group_will_be_created_under": {
+      "message": "Grup yaratılacak veya bunun altında olacak:"
+   },
+   "Groups": {
+      "message": "Gruplar"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Gine"
+   },
+   "Guinea_Bissau": {
+      "message": "Gine Bissau"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Health_Insurance": {
+      "message": "Sağlık Sigortası"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heard Adası ve McDonald Adaları"
+   },
+   "Height": {
+      "message": "Yükseklik"
+   },
+   "Help": {
+      "message": "Yardım"
+   },
+   "Help_Translate": {
+      "message": "Çeviriye yardım edin"
+   },
+   "Help___": {
+      "message": "Yardım..."
+   },
+   "Help_spread_the_word": {
+      "message": "Adımızı duyurmamızda yardımcı olun"
+   },
+   "Hide_Advanced_Options": {
+      "message": "Gelişmiş Seçenekler gizle"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "İçerik Menüsü Seçeneklerini sakla."
+   },
+   "Hide_Password": {
+      "message": "Şifreyi Gizle"
+   },
+   "Highlight_input_boxes": {
+      "message": "Giriş kutularını vurgula"
+   },
+   "History": {
+      "message": "Geçmiş"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Vatikan"
+   },
+   "Home": {
+      "message": "Ana Sayfa"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "Hostname": {
+      "message": "Sunucu Adı"
+   },
+   "HotKeys": {
+      "message": "Kısayollar"
+   },
+   "Hungarian": {
+      "message": "Macarca"
+   },
+   "Hungary": {
+      "message": "Macaristan"
+   },
+   "IBAN_Number": {
+      "message": "IBAN Numarası"
+   },
+   "IMPORT_": {
+      "message": "İÇE AKTAR?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "YENİ LASTPASS PAROLANIZI ASLA UNUTMAMANIZ ÇOK ÖNEMLİDİR."
+   },
+   "I_Forgot_my_Password": {
+      "message": "Şifremi unuttum"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Parolamı unuttum"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Okudum ve kabul ediyorum"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Şifrelenmiş verilerimin LastPass'e gönderileceğini anladım"
+   },
+   "I_ve_lost_my_Google_Authenticator_device": {
+      "message": "Google Şifrematik cihazımı kaybettim"
+   },
+   "Iceland": {
+      "message": "İzlanda"
+   },
+   "Identities": {
+      "message": "Kimlikler"
+   },
+   "Identity": {
+      "message": "Kimlik"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Şayet seçili ise, FORM DOLDURMA profiline erişmeden önce ana parolanızı tekrar girmeniz istenecek."
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Eğer işaretlerseniz, kredi raporunuz düzenli olarak izlenecek ve herhangi bir şüpheli eylem oluşması durumunda uyarılacaksınız."
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Belirtilmezse, şu dosya uzantısı kullanır:"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Eğer bir LastPass hesabınız varsa bu pencereyi kapayıp oturum açabilirsiniz."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Eğer ana LastPass şifrenizi unutursanız,"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Eğer cevabı unuttuysanız, güvenlik sorunuzu sıfırlamak için buraya tıklayın"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "LastPass'in şuan desteklemediği bir formattaki veriyi CSV formatında kaydetmeyi deneyebilirsiniz.\n\nCSV DOSYASININ ILK SATIRINI LASTPASS'IN VERIYI AKTARABILMESI ICIN DUZENLEMELISINIZ"
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Google Authenticator cihazınızı kaybettiyseniz Google Authenticator kimlik doğrulamasını devre dışı bırakmak için buraya tıklayın"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Sesame cihazınızı kaybederseniz, Sesame onayınızı devre dışı bırakmak için buraya tıklayın."
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Eğer YubiKey cihazınızı kaybederseniz, YubiKey onayınızı devre dışı bırakmak için buraya tıklayın."
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "Cihazınızı kaybettiyseniz, çok faktörlü kimlik doğrulamayı devre dışı bırakmak için buraya tıklayın"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Eğer tablonuzu kaybettiyseniz, buraya tıklayarak tablo için kimlik doğrulamayı etkisiz hale getirebilirsiniz."
+   },
+   "Import": {
+      "message": "İçe aktar"
+   },
+   "Import_From": {
+      "message": "Şuradan İçe Aktar"
+   },
+   "Import_Your_Data": {
+      "message": "Verinizi içe aktarın"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Bilgilerinizin LastPass içerisindeki size ait olan alana aktarmak, bilgilerinizi güvenli bir ortama taşımak anlamına gelir ve sizi sanal suçlulara karşı korur. İçe aktarılan bütün bilgiler TAMAMEN gizli kalacaktır: SİZİN verilerinizi görebilecek olan tek kişi SİZSİNİZ."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "LastPass'ın temel kimlik doğrulama diyaloglarını doldurabilmesi için yardımcı cihazlar için erişimi aktif hale getirmeniz gerekir."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "LastPass'ın temel kimlik doğrulama diyaloglarını doldurabilmesi için LastPass'ın Chrome için dijital versiyonunu yüklemeniz gerekir."
+   },
+   "India": {
+      "message": "Hindistan"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Endonezya"
+   },
+   "Install": {
+      "message": "Yükle"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Boştayken otomatik oturum kapanma özelliğini etkinleştirmek için Chrome için LastPass Kütüphanesi'ni yükleyin."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Boşta durma anında otomatik olarak LastPass'ın çıkış yapmasını etkinleştirmek için, LastPass' ın Chrome için çıkardığı 'Binary Sürümü' nü yükleyin."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Google Chrome' daki şifre kayıtlarınızın LastPass' a aktarılmasını etkinleştirmek için, LastPass' ın Chrome için çıkardığı 'Binary Sürümünü' yükleyiniz."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Diğer web tarayıcıları arasında giriş durumunuzu paylaşma özelliğini etkinleştirmek için, LastPass' ın Chrome için çıkardığı 'Binary Sürümünü' yükleyiniz."
+   },
+   "Instant_Messenger": {
+      "message": "IM"
+   },
+   "Instructions": {
+      "message": "Talimatlar"
+   },
+   "Insurance": {
+      "message": "Sigorta"
+   },
+   "International_Date_Line_West": {
+      "message": "Uluslararası Tarih Hattı Batı"
+   },
+   "Invalid_Password_": {
+      "message": "Geçersiz şifre."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Geçersiz e-posta adresi, tekrar deneyin"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Geçersiz dosya tipi, tarayıcınız tarafından gösterilebilir olması için resim dosyası olması gerekmektedir. "
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "İran (İslam Cumhuriyeti)"
+   },
+   "Iraq": {
+      "message": "Irak"
+   },
+   "Ireland": {
+      "message": "İrlanda"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "İslamabad, Karaçi, Taşkent"
+   },
+   "Isle_of_Man": {
+      "message": "Man Adası"
+   },
+   "Israel": {
+      "message": "İsrail"
+   },
+   "Issue_number": {
+      "message": "Olay numarası"
+   },
+   "Issued_Date": {
+      "message": "Verilme Tarihi"
+   },
+   "Issuing_Authority": {
+      "message": "Düzenleyen Kurum"
+   },
+   "Italian": {
+      "message": "İtalyanca"
+   },
+   "Italy": {
+      "message": "İtalya"
+   },
+   "Jamaica": {
+      "message": "Jameika"
+   },
+   "January": {
+      "message": "Ocak"
+   },
+   "Japan": {
+      "message": "Japonya"
+   },
+   "Japanese": {
+      "message": "Japonca"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Ürdün"
+   },
+   "July": {
+      "message": "Temmuz"
+   },
+   "June": {
+      "message": "Haziran"
+   },
+   "Kabul": {
+      "message": "Kabil"
+   },
+   "Kathmandu": {
+      "message": "Katmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kazakistan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Giriş ve form doldurma bilgilerimin geçmişini tut"
+   },
+   "Kenya": {
+      "message": "Kenya"
+   },
+   "Key_Index": {
+      "message": "Anahtar Dizini"
+   },
+   "Key_Type": {
+      "message": "Anahtar Tipi"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Kuzey Kore"
+   },
+   "Korea__Republic_Of": {
+      "message": "Güney Kore"
+   },
+   "Korean": {
+      "message": "Korece"
+   },
+   "Kuwait": {
+      "message": "Kuveyt"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuveyt, Riyad, Nairobi, Tiflis"
+   },
+   "Kyrgyzstan": {
+      "message": "Kırgızistan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Dil"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Lao Demokratik Halk Cumhuriyeti"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV Dosyası"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome Araç Çubuğu"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass Şifreli Dosyası"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass ÇokFaktör'lü Doğrulama Çizgileri"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass Menüsü"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass web forumlarını otomatik bir şekilde ve sadece tek bir tıkla doldurabilir. 'Forum doldurucu' hem daha kısa sürede işleminizi yapar hem de çevrimiçi alışverişinizde sizlere güvenlik sağlar."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "lastpass.com'dan çerezler kabul edilmedikçe LastPass oturum açamaz."
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass güvenli olmayan bir giriş formu tespit etti.\n\nDevam etmek istiyor musunuz?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass güvenli olmayan bir giriş formu tespit etti.\n\nLastPass'in yine de formu doldurmasını istiyor musunuz?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass bir şifre değişikliği tespit etti"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass bu alan anı için bir şifre değişikliği tespit etti:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass bu kullanıcı için bir şifre değişikliği tespit etti:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LassPast bir yükleme hatası tespit etti. Lütfen tekrar yükleyiniz."
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass, aşağıdaki site için zayıf bir şifre kullandığınızı tespit etti. Bu sitedek hesap ayarlarınıza girerek yeni bir şifre oluşturmanızı öneriyoruz. Bu hesap için eşsiz ve güçlü bir şifre oluşturmak için LastPass'i kullanabilirsiniz. Ardından değişiklikleri sitede ve LastPass'te kaydedebilirsiniz."
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass, bu oturumda kullandığını şifreyi başka sitelerde de kullandığınızı tespit etti. Bu sitedek hesap ayarlarınıza girerek yeni bir şifre oluşturmanızı öneriyoruz. Bu hesap için eşsiz ve güçlü bir şifre oluşturmak için LastPass'i kullanabilirsiniz. Ardından değişiklikleri sitede ve LastPass'te kaydedebilirsiniz."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass bu sayfadaki forma giriş bilgilerinizi girdi."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass tamamen yüklendi! LastPass'i diğer bilgisayarlara yüklediğinizde bu süreci tekrarlamanıza gerek olmayacak, sadece giriş yapmanız yeterli olacaktır. Ana parolanızı LastPass çalışanları dahil kimseye söylemeyin! LastPass önemli verilerinizi yerel olarak şifreler, böylece LastPass personeli dahi bilgilerinize ulaşamaz. LastPass simgesine tıklayıp Yardım'ı seçerek yardım alabilirsiniz."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LasstPass hatırlamak zorunda olduğunuz son paroladır. LastPass'i ilk kez kullanıyorsanız hesabınızı ayarlamak için birkaç dakikanıza ihtiyacımız var. Bu hesabınızı herhangi başka bilgisayarlarda da kullanıp kişisel verilerinizi eşitleyebileceksiniz. Başlamak için 'Hesap Oluştur'a tıklayın."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass, anahtar değişimi nedeniyle tüm verileri tekrar şifrelemeli"
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Telefon numaranızın son 4 hanesi"
+   },
+   "Last_Name2": {
+      "message": "Soyadı2"
+   },
+   "Last_Touch": {
+      "message": "Son Dokunuş"
+   },
+   "Last_name": {
+      "message": "Soyad"
+   },
+   "Latvia": {
+      "message": "Letonya"
+   },
+   "Launch": {
+      "message": "Çalıştır"
+   },
+   "Lebanon": {
+      "message": "Lübnan"
+   },
+   "Left": {
+      "message": "Sol"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Liberya"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Libya"
+   },
+   "License_Class": {
+      "message": "Lisans Sınıfı"
+   },
+   "License_Key": {
+      "message": "Lisans Anahtarı"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Link_Personal_Account": {
+      "message": "Kişisel Hesap Bağla"
+   },
+   "Lithuania": {
+      "message": "Litvanya"
+   },
+   "Local": {
+      "message": "Yerel"
+   },
+   "Log_into_a_Site": {
+      "message": "Bir siteye giriş yap"
+   },
+   "Login": {
+      "message": "Giriş"
+   },
+   "LoginError": {
+      "message": "LastPass oturumu açılamadı. Lütfen tekrar deneyin."
+   },
+   "Login_to_LastPass": {
+      "message": "LastPass'e Giriş Yap"
+   },
+   "Logoff": {
+      "message": "Oturumu kapat"
+   },
+   "Logoff_": {
+      "message": "Oturumu kapat:"
+   },
+   "LoseChanges": {
+      "message": "Bu sitenin alanları düzenlemek istediğinizden emin misiniz? Bunu yapmak bu sitede yaptığınız tüm değişiklikleri kaybetmenize sebep olacaktır!"
+   },
+   "LoseChangesApp": {
+      "message": "Bunu uygulamanın alanları düzenlemek istediğinizden emin misiniz? Bunu yapmak bu uygulama için yapılan değişiklikleri kaybetmenize sebep olacaktır!"
+   },
+   "Luxembourg": {
+      "message": "Lüksemburg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Macao"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Makedonya, Eski Yugoslav Cumhuriyeti"
+   },
+   "Madagascar": {
+      "message": "Madagaskar"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Solomon Is., Yeni Kaledonya, Vladivostok"
+   },
+   "Make_Pronounceable": {
+      "message": "Okunabilir yap"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malezya"
+   },
+   "Maldives": {
+      "message": "Maldivler"
+   },
+   "Male": {
+      "message": "Erkek"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Paylaşılan Klasörler Yönet"
+   },
+   "March": {
+      "message": "Mart"
+   },
+   "Marshall_Islands": {
+      "message": "Marshall Adaları"
+   },
+   "Martinique": {
+      "message": "Martinik"
+   },
+   "Master_Password": {
+      "message": "Ana Şifre"
+   },
+   "Matching_Sites": {
+      "message": "Eşleşen Siteler"
+   },
+   "Mauritania": {
+      "message": "Moritanya"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "May": {
+      "message": "Mayıs"
+   },
+   "Mayotte": {
+      "message": "Mayot"
+   },
+   "Member_ID": {
+      "message": "Üye Kimliği"
+   },
+   "Member_Name": {
+      "message": "Üye Adı"
+   },
+   "Membership": {
+      "message": "Üyelik"
+   },
+   "Membership_Number": {
+      "message": "Üyelik Numarası"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Meksika"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Federe Mikronezya Eyaletleri"
+   },
+   "Mid_Atlantic": {
+      "message": "Orta-Atlantik"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Telefon numaranızın ortadaki 3 hanesi"
+   },
+   "Middle_name": {
+      "message": "İkinci ad"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway Adası, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Minimum Rakam Sayısı"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobil E-Posta Adresi"
+   },
+   "Mobile_number": {
+      "message": "Cep telefonu numarası"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldova Cumhuriyeti"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Moğolistan"
+   },
+   "Montenegro": {
+      "message": "Karadağ"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Daha fazla"
+   },
+   "More_Information": {
+      "message": "Daha Fazla Bilgi"
+   },
+   "More_Options": {
+      "message": "Daha Fazla Seçenek"
+   },
+   "Morocco": {
+      "message": "Fas"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Dağ Saati (ABD ve Kanada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Seçileni gruba taşı"
+   },
+   "Move_to_Group": {
+      "message": "Gruba taşı"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Alt-gruba taşı"
+   },
+   "Mozambique": {
+      "message": "Mozambik"
+   },
+   "Mr": {
+      "message": "Bay"
+   },
+   "Mrs": {
+      "message": "Bayan (evli)"
+   },
+   "Ms": {
+      "message": "Bayan (bekar)"
+   },
+   "Multifactor_Authentication": {
+      "message": "Çok faktörlü kimlik doğrulama"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Hesabım"
+   },
+   "My_LastPass_Vault": {
+      "message": "LastPass Kasam"
+   },
+   "Myanmar": {
+      "message": "Myanmar"
+   },
+   "NAME": {
+      "message": "AD:"
+   },
+   "Name_": {
+      "message": "Adı:"
+   },
+   "Name_on_card": {
+      "message": "Karttaki ad"
+   },
+   "Nameproper": {
+      "message": "İsim"
+   },
+   "Namibia": {
+      "message": "Namibya"
+   },
+   "Nationality": {
+      "message": "Uyruk"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Hollanda"
+   },
+   "Netherlands_Antilles": {
+      "message": "Hollanda Antilleri"
+   },
+   "Never": {
+      "message": "Asla"
+   },
+   "Never_Add_Site": {
+      "message": "Site eklemeyi devre dışı bırak"
+   },
+   "Never_AutoFill": {
+      "message": "Otomatik Doldurmayı devre dışı bırak"
+   },
+   "Never_AutoLogin": {
+      "message": "Otomatik girişi devre dışı bırak"
+   },
+   "Never_Fill_Forms": {
+      "message": "Form doldurmayı devre dışı bırak"
+   },
+   "Never_For_This_Domain": {
+      "message": "Bu alan adı için devre dışı bırak"
+   },
+   "Never_For_This_Page": {
+      "message": "Bu sayfa için devre dışı bırak"
+   },
+   "Never_For_This_Site": {
+      "message": "Bu site için devre dışı bırak"
+   },
+   "Never_Generate_Password": {
+      "message": "Şifre oluşturmayı devre dışı bırak"
+   },
+   "Never_Show_Again": {
+      "message": "Tekrar Gösterme"
+   },
+   "Never___": {
+      "message": "Bunun için Asla..."
+   },
+   "New_Caledonia": {
+      "message": "Yeni Kaledonya"
+   },
+   "New_Master_Password": {
+      "message": "Yeni Ana Şifre"
+   },
+   "New_Zealand": {
+      "message": "Yeni Zelanda"
+   },
+   "New_here__Create_an_Account_": {
+      "message": "Burada yeni misiniz? Hesap Açın."
+   },
+   "Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "Next_SMS_passcode_starts_with": {
+      "message": "Sonraki SMS parolası bununla başlar"
+   },
+   "Nicaragua": {
+      "message": "Nikaragua"
+   },
+   "Niger": {
+      "message": "Nijer"
+   },
+   "Nigeria": {
+      "message": "Nijerya"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Hayır"
+   },
+   "No_Matching_Sites_": {
+      "message": "Eşleşen site yok!"
+   },
+   "No_Thanks": {
+      "message": "Hayır, teşekkürler"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Güncelleştirme mevcut değil"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Bu bilgisayarda Wi-Fi(kablosus ağ) aygıtı algılanamadı. Bu özellik, bir Wi-Fi aygıtı gerektirir."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Hayır, otomatik olarak formları doldurmak için LastPass'ın yardım etmesini istemiyorum"
+   },
+   "No__Save_as_New_Entry": {
+      "message": "Hayır, Yeni Giriş olarak kaydet"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Hayır, benim herhangi bir güvensiz öğemi aktarma"
+   },
+   "None_Available": {
+      "message": "Erişilebilir yok"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolk Adası"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Kuzey Mariana Adaları"
+   },
+   "Norway": {
+      "message": "Norveç"
+   },
+   "Norwegian": {
+      "message": "Norveçce"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norveç Nynorsk'i"
+   },
+   "Not_Now": {
+      "message": "Şimdi değil"
+   },
+   "Note_Type": {
+      "message": "Not Türü"
+   },
+   "Notes": {
+      "message": "Notlar"
+   },
+   "Notes_": {
+      "message": "Notlar:"
+   },
+   "Notifications": {
+      "message": "Bildirimler"
+   },
+   "November": {
+      "message": "Kasım"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Numara"
+   },
+   "Number_of_Licenses": {
+      "message": "Lisans Sayısı"
+   },
+   "OK": {
+      "message": "Tamam"
+   },
+   "October": {
+      "message": "Ekim"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Güvenli şifre oluşturmayı öner"
+   },
+   "Old_Password": {
+      "message": "Eski Şifre"
+   },
+   "Oman": {
+      "message": "Umman"
+   },
+   "One_Time_Passwords": {
+      "message": "Tek Kullanımlık Şifreler"
+   },
+   "Open_All": {
+      "message": "Tümünü aç"
+   },
+   "Open_Favorites": {
+      "message": "Sık kullanılanları aç"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "LastPass kasamı aç"
+   },
+   "Open_New_Pages_in": {
+      "message": "Yeni sayfaları"
+   },
+   "Open_Popover": {
+      "message": "Ziyaret'i Aç"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Yapışkan Şifreleri Aç - Veritabanını Yönet -Dışarı Aktar - Metin Belgesi olarak dışarı aktar. Bu dosyayı içe aktar"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Tarayıcı açıldığında giriş penceresini aç"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Opera Şifre Yöneticisi"
+   },
+   "Or__would_you_like_LastPass_to_save_a_new_user_password_for_this_site_": {
+      "message": "Veya LastPass'in bu site için yeni bir kullanıcı adı/ şifre kaydetmesini mi istersiniz?"
+   },
+   "Order_Number": {
+      "message": "Sipariş Numarası"
+   },
+   "Order_Total": {
+      "message": "Sipariş Toplamı"
+   },
+   "Organization": {
+      "message": "Organizasyon"
+   },
+   "Other": {
+      "message": "Diğer"
+   },
+   "Other_Sessions": {
+      "message": "Diğer Oturumlar"
+   },
+   "PASSWORDupper": {
+      "message": "PAROLA"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Parola Yöneticisi"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Pasifik Saati (ABD ve Kanada)"
+   },
+   "Page_Down": {
+      "message": "Page Down"
+   },
+   "Page_Up": {
+      "message": "Page Up"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Filistin Toprakları"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua Yeni Gine"
+   },
+   "Paraguay": {
+      "message": "Paraguay"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "Parola"
+   },
+   "Passport": {
+      "message": "Pasaport"
+   },
+   "Password": {
+      "message": "Şifre"
+   },
+   "Password_": {
+      "message": "Şifre:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Şifre Deposu"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "Parola Uzunluğu"
+   },
+   "Password_Length_": {
+      "message": "Şifre Uzunluğu:"
+   },
+   "Password_Reminder": {
+      "message": "Şifre Hatırlatıcı"
+   },
+   "Password_Safe": {
+      "message": "Şifre Güvenliği"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Şifremi hatırlatıcı şifreleri eşleştiremiyor"
+   },
+   "Password_updated_": {
+      "message": "Şifre güncellendi!"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "Kişisel"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Filipinler"
+   },
+   "Phone_number": {
+      "message": "Telefon numarası"
+   },
+   "Physician_Address": {
+      "message": "Doktor Adresi"
+   },
+   "Physician_Name": {
+      "message": "Doktor Adı"
+   },
+   "Physician_Phone": {
+      "message": "Doktor Telefon"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Lütfen bir seçim yapın"
+   },
+   "Please_Wait___": {
+      "message": "Lütfen Bekleyiniz..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Lütfen şu soruya cevap verin:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Gerçekleştirmek istediğiniz dışa aktarım türünü seçiniz:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Lütfen gerçekleştirmek istediğiniz yazdırma türünü seçiniz"
+   },
+   "Please_close_this_window": {
+      "message": "Lütfen bu pencereyi kapatın"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Lütfen bir parola hatırlatıcı girin"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "İçe aktarmak için dosyanın tam yolunu giriniz."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Lütfen siteleri taşırken tek seferde yanlızca bir paylaşılan klasörden taşıyın."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "LastPass Yerel'den LastPass Online'a yükseltme yaparken, şifre bilgileriniz LastPass sunucularına şifrelenmiş formatta yükleneceğini unutmayın. Herhangi bir yerden bilgilerinize erişebileceksiniz ve LastPass'ın okuması mümkün olmayacaktır. Devam etmek ister misiniz?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Lütfen bu bilgisayara bir isim verin"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Lütfen değişiklikleri görmek için sayfayı yeniden yükleyin."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "LastPass Online'ı kullanmaya başlamak için lütfen tüm tarayıcılarınızı yeniden başlatın."
+   },
+   "Please_select": {
+      "message": "Lütfen seçiniz"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Lütfen bu değişikliğin uygulanmasını istediğiniz siteleri seçin."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Hesabınızı daha sonra oluşturmak için lütfen https://lastpass.com adresini ziyaret ediniz."
+   },
+   "Poland": {
+      "message": "Polonya"
+   },
+   "Policy_Number": {
+      "message": "Poliçe Numarası"
+   },
+   "Policy_Type": {
+      "message": "Poliçe Türü"
+   },
+   "Polish": {
+      "message": "Lehçe"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Hesap değişiklikleri için server' ı sorgula (dk)"
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portekiz"
+   },
+   "Portuguese": {
+      "message": "Portekizce"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portekizce (Brezilya)"
+   },
+   "Preferences": {
+      "message": "Tercihler"
+   },
+   "Price": {
+      "message": "Fiyat"
+   },
+   "Print": {
+      "message": "Yazdır"
+   },
+   "Print_Screen": {
+      "message": "Print Screen"
+   },
+   "Print_Secure_Notes": {
+      "message": "Guvenli notları yazdır"
+   },
+   "Print_Sites": {
+      "message": "Siteleri yazdır"
+   },
+   "Private_Key": {
+      "message": "Özel Anahtar"
+   },
+   "Profile": {
+      "message": "Profil"
+   },
+   "Profile_language": {
+      "message": "Profil dili"
+   },
+   "Profile_name": {
+      "message": "Profil adı"
+   },
+   "Pronounceable": {
+      "message": "Söylenebilir"
+   },
+   "Protected": {
+      "message": "Korumalı"
+   },
+   "Public_Key": {
+      "message": "Açık Anahtar"
+   },
+   "Publisher": {
+      "message": "Yayımcı"
+   },
+   "Puerto_Rico": {
+      "message": "Porto Riko"
+   },
+   "Purchase_Date": {
+      "message": "Satın Alma Tarihi"
+   },
+   "Qatar": {
+      "message": "Katar"
+   },
+   "Re_enter_Password": {
+      "message": "Şifreyi yeniden gir"
+   },
+   "Recent_Sites": {
+      "message": "En son siteler"
+   },
+   "Recently_Used": {
+      "message": "Son Kullanılanlar"
+   },
+   "Recently_Used_list_size": {
+      "message": "En Son Kullanılanlar liste boyutu"
+   },
+   "Recheck_Page": {
+      "message": "Sayfayı yeniden kontrol et"
+   },
+   "Reencrypting_Data___": {
+      "message": "Veriler tekrar şifreleniyor..."
+   },
+   "Refresh": {
+      "message": "Yenile"
+   },
+   "Refresh_Sites": {
+      "message": "Siteleri yenile"
+   },
+   "Reject": {
+      "message": "Reddet"
+   },
+   "Remember_Email": {
+      "message": "E-postamı hatırla"
+   },
+   "Remember_Password": {
+      "message": "Şifreyi hatırla"
+   },
+   "Remove_Personal_Account": {
+      "message": "Kişisel Hesap Kaldır"
+   },
+   "Rename_Group": {
+      "message": "Grubu yeniden adlandır"
+   },
+   "Replace_Existing_Site": {
+      "message": "Mevcut siteyi değiştir"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "İsteğiniz başarısız oldu; Internet bağlantınız var mı?"
+   },
+   "Require_All_Character_Type": {
+      "message": "Tüm karakter türleri gereksin"
+   },
+   "Require_All_Character_Types": {
+      "message": "Tüm karakter türleri gereksin"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Türü Karakter Tiplerinden İste"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Şifreyi Yeniden İste"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Gerekli güvenlik tekrar istemde bulunma zamanı:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "OtomatikDoldur=kapalı talebine uy: Web sitelerinin OtomatikDoldur'u devre dışı bırakmasına izin verir"
+   },
+   "Reunion": {
+      "message": "Birleşmiş"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Şifre Yöneticisi"
+   },
+   "Right": {
+      "message": "Sağ"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Romanya"
+   },
+   "Routing_number": {
+      "message": "Yönlendirme numarası"
+   },
+   "Run_the_Google_Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "Mobil cihazınızda Google Şifrematik uygulamasını çalıştırın ve aşağıdaki giriş kutusuna doğrulama kodunu girin."
+   },
+   "Russian": {
+      "message": "Rusça"
+   },
+   "Russian_Federation": {
+      "message": "Rusya Federasyonu"
+   },
+   "Rwanda": {
+      "message": "Ruanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "Site"
+   },
+   "SMTP_Port": {
+      "message": "SMTP Portu"
+   },
+   "SMTP_Server": {
+      "message": "SMTP Sunucusu"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Wallet"
+   },
+   "SSH_Key": {
+      "message": "SSH Anahtarı"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT kodu"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safari Şifre Yöneticisi"
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "Saint_Helena": {
+      "message": "Saint Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts ve Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Saint Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (Fransız Bölümü)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre ve Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent ve Grenadinler"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sao Tome ve Principe"
+   },
+   "Saudi_Arabia": {
+      "message": "Suudi Arabistan"
+   },
+   "Save": {
+      "message": "Kaydet"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Girilen tüm verileri kaydet"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Kredi kartı profilini kaydet"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Formu kaydet,profili doldur"
+   },
+   "Save_New_Site": {
+      "message": "Yeni Site Kaydet"
+   },
+   "Save_Password_to_Vault": {
+      "message": "Şifreyi kasaya kaydet"
+   },
+   "Save_Password_to_Vault_": {
+      "message": "Şifre kasaya kaydedilsin mi?"
+   },
+   "Save_Site": {
+      "message": "Siteyi kaydet"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Hesap Kurtarma için Tek Kullanımlık Parolanızı bir yere not edin"
+   },
+   "Save_the_password_to_your_LastPass_Vault_": {
+      "message": "Şifre LastPass kasanıza kaydedilsin mi?"
+   },
+   "Save_this_password_as_a_new_entry": {
+      "message": "Bu şifreyi yeni kayıt olarak kaydet"
+   },
+   "Save_this_password_as_a_new_entry_": {
+      "message": "Bu şifre yeni bir kayıt olarak girilsin mi?"
+   },
+   "Save_this_website_into_your_LastPass_Vault_": {
+      "message": "Bu websitesine LastPass kasasına kaydet"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Değişiklikleri kaydet ve pencereyi kapat"
+   },
+   "Screen_Keyboard": {
+      "message": "Ekran Klavyesi"
+   },
+   "Search_All_Data": {
+      "message": "Tüm Verileri ara"
+   },
+   "Search_All_Groups": {
+      "message": "Tüm Grupları Ara"
+   },
+   "Search_All_Notes": {
+      "message": "Tüm Notları Ara"
+   },
+   "Search_All_Sites": {
+      "message": "Tüm Siteleri Ara"
+   },
+   "Search_LastPass_Vault": {
+      "message": "LastPass kasasında ara"
+   },
+   "Search_Vault": {
+      "message": "Kasada Ara"
+   },
+   "Search_within_secure_notes": {
+      "message": "Güvenli notların içinde ara"
+   },
+   "Searchproper": {
+      "message": "Ara"
+   },
+   "Secure_Notes": {
+      "message": "Güvenli Notlar"
+   },
+   "Security": {
+      "message": "Güvenlik"
+   },
+   "Security_Check": {
+      "message": "Güvenlik Kontrolü"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Güvenlik Sorusu Çok Faktörlü Kimlik Doğrulaması"
+   },
+   "Security_code": {
+      "message": "Güvenlik kodu"
+   },
+   "Select": {
+      "message": "Seçin"
+   },
+   "Select_All": {
+      "message": "Tümünü seç"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Bir grup seçin ya da yeni bir grup adı girin"
+   },
+   "Send_SMS_passcodes": {
+      "message": "SMS şifrelerini gönder"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Anonim hata raporlama verilerini LastPass'a göndererek geliştirmeye yardımcı ol"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Seul, Osaka, Sapporo, Tokyo, Irkutsk"
+   },
+   "September": {
+      "message": "Eylül"
+   },
+   "Serbia": {
+      "message": "Sırbistan"
+   },
+   "Server": {
+      "message": "Sunucu"
+   },
+   "SesameWrongButton": {
+      "message": "Çevrimdışı bilgilerinizi görmek için Sesame'ı çalıştırmalı ve 'Tek Kullanımlık Parola Oluştur' yerine 'Çevrimdışı Parola Kopyala' yı kullanmalısınız."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame çok faktörlü kimlik doğrulama"
+   },
+   "Sessions": {
+      "message": "Oturumlar"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Özel form alanları yükle"
+   },
+   "Settings": {
+      "message": "Ayarlar"
+   },
+   "Sex": {
+      "message": "Cinsiyet"
+   },
+   "Seychelles": {
+      "message": "Seyşel Adaları"
+   },
+   "Share": {
+      "message": "Paylaş"
+   },
+   "Share_Selected": {
+      "message": "Seçimi paylaş"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Giriş kayıtlarını diğer tarayıcılarla paylaş"
+   },
+   "Share_offer_from": {
+      "message": "Paylaşılacak teklif:"
+   },
+   "Shares": {
+      "message": "Paylaşımlar"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "LastPass bu şifreyi hatırlamalı mı?"
+   },
+   "Show": {
+      "message": "Göster"
+   },
+   "Show_Advanced_Options": {
+      "message": "Gelişmiş seçenekleri göster"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Değişen parolayı durum çubuğunda göster"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Silinmiş siteleri göster"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Doldurma bildirim barını göster"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Form doldurma bildirimlerini göster"
+   },
+   "Show_Matching_Sites": {
+      "message": "Eşleşen siteleri göster"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Girişten sonra LastPass kasamı göster"
+   },
+   "Show_Notifications": {
+      "message": "Bildirimleri göster"
+   },
+   "Show_Password": {
+      "message": "Şifreyi Göster"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Kayıtlı site bildirim barını göster"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Site kaydetme bildirimlerini göster"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Gruplardaki siteleri göster"
+   },
+   "Show_Vault_After_Login": {
+      "message": "LastPass Kasasını Girişten Sonra Göster"
+   },
+   "Show_all_sites": {
+      "message": "Tüm siteleri göster"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Tek tıklamadan sonra belirli hatırlatmaları göster"
+   },
+   "Show_or_Hide_Password": {
+      "message": "Şifre gösterme veya gizleme"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Başka bir özel alan girişi gösterir"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Giriş"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Hayatı kolaylaştırın: Bu sitenin giriş bilgilerini doldurması için LastPass'den yararlanın!"
+   },
+   "Singapore": {
+      "message": "Singapur"
+   },
+   "Site_Search": {
+      "message": "Sitede Arama"
+   },
+   "Sites": {
+      "message": "Siteler"
+   },
+   "Slovak": {
+      "message": "Slovakça"
+   },
+   "Slovakia": {
+      "message": "Slovakya"
+   },
+   "Slovenia": {
+      "message": "Slovenya"
+   },
+   "Social_Security": {
+      "message": "Sosyal Güvenlik"
+   },
+   "Social_security_number": {
+      "message": "Sosyal güvenlik numarası"
+   },
+   "Software_License": {
+      "message": "Yazılım Lisanı"
+   },
+   "Solomon_Islands": {
+      "message": "Solomon Adaları"
+   },
+   "Somalia": {
+      "message": "Somali"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Üzgünüz, bu paylaşılan klasör salt-okunur."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Üzgünüz, bu eylemi paylaşılan ve paylaşılmayan klasörler ya da bir defada birden fazla paylaşılan klasör içinde yapamazsınız."
+   },
+   "Source_": {
+      "message": "Kaynak:"
+   },
+   "South_Africa": {
+      "message": "Güney Afrika"
+   },
+   "South_Georgia": {
+      "message": "Güney Georgia"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Güney Georgia ve Güney Sandwich Adaları"
+   },
+   "Spain": {
+      "message": "İspanya"
+   },
+   "Spanish": {
+      "message": "İspanyolca"
+   },
+   "Spanish__Mexico_": {
+      "message": "İspanyolca (Meksika)"
+   },
+   "Special": {
+      "message": "Özel"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Başlangıç tarihi"
+   },
+   "State": {
+      "message": "Eyalet"
+   },
+   "State___Province": {
+      "message": "Eyalet / Bölge"
+   },
+   "Sticky_Password": {
+      "message": "Yapışkan Password"
+   },
+   "Submit_Form": {
+      "message": "Formu Gönder"
+   },
+   "Submitting___": {
+      "message": "Gönderiliyor..."
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "Destek E-postası"
+   },
+   "Suriname": {
+      "message": "Surinam"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Seçilen dosya adında şüpheli karakterler bulundu, işlem yapılmayacak"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard ve Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Swaziland"
+   },
+   "Sweden": {
+      "message": "İsveç"
+   },
+   "Swedish": {
+      "message": "İsveççe"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Geçerli kullanıcının parmak izini okuyucudan geçir"
+   },
+   "Swipe_finger": {
+      "message": "Parmak izinizi okutun"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Parmağınızı parmak izi tarayıcısından geçirin"
+   },
+   "Switzerland": {
+      "message": "İsviçre"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Suriye Arap Cumhuriyeti"
+   },
+   "Tabs": {
+      "message": "sekmede aç"
+   },
+   "Taiwan": {
+      "message": "Tayvan"
+   },
+   "Tajikistan": {
+      "message": "Tacikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tanzanya Birleşik Cumhuriyeti"
+   },
+   "Tehran": {
+      "message": "Tahran"
+   },
+   "Telephone": {
+      "message": "Telefon"
+   },
+   "Tell_a_friend_": {
+      "message": "Bir arkadaşına öner!"
+   },
+   "Text": {
+      "message": "Metin"
+   },
+   "Text_to_find": {
+      "message": "Aranılacak metin"
+   },
+   "Thailand": {
+      "message": "Tayland"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Bu dosya eksik veya boş. İçe aktarmak için dosyanın tam yolunu giriniz."
+   },
+   "That_group_already_exists_": {
+      "message": "Bu grup zaten var."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "Kredi kartının verildiği yıl, 4 haneli"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "Bu bılgısayarda LastPass uygulaması algılanamadı. Uygulamayı yğklemek için Universal Installer'ı çalıştırmak ister misiniz? "
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Tekrar girdiğiniz LastPass ana şifresi uymuyor"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "Girdiğiniz 'Eski Şifre' doğru değil"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "LastPass binary(ikili) versiyon plugin'i gereklidir. Bunu lastpass.com dan indirebilirsiniz."
+   },
+   "The_credit_card_number": {
+      "message": "Kredi kartı numarası"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Kredi kartınızın son kullanma tarihi (Yıl - 4 haneli)"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Kredi kartınızın son kullanma tarihi (Ay)"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Kredi kartının numarası sadece belli avrupa markası kredi kartlarında uygulanabilir, Maestro gibi."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Kredi kartı cv2 kodu. Bu numara kredi kartının arka yüzündeki sayıların son 3 rakamıdır."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Kartın ön yüzünde bulunan tam isim"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Bu Form Doldurma profilinin kullanılacağı web sitesinin dili"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Kredi kartının verildiği ay"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Form Doldurma profilinin için isim"
+   },
+   "The_name_of_your_bank": {
+      "message": "Bankanızın adı"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Yazı alanı çok fazla karakter içeriyor. Her not için en fazla 45,000 karakter bulundurabilirsiniz. \n\nSizin için notu kısaltmamızı ister misiniz? Girdinin bir kısmını kaybedeceksiniz."
+   },
+   "The_number_of_characters_in_the_generated_password_": {
+      "message": "Üretilecek şifredeki karakter sayısı."
+   },
+   "The_password_that_you_use_to_log_into_this_website_": {
+      "message": "Bu web sitesinde oturum açmak için kullandığınız parola."
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Doldurulacak form alanının yan tarafındaki metin, adı veya kimliği.\nEğer birden fazla öğeyle eşleşecekse her birini ayrı bir satıra yazın."
+   },
+   "The_value_to_be_filled": {
+      "message": "Doldurulacak değer"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Chrome'un kullandığınız bu sürümünde HTML5 veritabanı desteği etkin değildir. Bu nedenle bu oturum açma penceresi e-posta ve şifrenizi hatırlama, otomatik giriş ve tarayıcıyı yeniden başlatma gibi özellikler çalışmayacaktır. "
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Kullandığınız Chrome sürümü HTML5 veritabanı desteğine sahip değil. Bundan dolayı da giriş kayıtlarnız (e-posta ve parola gibi) tarayıcınız tarafından hatırlanmayacak ve tarayıcı yeniden başlatma eyleminin ardından otomatik giriş gibi özelliklerde pasif olacak. Bu gibi sorunları Google Chrome kısayoluna --enable-databases parametresini girerek düzeltebilirsiniz."
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "Öncelikle bu ekin kaydedilmesi gerekiyor."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Buna sadece bir web sayfasndan müdahale edilebilir."
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Bu bilgisayar güvenli, tekrar bir kimlik doğrulama formu gerektirmiyor."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Bu özellik bu sürümde mevcut değildir. https://lastpass.com/dl adresindeki bınary uzantısını kurun."
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Bu özellik tarayıcı eklentisinin binary versiyonunu gerektirir. Şimdi yüklemek ister misiniz?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "... dan direkt okuyabilmek için hala bu özelliğin dahil edilmesi gerekiyor."
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Bu paylaşılan bir sitedir. Şifreyi görmeye yetkiniz yok."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Sayfa düzgün yüklenemedi. Maxthon'un son sürümünü kullandığınızdan emin olun (LastPass en az Maxthon sürüm 4.0.3.3000 gerektirir). Eğer sürüm problemi yoksa bu durum Maxthon'daki bir hatadan kaynaklanmış olabilir. Lütfen sayfayı açmayı yeniden deneyin."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Sayfa düzgün yüklenemedi. Maxthon'un son sürümünü kullandığınızdan emin olun (LastPass en az Maxthon sürüm 4.0.3.3000 gerektirir). Eğer sürüm problemi yoksa bu durum Maxthon'daki bir hatadan kaynaklanmış olabilir. Lütfen sayfayı açmayı yeniden deneyin."
+   },
+   "Time_Zone": {
+      "message": "Saat Dilimi"
+   },
+   "Timor_Leste": {
+      "message": "Doğu Timor"
+   },
+   "Title": {
+      "message": "Başlık"
+   },
+   "To_create_your_account__please_re_enter_your_LastPass_master_password": {
+      "message": "Hesabınızı oluşturmak için, LastPass ana parolanızı yeniden girin."
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "1Password hesabınızdaki kayıtları LastPass'e aktarmanız için 1Password hesabınıza giriş yapın. Hepsini ya da sadece aktarmak istediğiniz kayıtları seçin. Sonra 'Dosya > Hepsini Aktar > Text dosyası'nı veya Dosya > Seçiliyi Aktar > Text dosyası'nı seçiniz. Sonunda da 'Aktar' tuşuna basarak kayıt dosyanızı dışarıya aktarıp kaydedin ve artık LastPass'e bu kayıtları Ayarlar > Şuradan İçe Aktar menülerini kullanarak aktarın."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Clipperz kartlarınızı dışarı aktarmak için www.clipperz.com adresine gidip sırasıyla 'Data' > 'Export to JSON' tıklanır. JSON içerisindeki bilgilerin tümünü seçip bir metin belgesi içine kaydedin ve sonra LastPass'e aktarın. Ama şunu unutmayın ki kaynağından aldığınız bilgilerde herhangi bir değişim bu işlemin başaarısız olmasına neden olacaktır."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "FireForm profillerini dışa aktarmak için FireForm simgesine sağ tıklayın ve Basit Kurulum'u seçin.Genel seçenekler sekmesine gidin, Tüm Profilleri Dışa Aktar'a tıklayın ve XML dosyasına kaydedin.Çıkan dosyayı içe aktarın."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "HP Password Safe'den dışa aktarma yapmak için bir HTML dosyasına kayıt yapın. Oluşan dosyayı içe aktarın."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "KeePass oturum açma bilgilerinizi dışa aktarmak için KeePass veritabanınızı açın, Dosya - Dışa Aktar - XML Dosya'yı seçin. Ardından onay butonuna tıklayın. Oluşturulan dosyayı içe aktarın."
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "LastPass oturumlar ihracat LastPass eklentisi yüklü olan tarayıcınızı açın ve LastPass tıklayın - Tools - CSV Dosyasına - Aktar. Bir dosya konumu seçin ve Save tuşuna basın. Çıkan dosya İthalat."
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "Password Agent oturumlarını ihracat etmek için, Password Agent veritabanınınızı açın ve Menüden Dosya - Baskı ve İhracat - tıklayıp, dosya biçimini XML ​​olarak değiştirip ( 'Grup' seçeneğin seçili olduğuna dikkat edin) dosya konumunu seçerek Kaydet tuşuna tıklayınız. Daha sonra çıkan dosyayı ithal ediniz."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "Passwords Max şifrelerini ihracat etmek için, menüden File - Database - Export - Text seçin ve OK tıklayıp CSV dosya formatında kaydedin. Kaydedilen dosyayı ithal edin."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "RoboForm oturumlar vermek için, RoboForm-Girişler tıklayın ...- Liste Yazdır. Tam URL onay kutusunu tıklayın ve kayıt düğmesine basın. Ortaya çıkan file.\n\nTo ihracat RoboForm Güvenli Notlar İthalat, RoboForm-Güvenli Notlar Baskı Listesi tıklatın. Kaydet tuşuna basın. Sonuçta file.\n\nTo ihracat RoboForm Kimlikleri İthalat, RoboForm-Kimlikler-Print Listesi tıklatın. Kaydet tuşuna basın. Çıkan dosya İthalat."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "eWallet kartlarını ihraç etmek için menüden eWallet - Tools - Export tıklayıp txt formatında kaydedin. Kaydedilen dosyayı ithal edin"
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "MyPasswordSafe gelen ihracat için, File tıklayın - Farklı Kaydet - UNENCRYPTED XML türünü seçin - dosyayı kaydedin. Çıkan dosya İthalat."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Password Safe'ten ihraç etmek için menüden File - Export To - XML tıklayıp dosyayı kaydedin. Kaydedilen dosyayı ithal edin."
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "Şifreleri dışarı vermek için, masaüstü uygulamasına giriş yapın ve Dosya - Ver - CSV - Tüm Girişler seçeneğine gidin. Sonuç dosyasını içeri alın."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "Darn! Passwords!'tan ihraçat için , menüden Tools - Print tıklayın. Settings tıklayın ve Include Notes in Export işaretleyin. Print tıklayın, ve mavi bir diskete benzeyen Export ikonuna tıklayın. Dosyaya bir isim verip Open tıklayın. Kaydedilen dosyayı ithal edin"
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Passpack'teki bilgilerinizi dışa aktarmak için: Giriş yapın, Araçlar bölümüne geçin ve Dışa Aktar'ı tıklayın. Karşınıza gelen ekrandaki bütün kutuları işaretleyip hepsini seçin ve sağ fare tıkıyla kopyalaya basın ve yeni bir metin belgesi oluşturarak içine yapıştırın. Bu metin belgesini de passpack.csv olarak kaydedin. Oluşan dosyayı içe aktarın."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Password Corral'dan şifreleri ithal için: Giriş yapıp menüden File - Export Password tıklayın. Şifrelerin hepsini ithal için düz metin olarak kaydedin. Kaydedilen dosyayı ihraç edin."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Şifre Deposu'ndaki bilgilerinizi dışa aktarmak için: Giriş yapın, Araçlar bölümüne geçin ve Dışa Aktar'ı tıklayın. 'Genişletilebilir Biçimlendirme Dili biçimi (*. xml)' seçin, bir hedef dosya belirtin ve vermek istediğiniz klasörü seçin."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "Password Dragon şifrelerini dışarı vermek için: Oturum açın, File - Export - Text File seçeneğine gidin, varsayılanı kapalı olan 'Password' seçeneğinin işaretlendiğinden emin olun. Sonuç dosyasını içeri alın."
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "Revelation Şifre Yöneticisi'nden şifreleri dışa aktarmak için veriyi XML olarak dışa aktarın"
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "SPB Cüzdanından şifreleri aktarmak için, cüzdanı açın, önce Dosya'ya daha sonra dışa aktar'a tıklayın, açılan diyalog kutusunda dosyanın yerini seçin ve Kaydet'e tıklayın. Daha sonra, veriyi bu sayfadaki kutuya yapıştırın. "
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Hesabınıza siteleri ekleyerek LastPass'in nasıl çalıştığını rahatlıkla görebilirsiniz."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Wi-Fi şifrelerini almak için, aşağıdaki İçe Aktar'ı tıklatın."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "PINs Parola Yöneticisinden veri aktarmak için, sekme ile ayrılmış formatta aktarım alın ve çıkan dosyayı import edin."
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Safari Password Manager'dan şifreleri aktarmak için, aşağıdaki Aktar butonunu tıklayın."
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Safari Password Manager'dan şifreleri aktarmak için, aşağıdaki Aktar butonunu tıklayın."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "MSI PasswordKeeper bilgilerini dışa aktarmak için programı açın. Txt'ye tıklayın ve ardından Aç'a tıklayın. Oluşan dosyayı içe aktarın."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "Şifre koruyucu oturumlarınızı taşımak dışa aktarmak için, programı ve verileri içine aktaracağınız dosyayı açın. Dosya - Dosyayı Dışa Aktar'ı tıklayın. Evet'i tıklayın, şifrenizi girin ve OK'ye tıklayın. Bu standart bir Windows Kaydet diyaloğu açacaktır, bir dosya adı ve yeri girin. Oluşturulan dosyaya bilgileri aktarın.  "
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "TurboPasswords bilgilerinizi dışa aktarmak için ilk önce programı açın. Eğer parolalarınızın sadece bir kısmının dışarı aktarılmasını istiyorsanız istediğiniz kategorilerdeki parolaları seçin ve ardından Dosya=>Dışa Aktar'e tıklayın. Standart bir windows uyarı penceresi gelecek ve dosyayı kaydetmeniz için sizi yönlendirecek. Dosyayı kaydedin ve Oluşan dosyayı içe aktarın."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Gizliliğinizi korumak ve özel bilgilerinizi saklamak için,"
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Araçlar"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad ve Tobago"
+   },
+   "Trust_this_computer": {
+      "message": "Bu bilgisayara güven"
+   },
+   "Try_Again": {
+      "message": "Yeniden dene"
+   },
+   "Tunisia": {
+      "message": "Tunus"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "Türkiye"
+   },
+   "Turkmenistan": {
+      "message": "Türkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks ve Caicos Adaları"
+   },
+   "Tutorials": {
+      "message": "Eğitimler"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Tür"
+   },
+   "Type_": {
+      "message": "Tür:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "KULLANICI ADI"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukrayna"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulan Batur, Perth"
+   },
+   "United_Arab_Emirates": {
+      "message": "Birleşik Arap Emirlikleri"
+   },
+   "United_Kingdom": {
+      "message": "Birleşik Krallık"
+   },
+   "United_States": {
+      "message": "Amerika Birleşik Devletleri"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Birleşmiş Devletler Dış Adaları"
+   },
+   "Unknown": {
+      "message": "Bilinmeyen"
+   },
+   "Unselect_All": {
+      "message": "Tümünün Seçimini Kaldır"
+   },
+   "Up": {
+      "message": "Yukarı"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "LastPass Online'a yükseltildi!"
+   },
+   "Uploading_Data___": {
+      "message": "Veriler yükleniyor..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use": {
+      "message": "Kullan"
+   },
+   "Use_802_1X": {
+      "message": "802.1X kullan"
+   },
+   "Use_Password": {
+      "message": "Şifre kullan"
+   },
+   "Use_Special_Characters": {
+      "message": "Özel Karakterler kullan"
+   },
+   "Use_Special_Characters_": {
+      "message": "Özel karakterlerler kullanılsın mı?"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "Bu şifre hemen kullanılsın mı? (Bu site için)"
+   },
+   "User_Manual": {
+      "message": "Kullanım Kılavuzu"
+   },
+   "User_name": {
+      "message": "Kullanıcı adı"
+   },
+   "Username_": {
+      "message": "Kullanıcı Adı:"
+   },
+   "Usernameproper": {
+      "message": "Kullanıcı Adı"
+   },
+   "Uzbekistan": {
+      "message": "Özbekistan"
+   },
+   "Value_to_fill": {
+      "message": "Doldurulacak değer"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Kasa"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Sürüm"
+   },
+   "Version_": {
+      "message": "Sürüm:"
+   },
+   "Viet_Nam": {
+      "message": "Viet Nam"
+   },
+   "View_Image": {
+      "message": "Resmi görüntüle"
+   },
+   "View_Passwords": {
+      "message": "Şifreleri göster"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Virgin Adaları (İngilizce)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Virgin Adaları (ABD)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis ve Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Güvenli olmayan formları doldurmadan önce uyar"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Temel kullanım hakkında bir vidyo  izleyin"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Aynı zamanda kopyasını veya yedeğini de TUTMUYORUZ."
+   },
+   "Weak_Password": {
+      "message": "Zayıf Parola"
+   },
+   "Website": {
+      "message": "Web sitesi"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "LastPass'e hoş geldiniz!"
+   },
+   "West_Central_Africa": {
+      "message": "Orta Batı Afrika"
+   },
+   "Western_Sahara": {
+      "message": "Batı Sahara"
+   },
+   "What_you_use_to_log_into_this_website_": {
+      "message": "Bu web sitesinde oturum açmak için kullandığınız."
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "Bu kutu işaretliyken en az bir küçük harf, bir büyük harf ve bir de özel karakter kullanılır."
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "Bu kutu işaretlendiğinde, en az bir küçük harf, bir büyük harf ve bir özel karakter kullanılır."
+   },
+   "When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "Bu kutu seçiliyse rastgele şifre üretilirken # ve ! gibi karakterler kullanılır."
+   },
+   "When_this_box_is_checked__confusing_characters__1_I_L_0_O__are_not_used_": {
+      "message": "Bu kutu işaretliyken birbiriyle karıştırılabilecek karakterler (1, I, L, 0, O) kullanılmaz."
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "Bu kutu işaretliyken telaffuz etmesi kolay bir şifre oluşturulur."
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "Bu kutu işaretliyken kolayca telaffuz edilebilecek bir şifre üretilir."
+   },
+   "When_this_box_is_checked__potentially_confusing_characters__1_I_L_0_O__are_not_used": {
+      "message": "Bu kutu seçiliyken birbiriyle karıştırılabilecek karakterler (1, I, L, 0, O) kullanılmaz."
+   },
+   "When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "Bu kutu seçiliyken şifrede # ve ! gibi karakterler kullanılır."
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Şifresi"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi Şifreleri"
+   },
+   "Windows": {
+      "message": "pencerede aç"
+   },
+   "Would_you_like_LastPass_to_generate_a_secure_password_for_you_": {
+      "message": "LastPass'in sizin için güvenli bir şifre oluşturmasını ister misiniz?"
+   },
+   "Would_you_like_LastPass_to_save_your_site_information_": {
+      "message": "LastPass'in site bilgilerinizi kaydetmesini ister misiniz?"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "FormDoldur profili oluşturmak ister misiniz?"
+   },
+   "XML_Files": {
+      "message": "XML Dosyaları"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Yemen"
+   },
+   "Yes": {
+      "message": "Evet"
+   },
+   "Yes__Use_for_this_Site": {
+      "message": "Evet, bu site için kullan"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Evet, LastPass içine aktarmak istediğim öğreleri seçmeme izin ver"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Evet, Form doldurmada kullanılacak bilgileri girmeme ve gözden geçirmeme izin ver"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Siteleri paylaşılan klasörden genel kasanıza taşıyorsunuz. Bu durum potansiyel olarak sitelerin başkalarına erişilebilir olmasını engelleyecek. \nDevam etmek istiyor musunuz?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Siteleri başka bir klasöre taşıyorsunuz. Bu sitelere olan erişim haklarını da değiştirebilir. Devam etmek istiyor musunuz?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Siteleri paylaşılan klasöre taşımak üzeresiniz. Bu işlem onları diğer kullanıcılara kalıcı olarak görünür yapacaktır. \n\nDevam etmek istediğinizden emin misiniz?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Aynı değere birden fazla HotKey atayamazsınız."
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Ayrı ayrı paylaşılan siteleri paylaşılan klasöre taşıyamazsınız."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Şu andan itibaren, LastPass şifrenizi hatırlayacak. Bunu yaparken aslında otomatik çıkış seçenekleri yararsız kılınıyor. LastPass'ın şifrelerinizi hatırlamamasını ister miydiniz?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Henüz bir varsayılan form doldurma profili seçmediniz. Şuan ayarlamaya ne dersiniz?"
+   },
+   "You_have_saved_your_password_to_your_LastPass_Vault_": {
+      "message": "LastPass kasanızın şifresi kaydedildi."
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Ayrıca bütün çerezleri engelliyor olabilirsiniz. Bu durum Chrome' un HTML5 veritabınlarına erişimesini engelleyecektir."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Şifrelenmiş bilgilerinizi LastPass'e göndermeyi kabul etmelisiniz.\n\nLastPass.com bilgilerinizi şifreler ve güvenli sunuculara yollar.\nGizli parolanız ile şifrelendiğinden ve bu şifreyi sadece siz bildiğinizden LastPass'deki hiçkimse özel verilerinizi okuyamaz."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Devam etmeniz için şartları kabul etmelisiniz"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Bir isim girmelisiniz."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Benzersiz bir isim girmeniz gerekyor."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Yapılan değişikliklerin yansıtılması için, Chrome'u ya da LastPass oturumunu kapatıp tekrar açmalısınız."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Bütün değişikliklerin gerçekleşmesi için tarayıcınızı tekrar başlatmanız gerekmektedir."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "4 haneli doğum yılınız"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Google Chrome şifreleriniz başarıyla aktarılmıştır."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "ZIP veya posta kodunuz"
+   },
+   "Your_address_information": {
+      "message": "Adres bilgileriniz"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Ek dosyanızın konumu:"
+   },
+   "Your_bank_account_information": {
+      "message": "Banka hesap bilgileriniz"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Banka hesabı numaranız.\nBu numara genellikle kişisel çeklerde yönlendirme numarası sağında bulunabilir."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Banka yönlendirme numaranız.\nBu 9 basamaklı sayı genellikle kişisel çeklerin sol alt köşesinde bulunabilir."
+   },
+   "Your_birth_day": {
+      "message": "Doğum tarihi (gün)"
+   },
+   "Your_birth_month": {
+      "message": "Doğum tarihi (ay)"
+   },
+   "Your_city_name": {
+      "message": "Şehrinizin adı"
+   },
+   "Your_company_s_name": {
+      "message": "Şirketinizin adı"
+   },
+   "Your_contact_information": {
+      "message": "İletişim bilgileriniz"
+   },
+   "Your_country_name": {
+      "message": "Ülkeniz ismi"
+   },
+   "Your_county_name": {
+      "message": "Ülkenizin ismi"
+   },
+   "Your_credit_card_information": {
+      "message": "Kredi kartı bilgileriniz"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Geçerli ayarlarınız bu eylemi tamamlamak için LastPass şifrenizi girmenizi gerektiriyor."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Verileriniz dışa aktarılmıştır"
+   },
+   "Your_email_address": {
+      "message": "Email adresiniz"
+   },
+   "Your_first_name": {
+      "message": "Adınız"
+   },
+   "Your_government_ID_number": {
+      "message": "Kimlik Numarası"
+   },
+   "Your_last_name": {
+      "message": "Soyadınız"
+   },
+   "Your_middle_name": {
+      "message": "İkinci adınız"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Şifreniz e-postanız ile aynı olamaz."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Şifreniz kolayca tahmin edilebilir."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Şifreniz çok kısa. Bu en az 6 karakter uzunluğunda olmalıdır"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Şifreniz çok kısa. En az 8 karakter uzunluğunda olmalıdır"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Şifre hatırlatıcı size"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Şifreleriniz eşleşmedi."
+   },
+   "Your_personal_information": {
+      "message": "Kişisel bilgileriniz"
+   },
+   "Your_phone_number": {
+      "message": "Telefon numaranız"
+   },
+   "Your_phone_number_extension": {
+      "message": "Dahili telefon numarası"
+   },
+   "Your_prefix_or_title": {
+      "message": "Ünvanınız"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Seçmiş olduğunuz kimlik artık işler durumda değil.\n'Tümü' özelliğine geçiliyor ve oturum kapatılıyor."
+   },
+   "Your_sex": {
+      "message": "Cinsiyetiniz"
+   },
+   "Your_state_or_province_name": {
+      "message": "Eyalet veya şehir adı"
+   },
+   "Your_street_address": {
+      "message": "Adresiniz"
+   },
+   "Your_time_zone": {
+      "message": "Zaman diliminiz"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Web sitelerine giriş yaparken kullandığınız kullanıcı adı"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey çok faktörlü kimlik doğrulama"
+   },
+   "Yugoslavia": {
+      "message": "Yugoslavya"
+   },
+   "ZIP___Postal_code": {
+      "message": "Posta Kodunuz"
+   },
+   "Zambia": {
+      "message": "Zambiya"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabve"
+   },
+   "_Hide_": {
+      "message": "[Gizle]"
+   },
+   "_History_": {
+      "message": "[Geçmiş]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Bekleyen Yeni Paylaşım Teklifleri)"
+   },
+   "_Not_applicable_when_the_Pronounceable_box_is_checked__": {
+      "message": "('Kolay telaffuz' kutusu işaretliyken etkisizdir)."
+   },
+   "_Show_": {
+      "message": "[Göster]"
+   },
+   "_domain_": {
+      "message": "(alan adı)"
+   },
+   "_none_": {
+      "message": "(hiçbiri)"
+   },
+   "a_zlower": {
+      "message": "A-Z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "Gerçek parola hala gizliliğini koruyandır."
+   },
+   "ago": {
+      "message": "önce"
+   },
+   "and": {
+      "message": "ve"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "bize ulaşın ve size şifrenizi hatırlatmak için size bir hatırlarma e-postası gönderelim."
+   },
+   "day": {
+      "message": "gün"
+   },
+   "days": {
+      "message": "gün"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "harici"
+   },
+   "false": {
+      "message": "yanlış"
+   },
+   "favorites": {
+      "message": "sık kullanılanlar"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "hours": {
+      "message": "saat"
+   },
+   "just_now": {
+      "message": "şimdi"
+   },
+   "minute": {
+      "message": "dakika"
+   },
+   "minutes": {
+      "message": "dakika"
+   },
+   "month": {
+      "message": "ay"
+   },
+   "months": {
+      "message": "ay"
+   },
+   "privacy_statement": {
+      "message": "gizlilik beyanları"
+   },
+   "recently_usedlower": {
+      "message": "son kullanılan"
+   },
+   "second": {
+      "message": "saniye"
+   },
+   "seconds": {
+      "message": "saniye"
+   },
+   "send_more": {
+      "message": "daha fazla gönder"
+   },
+   "terms_of_service": {
+      "message": "hizmet koşulları"
+   },
+   "the_current_tab": {
+      "message": "geçerli sekmede aç"
+   },
+   "true": {
+      "message": "doğru"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "LastPass şifrenizin ne olduğunu BİLMİYORUZ."
+   },
+   "week": {
+      "message": "hafta"
+   },
+   "weeks": {
+      "message": "hafta"
+   },
+   "year": {
+      "message": "yıl"
+   },
+   "years": {
+      "message": "yıl"
+   }
+}

@@ -1,0 +1,3173 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Парола"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Поставете Вашия YubiKey в USB-порта с USB-конектора, обърнат нагоре"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Стартирайте приложението Удостоверител на мобилното си устройство"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Стартирайте приложението LastPass Sesame, за да генерате еднократна парола"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Въведете текущия код за проверка в полето по-долу"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Въведете еднократната парола в полето отдолу и щракнете на 'Удостовери'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Изчакайте, докато бутонът на Вашия YubiKey започне да свети с постоянна светлина"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Щракнете на удостоверяване"
+   },
+   "3__Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. Задръжте пръста си на тъч-бутона за 1 секунда"
+   },
+   "ACTION": {
+      "message": "Действие"
+   },
+   "A_Zupper": {
+      "message": "от A до Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "Една партида от SMS пароли бяха изпратени на вашето мобилно устройство."
+   },
+   "A_new_password_has_been_generated_": {
+      "message": "Генерирана е нова парола!"
+   },
+   "A_randomly_generated_password_": {
+      "message": "Случайно генериранa парола."
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Задължителна актуализация е налична. Моля натиснете ОК, за да започнете инсталацията."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Беше намерен временен файл. Това най-вероятно означава, че не всички промени на Вашите сайтове са били съхранени. Искате ли да изтриете този файл и евентуално да загубите някои промени?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Възникна грешка на сървъра при обработката на Вашата заявка"
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Сайт, който е бил предварително споделен, не може да бъде преместен в папка 'споделени'.\n\nЖелаете ли да направите копие?"
+   },
+   "About": {
+      "message": "Относно"
+   },
+   "About___": {
+      "message": "За нас..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Абу Даби, Мускат, Москва, Санкт Петербург, Волгоград"
+   },
+   "Accept": {
+      "message": "Приемане"
+   },
+   "Account_Settings": {
+      "message": "Настройки на профила"
+   },
+   "Account_Type": {
+      "message": "Тип на сметката"
+   },
+   "Account_number": {
+      "message": "Номер на акаунта"
+   },
+   "Actionproper": {
+      "message": "Действие"
+   },
+   "Actions": {
+      "message": "Действия"
+   },
+   "Add": {
+      "message": "Добави"
+   },
+   "Add_Credit_Card": {
+      "message": "Добави кредитна карта"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Добави профил за кредитна карта"
+   },
+   "Add_Field": {
+      "message": "Добавяне на поле"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Добави профил за попълване на форми"
+   },
+   "Add_Identity": {
+      "message": "Добави самоличност"
+   },
+   "Add_New_Site": {
+      "message": "Добави нов сайт"
+   },
+   "Add_Note": {
+      "message": "Добави бележка"
+   },
+   "Add_Profile": {
+      "message": "Добави профил"
+   },
+   "Add_Secure_Note": {
+      "message": "Добави криптирана бележка"
+   },
+   "Add_Site": {
+      "message": "Добави сайт"
+   },
+   "Add_another_custom_field": {
+      "message": "Добави друго персонализирано поле"
+   },
+   "Address": {
+      "message": "Адрес"
+   },
+   "Address_1": {
+      "message": "Адрес 1"
+   },
+   "Address_2": {
+      "message": "Адрес 2"
+   },
+   "Address_3": {
+      "message": "Адрес 3"
+   },
+   "Adelaide": {
+      "message": "Аделаида"
+   },
+   "Admin_Console": {
+      "message": "Администраторска конзола"
+   },
+   "Admin_Tools": {
+      "message": "Инструменти за администрация"
+   },
+   "Advanced": {
+      "message": "Разширени"
+   },
+   "Afghanistan": {
+      "message": "Афганистан"
+   },
+   "Agent_Name": {
+      "message": "Име на агент"
+   },
+   "Agent_Phone": {
+      "message": "Телефон на брокер"
+   },
+   "Aland_Islands": {
+      "message": "Аландските острови"
+   },
+   "Alaska": {
+      "message": "Аляска"
+   },
+   "Albania": {
+      "message": "Албания"
+   },
+   "Algeria": {
+      "message": "Алжир"
+   },
+   "Alias": {
+      "message": "Псевдоним"
+   },
+   "All": {
+      "message": "Всички"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Разрешавате ли на LastPass да намери несигурни данни във Вашия компютър?"
+   },
+   "Almaty": {
+      "message": "Алмати"
+   },
+   "Alt": {
+      "message": "Алт"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "Алтернативно, въведете парола в полето по-долу:"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Винаги избирай профил и кредитна карта"
+   },
+   "American_Samoa": {
+      "message": "Американска Самоа"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Аман, Атина, Истанбул, Бейрут, Кайро, Йерусалим"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Амстердам, Берлин, Рим, Виена, Прага, Брюксел"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Достъпна е нова версия. Искате ли да я инсталирате ?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Възникна грешка при зареждането на Вашите сайтове. Моля идентифицирайте се отново"
+   },
+   "An_error_occurred": {
+      "message": "Възникна грешка"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Възникна грешка при импортирането на вашите пароли от Google Chrome!"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Открита е грешка при дешифрирането на Вашите данни"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Открита е грешка при качването на Вашите данни. Искате ли да опитате отново?"
+   },
+   "Andorra": {
+      "message": "Андора"
+   },
+   "Angola": {
+      "message": "Ангола"
+   },
+   "Anguilla": {
+      "message": "Ангуила"
+   },
+   "Antarctica": {
+      "message": "Антарктида"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Антигуа и Барбуда"
+   },
+   "Appearance": {
+      "message": "Изглед"
+   },
+   "Applications": {
+      "message": "Приложения"
+   },
+   "April": {
+      "message": "Април"
+   },
+   "Are_you_sure_you_want_to_delete_this_": {
+      "message": "Сигурни ли сте, че искате да изтриете това?"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Сигурни ли сте че искате да изтриете тази самоличност?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Сигурни ли сте, че искате LastPass да запомни паролата? Това значително ще намали сигурността на Вашия профил в LastPass!"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Сигурни ли сте че искате да споделите този елемент? Това ще доведе до загуби на всички промени, които са направили за този елемент!"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Сигурни ли сте че искате да видите историята? Това ще доведе до загуби на всички промени, които са направили за този елемент!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Наистина ли искате да изтриете?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Сигурни ли сте, че искате да изтриете избраните елементи?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Сигурни ли сте, че искате да изтриете избраните сайтове?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Сигурни ли сте, че искате да изтриете това приложение?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Сигурни ли сте, че искате да изтриете това поле?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Сигурни ли сте, че искате да изтриете тази форма?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Сигурни ли сте, че искате да изтриете тази генерирана парола?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Сигурни ли сте, че исйкате да изтриете тази група?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Наистина ли искате да изтриете това никога URL адрес?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Сигурни ли сте, че искате да изтриете тази криптирана бележка?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Сигурни ли сте, че искате да изтриете този сайт?"
+   },
+   "Argentina": {
+      "message": "Аржентина"
+   },
+   "Arizona": {
+      "message": "Аризона"
+   },
+   "Armenia": {
+      "message": "Армения"
+   },
+   "Aruba": {
+      "message": "Аруба"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Астана, Дака, Екатеринбург"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Атлантическо време (Канада), Манаус, Сантяго"
+   },
+   "Auckland__Wellington": {
+      "message": "Окланд, Уелингтън"
+   },
+   "August": {
+      "message": "Август"
+   },
+   "Australia": {
+      "message": "Австралия"
+   },
+   "Austria": {
+      "message": "Австрия"
+   },
+   "Authenticate": {
+      "message": "Аутентикирай"
+   },
+   "Authentication": {
+      "message": "Удостоверяване"
+   },
+   "Authentication_Failed_": {
+      "message": "Грешка при удостоверяване."
+   },
+   "AutoFill": {
+      "message": "Автоматично попълване"
+   },
+   "AutoLogin": {
+      "message": "Автоматичен вход"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Попълни автоматично данните за вход"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Автоматично излизане след (мин) без използване"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Автоматично излез когато всички браузъри са затворени и/или Chrome е затворен за  (мин.)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Автоматично влизане в сайтове, ако времето от последния вход е по-малко от (секунди)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Избягвайте неясни символи"
+   },
+   "Azerbaijan": {
+      "message": "Азербайджан"
+   },
+   "Azores": {
+      "message": "Азорските острови"
+   },
+   "Back": {
+      "message": "Назад"
+   },
+   "Baghdad": {
+      "message": "Багдад"
+   },
+   "Bahamas": {
+      "message": "Бахамските острови"
+   },
+   "Bahrain": {
+      "message": "Бахрейн"
+   },
+   "Baku__Yerevan": {
+      "message": "Баку, Ереван"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Банкок, Ханой, Джакарта, Новосибирск"
+   },
+   "Bangladesh": {
+      "message": "Бангладеш"
+   },
+   "Bank_Account": {
+      "message": "Банкова сметка"
+   },
+   "Bank_accountformfill": {
+      "message": "Банкова сметка"
+   },
+   "Bank_name": {
+      "message": "Име на банката"
+   },
+   "Barbados": {
+      "message": "Барбадос"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Преди използване на LastPass, първо трябва да свържете вашият четец на пръстови отпечатъци и да запишите един или повече пръсти."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Пекин, Хонг Конг, Сингапур, Тайпе, Красноярск"
+   },
+   "Belarus": {
+      "message": "Беларус"
+   },
+   "Belgium": {
+      "message": "Белгия"
+   },
+   "Belize": {
+      "message": "Белиз"
+   },
+   "Benin": {
+      "message": "Бенин"
+   },
+   "Bermuda": {
+      "message": "Бермудските острови"
+   },
+   "Bhutan": {
+      "message": "Бутан"
+   },
+   "Birthday": {
+      "message": "Рожденна дата"
+   },
+   "Bit_Strength": {
+      "message": "Bit Сила"
+   },
+   "Blacklist": {
+      "message": "Вашият профил беше временно спрян за 5 минути, поради твърде много неуспешни опити за вход."
+   },
+   "Blog": {
+      "message": "Блог"
+   },
+   "Bolivia": {
+      "message": "Боливия"
+   },
+   "Bookmarklets": {
+      "message": "Плъгин"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Босна и Херцеговина"
+   },
+   "Botswana": {
+      "message": "Ботсуана"
+   },
+   "Bouvet_Island": {
+      "message": "Буве остров"
+   },
+   "Branch_Address": {
+      "message": "Адрес на клона"
+   },
+   "Branch_Phone": {
+      "message": "Телефон на клона"
+   },
+   "Brazil": {
+      "message": "Бразилия"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Бризбейн, Гуам, Порт Морсби, Якутск"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Британска територия в Индийския океан"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Браузвайте в интернет, както обикновено и LastPass автоматично ще запомети паролите, които въвеждате."
+   },
+   "Brunei_Darussalam": {
+      "message": "Бруней Дарусалам"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Буенос Айрес, Джорджтаун"
+   },
+   "Built_": {
+      "message": "Построен:"
+   },
+   "Bulgaria": {
+      "message": "България"
+   },
+   "Burkina_Faso": {
+      "message": "Буркина Фасо"
+   },
+   "Burundi": {
+      "message": "Бурунди"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Но аз съм разсеян човек... какво трябва да направя, ако забравя паролата си?"
+   },
+   "CSV_Files": {
+      "message": "CSV файлове"
+   },
+   "Cambodia": {
+      "message": "Камбоджа"
+   },
+   "Cameroon": {
+      "message": "Камерун"
+   },
+   "Canada": {
+      "message": "Канада"
+   },
+   "Canary_Islands": {
+      "message": "Канарските Острови"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Канбера, Мелбърн, Сидни, Хобарт"
+   },
+   "Cancel": {
+      "message": "Отказ"
+   },
+   "Cape_Verde": {
+      "message": "Кабо Верде"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Кабо Верде."
+   },
+   "Caracas": {
+      "message": "Каракас"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Казабланка, Монровия, Рейкявик"
+   },
+   "Catalan": {
+      "message": "Каталунски"
+   },
+   "Cayman_Islands": {
+      "message": "Каймановите острови"
+   },
+   "Central_African_Republic": {
+      "message": "Централноафриканската република"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Централна Америка, Саскатчуан"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Централно време (САЩ и Канада), Гуадалахара, Мексико Сити"
+   },
+   "Chad": {
+      "message": "Чад"
+   },
+   "Change": {
+      "message": "Промяна"
+   },
+   "Change_Group_Name": {
+      "message": "Промяна име на групата"
+   },
+   "Change_Password": {
+      "message": "Смяна на парола"
+   },
+   "Check_For_Updates": {
+      "message": "Проверка за актуализации"
+   },
+   "Checkbox": {
+      "message": "Отметка"
+   },
+   "Checking_For_Updates___": {
+      "message": "Проверка за актуализации ..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Ченай, Колката, Мумбай, Ню Делхи, Шри Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Чили"
+   },
+   "China": {
+      "message": "Китай"
+   },
+   "Chinese__Simplified_": {
+      "message": "Китайски (опростен)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Китайски (традиционен)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Изберете профил и кредитна карта"
+   },
+   "Christmas_Island": {
+      "message": "Christmas Island"
+   },
+   "City___Town": {
+      "message": "Град"
+   },
+   "Clear": {
+      "message": "Изчисти"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Изчисти буфера след употреба (секунди)"
+   },
+   "Clear_Forms": {
+      "message": "Изчисти формите"
+   },
+   "Clear_Local_Cache": {
+      "message": "Изчисти Локалната Кеш Памет"
+   },
+   "Clear_Recent": {
+      "message": "Изчистване на последно използваните"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Изчистване на попълнените полета при излизане"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Кликнете 'Продължи'. за да започнете да използвате LastPass"
+   },
+   "Click_Icons_in_Fields": {
+      "message": "Щракнете на икони на 'Полета'"
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Щракнете тук, за да редактиране вашите настройки"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Кликнете тук, за да ни дадете обратна връзка"
+   },
+   "Click_to_hide_advanced_options_": {
+      "message": "Кликнете, за да скриете разширени опции."
+   },
+   "Clipperz": {
+      "message": "clipperz.com"
+   },
+   "Close": {
+      "message": "Затвори"
+   },
+   "Close_this_window": {
+      "message": "Затвори този прозорец"
+   },
+   "Co_pay": {
+      "message": "Доплащане"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Кокосови острови (Кийлинг) острови"
+   },
+   "Collapse_All": {
+      "message": "Свиване на всички"
+   },
+   "Colombia": {
+      "message": "Колумбия"
+   },
+   "Comoros": {
+      "message": "Коморските острови"
+   },
+   "Company": {
+      "message": "Фирма"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Политиката на фирмата забранява тази операция."
+   },
+   "Company_Phone": {
+      "message": "Фирмен телефон"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Политиката на фирмата не позволява промяна на някои настройки, не всички актуализации са запазени."
+   },
+   "Configure_Form_Fill": {
+      "message": "Конфигуриране попълването на форма"
+   },
+   "Confirm": {
+      "message": "Потвърди"
+   },
+   "Confirm_Password": {
+      "message": "Потвърди паролата"
+   },
+   "Congo": {
+      "message": "Конго"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Демократична Република Конго"
+   },
+   "Congratulations": {
+      "message": "Поздравления"
+   },
+   "Connection_Mode": {
+      "message": "Режим на свързване"
+   },
+   "Connection_Type": {
+      "message": "Вид връзка"
+   },
+   "Continue": {
+      "message": "Продължи"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Поправете знаците в избраното име"
+   },
+   "Cook_Islands": {
+      "message": "Острови Кук"
+   },
+   "Copy": {
+      "message": "Копирай"
+   },
+   "Copy_Password": {
+      "message": "Копирай Паролата"
+   },
+   "Copy_URL": {
+      "message": "Копирай URL"
+   },
+   "Copy_Username": {
+      "message": "Копирай Потребителското Име"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. Всички права запазени.\nЧасти от този софтуер са лицензирани от трети страни както следва:"
+   },
+   "Costa_Rica": {
+      "message": "Коста Рика"
+   },
+   "Cote_D_ivoire": {
+      "message": "Кот д'Ивоар"
+   },
+   "Country": {
+      "message": "Държава"
+   },
+   "County": {
+      "message": "Област"
+   },
+   "Create_Account": {
+      "message": "Създай Профил"
+   },
+   "Create_Group": {
+      "message": "Създаване на група"
+   },
+   "Create_Sub_Group": {
+      "message": "Създай под-група"
+   },
+   "Create_an_Account": {
+      "message": "Създай нов профил."
+   },
+   "Creating_Account___": {
+      "message": "Създаване на профил ..."
+   },
+   "Credit_Card": {
+      "message": "Кредитна карта"
+   },
+   "Credit_Monitoring": {
+      "message": "Наблюдение на самоличността ви"
+   },
+   "Credit_card_number": {
+      "message": "Номер на кредитна карта"
+   },
+   "Credit_cardformfill": {
+      "message": "Кредитна карта"
+   },
+   "Croatia": {
+      "message": "Хърватия"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Куба"
+   },
+   "Cyprus": {
+      "message": "Кипър"
+   },
+   "Czech_Republic": {
+      "message": "Чехия"
+   },
+   "Danish": {
+      "message": "Датски"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Дарвин"
+   },
+   "Database": {
+      "message": "База данни"
+   },
+   "Date": {
+      "message": "Дата"
+   },
+   "Date_of_Birth": {
+      "message": "Дата на раждане"
+   },
+   "December": {
+      "message": "Декември"
+   },
+   "Default": {
+      "message": "по подразбиране"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Профил по подразбиране за попълване на формуляри"
+   },
+   "Delete": {
+      "message": "Изтрий"
+   },
+   "Delete_Group": {
+      "message": "Изтрий групата"
+   },
+   "Delete_Selected": {
+      "message": "Изтрий избраните"
+   },
+   "Delete_Site": {
+      "message": "Изтриване на сайта"
+   },
+   "Delete_Site_": {
+      "message": "Изтриване на Сайта?"
+   },
+   "Denmark": {
+      "message": "Дания"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Деактивиране на многофакторното удостоверяване."
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Изключване на еднофакторното удостоверяване"
+   },
+   "Disable_alert___": {
+      "message": "Изключете сигнализациите"
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Изключете сигнализирането за този сайт"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "Изключете всички сигнализации за слаби/дублиращи се сайтове"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Отхвърляне на промените и затворяне на прозореца"
+   },
+   "Djibouti": {
+      "message": "Джибути"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Да не се презаписват полета, които вече са попълнени"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Не питай отново за"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Харесвате ли LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Сигурни ли сте че искате да излезете? Не може да използвате lastpass без акаунт."
+   },
+   "Dominica": {
+      "message": "Доминика"
+   },
+   "Dominican_Republic": {
+      "message": "Доминиканската република"
+   },
+   "Down": {
+      "message": "Надолу"
+   },
+   "Dr": {
+      "message": "Д-р"
+   },
+   "Driver_s_License": {
+      "message": "Шофьорска книжка"
+   },
+   "Duplicate_password": {
+      "message": "Дублиращи се пароли"
+   },
+   "Dutch": {
+      "message": "Холандски"
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Източно време (САЩ и Канада)"
+   },
+   "Ecuador": {
+      "message": "Еквадор"
+   },
+   "Edit": {
+      "message": "Редактирай"
+   },
+   "Edit_Application_Fields": {
+      "message": "Редактиране полетата на приложението"
+   },
+   "Edit_Form_Fields": {
+      "message": "Редактиране полетата на формата"
+   },
+   "Edit_Secure_Note": {
+      "message": "Редактирай криптираната бележка"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Редакция на криптирани бележки"
+   },
+   "Edit_Site": {
+      "message": "Редактирайте Сайта"
+   },
+   "Edit_Site_Fields": {
+      "message": "Редактирай полетата на този сайт"
+   },
+   "Egypt": {
+      "message": "Египет"
+   },
+   "El_Salvador": {
+      "message": "Ел Салвадор"
+   },
+   "Email": {
+      "message": "Имейл"
+   },
+   "Email_Account": {
+      "message": "Имейл профил"
+   },
+   "Email_address": {
+      "message": "Email адрес"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Този email вече се използва, дали не сте забравили паролата си?"
+   },
+   "Encryption": {
+      "message": "Криптиране"
+   },
+   "End": {
+      "message": "Край"
+   },
+   "English": {
+      "message": "Английски"
+   },
+   "English__United_Kingdom_": {
+      "message": "Английски (Обединено кралство)"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "Въведете парола в полето по-долу:"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Въведете вашата смарт карта ПИН:"
+   },
+   "Enterprise": {
+      "message": "Ентърпрайз"
+   },
+   "Equatorial_Guinea": {
+      "message": "Екваториална Гвинея"
+   },
+   "Eritrea": {
+      "message": "Еритрея"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Възникна грешка при достъпа до вашите LastPass сайтове. Моля опитайте да влезете обратно, за да изтеглите вашите сайтове."
+   },
+   "ErrorLoginMsg": {
+      "message": "Възникна грешка при влизането в LastPass. Моля проверете Вашата интернет връзка."
+   },
+   "ErrorSendingMsg": {
+      "message": "Възникна грешка при опит за връзка със сървъра. Моля, проверете Вашата интернет връзка."
+   },
+   "ErrorSessionMsg": {
+      "message": "Вашата LastPass сесия е изтекла. Моля, влезте отново."
+   },
+   "Error_opening_attachment_": {
+      "message": "Грешка при отваряне на прикаченият файл."
+   },
+   "Estonia": {
+      "message": "Естония"
+   },
+   "Ethiopia": {
+      "message": "Етиопия"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass вече може да съхранява еднократната парола локално, която може да бъде използвана за възстановяване на профила ви, ако забравите вашата Основна Парола. Тази еднократна парола ще бъде нефункционална, докато не бъде активирана на сървъра.\n\nБихте ли искали да активирате възстановяването на профил ?"
+   },
+   "Expand_All": {
+      "message": "Разгърни всички"
+   },
+   "Expiration": {
+      "message": "Изтичане"
+   },
+   "Expiration_date": {
+      "message": "Срок на изтичане"
+   },
+   "Export": {
+      "message": "Износ"
+   },
+   "Export_To": {
+      "message": "Изнеси в"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS режим"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Фолкландските острови (Малвински)"
+   },
+   "Faroe_Islands": {
+      "message": "Фарьорските острови"
+   },
+   "Favorite": {
+      "message": "Любим"
+   },
+   "Favoritesproper": {
+      "message": "Любими"
+   },
+   "Fax_number": {
+      "message": "Факс номер"
+   },
+   "February": {
+      "message": "Февруари"
+   },
+   "Feedback": {
+      "message": "Обратна връзка"
+   },
+   "Female": {
+      "message": "Жена"
+   },
+   "Fields_": {
+      "message": "Полета:"
+   },
+   "Fiji": {
+      "message": "Фиджи"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Фиджи, Камчатка, Маршал е."
+   },
+   "File": {
+      "message": "Файл"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Файлът е твърде голям. Той трябва да бъде по-малък от 10 МБ."
+   },
+   "Fill": {
+      "message": "Попълни"
+   },
+   "Fill_Current": {
+      "message": "Попълване текущ"
+   },
+   "Fill_Form": {
+      "message": "Попълване на формата"
+   },
+   "Fill_Forms": {
+      "message": "Попълване на формите"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Зареждай профила по подразбиране за попълване на формуляри"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Попълнете следващата форма (Когато са много)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Попълнете предишната форма (Когато са много)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Попълване или редакция на данни"
+   },
+   "Fill_with": {
+      "message": "Попълни с"
+   },
+   "FillableFormDetected": {
+      "message": "На тази страница беше намерена форма за попълване"
+   },
+   "Filter": {
+      "message": "Филтриране"
+   },
+   "Find_a_site": {
+      "message": "Намери страница"
+   },
+   "Finland": {
+      "message": "Финландия"
+   },
+   "Finnish": {
+      "message": "Финдландски"
+   },
+   "FireForm": {
+      "message": "FireForm плъгин за Firefox"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Инструмент за съхранение на пароли във Firefox "
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Първите три цифри от телефонния Ви номер"
+   },
+   "First_name": {
+      "message": "Собствено име"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "За всяка координата, показана по-долу, намира стойност от вашата мрежа и я въвежда."
+   },
+   "Forgot_Password_": {
+      "message": "Забравена парола?"
+   },
+   "Form_Fill": {
+      "message": "Попълване на формуляри"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Профили за попълване на форми"
+   },
+   "Form_Fills": {
+      "message": "Профил за попълване на формуляри"
+   },
+   "Form_Name_": {
+      "message": "Име на формата:"
+   },
+   "Format": {
+      "message": "Формат"
+   },
+   "Forums": {
+      "message": "Форуми"
+   },
+   "France": {
+      "message": "Франция"
+   },
+   "French": {
+      "message": "Френски"
+   },
+   "French_Guiana": {
+      "message": "Френска Гвиана"
+   },
+   "French_Polynesia": {
+      "message": "Френска Полинезия"
+   },
+   "French_Southern_Territories": {
+      "message": "Френски южни територии"
+   },
+   "French__Canada_": {
+      "message": "Френски (Канада)"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "Получите безплатен абонамент"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Дъблин, Единбург, Лисабон, Лондон"
+   },
+   "Gabon": {
+      "message": "Габон"
+   },
+   "Gambia": {
+      "message": "Гамбия"
+   },
+   "Gender": {
+      "message": "Пол"
+   },
+   "General": {
+      "message": "Общи"
+   },
+   "Generate": {
+      "message": "Генерирай"
+   },
+   "GeneratePassword": {
+      "message": "Ако създавате нов профил или сменяте паролата си, натиснете 'Генерирай' за да получите уникална и сигурна парола с LastPass"
+   },
+   "Generate_Password": {
+      "message": "Генерирай Парола"
+   },
+   "Generate_Secure_Password": {
+      "message": "Генерирай Сигурна Парола"
+   },
+   "Generated_Password_for": {
+      "message": "Генерирана Парола за"
+   },
+   "Generic": {
+      "message": "Обобщен"
+   },
+   "Generic_CSV_File": {
+      "message": "Обикновен CSV файл"
+   },
+   "Georgia": {
+      "message": "Грузия"
+   },
+   "German": {
+      "message": "Немски"
+   },
+   "Germany": {
+      "message": "Германия"
+   },
+   "Ghana": {
+      "message": "Гана"
+   },
+   "Gibraltar": {
+      "message": "Гибралтар"
+   },
+   "Go_Back": {
+      "message": "Назад"
+   },
+   "Go_Premium_": {
+      "message": "Станете ВИП!"
+   },
+   "Go_to_URL": {
+      "message": "Иди на адрес"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Удостоверяване с Google Удостоверител"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome мениджър на пароли"
+   },
+   "Greece": {
+      "message": "Гърция"
+   },
+   "Greenland": {
+      "message": "Гренландия"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Гренландия, Бразилия, Монтевидео"
+   },
+   "Grenada": {
+      "message": "Гренада"
+   },
+   "Group_": {
+      "message": "Група:"
+   },
+   "Group_ID": {
+      "message": "Име на групата"
+   },
+   "Group_Name": {
+      "message": "Име на групата"
+   },
+   "Guadeloupe": {
+      "message": "Гваделупа"
+   },
+   "Guam": {
+      "message": "Гуам"
+   },
+   "Guatemala": {
+      "message": "Гватемала"
+   },
+   "Guernsey": {
+      "message": "Вълнена фланела"
+   },
+   "Guinea": {
+      "message": "Гвинея"
+   },
+   "Guinea_Bissau": {
+      "message": "Гвинея-Бисау"
+   },
+   "Guyana": {
+      "message": "Гвиана"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Хаити"
+   },
+   "Harare__Pretoria": {
+      "message": "Хараре, Претория"
+   },
+   "Hawaii": {
+      "message": "Хавай"
+   },
+   "Health_Insurance": {
+      "message": "Здравна застраховка"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Хърд и Макдоналд, острови"
+   },
+   "Height": {
+      "message": "Височина"
+   },
+   "Help": {
+      "message": "Помощ"
+   },
+   "Help_Translate": {
+      "message": "Помощ за превод"
+   },
+   "Help___": {
+      "message": "Помощ ..."
+   },
+   "Help_spread_the_word": {
+      "message": "Помогнете за разпространението"
+   },
+   "Hide_Advanced_Options": {
+      "message": "Скрий разширени опции"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Скрий контекст-меню опциите"
+   },
+   "Hide_Password": {
+      "message": "Скрий Парола"
+   },
+   "Highlight_input_boxes": {
+      "message": "Маркирай полетата за въвеждане"
+   },
+   "History": {
+      "message": "История"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Светият престол (Ватикана)"
+   },
+   "Home": {
+      "message": "Основна"
+   },
+   "Honduras": {
+      "message": "Хондурас"
+   },
+   "Hong_Kong": {
+      "message": "Хонконг"
+   },
+   "Hostname": {
+      "message": "Име на хост"
+   },
+   "HotKeys": {
+      "message": "Клавишни комбинации"
+   },
+   "Hungarian": {
+      "message": "Унгарски"
+   },
+   "Hungary": {
+      "message": "Унгария"
+   },
+   "IBAN_Number": {
+      "message": "IBAN номер"
+   },
+   "IMPORT_": {
+      "message": "ВНАСЯНЕ?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "ИЗКЛЮЧИТЕЛНО ВАЖНО Е НИКОГА ДА НЕ ЗАБРАВЯТЕ НОВАТА СИ ПАРОЛА ЗА LASTPASS."
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Забравил съм си паролата, Помощ"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Прочетох и приемам "
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Разбирам, че моите криптирани данни ще бъдат изпратени до LastPass"
+   },
+   "Iceland": {
+      "message": "Исландия"
+   },
+   "Identities": {
+      "message": "Самоличности"
+   },
+   "Identity": {
+      "message": "Самоличност"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Ако вече имате LastPass сметка, можете да затворите този прозорец и да влезете в него"
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Ако все пак забравите основната си  парола за LastPass, "
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Ако сте забравили вашия отговор, щракнете тук за да рестартирате вашия въпрос за сигурност"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Ако разполагате с друг формат, който LastPass не поддържа в момента, може да опитате да запазите данните си в CSV формат.\n\nТРЯБВА ДА МОДИФИЦИРАТЕ ПЪРВИЯ РЕД НА ФАЙЛА ЗА ДА МОЖЕ LASTPASS ДА ГО РАЗПОЗНАЕ\n\nВ първия ред имената на колоните трябва да описват съдържанието на колоните.\nВъзможни описания:\nurl,username,password,extra,name,grouping\n\n'extra' означава бележки и 'grouping' означава в коя група трябва да е класифицирано. Не е задължително да ползвате всички имена на колони и не е задължително да спазват някаква поредност. Например първият ред на вашия файл може да е:\n\nname,username,password,url\n\nАко искате да импортирате Криптирана Бележка, вместо сайт, просто оставете празни колони 'url', 'username' и 'password' ( или ги пропуснете напълно ) и попълнете колона 'extra'. Ако спазите тези условия, този ред ще бъде автоматично импортиран като Криптирана бележка, а не като сайт.\n\nТова е много просто - отворете вашия запазен CSV файл в Excel и напишете подходящите имена на колони на първият ред. Запишете го и след това импортирайте файла."
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Ако сте загубили вашето устройство с Google удостоверител, щракнете тук за да изключите тази настройка."
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Ако сте загубили вашето Sesame устройство, щракнете тук за да забраните Sesame аутентификацията"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Ако сте загубили вашето YubiKey устройство, моля щракнете тук, за да забраните YubiKey аутентификацията."
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "Ако сте загубили вашето устройство, щракнете тук за да изключите удостоверяването  в две стъпки"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Ако загубите мрежата си, кликнете тук, за да забраните удостоверяването в мрежата"
+   },
+   "Import": {
+      "message": "Импортирай"
+   },
+   "Import_From": {
+      "message": "Импортирай от"
+   },
+   "Import_Your_Data": {
+      "message": "Импортирайте вашите данни"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Импортирането на данните ви във вашия  трезор ще ги защити от кражба. Всички импортирани данни остават НАПЪЛНО поверителни: САМО ВИЕ можете да ги видите."
+   },
+   "India": {
+      "message": "Индия"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Индиана, Богота, Лима, Кито, Рио Бранко"
+   },
+   "Indonesia": {
+      "message": "Индонезия"
+   },
+   "Install": {
+      "message": "Инсталирай"
+   },
+   "Instant_Messenger": {
+      "message": "Instant Messenger"
+   },
+   "Instructions": {
+      "message": "Инструкции"
+   },
+   "Insurance": {
+      "message": "Застраховка"
+   },
+   "International_Date_Line_West": {
+      "message": "Международна Западна линия за датиране"
+   },
+   "Invalid_Password_": {
+      "message": "Невалидна парола."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Невалиден e-mail адрес, опитайте отново"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Иран (Ислямска република)"
+   },
+   "Iraq": {
+      "message": "Ирак"
+   },
+   "Ireland": {
+      "message": "Ирландия"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Исламабад, Карачи, Ташкент"
+   },
+   "Isle_of_Man": {
+      "message": "Остров Ман"
+   },
+   "Israel": {
+      "message": "Израел"
+   },
+   "Issued_Date": {
+      "message": "Дата на издаване"
+   },
+   "Issuing_Authority": {
+      "message": "Издател"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Препоръчително е да изтриете прикачения файл, след като го използвате."
+   },
+   "Italian": {
+      "message": "Италиански"
+   },
+   "Italy": {
+      "message": "Италия"
+   },
+   "IterationsReduction": {
+      "message": "Броят на повторенията, необходими за генериране на главната парола LastPass изглежда е намален от кешираната версия. Бихте ли искали да продължите?"
+   },
+   "Jamaica": {
+      "message": "Ямайка"
+   },
+   "January": {
+      "message": "Януари"
+   },
+   "Japan": {
+      "message": "Япония"
+   },
+   "Japanese": {
+      "message": "Японски"
+   },
+   "Jersey": {
+      "message": "Джърси"
+   },
+   "Jordan": {
+      "message": "Йордания"
+   },
+   "July": {
+      "message": "Юли"
+   },
+   "June": {
+      "message": "Юни"
+   },
+   "Kabul": {
+      "message": "Кабул"
+   },
+   "Kathmandu": {
+      "message": "Катманду"
+   },
+   "Kazakhstan": {
+      "message": "Казахстан"
+   },
+   "KeePass": {
+      "message": "Keepass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Пази история на моите влизания и попълване на форми"
+   },
+   "Kenya": {
+      "message": "Кения"
+   },
+   "Key_Index": {
+      "message": "Указател на ключове"
+   },
+   "Key_Type": {
+      "message": "Тип ключ"
+   },
+   "Kiribati": {
+      "message": "Кирибати"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Корея, КНДР"
+   },
+   "Korea__Republic_Of": {
+      "message": "Южна Корея"
+   },
+   "Korean": {
+      "message": "Корейски"
+   },
+   "Kuwait": {
+      "message": "Кувейт"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Кувейт, Рияд, Найроби, Тбилиси"
+   },
+   "Kyrgyzstan": {
+      "message": "Киргизстан"
+   },
+   "La_Paz": {
+      "message": "Ла Пас"
+   },
+   "Language": {
+      "message": "Език"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Лаос народна демократична република"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV файл"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome Toolbar"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "Криптиран файл на LastPass"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass Решетъчна Мултифакторна Автентикация"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass меню"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass може автоматично да попълва форми на уебсайтове с едно щракване на мишката. Използването на автоматично попълване не само спестява време, но също така увеличава сигурността ви онлайн."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "Не може да влезете в LastPass, докато не разрешите бисквитките от lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass откри форма за вход, която не е сигурна.\n\nБихте ли искали да продължите?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass откри форма за вход, която не е сигурна.\n\nБихте ли искали LastPass да попълни формата?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass разпозна смяна на паролата за"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass разпозна смяна на паролата за домейна:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass разпозна смяна на паролата на потребител:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass откри грешка при инсталацията. Моля преинсталирайте LastPass."
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass е открил, че използвате слаба парола за сайта по-долу. Препоръчваме ви да отидете в настройките на профила за този сайт и да създадете нова парола. Използвайте LastPass за генериране на уникална, силна парола за този акаунт. След това можете да запишете промените в сайта, както и в LastPass."
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass откри, че сте използвали тази парола за влизане и в други сайтове. Препоръчваме ви да отидете в настройките на профила за този сайт, и да създадете нова парола. Използвайте LastPass за генериране на уникална, силна парола за този акаунт. След това можете да запишете промените в сайта, както и в LastPass."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass попълни данните ви за вход във формата на тази страница."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass е напълно инсталиран! Когато инсталирате LastPass на други компютри, не трябва да минавате отново през тази процедура, еие ще можете просто да влезете в LastPass. Не споделяйте вашата основна паролас никого, включително и слъжителите на LastPass, ние никога няма да попитаме за нея! LastPass криптира вашите поверителни данни локално, така че дори служителите на LastPass нямат достъп до тях. Можете да получите помощ като щракнете върху иконката на LastPass и изберете Помощ."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass е последната парола, която ще се наложи да помните. Ако не сте ползвали LastPass ще са ви необходими само няколко минути, за да си направите профил. Ще можете да използвате този профил на всеки компютър, който използвате, за да държите личната ви информация синхронизирана. Щракнете на 'Създай профил' за да започнете."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass трябва да криптира наново всички ваши данни, тъй като има промяна в ключа."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Последните четири цифри от телефонния Ви номер"
+   },
+   "Last_Name2": {
+      "message": "Фамилия2"
+   },
+   "Last_Touch": {
+      "message": "Последна промяна"
+   },
+   "Last_name": {
+      "message": "Фамилия"
+   },
+   "Latvia": {
+      "message": "Латвия"
+   },
+   "Launch": {
+      "message": "Стартирай"
+   },
+   "Lebanon": {
+      "message": "Ливан"
+   },
+   "Left": {
+      "message": "Ляво"
+   },
+   "Lesotho": {
+      "message": "Лесото"
+   },
+   "Liberia": {
+      "message": "Либерия"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Либийска арабска джамахирия"
+   },
+   "License_Class": {
+      "message": "Клас на лиценза"
+   },
+   "License_Key": {
+      "message": "Лицензионен ключ"
+   },
+   "Liechtenstein": {
+      "message": "Лихтенщайн"
+   },
+   "Link_Personal_Account": {
+      "message": "Свържете личен акаунт"
+   },
+   "Lithuania": {
+      "message": "Литва"
+   },
+   "Local": {
+      "message": "Локален"
+   },
+   "Log_into_a_Site": {
+      "message": "Влезте в сайта"
+   },
+   "Login": {
+      "message": "Вход"
+   },
+   "LoginError": {
+      "message": "Грешка при влезане в LastPass. Моля опитайте отново."
+   },
+   "Login_to_LastPass": {
+      "message": "Вписване в LastPass"
+   },
+   "Logoff": {
+      "message": "Изход"
+   },
+   "Logoff_": {
+      "message": "Изход:"
+   },
+   "LoseChanges": {
+      "message": "Сигурни ли сте, че искате да промените полетата на този сайт? Правейки това, ще загубите някои промени, които сте направили по този сайт!"
+   },
+   "LoseChangesApp": {
+      "message": "Сигурни ли сте, че искате да редактирате полетата за това приложение. Правейки това може да загубите всички промени, които сте направили за това приложение!"
+   },
+   "Luxembourg": {
+      "message": "Люксембург"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Макао"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Македония, Бивша югославска република"
+   },
+   "Madagascar": {
+      "message": "Мадагаскар"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Магадан, о.Соломон, Нова Каледония, Владивосток"
+   },
+   "Malawi": {
+      "message": "Малави"
+   },
+   "Malaysia": {
+      "message": "Малайзия"
+   },
+   "Maldives": {
+      "message": "Малдивите"
+   },
+   "Male": {
+      "message": "Мъжки"
+   },
+   "Mali": {
+      "message": "Мали"
+   },
+   "Malta": {
+      "message": "Малта"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Управление на споделени папки"
+   },
+   "March": {
+      "message": "Март"
+   },
+   "Marshall_Islands": {
+      "message": "Маршалови острови"
+   },
+   "Martinique": {
+      "message": "Мартиника"
+   },
+   "Master_Password": {
+      "message": "Главна Парола"
+   },
+   "Mauritania": {
+      "message": "Мавритания"
+   },
+   "Mauritius": {
+      "message": "Мавриций"
+   },
+   "May": {
+      "message": "Май"
+   },
+   "Mayotte": {
+      "message": "Майот"
+   },
+   "Member_ID": {
+      "message": "Име на потребителя"
+   },
+   "Member_Name": {
+      "message": "Потребителско име"
+   },
+   "Membership": {
+      "message": "Членство"
+   },
+   "Membership_Number": {
+      "message": "Членски номер"
+   },
+   "Meta": {
+      "message": "Мета"
+   },
+   "Mexico": {
+      "message": "Мексико"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Микронезия, Федерални щати"
+   },
+   "Mid_Atlantic": {
+      "message": "Среден Атлантически океан"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Средните три цифри от телефонния Ви номер"
+   },
+   "Middle_name": {
+      "message": "Бащино име"
+   },
+   "Midway_Island__Samoa": {
+      "message": "о-в Мидуей, Самоа"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Минимален брой на цифрите"
+   },
+   "Mobile_number": {
+      "message": "Мобилен номер"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Молдова, Република"
+   },
+   "Monaco": {
+      "message": "Монако"
+   },
+   "Mongolia": {
+      "message": "Монголия"
+   },
+   "Montenegro": {
+      "message": "Черна гора"
+   },
+   "Montserrat": {
+      "message": "Монсерат"
+   },
+   "More": {
+      "message": "Още"
+   },
+   "More_Information": {
+      "message": "Повече информация"
+   },
+   "More_Options": {
+      "message": "Още опции"
+   },
+   "Morocco": {
+      "message": "Мароко"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Планинско време (САЩ и Канада)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Преместване на избраните в група"
+   },
+   "Move_to_Group": {
+      "message": "Преместване в група"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Преместване в подгрупата"
+   },
+   "Mozambique": {
+      "message": "Мозамбик"
+   },
+   "Mr": {
+      "message": "Г-н"
+   },
+   "Mrs": {
+      "message": "Г-жа"
+   },
+   "Ms": {
+      "message": "Г-ца"
+   },
+   "Multifactor_Authentication": {
+      "message": "Удостоверяване в 2 стъпки"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Моят Профил"
+   },
+   "My_LastPass_Vault": {
+      "message": "Моят LastPass Трезор"
+   },
+   "Myanmar": {
+      "message": "Мианмар"
+   },
+   "NAME": {
+      "message": "ИМЕ"
+   },
+   "Name_": {
+      "message": "Име:"
+   },
+   "Nameproper": {
+      "message": "Име"
+   },
+   "Namibia": {
+      "message": "Намибия"
+   },
+   "Nationality": {
+      "message": "Националност"
+   },
+   "Nauru": {
+      "message": "Науру"
+   },
+   "Nepal": {
+      "message": "Непал"
+   },
+   "Netherlands": {
+      "message": "Холандия"
+   },
+   "Netherlands_Antilles": {
+      "message": "Холандски Антили"
+   },
+   "Never": {
+      "message": "Никога"
+   },
+   "Never___": {
+      "message": "Никога ..."
+   },
+   "New_Caledonia": {
+      "message": "Нова Каледония"
+   },
+   "New_Master_Password": {
+      "message": "Нова Главна Парола"
+   },
+   "New_Zealand": {
+      "message": "Нова Зеландия"
+   },
+   "New_here__Create_an_Account_": {
+      "message": "Нямате профил? Регистрирайте се сега."
+   },
+   "Newfoundland": {
+      "message": "Нюфаундленд"
+   },
+   "Nicaragua": {
+      "message": "Никарагуа"
+   },
+   "Niger": {
+      "message": "Нигер"
+   },
+   "Nigeria": {
+      "message": "Нигерия"
+   },
+   "Niue": {
+      "message": "Ниуе"
+   },
+   "No": {
+      "message": "Не"
+   },
+   "No_Matching_Sites_": {
+      "message": "Няма съвпадащи сайтове!"
+   },
+   "No_Thanks": {
+      "message": "Не, благодаря"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Няма налични актузализации"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Wi-Fi адаптерът е открит на този компютър. Тази функция изисква Wi-Fi адаптер."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Не, не искам LastPass да попълва автоматично формите"
+   },
+   "No__Save_as_New_Entry": {
+      "message": "Не, Запази като Нов запис"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Не, не импортирай нищо от моите несигурни данни"
+   },
+   "None_Available": {
+      "message": "Няма достъпно"
+   },
+   "Norfolk_Island": {
+      "message": "Норфолк"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Северни Мариански острови"
+   },
+   "Norway": {
+      "message": "Норвегия"
+   },
+   "Norwegian": {
+      "message": "Норвежки"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Норвежки съвременен"
+   },
+   "Not_Now": {
+      "message": "Не сега"
+   },
+   "Note_Type": {
+      "message": "Тип на забележката"
+   },
+   "Notes": {
+      "message": "Бележки"
+   },
+   "Notes_": {
+      "message": "Бележки:"
+   },
+   "Notifications": {
+      "message": "Нотификации"
+   },
+   "November": {
+      "message": "Ноември"
+   },
+   "Nuku_alofa": {
+      "message": "Нукуалофа"
+   },
+   "Number": {
+      "message": "Номер"
+   },
+   "Number_of_Licenses": {
+      "message": "Брой лицензи"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Октомври"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Предложи генериране на сигурни пароли"
+   },
+   "Old_Password": {
+      "message": "Стара Парола"
+   },
+   "Oman": {
+      "message": "Оман"
+   },
+   "One_Time_Passwords": {
+      "message": "Едднократни пароли"
+   },
+   "Open_All": {
+      "message": "Отвори всички"
+   },
+   "Open_Favorites": {
+      "message": "Отвори любими"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Отвори моя LastPass трезор"
+   },
+   "Open_New_Pages_in": {
+      "message": "Отваряне на новите страници в"
+   },
+   "Open_Security_Check": {
+      "message": "Отваряне на 'проверка за сигурност'"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Отворете Sticky Password - Управление на базата данни - Изнасяне - Изнасяне като текст. Внесете този файл"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Отвори формата за вход, когато стартирам браузърa"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Order_Number": {
+      "message": "Номер на поръчката"
+   },
+   "Order_Total": {
+      "message": "Общо поръчки"
+   },
+   "Organization": {
+      "message": "Организация"
+   },
+   "Other": {
+      "message": "Други"
+   },
+   "Other_Sessions": {
+      "message": "Други сесии"
+   },
+   "PASSWORDupper": {
+      "message": "ПАРОЛА"
+   },
+   "PINs_Password_Manager": {
+      "message": "Мениджър на PIN кодове"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Тихоокеанско време (САЩ и Канада)"
+   },
+   "Page_Down": {
+      "message": "Page Down"
+   },
+   "Page_Up": {
+      "message": "Page Up"
+   },
+   "Pakistan": {
+      "message": "Пакистан"
+   },
+   "Palau": {
+      "message": "Палау"
+   },
+   "Palestinian_Territories": {
+      "message": "Палестински територии"
+   },
+   "Panama": {
+      "message": "Панама"
+   },
+   "Papua_New_Guinea": {
+      "message": "Папуа-Нова Гвинея"
+   },
+   "Paraguay": {
+      "message": "Парагвай"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "Фраза за достъп"
+   },
+   "Passport": {
+      "message": "Паспорт"
+   },
+   "Password": {
+      "message": "Парола"
+   },
+   "Password_": {
+      "message": "Парола:"
+   },
+   "Password_Agent": {
+      "message": "Агент за пароли"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Пазач на пароли"
+   },
+   "Password_Length": {
+      "message": "Дължина на паролата"
+   },
+   "Password_Length_": {
+      "message": "Дължина на паролата:"
+   },
+   "Password_Reminder": {
+      "message": "Напомняне за парола:"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Напомнянето за паролата не може да съвпада с паролата"
+   },
+   "Password_updated_": {
+      "message": "Паролата ви е обновена!"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Peru": {
+      "message": "Перу"
+   },
+   "Philippines": {
+      "message": "Филипини"
+   },
+   "Physician_Address": {
+      "message": "Адрес"
+   },
+   "Physician_Name": {
+      "message": "Име"
+   },
+   "Physician_Phone": {
+      "message": "Телефон"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "Питкерн"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Моля, направете избор"
+   },
+   "Please_Wait___": {
+      "message": "Моля, изчакайте..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Моля, отговорете на следния въпрос:"
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Моля завършете удостоверяването в 2 стъпки на вашия телефон или мобилно устройство."
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Моля въведете напомняне за паролата"
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Моля, дръжте тази страница отворена, докато операцията приключи."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Моля преместете сайтове от само един споделена папка едновременно."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Моля обърнете внимание, че преминавате в режим онлайн при което вашите пароли се качват в криптиран формат на нашите сървъри, като дори LastPass не може да ги прочете. Ще имате достъп до вашите данни отвсякъде. Желаете ли да продължите?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Моля предоставяте името на компютъра"
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Моля рестартирайте всичките си браузъри преди да започнете ползването на LastPass Online."
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Моля изберете за кои сайтове се отнася тази промяна"
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Моля посетете HTTPS://lastpass.com за да създадете по-късно профил"
+   },
+   "Poland": {
+      "message": "Полша"
+   },
+   "Policy_Number": {
+      "message": "Номер на полица"
+   },
+   "Policy_Type": {
+      "message": "Тип на полицата"
+   },
+   "Polish": {
+      "message": "Полски"
+   },
+   "Port": {
+      "message": "Порт"
+   },
+   "Portugal": {
+      "message": "Португалия"
+   },
+   "Portuguese": {
+      "message": "Португалски"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Португалски (Бразилия)"
+   },
+   "Preferences": {
+      "message": "Предпочитания"
+   },
+   "Price": {
+      "message": "Цена"
+   },
+   "Print": {
+      "message": "Отпечатване"
+   },
+   "Private_Key": {
+      "message": "Частен ключ"
+   },
+   "Profile": {
+      "message": "Профил"
+   },
+   "Pronounceable": {
+      "message": "Произносим"
+   },
+   "Protected": {
+      "message": "Защитени"
+   },
+   "Public_Key": {
+      "message": "Обществен ключ"
+   },
+   "Publisher": {
+      "message": "Издател"
+   },
+   "Puerto_Rico": {
+      "message": "Пуерто Рико"
+   },
+   "Purchase_Date": {
+      "message": "Дата на закупуване"
+   },
+   "Qatar": {
+      "message": "Катар"
+   },
+   "Re_enter_Password": {
+      "message": "Въведете повторно паролата"
+   },
+   "Recently_Used": {
+      "message": "Използвани наскоро"
+   },
+   "Recently_Used_list_size": {
+      "message": "Размер на списъка с последно използваните"
+   },
+   "Recheck_Page": {
+      "message": "Провери отново страницата"
+   },
+   "Refresh": {
+      "message": "Опресни"
+   },
+   "Refresh_Sites": {
+      "message": "Опресни сайтовете"
+   },
+   "Reject": {
+      "message": "Отхвърли"
+   },
+   "Remember_Email": {
+      "message": "Запомни Имейла"
+   },
+   "Remember_Password": {
+      "message": "Запомни Паролата"
+   },
+   "Remove_Personal_Account": {
+      "message": "Премахнете личния акаунт"
+   },
+   "Rename_Group": {
+      "message": "Преименувай група"
+   },
+   "Replace_Existing_Site": {
+      "message": "Замени съществуващ сайт"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "Неуспешна заявка; имате ли интернет връзка?"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Необходими са символи от всякакъв тип"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Изисквай повторно паролата"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Изискване на нотификации когато:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Съблюдавай AutoComplete=off: позволява на сайтовете да забраняват автоматичното попълване"
+   },
+   "Reunion": {
+      "message": "Reunion"
+   },
+   "Right": {
+      "message": "Дясно"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Румъния"
+   },
+   "Russian": {
+      "message": "Руски"
+   },
+   "Russian_Federation": {
+      "message": "Руска федерация"
+   },
+   "Rwanda": {
+      "message": "Руанда"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "САЙТ"
+   },
+   "SMTP_Port": {
+      "message": "SMTP порт"
+   },
+   "SMTP_Server": {
+      "message": "SMTP сървър"
+   },
+   "SSH_Key": {
+      "message": "SSH ключ"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT код"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Saint_Barthelemy": {
+      "message": "Сен Бартелеми"
+   },
+   "Saint_Helena": {
+      "message": "Света Елена"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Сейнт Китс и Невис"
+   },
+   "Saint_Lucia": {
+      "message": "Сейнт Лусия"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Свети Мартин (френска част)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Сен Пиер и Микелон"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Сейнт Винсент и Гренадини"
+   },
+   "Samoa": {
+      "message": "Самоа"
+   },
+   "San_Marino": {
+      "message": "Сан Марино"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Сао Томе и Принсипи"
+   },
+   "Saudi_Arabia": {
+      "message": "Саудитска Арабия"
+   },
+   "Save": {
+      "message": "Запис"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Запази всички въведени данни"
+   },
+   "Save_New_Site": {
+      "message": "Запази нов сайт"
+   },
+   "Save_Site": {
+      "message": "Запази сайт"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Запазване на забранена еднократна парола локално за възстановяване на профила"
+   },
+   "Saved_Passwords": {
+      "message": "Запазени пароли"
+   },
+   "Screen_Keyboard": {
+      "message": "Екранна клавиатура"
+   },
+   "Search_LastPass_Vault": {
+      "message": "Търсене в LastPass Vault"
+   },
+   "Search_Vault": {
+      "message": "Търсене в трезора"
+   },
+   "Search_within_secure_notes": {
+      "message": "Търсене в криптираните бележки"
+   },
+   "Searchproper": {
+      "message": "Търсене"
+   },
+   "Secure_Notes": {
+      "message": "Криптирани Бележки"
+   },
+   "Security": {
+      "message": "Сигурност"
+   },
+   "Security_Check": {
+      "message": "Проверка на Сигурността"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Удостоверение с таен въпрос"
+   },
+   "Select": {
+      "message": "Избери"
+   },
+   "Select_All": {
+      "message": "Избери всички"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Избери или въведи ново групово име"
+   },
+   "Send_SMS_passcodes": {
+      "message": "Изпрати SMS пароли"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Изпращай анонимни данни, за да помогнеш за подобряването на LastPass"
+   },
+   "Senegal": {
+      "message": "Сенегал"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Сеул, Осака, Сапоро, Токио, Иркутск"
+   },
+   "September": {
+      "message": "Септември"
+   },
+   "Serbia": {
+      "message": "Сърбия"
+   },
+   "Server": {
+      "message": "Сървър"
+   },
+   "SesameWrongButton": {
+      "message": "За да видите данните си, когато сте офлайн, трябва\nда стартирате Sesame и да използвате\nбутона 'Копиране на офлайн парола' вместо  бутона 'Създаване на еднократна парола'."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame многофакторна аутентификация"
+   },
+   "Settings": {
+      "message": "Настройки"
+   },
+   "Sex": {
+      "message": "Пол"
+   },
+   "Seychelles": {
+      "message": "Сейшелските острови"
+   },
+   "Share": {
+      "message": "Сподели"
+   },
+   "Share_Selected": {
+      "message": "Сподели избраните"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Споделяне на състоянието на вписване между други браузъри"
+   },
+   "Share_offer_from": {
+      "message": "Предложение за споделяне от"
+   },
+   "Shares": {
+      "message": "Споделяния"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Трябва ли LastPass да запомни тази парола ?"
+   },
+   "Show": {
+      "message": "Покажи"
+   },
+   "Show_Advanced_Options": {
+      "message": "Покажи разширените опции"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Покажи изтритите сайтове"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Покажи нотификациите за попълване на форми"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Отвори моят LastPass трезор след влизане"
+   },
+   "Show_Notifications": {
+      "message": "Показвай нотификации"
+   },
+   "Show_Password": {
+      "message": "Покажи Парола"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Показвай запаметените нотификации за сайтове"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Покажи сайтове в групи"
+   },
+   "Show_all_sites": {
+      "message": "Покажи всички страници"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Показвай дадени нотификации само след щракване"
+   },
+   "Sierra_Leone": {
+      "message": "Сиера Леоне"
+   },
+   "Sign_In": {
+      "message": "Вписване"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Улесни си живота: Използвай LastPass да попълваш автоматично данните за вход в този сайт!"
+   },
+   "Singapore": {
+      "message": "Сингапур"
+   },
+   "Site_Search": {
+      "message": "Търсене в сайта"
+   },
+   "Sites": {
+      "message": "Сайтове"
+   },
+   "Slovak": {
+      "message": "Словашки"
+   },
+   "Slovakia": {
+      "message": "Словакия"
+   },
+   "Slovenia": {
+      "message": "Словения"
+   },
+   "Social_Security": {
+      "message": "Социална осигуровка"
+   },
+   "Software_License": {
+      "message": "Лицензиране на софтуер"
+   },
+   "Solomon_Islands": {
+      "message": "Соломоновите острови"
+   },
+   "Somalia": {
+      "message": "Сомалия"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Съжаляваме, но тази споделена папка е само за четене."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "За съжаление, не можете да изпълните тази операция на съчетание на споделени и споделен папки, или множество споделени папки наведнъж."
+   },
+   "South_Africa": {
+      "message": "Южна Африка"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Южна Джорджия и Южните Сандвичеви острови"
+   },
+   "Spain": {
+      "message": "Испания"
+   },
+   "Spanish": {
+      "message": "Испански"
+   },
+   "Spanish__Mexico_": {
+      "message": "Испански (Мексико)"
+   },
+   "Special": {
+      "message": "Специални"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Шри Ланка"
+   },
+   "State": {
+      "message": "Състояние"
+   },
+   "State___Province": {
+      "message": "Щат / Провинция"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Изпрати форма"
+   },
+   "Submitting___": {
+      "message": "Изпращане..."
+   },
+   "Sudan": {
+      "message": "Судан"
+   },
+   "Support_Email": {
+      "message": "e-mail за поддръжка"
+   },
+   "Suriname": {
+      "message": "Суринам"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Намерени са съмнителни знаци във въведеното име на файл."
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Свалбард и Ян Майен"
+   },
+   "Swaziland": {
+      "message": "Свазиленд"
+   },
+   "Sweden": {
+      "message": "Швеция"
+   },
+   "Swedish": {
+      "message": "Шведски"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Плъзнете пръстът на потребителя"
+   },
+   "Swipe_finger": {
+      "message": "Сложете пръст"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Сложете пръста си на сензора за пръстов отпечатък"
+   },
+   "Switzerland": {
+      "message": "Швейцария"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Сирийската арабска република"
+   },
+   "Tabs": {
+      "message": "Раздели"
+   },
+   "Taiwan": {
+      "message": "Тайван"
+   },
+   "Tajikistan": {
+      "message": "Таджикистан"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Танзания, Обединена република"
+   },
+   "Tehran": {
+      "message": "Техеран"
+   },
+   "Telephone": {
+      "message": "Телефон"
+   },
+   "Tell_a_friend_": {
+      "message": "Сподели с приятел!"
+   },
+   "Text": {
+      "message": "Текст"
+   },
+   "Thailand": {
+      "message": "Тайланд"
+   },
+   "That_group_already_exists_": {
+      "message": "Тaзи група вече съществува"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "LastPass Wi-Fi добавката не беше открита на този компютър. Бихте ли искали да изпълните универсалният инсталатор на LastPass, за да я инсталирате?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Въведената повторно LastPass парола не съвпада"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "'Старата парола', която сте въвели не е правилна"
+   },
+   "The_credit_card_number": {
+      "message": "Номера на кредитната карта"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Годината на изтичане на картата, 4 цифри"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Месеца на изтичане на картата"
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Кода за сигурност на кредитната карта.\nПри повечето кредитни карти, това са последните 3 цифри от номера, отпечатан на гърба на картата.\nПри кредитните карти Американ Експрес са последните 4 цифри от номера, отпечатан с дребен шрифт на предната страна на картата."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Пълното име отпечатано на кредитната карта"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Месеца на издаване на кредитната карта"
+   },
+   "The_name_of_your_bank": {
+      "message": "Името на вашата банка"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Полето за бележки съдържа твърде много данни. Можете да съхраните максимум 45 000 знака във всяка бележка.\n\nБихте ли искали да изтрием излишното ? Така ще загубите част от данните си."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Това може да бъде обработено само от уебстраница."
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Този компютър е доверен - не се изисква втора форма на удостоверяване"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Тази функция изисква пълната версия за този браузър. Бихте ли искали да я инсталирате сега?"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Това е споделен сайт. Нямате право да виждате паролата."
+   },
+   "This_may_take_a_while___": {
+      "message": "Това може да отнеме известно време..."
+   },
+   "Time_Zone": {
+      "message": "Часова зона"
+   },
+   "Timor_Leste": {
+      "message": "Източен Тимор"
+   },
+   "Title": {
+      "message": "Заглавие"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "За експортиране на 1Password данни за вход, влезте в 1Password. Изберете всички пароли, които искате да експортирате. После изберете: File menu > Export All > Text file... или File menu > Export Selected > Text file... Кликнете бутона Export, запишете файла с паролата и го импортирайте."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "За да изнесете Clipperz картите, се впишете в www.clipperz.com. Кликнете на data, тогава Export, тогава Export to JSON. Копирайте целия текст и го запишете във файл с помощта на текстов редактор и тогава говнесете. Моля, имайте предвид, че това внасяне може да не работи правилно, ако сте променили имената на полетата."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "За да изнесете FireForm профилите, кликнете с десния бутон върху иконата FireForm, след което изберете Опростена настройка. Идете в раздела Общи настройки, кликнете върху Изнасянене на всички профили, както и запазване на XML файл. Внесете получения файл."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "За да изнесете HP Password Safe, запишете в HTML файл. Внесете получения файл."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "За изнасяне на KeePass данни за вход - отворете KeePass база данни и кликнете върху File - Export To - XML файл. Изберете местоположението на файла и натиснете бутона Save. След това натиснете бутона ОК. Импортирайте полученият файл."
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "За да изнасяне на LastPass данни за вход - отворете браузъра си с инсталиран LastPass  плъгин, и кликнете върху LastPass - Инструменти - Изнеси в - CSV файл. Въведете LastPass паролата ви, изберете местоположението на файла и натиснете бутона Save. Импортирайте полученият файл."
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "За изнасяне на Password Agent данни за вход - отворете Password Agent база данни и кликнете върху File - Print and Export - Променете изходният файл на XML, както и 'Group' е отметнато. Изберете местоположението на файла и натиснете бутона Save. Импортирайте полученият файл."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "За експортиране на Passwords Max пароли, кликнете върху File - Database - Export - Text. Щракнете върху OK, и запазете CSV файлът. Импортирайте полученияt файл."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "За да експортирате RoboForm данни за вход, отидете на Roboform - Печат на списък (Print List). Кликнете върху квадратчето пълен адрес и натиснете бутона 'Запиши'. Внесете полученият файл.\nЗа изнасяне на RoboForm бележки, щракнете върху RoboForm - Бележки (SafeNotes) - Печат на списък. Натиснете бутона 'Запиши'. Внесете полученият файл.\nЗа изнасяне на RoboForm идентичности (Identities), щракнете върху RoboForm - идентичности - печат. Натиснете бутона 'Запиши'. Импортирайте полученият файл."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "За изнасяне на eWallet карти, отидете да eWallet - Инструменти (Tools) - Износ(Export). Запазете като текстов файл. Импортирайте полученият файл."
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "За изнасяне от MyPasswordSafe, щракнете във Файл - Запиши като - Изберете вид некриптиран XML - Запазете файла. Импортирайте полученият файл."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "За изнасяне от Password Safe, Щракнете върху файл - Износ към - XML ​​- Запазете файла. Импортирайте полученият файл."
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "За да експортирате пароли, влезнете в десктоп приложението и отидете на File - износ - CSV - Всички записи. Импортирайте полученият файл."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "За да експортирате пароли от Darn! Passwords!2, изберете Tools - Печат. Щракнете върху Настройки и отбележете 'Включвай бележки в експортирането. Щракнете върху Печат, и щракнете на иконата 'Експортиране във файл' , която прилича на син диск. Дайте име на файла, и щракнете върху Отвори. Импортирайте полученият файл."
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "За да експортирате паролите от Passpack:Login, отидете на екран Tools и щракнете на Export. Под _What Type of Format Would You Like To Export?_ изберете _Comma Separated Values_, и под _Which Entries Would You Like To Export?_ изберете _All of my entries_, след коет натиснете _Continue_. Изберете целият текст от полето на следващия екран, копирайте го в клипборд, създайте нов файл с Notepad, наречен passpack.csv и го попълнете с копирания текст. Импортирайте този файл."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "За да експортирате пароли от Corral: Влезте, отидете на Файл - Експорт на пароли - Направете износ на всичките ви пароли във вид на прав текст. Импортирайте този файл."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "За да експортирате пароли от Password Dragon: Влезте, отидете на Файл - Експортиране - текстов файл, като се уверите, че полето 'Парола' е изключено. Импортирайте записания файл."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "За да започнете да използвате LastPass, трябва да добавите сайтове към вашият профил."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "За импортиране от мениджъра на PIN-кодове, експортирайте в TSV-формат, после импортирайте получения файл."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "За да импортирате вашите MSI PasswordKeeper пароли, стартирайте програмата. Щракнете 'Txt' и след това 'Open'. Импортирайте запазеният файл."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "За да импортирате вашите данни от Password  Keeper, отворете програмата, и файла с паролите, който ще се експортира. Щракнете върху File (Файл) - Експортиране (Export) . Щракнете върху Да, въведете паролата си и щракнете върху OK. Това отваря стандартен Windows диалогов прозорец за запис, въведете име на файла и местоположение. Импортирайте полученият файл."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "За да импортирате вашите TurboPasswords пароли, стартирайте програмата и отворете файла с пароли, койт искате да експортирате. Ако искате да ограничите експорта до дадена категория или тип, филтрирайте показаните пароли чрез Category или Type падащите менюта над основния прозорец. Щракнете на File->Export Category. Това ще отвори стандартен прозорец за запис на файл, въведете име и къде да бъде запазен файла и изберете Comma Separated Values (.csv) от менюто Save as Type. Импортирайте запазеният файл."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "За да запази вашата самоличност и вашите данни конфиденциални,"
+   },
+   "Togo": {
+      "message": "Того"
+   },
+   "Tokelau": {
+      "message": "Токелау"
+   },
+   "Tonga": {
+      "message": "Лека индийска двуколка"
+   },
+   "Tools": {
+      "message": "Инструменти"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Тринидад и Тобаго"
+   },
+   "Try_Again": {
+      "message": "Опитайте отново"
+   },
+   "Tunisia": {
+      "message": "Тунис"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "Турция"
+   },
+   "Turkmenistan": {
+      "message": "Туркменистан"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Търкс и Кайкос"
+   },
+   "Tutorials": {
+      "message": "Помагала"
+   },
+   "Tuvalu": {
+      "message": "Тувалу"
+   },
+   "Type": {
+      "message": "Тип"
+   },
+   "Type_": {
+      "message": "Тип:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "Потребителско име"
+   },
+   "Uganda": {
+      "message": "Уганда"
+   },
+   "Ukraine": {
+      "message": "Украйна"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Улан Батаар, Пърт"
+   },
+   "United_Arab_Emirates": {
+      "message": "Обединените арабски емирства"
+   },
+   "United_Kingdom": {
+      "message": "Обединеното кралство"
+   },
+   "United_States": {
+      "message": "САЩ"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "САЩ Малки отдалечени острови"
+   },
+   "Unselect_All": {
+      "message": "Премахни всички избрани"
+   },
+   "Up": {
+      "message": "Нагоре"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Ъпгрейд към LastPass Online!"
+   },
+   "Uruguay": {
+      "message": "Уругвай"
+   },
+   "Use_802_1X": {
+      "message": "Използвайте 802.1X"
+   },
+   "Use_Password": {
+      "message": "Използвайте парола"
+   },
+   "Use_Special_Characters": {
+      "message": "Използвайте специални символи"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "Използвайте тази парола сега (за този сайт)?"
+   },
+   "User_Manual": {
+      "message": "Ръководство на потребителя"
+   },
+   "User_name": {
+      "message": "Потребителско име"
+   },
+   "Username_": {
+      "message": "Потребителско име:"
+   },
+   "Usernameproper": {
+      "message": "Потребителско име"
+   },
+   "Uzbekistan": {
+      "message": "Узбекистан"
+   },
+   "Vanuatu": {
+      "message": "Вануату"
+   },
+   "Vault": {
+      "message": "Трезор"
+   },
+   "Venezuela": {
+      "message": "Венецуела"
+   },
+   "Version": {
+      "message": "Версия"
+   },
+   "Version_": {
+      "message": "Версия:"
+   },
+   "Viet_Nam": {
+      "message": "Виетнам"
+   },
+   "View_Passwords": {
+      "message": "Покажи паролите"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Вирджински острови (Великобритания)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Вирджински острови (САЩ)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Уолис и Футуна"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Предупреждавай преди попълване на несигурни форми"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Гледайте видео за основните начини за ползване"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Ние също НЕ ПАЗИМ копие от него."
+   },
+   "Weak_Password": {
+      "message": "Слаба парола"
+   },
+   "Website": {
+      "message": "Уебсайт"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Добре дошли в LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Западна Централна Африка"
+   },
+   "Western_Sahara": {
+      "message": "Западна Сахара"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Парола"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi Пароли"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Бихте ли искали да се създаде профил за попълване на форми ?"
+   },
+   "XML_Files": {
+      "message": "XML файлове"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Янгон (Рангун)"
+   },
+   "Yemen": {
+      "message": "Йемен"
+   },
+   "Yes": {
+      "message": "Да"
+   },
+   "Yes__Use_for_this_Site": {
+      "message": "Да, използвайте за този сайт:"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Да, нека аз да избера какво да бъде импортирано в LastPass"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Да, нека аз да въведа и прегледам данните, които ще бъдат използвани за попълване на форми"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "На път сте да преместите сайтове от споделена папка във вашият трезор. Повече няма да бъдат достъпни на никой.\n\nЖелаете ли да продължите?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Вие сте на път да преместите сайтове в различна споделена папка. Това може да промени, кой има достъп до тях.\n\nИскате ли да продължите?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "На път сте да преместите сайтове в споделена папка. Това ще ги направи видими.\n\nЖелаете ли да продължите?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Не може да присвоявате повече от един Горещ клавиш към една и съща стойност! "
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Вие не можете да премествате вече споделени сайтове в споделена папка."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "В момента сте настроили lastpass да запомня паролата ви автоматично. По този начин правите опцията за автоматично излизане безполезна. Желаете ли lastpass да спре да запомня паролата ви?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Все още не сте избрали профил по подразбиран за попълване на формата. Искате ли сега да изберете?"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Можете също така да блокирате всички бисквитки, които принуждават Chrome да забрани достъп до база данни HTML5."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Трябва да се съгласите да изпратите вашите криптирани данни на LastPass.com\n\nLastPass.com криптира вашите данни и ги изпраща на защитени сървъри. Никой от LastPass.com не може да прочете вашите данни, защото са криптирани с вашата тайна парола и вие сте единствения, който знае паролата."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Трябва да се съгласите с лицензното споразумение, за да продължите"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Трябва да въведете име."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Трябва да въведете уникално име"
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Трябва да рестартирате Chrome или да излезете и влезете отново в lastpass за да бъдат отразени промените."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Трябва да рестартирате браузъра си, преди промените да влезнат в сила."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Вашата рожденна година, 4 цифри"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Вашите Google Chrome пароли бяха успешно импортитани."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Вашия пощенски код"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Вашият прикачен файл се намира на адрес:"
+   },
+   "Your_bank_account_information": {
+      "message": "Информация за Вашата банкова сметка"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Номера на Вашата банкова сметка."
+   },
+   "Your_birth_day": {
+      "message": "Вашата дата на раждане"
+   },
+   "Your_city_name": {
+      "message": "Името на Вашият град"
+   },
+   "Your_country_name": {
+      "message": "Името на страната Ви"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Вашите текущи настройки изискват да въведете LastPass паролата си за завършване на тази операция."
+   },
+   "Your_email_address": {
+      "message": "Вашият имейл адрес"
+   },
+   "Your_last_name": {
+      "message": "Фамилията Ви"
+   },
+   "Your_middle_name": {
+      "message": "Бащиното Ви име"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Вашата парола не може да бъде същата като вашият e-mail адрес"
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Вашата парола се отгатва лесно."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Вашата парола е твърде кратка. Трябва да е поне 6 символа."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Вашата парола е твърде кратка. Тя трябва да бъде поне 8 символа"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Напомнянето за парола служи да ви напомни за това, коя е"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Вашите пароли не съвпадат."
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Избраната самоличност не съществува вече. Сменям самоличността по подразбиране на 'Всички' и излизам."
+   },
+   "Your_sex": {
+      "message": "Вашият пол"
+   },
+   "Your_state_or_province_name": {
+      "message": "Вашият щат или област"
+   },
+   "Your_street_address": {
+      "message": "Вашият адрес"
+   },
+   "Your_time_zone": {
+      "message": "Вашият часови пояс"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey многофакторна аутентификация"
+   },
+   "Yugoslavia": {
+      "message": "Югославия"
+   },
+   "ZIP___Postal_code": {
+      "message": "Пощенски код"
+   },
+   "Zambia": {
+      "message": "Замбия"
+   },
+   "Zimbabwe": {
+      "message": "Зимбабве"
+   },
+   "_Hide_": {
+      "message": "[Скрий]"
+   },
+   "_History_": {
+      "message": "[История]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Нови чакащи предложения за споделяне)"
+   },
+   "_Show_": {
+      "message": "[Покажи]"
+   },
+   "_domain_": {
+      "message": "(домейн)"
+   },
+   "_none_": {
+      "message": "(нищо)"
+   },
+   "a_zlower": {
+      "message": "от a до z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "същинската парола, като я запази в тайна."
+   },
+   "ago": {
+      "message": "преди"
+   },
+   "and": {
+      "message": "и"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "свържете се с нас и ние ще ви изпратим вашето напомняне за паролата."
+   },
+   "day": {
+      "message": "ден"
+   },
+   "days": {
+      "message": "дни"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "вътр."
+   },
+   "false": {
+      "message": "невярно"
+   },
+   "favorites": {
+      "message": "Любими"
+   },
+   "hour": {
+      "message": "час"
+   },
+   "hours": {
+      "message": "часа"
+   },
+   "just_now": {
+      "message": "точно сега"
+   },
+   "minute": {
+      "message": "минута"
+   },
+   "minutes": {
+      "message": "минути"
+   },
+   "month": {
+      "message": "месец"
+   },
+   "months": {
+      "message": "месеци"
+   },
+   "privacy_statement": {
+      "message": "Защита на личните данни"
+   },
+   "recently_usedlower": {
+      "message": "използвани наскоро"
+   },
+   "second": {
+      "message": "секунда"
+   },
+   "seconds": {
+      "message": "секунди"
+   },
+   "terms_of_service": {
+      "message": "Условия за ползване"
+   },
+   "the_current_tab": {
+      "message": "текущият раздел"
+   },
+   "true": {
+      "message": "истина"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "ние НЕ ЗНАЕМ вашата LastPass парола"
+   },
+   "week": {
+      "message": "седмица"
+   },
+   "weeks": {
+      "message": "седмици"
+   },
+   "year": {
+      "message": "година"
+   },
+   "years": {
+      "message": "години"
+   }
+}

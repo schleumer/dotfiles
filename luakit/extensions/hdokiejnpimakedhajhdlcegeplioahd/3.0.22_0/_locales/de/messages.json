@@ -1,0 +1,3824 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Stecken Sie Ihren YubiKey mit dem USB-Kontakt nach oben in den USB-Port"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Führen Sie die Google Authenticator-Anwendung auf Ihrem mobilen Gerät aus"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Führen Sie die LastPass Sesame Anwendung aus, um ein Einmalpasswort zu erstellen"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Geben Sie Ihren aktuellen Überprüfungscode in das Textfeld unten ein"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Fügen Sie das Einmalpasswort in das Eingabefeld unten ein und klicken Sie auf 'authentifizieren'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Warten Sie, bis Ihre YubiKey-Taste konstant leuchtet"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Klicken Sie auf Authentifizieren"
+   },
+   "3__Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. Halten Sie Ihre Fingerspitze für 1 Sekunde auf der Berührungs-Taste"
+   },
+   "ACTION": {
+      "message": "AKTION"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "Eine Sammlung von SMS Zugangscodes sind an Ihr mobiles Gerät gesendet worden."
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_as_a_password_change_for_this_site_": {
+      "message": "Ein neues Passwort wurde erstellt. Möchten Sie, dass LastPass dies als eine Änderung des Kennworts für diese Seite speichert?"
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_password_change_for_this_site_": {
+      "message": "Ein neues Passwort wurde erstellt. Möchten Sie, dass LastPass sich diese Passwortänderung für diese Seite merkt?"
+   },
+   "A_new_password_has_been_generated_": {
+      "message": "Ein neues Passwort ist erstellt worden!"
+   },
+   "A_randomly_generated_password_": {
+      "message": "Ein zufälliges erstelltes Passwort."
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Ein erforderliches Update von LastPass steht zur Verfügung. Klicken Sie auf OK um es herunterzuladen und zu installieren."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Eine Wiederanlaufsdatei ist gefunden worden. Dies bedeutet, dass wahrscheinlich nicht alle Webseitenänderungen gespeichert wurden. Möchten Sie diese Datei löschen und eventuell manche der Änderungen verlieren?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Während der Bearbeitung Ihrer Anfrage ist ein Fehler beim Server aufgetreten."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Eine Webseite, die zuvor gemeinsam genutzt wurde kann nicht in ein gemeinsames Verzeichnis verschoben werden.\n\nMöchten Sie eine Kopie anfertigen?"
+   },
+   "About": {
+      "message": "Über"
+   },
+   "About___": {
+      "message": "Über..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dhabi, Muscat, Moskau, St. Petersburg, Wolgograd"
+   },
+   "Accept": {
+      "message": "Annehmen"
+   },
+   "Account_Settings": {
+      "message": "Kontoeinstellungen"
+   },
+   "Account_Type": {
+      "message": "Kontoart"
+   },
+   "Account_number": {
+      "message": "Kontonummer"
+   },
+   "Actionproper": {
+      "message": "Aktion"
+   },
+   "Actions": {
+      "message": "Aktionen"
+   },
+   "Add": {
+      "message": "Hinzufügen"
+   },
+   "Add_Credit_Card": {
+      "message": "Kreditkarte hinzufügen"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Kreditkarte hinzufügen"
+   },
+   "Add_Field": {
+      "message": "Feld hinzufügen"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Formularassistent-Profil hinzufügen"
+   },
+   "Add_Identity": {
+      "message": "Identität hinzufügen"
+   },
+   "Add_New_Site": {
+      "message": "Neue Webseite hinzufügen"
+   },
+   "Add_Note": {
+      "message": "Notiz hinzufügen"
+   },
+   "Add_Profile": {
+      "message": "Profil hinzufügen"
+   },
+   "Add_Secure_Note": {
+      "message": "Sichere Notiz hinzufügen"
+   },
+   "Add_Site": {
+      "message": "Webseite hinzufügen"
+   },
+   "Add_another_custom_field": {
+      "message": "Benutzerdefiniertes Feld hinzufügen"
+   },
+   "Address": {
+      "message": "Adresse"
+   },
+   "Address_1": {
+      "message": "Straße"
+   },
+   "Address_2": {
+      "message": "Hausnummer"
+   },
+   "Address_3": {
+      "message": "Adresszusatz"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Console": {
+      "message": "Administratorkonsole"
+   },
+   "Admin_Tools": {
+      "message": "Admin-Werkzeuge"
+   },
+   "Advanced": {
+      "message": "Erweitert"
+   },
+   "Advanced_Options": {
+      "message": "Erweiterte Optionen"
+   },
+   "Advanced_Tools": {
+      "message": "Erweiterte Tools"
+   },
+   "Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "Agent_Name": {
+      "message": "Name des Maklers"
+   },
+   "Agent_Phone": {
+      "message": "Telefon des Maklers"
+   },
+   "Aland_Islands": {
+      "message": "Alandinseln"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albanien"
+   },
+   "Algeria": {
+      "message": "Algerien"
+   },
+   "Alias": {
+      "message": "Alias"
+   },
+   "All": {
+      "message": "Alle"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "LastPass erlauben, unsichere Daten auf Ihrem Computer zu finden?"
+   },
+   "Almaty": {
+      "message": "Almaty"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "Alternativ geben Sie den Zugangscode in das folgende Feld ein"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "Geben Sie alternativ den Zugangscode in das folgende Feld ein:"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Immer Profil und Kreditkarte auswählen"
+   },
+   "American_Samoa": {
+      "message": "Amerikanisch-Samoa"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Athen, Istanbul, Beirut, Kairo, Jerusalem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlin, Rom, Wien, Prag, Brüssel"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Ein Update ist vorhanden. Wollen Sie es installieren?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Ein Fehler ist beim Laden Ihrer Webseiten aufgetreten. Bitte erneut anmelden."
+   },
+   "An_error_occurred": {
+      "message": "Ein Fehler ist aufgetreten"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Während des Imports Ihrer Google Chrome Passwörter ist ein Fehler aufgetreten."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Ein Fehler ist beim neu verschlüsseln Ihrer Daten aufgetreten."
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Fehler beim Hochladen Ihrer Daten. Möchten Sie es erneut versuchen?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Antarktis"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua und Barbuda"
+   },
+   "Appearance": {
+      "message": "Erscheinungsbild"
+   },
+   "Application_": {
+      "message": "Anwendung:"
+   },
+   "Applications": {
+      "message": "Anwendungen"
+   },
+   "April": {
+      "message": "April"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Weitere Notizen, die mit diesem Formularassistenten-Profil gespeichert werden sollen"
+   },
+   "Are_you_sure_you_want_to_delete_this_": {
+      "message": "Sind Sie sicher, dass Sie dies löschen wollen?"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Sind Sie sicher, dass Sie diese Identität löschen wollen?"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Sind Sie sicher, dass Sie diese Seite löschen möchten?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Sind Sie sicher, dass sich LastPass Ihr Master-Passwort merken soll? Das wird die Sicherheit Ihres LastPass-Kontos erheblich reduzieren!"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Sind Sie sicher, dass Sie dieses Element teilen möchten? Wenn Sie das tun, werden Sie alle Änderungen, die Sie an diesem Element vorgenommen haben, verlieren!"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Sind Sie sicher, dass Sie den Verlauf betrachten wollen. Wenn Sie das tun, werden Sie alle Änderungen, die Sie an diesem Element vorgenommen haben, verlieren!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Wollen Sie dies wirklich löschen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Sind Sie sicher, dass Sie die ausgewählten Elemente löschen möchten?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Wollen Sie die ausgewählten Webseiten wirklich löschen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Sind Sie sicher, dass Sie diese Anwendung löschen möchten?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Sind Sie sicher, dass dieses Feld gelöscht werden soll?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Sind Sie sicher, dass Sie dieses Ausfüllprofil löschen möchten?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Sind Sie sicher, dass dieses erstellte Passwort gelöscht werden soll?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Sind Sie sicher, dass Sie diese Gruppe wirklich löschen wollen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Sind Sie sicher, dass Sie diese URL-Ausnahme löschen wollen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Sind Sie sicher, dass diese sichere Notiz gelöscht werden soll?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Sind Sie sicher, dass diese Webseite gelöscht werden soll?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Sind Sie sicher, dass Sie diese Anlage entfernen möchten?"
+   },
+   "Argentina": {
+      "message": "Argentinien"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armenien"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dhaka, Ekaterinburg"
+   },
+   "At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "Es werden mindestens so viele Ziffern in einem erstellten Passwort enthalten sein."
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlantic Time (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "August"
+   },
+   "Australia": {
+      "message": "Australien"
+   },
+   "Austria": {
+      "message": "Österreich"
+   },
+   "Authenticate": {
+      "message": "Authentifizieren"
+   },
+   "Authentication": {
+      "message": "Authentifizierung"
+   },
+   "Authentication_Failed_": {
+      "message": "Authentifizierung fehlgeschlagen."
+   },
+   "AutoFill": {
+      "message": "AutoAusfüllen"
+   },
+   "AutoLogin": {
+      "message": "AutoLogin"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Anmeldedaten automatisch ausfüllen"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Automatisch abmelden nach Leerlauf von (Min.)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Automatisch Ausloggen, wenn alle Browser und Chrome für Min. geschlossen wurden"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Automatisch auf Webseiten anmelden, wenn die Zeit seit der letzten Anmeldung geringer ist als (Sekunden)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Verwechselbare Zeichen vermeiden"
+   },
+   "Azerbaijan": {
+      "message": "Aserbaidschan"
+   },
+   "Azores": {
+      "message": "Azoren"
+   },
+   "BACKUPPER": {
+      "message": "ZURÜCK"
+   },
+   "Back": {
+      "message": "Zurück"
+   },
+   "Baghdad": {
+      "message": "Bagdad"
+   },
+   "Bahamas": {
+      "message": "Bahamas"
+   },
+   "Bahrain": {
+      "message": "Bahrain"
+   },
+   "Baku__Yerevan": {
+      "message": "Baku, Eriwan"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Novosibirsk"
+   },
+   "Bangladesh": {
+      "message": "Bangladesch"
+   },
+   "Bank_Account": {
+      "message": "Bank-Konto"
+   },
+   "Bank_accountformfill": {
+      "message": "Bankkonto"
+   },
+   "Bank_name": {
+      "message": "Name der Bank"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Bevor Sie LastPass verwenden können, müssen Sie zuerst Ihren Fingerabdruck-Scanner anschließen und sich mit einem oder mehreren Fingern anmelden."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Peking, Hongkong, Singapur, Taipei, Krasnojarsk"
+   },
+   "Belarus": {
+      "message": "Weißrussland"
+   },
+   "Belgium": {
+      "message": "Belgien"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Binary_Component_": {
+      "message": "Binäre Komponente"
+   },
+   "Birthday": {
+      "message": "Geburtstag"
+   },
+   "Bit_Strength": {
+      "message": "Bit Stärke"
+   },
+   "Blacklist": {
+      "message": "Ihr Konto ist wegen zu vieler fehlgeschlagener Anmeldeversuche vorübergehend (für 5 Minuten) gesperrt."
+   },
+   "Blog": {
+      "message": "Blog"
+   },
+   "Bolivia": {
+      "message": "Bolivien"
+   },
+   "Bookmarklets": {
+      "message": "Bookmarklets"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosnien und Herzegowina"
+   },
+   "Botswana": {
+      "message": "Botsuana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvetinsel"
+   },
+   "Branch_Address": {
+      "message": "Adresse der Zweigstelle"
+   },
+   "Branch_Phone": {
+      "message": "Telefonnummer der Zweigstelle"
+   },
+   "Brazil": {
+      "message": "Brasilien"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Jakutsk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Britisches Territorium im Indischen Ozean"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Benutzen Sie das Netz wie sonst auch und LastPass wird sich automatisch die Passwörter merken, sowie Sie diese eingeben."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Erstellt am:"
+   },
+   "Bulgaria": {
+      "message": "Bulgarien"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Aber ich bin eine vergessliche Person... Was soll ich tun, falls ich mein Passwort vergesse?"
+   },
+   "CSV_Files": {
+      "message": "CSV-Dateien"
+   },
+   "Cambodia": {
+      "message": "Kambodscha"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Verstecktes LastPass-Fenster nicht auffindbar"
+   },
+   "Canada": {
+      "message": "Kanada"
+   },
+   "Canary_Islands": {
+      "message": "Kanarische Inseln"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "Cancel": {
+      "message": "Abbrechen"
+   },
+   "Cape_Verde": {
+      "message": "Kap Verde"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Kap Verde"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalanisch"
+   },
+   "Cayman_Islands": {
+      "message": "Kaimaninseln"
+   },
+   "Central_African_Republic": {
+      "message": "Zentralafrikanische Republik"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Zentralamerika, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Central Time (USA & Kanada), Guadalajara, Mexiko-Stadt"
+   },
+   "Chad": {
+      "message": "Tschad"
+   },
+   "Change": {
+      "message": "Ändern"
+   },
+   "Change_Group_Name": {
+      "message": "Gruppenname ändern"
+   },
+   "Change_Password": {
+      "message": "Passwort ändern"
+   },
+   "Check_For_Updates": {
+      "message": "Auf Updates prüfen"
+   },
+   "Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Markieren Sie dieses Kästchen zur Feinabstimmung, wie Sie Ihr Passwort generiert wird."
+   },
+   "Checkbox": {
+      "message": "Checkbox"
+   },
+   "Checking_For_Updates___": {
+      "message": "Überprüfe auf Updates..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kalkutta, Mumbai, Neu-Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Chile"
+   },
+   "China": {
+      "message": "China"
+   },
+   "Chinese__Simplified_": {
+      "message": "Chinesisch (vereinfacht)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Chinesisch (traditionell)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Wählen Sie Profil und Kreditkarte"
+   },
+   "Choose_a_source_above_": {
+      "message": "Wählen Sie eine Quelle von oben."
+   },
+   "Christmas_Island": {
+      "message": "Weihnachtsinsel"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "Stadt / Ort"
+   },
+   "Clear": {
+      "message": "Löschen"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Zwischenablage nach Gebrauch leeren in (Sekunden)"
+   },
+   "Clear_Forms": {
+      "message": "Formulare löschen"
+   },
+   "Clear_Local_Cache": {
+      "message": "Lokalen Cache löschen"
+   },
+   "Clear_Recent": {
+      "message": "Letze Einträge löschen"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Ausgefüllte Felder bei der Abmeldung leeren"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Klicken Sie auf Weiter, um LastPass zu starten."
+   },
+   "Click_Icons_in_Fields": {
+      "message": "Auf die Icons in den Feldern klicken"
+   },
+   "Click_here_for_instructions_on_importing_from_a_generic_CSV_file_": {
+      "message": "Klicken Sie hier für Anweisungen zum Importieren von einer gewöhnlichen CSV-Datei."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Klicken Sie hier um die Konto-Einstellungen zu öffnen"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Klicken Sie hier um eine Rückmeldung zu geben"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "Klicken Sie hier, um das LastPass Benutzerhandbuch anzuzeigen"
+   },
+   "Click_on_a_username_or_formfill_profile_row_to_choose_how_LastPass_will_auto_fill_the_current_web_page_": {
+      "message": "Klicken Sie auf einen Benutzernamen oder eine Zeile mit einem Formularfüll-Profil, um zu wählen, wie LastPass die Felder der aktuellen Webseite ausfüllen soll."
+   },
+   "Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "Klicken Sie für weitere Aktionen auf die Symbole am unteren Rand."
+   },
+   "Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Klicken Sie, um die Feinabstimmung für die Erstellung Ihres Passwortes vorzunehmen."
+   },
+   "Click_to_hide_advanced_options_": {
+      "message": "Klicken Sie, um die erweiterten Optionen zu verstecken."
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Schließen"
+   },
+   "Close_this_window": {
+      "message": "Fenster schließen"
+   },
+   "Co_pay": {
+      "message": "Selbstbeteiligung"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocos (Keeling) Inseln"
+   },
+   "Collapse_All": {
+      "message": "Alles minimieren"
+   },
+   "Colombia": {
+      "message": "Kolumbien"
+   },
+   "Comoros": {
+      "message": "Komoren"
+   },
+   "Company": {
+      "message": "Firma"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Die Firmenrichtlinien verbieten diesen Vorgang."
+   },
+   "Company_Phone": {
+      "message": "Telefon Geschäftlich"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Die Firmenrichtlinien verhindern das Ändern bestimmter Einstellungen, daher konnten nicht alle Aktualisierungen übernommen werden."
+   },
+   "Configure_Form_Fill": {
+      "message": "Formularassistenten konfigurieren"
+   },
+   "Confirm": {
+      "message": "Bestätigen"
+   },
+   "Confirm_Password": {
+      "message": "Kennwort bestätigen"
+   },
+   "Congo": {
+      "message": "Kongo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongo, die Demokratische Republik"
+   },
+   "Congratulations": {
+      "message": "Glückwunsch"
+   },
+   "Connection_Mode": {
+      "message": "Verbindungsmodus"
+   },
+   "Connection_Type": {
+      "message": "Verbindungstyp"
+   },
+   "Contact": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Weiter"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Steuerzeichen im ausgewählten Dateinamen gefunden, der Vorgang wird nicht ausgeführt."
+   },
+   "Cook_Islands": {
+      "message": "Cookinseln"
+   },
+   "Copy": {
+      "message": "Kopiere"
+   },
+   "Copy_Note": {
+      "message": "Kopier Hinweis"
+   },
+   "Copy_Password": {
+      "message": "Kopiere Passwort"
+   },
+   "Copy_URL": {
+      "message": "URL kopieren"
+   },
+   "Copy_Username": {
+      "message": "Kopiere Benutzernamen"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. Alle Rechte vorbehalten. Teile dieser Software wurden von Dritten lizensiert wie es hier beschrieben ist:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Elfenbeinküste"
+   },
+   "Country": {
+      "message": "Land"
+   },
+   "County": {
+      "message": "Bezirk"
+   },
+   "Create_Account": {
+      "message": "Konto erstellen"
+   },
+   "Create_Group": {
+      "message": "Gruppe erstellen"
+   },
+   "Create_Sub_Group": {
+      "message": "Untergruppe erstellen"
+   },
+   "Create_an_Account": {
+      "message": "Ein Konto erstellen"
+   },
+   "Creating_Account___": {
+      "message": "Konto wird erstellt ..."
+   },
+   "Credit_Card": {
+      "message": "Kreditkarte"
+   },
+   "Credit_Monitoring": {
+      "message": "Kreditüberwachung"
+   },
+   "Credit_card_number": {
+      "message": "Kreditkartennummer"
+   },
+   "Credit_cardformfill": {
+      "message": "Kreditkarte"
+   },
+   "Croatia": {
+      "message": "Kroatien"
+   },
+   "Ctrl": {
+      "message": "Strg"
+   },
+   "Cuba": {
+      "message": "Kuba"
+   },
+   "Custom_Value": {
+      "message": "Benutzerdefinierter Wert"
+   },
+   "Custom_field__": {
+      "message": "Benutzerdefiniertes Feld #"
+   },
+   "Custom_fields": {
+      "message": "Benutzerdefinierte Felder"
+   },
+   "Cyprus": {
+      "message": "Zypern"
+   },
+   "Czech_Republic": {
+      "message": "Tschechische Republik"
+   },
+   "Danish": {
+      "message": "Dänisch"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Dashlane": {
+      "message": "Dashlane"
+   },
+   "Database": {
+      "message": "Datenbank"
+   },
+   "Date": {
+      "message": "Datum"
+   },
+   "Date_of_Birth": {
+      "message": "Geburtsdatum"
+   },
+   "December": {
+      "message": "Dezember"
+   },
+   "Default": {
+      "message": "Standard"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Standard Formularassistenten-Profil"
+   },
+   "Delete": {
+      "message": "Löschen"
+   },
+   "Delete_Cache": {
+      "message": "Cache löschen"
+   },
+   "Delete_Formfill_Profile": {
+      "message": "Formularfüll-Profil löschen"
+   },
+   "Delete_Group": {
+      "message": "Gruppe löschen"
+   },
+   "Delete_Identity_": {
+      "message": "Identität löschen?"
+   },
+   "Delete_Selected": {
+      "message": "Auswahl löschen"
+   },
+   "Delete_Site": {
+      "message": "Website löschen"
+   },
+   "Delete_Site_": {
+      "message": "Seite löschen?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Formularassistenten-Profil löschen"
+   },
+   "Denmark": {
+      "message": "Dänemark"
+   },
+   "Disable": {
+      "message": "Deaktivieren"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Unsicheren Chrome-Passwortmanager deaktivieren"
+   },
+   "Disable_LastPass": {
+      "message": "LastPass deaktivieren"
+   },
+   "Disable_LastPass_for_this_page_or_the_entire_site_": {
+      "message": "LastPass für die aktuelle Seite oder die gesamte Webseite deaktivieren?"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Mehrstufige Authentifizierung deaktivieren"
+   },
+   "Disable_Page": {
+      "message": "Webseite deaktivieren"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Ein-Faktor-Authentifizierung deaktivieren"
+   },
+   "Disable_Site": {
+      "message": "Seite deaktivieren"
+   },
+   "Disable_alert___": {
+      "message": "Warnung deaktivieren..."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Warnungen für diese Webseite deaktivieren"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "Deaktivieren Sie alle Warnungen zu schwachen/doppelten Seiten"
+   },
+   "Disable_for_all_sites": {
+      "message": "Für alle Seiten deaktivieren"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Änderungen verwerfen und Fenster schließen"
+   },
+   "Djibouti": {
+      "message": "Dschibuti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Bereits ausgefüllte Felder nicht überschreiben"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Nicht wiederfragen für"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Gefällt Ihnen LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Wollen Sie wirklich beenden? Sie können LastPass ohne Erstellen eines Kontos nicht benutzen."
+   },
+   "Dominica": {
+      "message": "Dominica"
+   },
+   "Dominican_Republic": {
+      "message": "Dominikanische Republik"
+   },
+   "Down": {
+      "message": "Ab"
+   },
+   "Dr": {
+      "message": "Dr."
+   },
+   "Driver_s_License": {
+      "message": "Führerschein"
+   },
+   "Duplicate_password": {
+      "message": "Doppeltes Passwort"
+   },
+   "Dutch": {
+      "message": "Niederländisch"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "ERROR: Moving Standorten zwischen freigegebenen Ordnern wird derzeit nicht unterstützt."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "ERROR: Du bist nicht erlaubt, Seiten zu bewegen von freigegebenen Ordnern. Löschen Sie ist die einzige unterstützte Operation."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Eastern Time (USA & Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ecuador"
+   },
+   "Edit": {
+      "message": "Bearbeiten"
+   },
+   "Edit_Application": {
+      "message": "Anwendung bearbeiten"
+   },
+   "Edit_Application_Fields": {
+      "message": "Anwendungsfelder bearbeiten"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Kreditkarten-Profil ändern"
+   },
+   "Edit_Form_Fields": {
+      "message": "Formularfelder bearbeiten"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Formularassistent-Profil ändern"
+   },
+   "Edit_Secure_Note": {
+      "message": "Sichere Notiz bearbeiten"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Sichere Notizen bearbeiten"
+   },
+   "Edit_Site": {
+      "message": "Seite bearbeiten"
+   },
+   "Edit_Site_Fields": {
+      "message": "Felder der Webseite bearbeiten"
+   },
+   "Egypt": {
+      "message": "Ägypten"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-Mail"
+   },
+   "Email_Account": {
+      "message": "E-Mail-Konto"
+   },
+   "Email_address": {
+      "message": "E-Mail Adresse"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "E-Mail wird bereits benutzt, haben Sie Ihr Passwort vergessen?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Aktiviere Kreditüberwachung"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Aktivieren 'Free Credit' Überwachung"
+   },
+   "Enable_new_login_screen": {
+      "message": "Aktivieren Sie den neuen Login-Bildschirm"
+   },
+   "Encryption": {
+      "message": "Verschlüsselung"
+   },
+   "End": {
+      "message": "Ende"
+   },
+   "English": {
+      "message": "Englisch"
+   },
+   "English__United_Kingdom_": {
+      "message": "Englisch (Großbritannien)"
+   },
+   "Enter_Code_": {
+      "message": "Code eingeben:"
+   },
+   "Enter_PIN": {
+      "message": "PIN eingeben"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "Geben Sie ein Zugangscode in das Feld unten ein:"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Weitere Notizen eingeben"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Geben Sie Ihre Smart Card PIN ein"
+   },
+   "Enterprise": {
+      "message": "Enterprise"
+   },
+   "Equatorial_Guinea": {
+      "message": "Äquatorialguinea"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Das Abrufen Ihrer LastPass Einträge war fehlerhaft. Bitte melden Sie sich nochmal an, um Ihre Einträge abzurufen."
+   },
+   "ErrorLoginMsg": {
+      "message": "Während der Anmeldung bei LastPass ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung."
+   },
+   "ErrorSendingMsg": {
+      "message": "Während des Versuchs den Server zu kontaktieren ist ein Fehler aufgetreten. Bitte überprüfen Sie ihre Internetverbindung."
+   },
+   "ErrorSessionMsg": {
+      "message": "Ihre LastPass Sitzung scheint abgelaufen zu sein. Melden Sie sich bitte erneut an."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Fehler: Dieser Ordner wurde bereits verschoben?"
+   },
+   "Error_opening_attachment_": {
+      "message": "Fehler beim Öffnen der Anlage."
+   },
+   "Estonia": {
+      "message": "Estland"
+   },
+   "Ethiopia": {
+      "message": "Äthiopien"
+   },
+   "Evening_number": {
+      "message": "Telefonnummer abends"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass kann jetzt ein Einmalpasswort lokal speichern, das Sie zur Wiederherstellung Ihres Kontos verwenden können, falls Sie einmal Ihr Masterpasswort vergessen haben. Dieses Einmalpasswort bleibt deaktiviert, bis es auf dem Server aktiviert wird."
+   },
+   "Expand_All": {
+      "message": "Alles ausklappen"
+   },
+   "Expiration": {
+      "message": "Ablauf"
+   },
+   "Expiration_date": {
+      "message": "Ablaufdatum"
+   },
+   "Export": {
+      "message": "Exportieren"
+   },
+   "Export_To": {
+      "message": "Exportieren nach"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Exportiere in eine LastPass CSV Datei"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS-Modus"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falklandinseln (Malvinas)"
+   },
+   "Faroe_Islands": {
+      "message": "Faroe Inseln"
+   },
+   "Favorite": {
+      "message": "Favorit"
+   },
+   "Favoritesproper": {
+      "message": "Favoriten"
+   },
+   "Fax_number": {
+      "message": "Faxnummer"
+   },
+   "February": {
+      "message": "Februar"
+   },
+   "Feedback": {
+      "message": "Feedback"
+   },
+   "Female": {
+      "message": "Weiblich"
+   },
+   "Fields_": {
+      "message": "Felder:"
+   },
+   "Fiji": {
+      "message": "Fidschi"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fidschi, Kamtschatka, Marschallinseln"
+   },
+   "File": {
+      "message": "Datei"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Datei zu groß, sie muss kleiner als 10 MB sein."
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "Datei zu groß, sie muss kleiner als 5 MB sein."
+   },
+   "Fill": {
+      "message": "Ausfüllen"
+   },
+   "Fill_Current": {
+      "message": "Fülle aktuelle aus"
+   },
+   "Fill_Form": {
+      "message": "Felder ausfüllen"
+   },
+   "Fill_Forms": {
+      "message": "Formulare ausfüllen"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Standard Formularassistenten-Profil einfügen"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "nächsten Login ausfüllen (bei mehreren)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "vorigen Login ausfüllen (bei mehreren)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Erstellen oder bearbeiten Sie Formular-Füll-Daten"
+   },
+   "Fill_with": {
+      "message": "Fülle mit"
+   },
+   "FillableFormDetected": {
+      "message": "Auf dieser Webseite wurde ein ausfüllbares Formular erkannt."
+   },
+   "Filter": {
+      "message": "Filter"
+   },
+   "Find_a_site": {
+      "message": "Suche nach einer Seite"
+   },
+   "Finland": {
+      "message": "Finnland"
+   },
+   "Finnish": {
+      "message": "Finnisch"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefox-Passwortmanager"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Erst 3 Ziffern Ihrer Telefonnummer"
+   },
+   "First_name": {
+      "message": "Vorname"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "Für jede unten aufgeführte Koordinate, suchen Sie den Wert auf dem Grid und geben Sie den Wert ein."
+   },
+   "Forgot_Password_": {
+      "message": "Passwort vergessen?"
+   },
+   "FormFill": {
+      "message": "Formular ausfüllen"
+   },
+   "FormFill_Profiles": {
+      "message": "Formular ausfüllen Profile"
+   },
+   "Form_Fill": {
+      "message": "Formularassistenten"
+   },
+   "Form_Fill_Profile": {
+      "message": "Ausfüllprofil"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Formular-Ausfüll-Profile"
+   },
+   "Form_Fills": {
+      "message": "Formularassistenten"
+   },
+   "Form_Name_": {
+      "message": "Formular Name:"
+   },
+   "Format": {
+      "message": "Format"
+   },
+   "Forums": {
+      "message": "Foren"
+   },
+   "France": {
+      "message": "Frankreich"
+   },
+   "French": {
+      "message": "Französisch"
+   },
+   "French_Guiana": {
+      "message": "Französisch-Guayana"
+   },
+   "French_Polynesia": {
+      "message": "Französisch-Polynesien"
+   },
+   "French_Southern_Territories": {
+      "message": "Französisch südliche Gebiete"
+   },
+   "French__Canada_": {
+      "message": "Französisch (Kanada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "Vollständiger Pfad der  zu importierenden Datei:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "Vollständiger Pfad der  zu importierenden Datei:"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburgh, Lissabon, London"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lissabon, London"
+   },
+   "Gabon": {
+      "message": "Gabun"
+   },
+   "Gambia": {
+      "message": "Gambia"
+   },
+   "Gender": {
+      "message": "Geschlecht"
+   },
+   "General": {
+      "message": "Allgemeines"
+   },
+   "Generate": {
+      "message": "Erstelle"
+   },
+   "GeneratePassword": {
+      "message": "Wenn Sie ein Konto einrichten oder Ihr Passwort ändern, klicken Sie auf 'Erstelle' um mit LastPass ein einzigartiges, sicheres Passwort zu erstellen."
+   },
+   "Generate_Password": {
+      "message": "Passwort erstellen"
+   },
+   "Generate_Secure_Password": {
+      "message": "Sicheres Passwort erstellen"
+   },
+   "Generated_Password_for": {
+      "message": "Passwort erstellt für"
+   },
+   "Generic": {
+      "message": "Generisch"
+   },
+   "Generic_CSV_File": {
+      "message": "Allgemeine CSV-Datei"
+   },
+   "Georgia": {
+      "message": "Georgien"
+   },
+   "German": {
+      "message": "Deutsch"
+   },
+   "Germany": {
+      "message": "Deutschland"
+   },
+   "Ghana": {
+      "message": "Ghana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Back": {
+      "message": "Zurückgehen"
+   },
+   "Go_Back_": {
+      "message": "Zurück?"
+   },
+   "Go_Premium_": {
+      "message": "Werde ein Premium Mitglied!"
+   },
+   "Go_to_URL": {
+      "message": "Gehe zu URL"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Authenticator Multifaktor-Authentifizierung"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome Passwortmanager"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome setzt vorraus, dass die Erweiterung die gleiche Sprache wie der Browser nutzt, um in LastPass die Sprache zu wechseln, ändern, Sie  bitte die Haupt-Browsersprache in den Chrome Optionen."
+   },
+   "Greece": {
+      "message": "Griechenland"
+   },
+   "Greenland": {
+      "message": "Grönland"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Grönland, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Gruppe:"
+   },
+   "Group_ID": {
+      "message": "Gruppen-ID"
+   },
+   "Group_Name": {
+      "message": "Gruppenname"
+   },
+   "Group_will_be_created_under": {
+      "message": "Gruppe wird erstellt oder existiert derzeit unter"
+   },
+   "Groups": {
+      "message": "Gruppen"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Health_Insurance": {
+      "message": "Krankenversicherung"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heard-und McDonald-Inseln"
+   },
+   "Height": {
+      "message": "Höhe"
+   },
+   "Help": {
+      "message": "Hilfe"
+   },
+   "Help_Translate": {
+      "message": "Hilf beim Übersetzen"
+   },
+   "Help___": {
+      "message": "Hilfe..."
+   },
+   "Help_spread_the_word": {
+      "message": "Helfen Sie es über die ganze Welt zu verbreiten"
+   },
+   "Hide_Advanced_Options": {
+      "message": "Erweiterte Optionen ausblenden"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Kontextmenü-Optionen verstecken"
+   },
+   "Hide_Password": {
+      "message": "Passwort ausblenden"
+   },
+   "Highlight_input_boxes": {
+      "message": "Eingabefelder markieren"
+   },
+   "History": {
+      "message": "Verlauf"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Heiliger Stuhl (Vatikanstadt)"
+   },
+   "Home": {
+      "message": "Startseite"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hongkong"
+   },
+   "Hostname": {
+      "message": "Hostname"
+   },
+   "HotKeys": {
+      "message": "Tastenkürzel"
+   },
+   "Hungarian": {
+      "message": "Ungarisch"
+   },
+   "Hungary": {
+      "message": "Ungarn"
+   },
+   "IBAN_Number": {
+      "message": "IBAN-Nummer"
+   },
+   "IMPORT_": {
+      "message": "IMPORT?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "ES IST ENTSCHEIDEND, DASS SIE IHR NEUES LASTPASS-PASSWORT NIEMALS VERGESSEN."
+   },
+   "I_Forgot_my_Password": {
+      "message": "Ich habe mein Passwort vergessen"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Hilfe, ich habe mein Passwort vergessen!"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Ich habe gelesen und stimme dem zu"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Ich weiß, dass meine verschlüsselten Daten an LastPass gesendet werden."
+   },
+   "I_ve_forgot_the_answer": {
+      "message": "Ich habe die Antwort vergessen"
+   },
+   "I_ve_lost_my_Google_Authenticator_device": {
+      "message": "Ich habe mein Google Authenticator Gerät verloren"
+   },
+   "I_ve_lost_my_Sesame_device": {
+      "message": "Ich habe mein Sesame Gerät verloren"
+   },
+   "I_ve_lost_my_YubiKey_device": {
+      "message": "Ich habe mein YubiKey Gerät verloren"
+   },
+   "I_ve_lost_my_device": {
+      "message": "Ich habe mein Gerät verloren"
+   },
+   "I_ve_lost_my_grid": {
+      "message": "Ich habe mein Grid verloren"
+   },
+   "Iceland": {
+      "message": "Island"
+   },
+   "Identities": {
+      "message": "Identitäten"
+   },
+   "Identity": {
+      "message": "Identität"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Wenn aktiviert, müssen Sie vor jeder Änderung des Formularassistenten-Profils Ihr Hauptkennwort eingeben"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Ist diese Option aktiviert, wird Ihr Kredit-Bericht regelmäßig überwacht, Sie werden gewarnt, wenn Sie eine verdächtige Aktivität auftritt."
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Wenn nicht angegeben, wird diese Dateierweiterung verwendet:"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Wenn Sie bereits ein LastPass-Konto haben, können Sie dieses Fenster schließen und sich anmelden."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Falls Sie irgendwann Ihr LastPass Master-Passwort vergessen,"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Wenn Sie Ihre Antwort vergessen haben, klicken Sie bitte hier, um Ihre Sicherheitsfrage zurückzusetzen"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Wenn Sie ein anderes Format haben, das LastPass nicht unterstützt, versuchen Sie die Daten als CSV-Datei zu speichern.\n\nSIE MÜSSEN DIE ERSTE ZEILE DER CSV-DATEI ZUR ERKENNUNG VON LASTPASS ÄNDERN\n\nDie Spaltennamen in der ersten Zeile müssen richtig aufgebaut sein für die Daten in den Spalten\nMögliche Namen in der ersten Zeile sind:\n\nurl,username,password,extra,name,grouping\n\n'extra' bedeutet Notizen und 'grouping' bedeutet in welcher Gruppe es sein soll. Es müssen nicht alle Spaltennamen verwendet werden und sie müssen nicht in einer bestimmten Reihenfolge sein. Zum Beispiel kann die erste Zeile so aussehen:\n\nname,username,password,url\n\nWenn sie eine Sichere Notiz hinzufügen wollen, müssen sie lediglich sicherstellen, dass die 'url', 'username' und 'password' Spalten freigelassen werden (oder lassen sie die 'url', 'username' und/oder 'password' Spalten komplett weg), außerdem muss die 'extra' Spalte gefüllt werden. Solange diese beiden Dinge eingehalten werden, wird automatisch eine Sichere Notiz an Stelle einer Seite angelegt.\n\nDies sollte sehr einfach sein - einfach die CSV-Datei mit Exel öffnen und sicherstellen, dass die erste Reihe die oben genannten vorgegebenen Namen hat. Speichern und dann diese Datei importieren."
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Falls Sie Ihr Google Authenticator-Gerät verloren haben, klicken Sie hier, um Authentifizierung mit Google Authenticator zu deaktivieren"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Wenn Sie ihr Sesame Gerät verloren haben, klicken Sie hier, um die Sesame Authentifizierung zu deaktivieren"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Wenn Sie Ihren YubiKey verloren haben, klicken Sie hier, um die YubiKey Authentifizierung zu deaktivieren"
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "Wenn Sie Ihr Gerät verloren haben, klicken Sie hier, um die mehrstufige Authentifizierung deaktivieren"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Wenn Sie Ihr Raster verloren haben, klicken Sie hier, um die Raster-Authentifizierung zu deaktivieren"
+   },
+   "Import": {
+      "message": "Importieren"
+   },
+   "Import_From": {
+      "message": "Importieren von"
+   },
+   "Import_Your_Data": {
+      "message": "Importieren Sie Ihre Daten"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Der Import Ihrer Daten in Ihren LastPass Tresor wird diese sichern und Sie vor Identitätsdiebstahl schützen. Alle importierten Daten bleiben ABSOLUT vertraulich: SIE sind die einzige Person, die IHRE Daten einsehen kann."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "Damit LastPass HTTP-Basic-Authentifizierungsdialoge ausfüllen kann, müssen Sie 'Zugriff für Hilfsgeräte' aktivieren."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "Damit LastPass HTTP-Basic-Authentifizierungsdialoge ausfüllen kann, m üssen Sie die binäre Version von LastPass für Chrome installieren."
+   },
+   "India": {
+      "message": "Indien"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonesien"
+   },
+   "Install": {
+      "message": "Installiere"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installieren Sie die LastPass-Bibliothek für Chrome, um sich beim Leerlauf automatisch abzumelden"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installieren Sie die binäre Version von LastPass für Chrome, um das automatische abmelden nach Leerlauf zu aktivieren"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Installieren Sie die binäre Version von LastPass für Chrome, um den Passwort-Import vom Google Chrome Passwortmanager zu ermöglichen"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Installieren Sie die binäre Version von LastPass für Chrome, um den Login-Status mit anderen Browsern abzugleichen"
+   },
+   "Instant_Messenger": {
+      "message": "Instant Messenger"
+   },
+   "Instructions": {
+      "message": "Anweisungen"
+   },
+   "Insurance": {
+      "message": "Versicherung"
+   },
+   "International_Date_Line_West": {
+      "message": "Internationale Datumsgrenze West"
+   },
+   "Invalid_Password_": {
+      "message": "Ungültiges Passwort."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Ungültige E-Mail-Adresse, versuchen Sie es erneut"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Ungültiger Dateityp, muss es ein Bild sein, das von Ihrem Browser angezeigt werden kann."
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Iran (Islamische Republik von)"
+   },
+   "Iraq": {
+      "message": "Irak"
+   },
+   "Ireland": {
+      "message": "Irland"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karachi, Tashkent"
+   },
+   "Isle_of_Man": {
+      "message": "Isle of Man"
+   },
+   "Israel": {
+      "message": "Israel"
+   },
+   "Issue_number": {
+      "message": "Ausstellungnummer"
+   },
+   "Issued_Date": {
+      "message": "Ausstelldatum"
+   },
+   "Issuing_Authority": {
+      "message": "Ausstellende Behörde"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Es wird empfohlen, dass Sie die angehängte Datei löschen, nachdem Sie sie verwendet haben."
+   },
+   "Italian": {
+      "message": "Italienisch"
+   },
+   "Italy": {
+      "message": "Italien"
+   },
+   "IterationsReduction": {
+      "message": "Die Anzahl der benötigten Iterationen, um Ihr LastPass Master-Passwort zu generieren, scheint von der gecacheten Version reduziert worden zu sein. Möchten Sie die Anmeldung fortsetzen?"
+   },
+   "Jamaica": {
+      "message": "Jamaika"
+   },
+   "January": {
+      "message": "Januar"
+   },
+   "Japan": {
+      "message": "Japan"
+   },
+   "Japanese": {
+      "message": "Japanisch"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordanien"
+   },
+   "July": {
+      "message": "Juli"
+   },
+   "June": {
+      "message": "Juni"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kasachstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Verlauf meiner Anmeldungen und Formularausfüllungen protokollieren"
+   },
+   "Kenya": {
+      "message": "Kenia"
+   },
+   "Key_Index": {
+      "message": "Schlüssel Index"
+   },
+   "Key_Type": {
+      "message": "Schlüssel-Typ"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Korea, Demokratische Volksrepublik von"
+   },
+   "Korea__Republic_Of": {
+      "message": "Korea, Republik von"
+   },
+   "Korean": {
+      "message": "Koreanisch"
+   },
+   "Kuwait": {
+      "message": "Kuwait"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuwait, Riad, Nairobi, Tiflis"
+   },
+   "Kyrgyzstan": {
+      "message": "Kirgisistan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Sprache"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Lao Volksdemokratische Republik"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV-Datei"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome Toolbar"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "Verschlüsselte LastPass Datei"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass Raster mehrstufige Authentifizierung"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass Menü"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass füllt automatisch Webseiten-Formulare aus. Die Benutzung vom Formularassistenten wird nicht nur Ihre Zeit sparen, sondern wird auch Ihre Sicherheit beim Online Einkaufen erhöhen."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass kann sich erst anmelden, wenn Cookies von lastpass.com erlaubt sind"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass hat ein unsicheres Anmeldeformular erkannt.\n\nMöchten Sie fortfahren?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass hat ein unsicheres Anmeldeformular erkannt.\n\nMöchten Sie trotzdem, dass LastPass das Formular ausfüllt?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass hat eine Passwortänderung bemerkt für"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass hat eine Passwortänderung erkannt für:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "Eine Passwortänderung wurde bemerkt für den Benutzer:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass hat einen Installationsfehler erkannt. Bitte installieren Sie LastPass erneut."
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass hat festgestellt, dass Sie für die Webseite unten ein schwaches Passwort verwenden. Wir empfehlen, die Kontoeinstellungen dieser Seite aufzurufen und ein neues Passwort zu erstellen. Verwenden Sie LastPass, um ein einzigartiges, starkes Passwort für dieses Konto zu generieren. Sie können dann die Änderungen auf der Webseite und bei LastPass speichern."
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass hat festgestellt, dass das Passwort für diese Anmeldung auch auf anderen Webseiten verwendet wird. Wir empfehlen, die Kontoeinstellungen dieser Seite aufzurufen und ein neues Passwort zu erstellen. Verwenden Sie LastPass, um ein einzigartiges, starkes Passwort für dieses Konto zu generieren. Sie können dann die Änderungen auf der Webseite und bei LastPass speichern."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass hat Ihre Anmeldedaten unten in das Formular eingefügt."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass ist komplett installiert! Wenn Sie LastPass auf anderen Computern installieren, dann werden Sie nicht noch einmal durch diesen Prozess gehen müssen, Sie werden sich einfach anmelden können. Teilen Sie Ihr Master-Passwort mit niemandem, einschließlich LastPass Mitarbeitern, wir werden niemals danach fragen! LastPass verschlüsselt Ihre vertraulichen Daten lokal, somit haben nicht einmal LastPass Mitarbeiter eine Möglichkeit zur Einsichtnahme. Sie können Hilfe erhalten indem Sie auf das LastPass Symbol klicken und Hilfe auswählen."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass ist das letzte Passwort, das Sie sich merken müssen. Falls LastPass neu für Sie ist, benötigen wir lediglich ein paar Minuten Ihrer Zeit um Ihr Konto zu erstellen. Sie werden dieses Konto dann auf jedem Ihrer anderen Computer nutzen können und Ihre persönlichen Daten werden immer synchronisiert bleiben. Klicken Sie auf Konto erstellen um zu beginnen."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Letzte 4 Ziffern Ihrer Telefonnummer"
+   },
+   "Last_Name2": {
+      "message": "Nachname (2)"
+   },
+   "Last_Touch": {
+      "message": "Letzter Aufruf"
+   },
+   "Last_name": {
+      "message": "Nachname"
+   },
+   "Latvia": {
+      "message": "Lettland"
+   },
+   "Launch": {
+      "message": "Starten"
+   },
+   "Lebanon": {
+      "message": "Libanon"
+   },
+   "Left": {
+      "message": "Links"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Liberia"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Libyen"
+   },
+   "License_Class": {
+      "message": "Führerscheinklasse"
+   },
+   "License_Key": {
+      "message": "Lizenzschlüssel"
+   },
+   "Liechtenstein": {
+      "message": "Lichtenstein"
+   },
+   "Link_Personal_Account": {
+      "message": "Persönlichen Ordner Verknüpfen"
+   },
+   "Lithuania": {
+      "message": "Litauen"
+   },
+   "Local": {
+      "message": "automatisch"
+   },
+   "Log_into_a_Site": {
+      "message": "Bei einer Webseite anmelden"
+   },
+   "LoggedInOffline": {
+      "message": "LastPass konnte den Login-Server nicht kontaktieren, damit befinden Sie sich nun in Offline-Modus.\n\nDie Funktionalität kann eingeschränkt sein."
+   },
+   "Login": {
+      "message": "Anmelden"
+   },
+   "LoginError": {
+      "message": "Fehler bei der LastPass-Anmeldung. Bitte versuchen Sie es erneut."
+   },
+   "Login_to_LastPass": {
+      "message": "Bei LastPass anmelden"
+   },
+   "Logoff": {
+      "message": "Abmelden"
+   },
+   "Logoff_": {
+      "message": "Abmelden:"
+   },
+   "LoseChanges": {
+      "message": "Sind Sie sicher, dass Sie die Felder dieser Seite ändern wollen? Wenn Sie dies tun, kann es passieren, dass Sie einige Änderungen verlieren, die Sie auf dieser Seite vorgenommen haben."
+   },
+   "LoseChangesApp": {
+      "message": "Wollen Sie wirklich die Felder dieser Anwendung bearbeiten? Dies wird alle Änderungen bei dieser Anwendung zunichte machen."
+   },
+   "Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordManager"
+   },
+   "Macao": {
+      "message": "Macao"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Mazedonien, die ehemalige jugoslawische Republik"
+   },
+   "Madagascar": {
+      "message": "Madagaskar"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Salomoninseln, Neukaledonien, Wladiwostok"
+   },
+   "Make_Pronounceable": {
+      "message": "Aussprechbar machen"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malaysia"
+   },
+   "Maldives": {
+      "message": "Malediven"
+   },
+   "Male": {
+      "message": "Männlich"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Verwalten freigegebene Ordner"
+   },
+   "March": {
+      "message": "März"
+   },
+   "Marshall_Islands": {
+      "message": "Marshallinseln"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Master-Passwort"
+   },
+   "Matching_Sites": {
+      "message": "Passende Websites"
+   },
+   "Mauritania": {
+      "message": "Mauretanien"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "May": {
+      "message": "Mai"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_ID": {
+      "message": "Mitglieds-ID"
+   },
+   "Member_Name": {
+      "message": "Mitgliedsname"
+   },
+   "Membership": {
+      "message": "Mitgliedschaft"
+   },
+   "Membership_Number": {
+      "message": "Mitgliedsnummer"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mexiko"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Mikronesien, Föderierte Staaten von"
+   },
+   "Mid_Atlantic": {
+      "message": "Mid-Atlantic"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Mittlere 3 Ziffern Ihrer Telefonnummer"
+   },
+   "Middle_name": {
+      "message": "Zweiter Vorname"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midwayinseln, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Minimale Anzahl an Ziffern"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobile E-Mail-Adresse"
+   },
+   "Mobile_number": {
+      "message": "Mobiltelefonnummer"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldawien, Republik von"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Mongolei"
+   },
+   "Montenegro": {
+      "message": "Montenegro"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Mehr"
+   },
+   "More_Information": {
+      "message": "Weitere Informationen"
+   },
+   "More_Options": {
+      "message": "Weitere Optionen"
+   },
+   "Morocco": {
+      "message": "Marokko"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Mountain Time (USA & Kanada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Auswahl verschieben zur Gruppe"
+   },
+   "Move_to_Group": {
+      "message": "Zur Gruppe verschieben"
+   },
+   "Move_to_Sub_Group": {
+      "message": "In eine Sub-Gruppe verschieben"
+   },
+   "Mozambique": {
+      "message": "Mosambik"
+   },
+   "Mr": {
+      "message": "Herr"
+   },
+   "Mrs": {
+      "message": "Frau"
+   },
+   "Ms": {
+      "message": "Frau"
+   },
+   "Multifactor_Authentication": {
+      "message": "Mehrstufige Authentifizierung"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Mein Konto"
+   },
+   "My_LastPass_Vault": {
+      "message": "Mein LastPass Tresor"
+   },
+   "Myanmar": {
+      "message": "Myanmar"
+   },
+   "NAME": {
+      "message": "NAME"
+   },
+   "Name_": {
+      "message": "Name:"
+   },
+   "Name_on_card": {
+      "message": "Name auf der Karte"
+   },
+   "Nameproper": {
+      "message": "Name"
+   },
+   "Namibia": {
+      "message": "Namibia"
+   },
+   "Nationality": {
+      "message": "Nationalität"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Niederlande, Die"
+   },
+   "Netherlands_Antilles": {
+      "message": "Niederländische Antillen"
+   },
+   "Never": {
+      "message": "Nie"
+   },
+   "Never_Add_Site": {
+      "message": "Seite hinzufügen deaktivieren"
+   },
+   "Never_AutoFill": {
+      "message": "Automatisches Ausfüllen deaktivieren"
+   },
+   "Never_AutoLogin": {
+      "message": "AutoLogin deaktivieren"
+   },
+   "Never_Fill_Forms": {
+      "message": "Formulare ausfüllen deaktivieren"
+   },
+   "Never_For_This_Domain": {
+      "message": "Für diese Domain deaktivieren"
+   },
+   "Never_For_This_Page": {
+      "message": "Sie für diese Seite deaktivieren"
+   },
+   "Never_For_This_Site": {
+      "message": "Sie für diese Seite deaktivieren"
+   },
+   "Never_Generate_Password": {
+      "message": "Passworterstellung deaktivieren"
+   },
+   "Never_Show_Again": {
+      "message": "Nie wieder anzeigen"
+   },
+   "Never_Show_Context_Icons": {
+      "message": "Inhaltssymbole nie anzeigen"
+   },
+   "Never___": {
+      "message": "Nie..."
+   },
+   "New_Caledonia": {
+      "message": "Neukaledonien"
+   },
+   "New_Master_Password": {
+      "message": "Neues Master-Passwort"
+   },
+   "New_Zealand": {
+      "message": "Neuseeland"
+   },
+   "New_here__Create_an_Account_": {
+      "message": "Neu hier? Erstellen Sie ein Konto."
+   },
+   "Newfoundland": {
+      "message": "Neufundland"
+   },
+   "Next_SMS_passcode_starts_with": {
+      "message": "Der nächste SMS Zugangscode beginnt mit"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigeria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Nein"
+   },
+   "No_Matching_Sites_": {
+      "message": "Keine passenden Einträge!"
+   },
+   "No_Thanks": {
+      "message": "Nein Danke"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Es sind keine Updates verfügbar"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Es wurde kein Wi-Fi-Adapter wurde auf diesem Computer erkannt. Dieses Feature erfordert einen Wi-Fi-Adapter."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Nein, ich will nicht dass LastPass mir automatisch beim Ausfüllen von Formularen hilft."
+   },
+   "No__Save_as_New_Entry": {
+      "message": "Nein, als neuen Eintrag speichern"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Nein, importiere keinen meiner unsicheren Einträge"
+   },
+   "No_matches_found__Please_search_again_": {
+      "message": "Keine Übereinstimmungen gefunden. Bitte suchen Sie erneut."
+   },
+   "None_Available": {
+      "message": "Keine verfügbar"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolkinsel"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Nördliche Marianen"
+   },
+   "Norway": {
+      "message": "Norwegen"
+   },
+   "Norwegian": {
+      "message": "Norwegisch"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norwegisch (Neunorwegisch)"
+   },
+   "Not_Now": {
+      "message": "Nicht jetzt"
+   },
+   "Note_Type": {
+      "message": "Notiztyp"
+   },
+   "Notes": {
+      "message": "Notizen"
+   },
+   "Notes_": {
+      "message": "Notizen:"
+   },
+   "Notifications": {
+      "message": "Benachrichtigungen"
+   },
+   "November": {
+      "message": "November"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Nummer"
+   },
+   "Number_of_Licenses": {
+      "message": "Anzahl der Lizenzen"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Oktober"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Anbieten, sichere Passwörter zu erstellen"
+   },
+   "Old_Password": {
+      "message": "Altes Passwort"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "One_Time_Passwords": {
+      "message": "Einmal-Passwörter"
+   },
+   "Open_All": {
+      "message": "Alle öffnen"
+   },
+   "Open_Dashlane___File___Export___CSV___Import_the_resulting_file_": {
+      "message": "Öffnen Sie Dashlane - File - Export - CSV. Importieren Sie die resultierende Datei."
+   },
+   "Open_Favorites": {
+      "message": "Favoriten öffnen"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Öffne meinen LastPass Tresor"
+   },
+   "Open_New_Pages_in": {
+      "message": "Neue Seiten öffnen"
+   },
+   "Open_Popover": {
+      "message": "Öffnen Popover"
+   },
+   "Open_Security_Check": {
+      "message": "Sicherheitstest öffnen"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Öffnen Sie Sticky Password - Datenbank verwalten - Export - Export als Text. Importieren Sie diese Datei"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Beim Start des Browsers Anmeldedialog öffnen"
+   },
+   "Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Öffnen, um die Feinabstimmung für die Art der Passworterstellung vorzunehmen."
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Opera Password Manager"
+   },
+   "Or__would_you_like_LastPass_to_save_a_new_user_password_for_this_site_": {
+      "message": "Oder möchten Sie, dass LastPass einen neuen Benutzernamen/Passwort für diese Seite speichert?"
+   },
+   "Order_Number": {
+      "message": "Bestellnummer"
+   },
+   "Order_Total": {
+      "message": "Bestellung insgesamt"
+   },
+   "Organization": {
+      "message": "Organisation"
+   },
+   "Other": {
+      "message": "Andere"
+   },
+   "Other_Sessions": {
+      "message": "Andere Sitzungen"
+   },
+   "PASSWORDupper": {
+      "message": "PASSWORT"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Passwort Manager"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Pacific Time (USA & Kanada)"
+   },
+   "Page_Down": {
+      "message": "Bild Ab"
+   },
+   "Page_Up": {
+      "message": "Bild Auf"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Palästinensische Gebiete"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua-Neuguinea"
+   },
+   "Paraguay": {
+      "message": "Paraguay"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "Passphrase"
+   },
+   "Passport": {
+      "message": "Reisepass"
+   },
+   "Password": {
+      "message": "Passwort"
+   },
+   "Password_": {
+      "message": "Passwort:"
+   },
+   "Password_Agent": {
+      "message": "Passwort Assistent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Password Depot"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Passwort Manager"
+   },
+   "Password_Length": {
+      "message": "Länge des Passworts"
+   },
+   "Password_Length_": {
+      "message": "Passwortlänge:"
+   },
+   "Password_Reminder": {
+      "message": "Passwort-Erinnerung"
+   },
+   "Password_Safe": {
+      "message": "Passwort Tresor"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Passwort-Erinnerung darf nicht dem Passwort entsprechen"
+   },
+   "Password_updated_": {
+      "message": "Passwort aktualisiert"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "Persönlich"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Philippinen"
+   },
+   "Phone_number": {
+      "message": "Telefonnummer"
+   },
+   "Physician_Address": {
+      "message": "Adresse des Arztes"
+   },
+   "Physician_Name": {
+      "message": "Name des behandelnden Arztes"
+   },
+   "Physician_Phone": {
+      "message": "Telefonnummer des Arztes"
+   },
+   "Pin": {
+      "message": "Pin"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Bitte treffen Sie eine Wahl"
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Bitte beantworten Sie folgende Frage:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Bitte wählen Sie die Art des Exports, den Sie durchführen möchten:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Bitte wählen Sie die Druckart aus, den Sie durchführen möchten:"
+   },
+   "Please_close_this_window": {
+      "message": "Bitte schließen Sie dieses Fenster"
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Bitte schließen Sie die mehrstufige Authentifizierung auf Ihrem Handy oder mobilen Gerät vollständig ab."
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Geben Sie bitte eine Passwort-Erinnerung ein"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Bitte geben Sie den vollständigen Pfad der zu importierenden Datei an."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Bitte verschieben Sie Websiten nur aus einem freigegebenen Ordner auf einmal."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Bitte beachten Sie, dass bei einem Upgrade von LastPass Lokal zu LastPass Online Ihre Passwörter in seinem verschlüsselten Format auf die LastPass Server hoch geladen werden. Sie können auf Ihre Daten von überall aus zugreifen und LastPass ist nicht in der Lage, sie zu lesen. Möchten Sie den Vorgang fortsetzen?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Bitte geben Sie diesem Computer einen Namen"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Um die Änderungen zu sehen, Laden Sie diese Seite neu."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Bitte starten Sie alle Browser neu, um LastPass Online benutzen zu können."
+   },
+   "Please_select": {
+      "message": "Bitte wählen"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Wählen Sie aus, auf welche Webseiten Sie diese Änderung anwenden wollen."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Sie können https://lastpass.com besuchen um später ein Konto zu erstellen."
+   },
+   "Poland": {
+      "message": "Polen"
+   },
+   "Policy_Number": {
+      "message": "Versicherungsnummer"
+   },
+   "Policy_Type": {
+      "message": "Versicherungstyp"
+   },
+   "Polish": {
+      "message": "Polnisch"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Server auf Account-Änderungen überprüfen (Minuten) "
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portugal"
+   },
+   "Portuguese": {
+      "message": "Portugiesisch"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portugiesisch (Brasilianisch)"
+   },
+   "Preferences": {
+      "message": "Einstellungen"
+   },
+   "Price": {
+      "message": "Preis"
+   },
+   "Print": {
+      "message": "Drucken"
+   },
+   "Print_Screen": {
+      "message": "Seite drucken"
+   },
+   "Print_Secure_Notes": {
+      "message": "Drucke Sichere Notizen"
+   },
+   "Print_Sites": {
+      "message": "Drucke Seiten"
+   },
+   "Private_Key": {
+      "message": "Privater Schlüssel"
+   },
+   "Profile": {
+      "message": "Profil"
+   },
+   "Profile_language": {
+      "message": "Profilsprache"
+   },
+   "Profile_name": {
+      "message": "Profilname"
+   },
+   "Pronounceable": {
+      "message": "Aussprechbar"
+   },
+   "Protected": {
+      "message": "Geschützt"
+   },
+   "Public_Key": {
+      "message": "Öffentlicher Schlüssel"
+   },
+   "Publisher": {
+      "message": "Herausgeber"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Kaufdatum"
+   },
+   "Qatar": {
+      "message": "Katar"
+   },
+   "Re_enter_Password": {
+      "message": "Passwort erneut eingeben"
+   },
+   "Recent_Sites": {
+      "message": "Letzte Seite"
+   },
+   "Recently_Used": {
+      "message": "Zuletzt verwendet"
+   },
+   "Recently_Used_list_size": {
+      "message": "Anzahl der Einträge bei 'Zuletzt verwendet' begrenzen auf"
+   },
+   "Recheck_Page": {
+      "message": "Seite noch einmal prüfen"
+   },
+   "Reencrypting_Data___": {
+      "message": "Entschlüssel Daten..."
+   },
+   "Refresh": {
+      "message": "Aktualisieren"
+   },
+   "Refresh_Sites": {
+      "message": "Webseiten aktualisieren"
+   },
+   "Reject": {
+      "message": "Abweisen"
+   },
+   "Remember_Email": {
+      "message": "E-Mail merken"
+   },
+   "Remember_Password": {
+      "message": "Passwort merken"
+   },
+   "Remove_Personal_Account": {
+      "message": "Persönliches Konto Entfernen"
+   },
+   "Rename_Group": {
+      "message": "Gruppe umbenennen"
+   },
+   "Replace_Existing_Site": {
+      "message": "Bestehende Webseite ersetzen"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "Die Anforderung ist fehlgeschlagen, steht Ihre Internet-Verbindung?"
+   },
+   "Require_All_Character_Type": {
+      "message": "alle Zeichentypen erforderlich"
+   },
+   "Require_All_Character_Types": {
+      "message": "Alle Zeichentypen erforderlich"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Jeder Zeichentyp erforderlich"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Fordere erneute Passworteingabe"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Sicherheitsabfrage wiederholen wenn:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Erlaube Webseiten das Automatische Ausfüllen zu deaktivieren (AutoComplete=off)"
+   },
+   "Reunion": {
+      "message": "Réunion"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "Right": {
+      "message": "Rechts"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Rumänien"
+   },
+   "Routing_number": {
+      "message": "Weiterleitungsnummer"
+   },
+   "Run_the_Google_Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "Führen Sie die Google Authenticator-Anwendung auf Ihrem mobilen Gerät aus und geben Sie den Bestätigungs-Code in das untere Eingabefeld ein."
+   },
+   "Russian": {
+      "message": "Russisch"
+   },
+   "Russian_Federation": {
+      "message": "Russische Föderation"
+   },
+   "Rwanda": {
+      "message": "Ruanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "WEBSITE"
+   },
+   "SMTP_Port": {
+      "message": "SMTP-Port"
+   },
+   "SMTP_Server": {
+      "message": "SMTP-Server"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Wallet"
+   },
+   "SSH_Key": {
+      "message": "SSH Schlüssel"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT-Adresse"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safari Password Manager"
+   },
+   "Saint_Barthelemy": {
+      "message": "St. Barthélemy"
+   },
+   "Saint_Helena": {
+      "message": "St. Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "St. Kitts und Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "St. Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "St. Martin (Französischer Teil)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "St. Pierre und Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "St. Vincent und die Grenadinen"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "São Tomé und Príncipe"
+   },
+   "Saudi_Arabia": {
+      "message": "Saudi-Arabien"
+   },
+   "Save": {
+      "message": "Speichern"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Alle eingegebenen Daten speichern"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Kreditkarten-Profil speichern"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Formularassistenten-Profil speichern"
+   },
+   "Save_New_Site": {
+      "message": "Neue Seite speichern"
+   },
+   "Save_Password_to_Vault": {
+      "message": "Kennwort im Tresor speichern"
+   },
+   "Save_Password_to_Vault_": {
+      "message": "Kennwort im Tresor speichern?"
+   },
+   "Save_Site": {
+      "message": "Webseite speichern"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Lokale Speicherung eines deaktivierten Einmalpasswortes zur Kontowiederherstellung"
+   },
+   "Save_the_password_to_your_LastPass_Vault_": {
+      "message": "Möchten Sie das Kennwort im LastPass Tresor speichern?"
+   },
+   "Save_this_password_as_a_new_entry": {
+      "message": "Speichern Sie dieses Passwort als neuen Eintrag"
+   },
+   "Save_this_password_as_a_new_entry_": {
+      "message": "Speichern Sie dieses Passwort als neuen Eintrag?"
+   },
+   "Save_this_website_into_your_LastPass_Vault_": {
+      "message": "Möchten Sie diese Webseite im LastPass Tresor speichern?"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Speichern Sie Ihre Änderungen und schließen Sie dieses Fenster"
+   },
+   "Save_your_password_to_your_LastPass_Vault_": {
+      "message": "Wollen Sie Ihr Passwort in Ihrem LastPass Tresor speichern?"
+   },
+   "Saved_Passwords": {
+      "message": "Gespeicherte Passwörter"
+   },
+   "Screen_Keyboard": {
+      "message": "Bildschirmtastatur"
+   },
+   "Search_All_Data": {
+      "message": "Suche Alle Daten"
+   },
+   "Search_All_Groups": {
+      "message": "Suche Alle Gruppen"
+   },
+   "Search_All_Notes": {
+      "message": "Suche alle Notitzen"
+   },
+   "Search_All_Sites": {
+      "message": "Suche Alle Seiten"
+   },
+   "Search_LastPass_Vault": {
+      "message": "LastPass Tresor durchsuchen"
+   },
+   "Search_Vault": {
+      "message": "Durchsuche Tresor"
+   },
+   "Search_within_secure_notes": {
+      "message": "Suche in sicheren Notizen"
+   },
+   "Searchproper": {
+      "message": "Suche"
+   },
+   "Secure_Notes": {
+      "message": "Sichere Notizen"
+   },
+   "Security": {
+      "message": "Sicherheit"
+   },
+   "Security_Check": {
+      "message": "Sicherheitstest"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Sicherheitsfrage Multifaktor-Authentifizierung"
+   },
+   "Security_code": {
+      "message": "Sicherheits-Code"
+   },
+   "Select": {
+      "message": "Wählen Sie"
+   },
+   "Select_All": {
+      "message": "Alle auswählen"
+   },
+   "Select_a_group_in_your_LastPass_Vault_to_place_this_website___Optional_": {
+      "message": "Wählen Sie eine Gruppe in Ihrem LastPass Tresor, in der Sie diese Website platzieren möchten. [Optional]"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Neuen Gruppennamen wählen oder eingeben"
+   },
+   "Send_SMS_passcodes": {
+      "message": "SMS Passwörter senden"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Anonyme Fehlerberichtsdaten an LastPass senden, um bei der Verbesserung zu helfen"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Seoul, Osaka, Sapporo, Tokio, Irkutsk"
+   },
+   "September": {
+      "message": "September"
+   },
+   "Serbia": {
+      "message": "Serbien"
+   },
+   "Server": {
+      "message": "Server"
+   },
+   "SesameWrongButton": {
+      "message": "Um Ihre Daten im Offline-Modus sehen zu können\nmüssen Sie Sesame starten und die Schaltfläche\n'Offline Passwort kopieren' benutzten, anstatt\nden 'One Time Passwort generieren'-Knopf."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame multifaktorielle Authentifizierung"
+   },
+   "Sessions": {
+      "message": "Sitzung"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Benutzerdefinierte Formularfelder einrichten"
+   },
+   "Settings": {
+      "message": "Einstellungen"
+   },
+   "Sex": {
+      "message": "Geschlecht"
+   },
+   "Seychelles": {
+      "message": "Seychellen"
+   },
+   "Share": {
+      "message": "Freigeben"
+   },
+   "Share_Selected": {
+      "message": "Auswahl freigeben"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Login-Status mit anderen Browsern abgleichen"
+   },
+   "Share_offer_from": {
+      "message": "Einladung zur Freigabe von"
+   },
+   "Shares": {
+      "message": "Freigaben"
+   },
+   "Shift": {
+      "message": "Umschaltetaste"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Soll sich LastPass dieses Passwort merken?"
+   },
+   "Show": {
+      "message": "Zeigen"
+   },
+   "Show_Advanced_Options": {
+      "message": "Erweiterte Optionen anzeigen"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "'Passwort ändern' Hinweis anzeigen"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Gelöschte Webseiten anzeigen"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Ausfüllhilfe Benachrichtigungsleiste anzeigen"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Meldungen vom Formularassistenten anzeigen"
+   },
+   "Show_Matching_Sites": {
+      "message": "Passende Seiten anzeigen"
+   },
+   "Show_Matching_Sites_Count_in_Toolbar": {
+      "message": "Zeige den Zähler der passenden Seiten in der Toolbar"
+   },
+   "Show_Matching_Sites_in_top_level_menu": {
+      "message": "Zeige passende Seiten im oberen Menü"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Nach Anmeldung meinen LastPass Tresor anzeigen"
+   },
+   "Show_Notifications": {
+      "message": "Benachrichtigungen anzeigen"
+   },
+   "Show_Password": {
+      "message": "Passwort anzeigen"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Benachrichtigungsleiste 'Webseite speichern' anzeigen"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Benachrichtigung zum Speichern anzeigen"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Webseiten in Gruppen anzeigen"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Zeige Tresor nach Login"
+   },
+   "Show_all_sites": {
+      "message": "Alle Webseiten anzeigen"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Bestimmte Benachrichtigungen nur nach Klick anzeigen"
+   },
+   "Show_or_Hide_Password": {
+      "message": "Passwort Anzeigen oder Ausblenden"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Ein weiteres benutzerdefiniertes Feld anzeigen"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Anmelden"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Vereinfachen Sie Ihr Leben: Nutzen Sie LastPass um die Anmeldeinformationen für diese Webseite automatisch auszufüllen!"
+   },
+   "Singapore": {
+      "message": "Singapur"
+   },
+   "Site_Search": {
+      "message": "Webseitensuche"
+   },
+   "Sites": {
+      "message": "Webseiten"
+   },
+   "Slovak": {
+      "message": "Slowakisch"
+   },
+   "Slovakia": {
+      "message": "Slowakei"
+   },
+   "Slovenia": {
+      "message": "Slowenien"
+   },
+   "Social_Security": {
+      "message": "Sozialversicherungsnummer"
+   },
+   "Social_security_number": {
+      "message": "Sozialversicherungsnummer"
+   },
+   "Software_License": {
+      "message": "Software-Lizenz"
+   },
+   "Solomon_Islands": {
+      "message": "Salomonen"
+   },
+   "Somalia": {
+      "message": "Somalien"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Leider ist der freigegebene Ordner schreibgeschützt."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Leider können Sie diesen Vorgang weder gleichzeitig auf freigegebenen und nicht freigegebenen Ordnern noch auf mehreren freigegebenen Ordnern ausführen."
+   },
+   "Source_": {
+      "message": "Quelle:"
+   },
+   "South_Africa": {
+      "message": "Südafrika"
+   },
+   "South_Georgia": {
+      "message": "Süd Georgien"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Südgeorgien und die Südlichen Sandwichinseln"
+   },
+   "Spain": {
+      "message": "Spanien"
+   },
+   "Spanish": {
+      "message": "Spanisch"
+   },
+   "Spanish__Mexico_": {
+      "message": "Spanisch (Mexiko)"
+   },
+   "Special": {
+      "message": "Sonderzeichen"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Start Datum"
+   },
+   "State": {
+      "message": "Staat"
+   },
+   "State___Province": {
+      "message": "Bundesland / Region"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Formular absenden"
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "Support E-Mail"
+   },
+   "Suriname": {
+      "message": "Suriname"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Es wurden verdächtige Zeichen im gewählten Dateinamen gefunden, der Vorgang wird nicht ausgeführt."
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard und Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Swasiland"
+   },
+   "Sweden": {
+      "message": "Schweden"
+   },
+   "Swedish": {
+      "message": "Schwedisch"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Ziehen Sie den Finger des angemeldeten Benutzers über den Sensor"
+   },
+   "Swipe_finger": {
+      "message": "Wischen"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Führen Sie Ihren Finger über den Fingerabdrucksensor"
+   },
+   "Switzerland": {
+      "message": "Schweiz"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Arabische Republik Syrien"
+   },
+   "Tabs": {
+      "message": "in einem neuen Tab"
+   },
+   "Taiwan": {
+      "message": "Taiwan"
+   },
+   "Tajikistan": {
+      "message": "Tadschikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tansania, Vereinigte Republik von"
+   },
+   "Tehran": {
+      "message": "Teheran"
+   },
+   "Telephone": {
+      "message": "Telefon"
+   },
+   "Tell_a_friend_": {
+      "message": "Erzähle es einem Freund!"
+   },
+   "Text": {
+      "message": "Text"
+   },
+   "Text_to_find": {
+      "message": "Zu suchender Text"
+   },
+   "Thailand": {
+      "message": "Thailand"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Diese Datei fehlt oder ist leer. Bitte geben Sie den vollständigen Pfad der zu importierenden Datei an."
+   },
+   "That_group_already_exists_": {
+      "message": "Diese Gruppe ist bereits vorhanden."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "Die 4-stellige Jahreszahl des Jahres, in dem die Kreditkarte ausgestellt wurde"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "Das LastPass Wi-Fi-Dienstprogramm wurde auf diesem Computer nicht gefunden. Möchten Sie den LastPass Universal Installer starten, um es zu installieren?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Das wiederholte Master-Passwort ist nicht identisch"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "Das alte Passwort, das Sie eingegeben haben, ist nicht Ihr korrektes LastPass Master-Passwort"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "Die Anwendung für das LastPass Plugin ist für diesen Vorgang benötigte. Es kann von lastpass.com heruntergeladen werden."
+   },
+   "The_credit_card_number": {
+      "message": "Die Nummer der Kreditkarte"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Die 4-stellige Zahl des Ablaufjahres der Kreditkarte"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Die Ablaufmonat der Kreditkarte"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Die Ausgabenummer der Kreditkarte.\nDies ist nur für bestimmte europäische Debitkarten (wie zum Beispiel Maestro) anwendbar."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Sicherheitscode der Kreditkarte.\nBei den meisten Karten sind das die letzten drei Ziffern der Nummer auf der Rückseite der Karte.\nBei American Express sind es die letzten vier Ziffern der klein gedruckten Nummer auf der Vorderseite der Karte."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Name, wie auf der Kreditkarte aufgedruckt"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Die Sprache der Internetseite, für die dieses Formularassistenten-Profil verwendet werden soll"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Der Monat, in dem die Kreditkarte ausgestellt wurde."
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Name des Formularassistenten-Profils"
+   },
+   "The_name_of_your_bank": {
+      "message": "Name der Bank"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Das Notizfeld hat zu viele Daten. Sie können maximal 45.000 Zeichen pro Notiz speichern.\n\nMöchten Sie, dass wir diese Notiz für Sie kürzen? Sie werden einige Ihrer Daten verlieren."
+   },
+   "The_number_of_characters_in_the_generated_password_": {
+      "message": "Die Anzahl der Zeichen in dem erzeugten Passwort."
+   },
+   "The_password_that_you_use_to_log_into_this_website_": {
+      "message": "Das Passwort, das Sie verwenden, um sich bei dieser Webseite anzumelden."
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Der Text nebenan, der Name oder die ID des Formularfeldes, das ausgefüllt werden soll.\nWenn mehrere Elemente angepasst werden sollen, geben Sie jede Übereinstimmer in einer separaten Zeile an."
+   },
+   "The_value_to_be_filled": {
+      "message": "Einzutragender Wert"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "In der von Ihnen zurzeit genutzten Chrome Version ist die HTML5-Datenbank-Unterstützung nicht aktiviert. Deshalb wird sich die Login-Seite Ihre E-Mail Adresse und Ihr Passwort nicht merken. Auch die automatische Anmeldung beim Browser Neustart wird nicht funktionieren."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Die Version von Chrome, die Sie derzeit verwenden, unterstützt keine HTML5-Datenbanken. Daher wird sich diese Login-Seite nicht an Ihre E-Mail und Ihr Passwort erinneren, und andere Funktionen wie die automatische Anmeldung bei einem Neustart des Browsers werden nicht funktionieren. Sie können dies beheben, indem Sie Ihrer Google-Chrome-Browser-Verknüpfung '--enable-databases' als Parameter hinzufügen."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Dies kann nur auf unserer Webseite durchgeführt werden"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Dieser Computer ist vertrauenswürdig, keine zweite Form der Authentifizierung benötigt."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Diese Funktion ist in dieser Version nicht verfügbar. Bitte installieren Sie die Erweiterung von https://lastpass.com/dl"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Diese Funktion erfordert die binäre Version dieses Browser-Erweiterung. Möchten Sie diese jetzt installieren?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Diese Funktion muss noch umgesetzt werden, um direkt zu lesen von "
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Dies ist eine gemeinsam benutzte Webseite. Sie haben nicht die Erlaubnis das Passwort zu sehen."
+   },
+   "This_is_the_name_or_URL_of_this_web_page_": {
+      "message": "Dies ist der Name oder URL dieser Webseite."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Diese Seite konnte nicht ordnungsgemäß geladen werden. Stellen Sie bitte sicher, dass die neueste Version von Maxthon läuft (LastPass benötigt mindestens Maxthon 4.0.3.2000). Anderenfalls kann dies auf Grund eines Fehlers in Maxthon passiert sein. Bitte versuchen Sie, diese Seite erneut zu laden."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Diese Seite konnte nicht ordnungsgemäß geladen werden. Bitte achten Sie darauf laufen die neueste Version von Maxthon (LastPass benötigt mindestens Maxthon 4.0.3.3000) zu verwenden. Anderenfalls kann dies auf Grund eines Fehlers in Maxthon passiert sein. Bitte versuchen Sie erneut, diese Seite zu öffnen."
+   },
+   "This_password_you_use_to_log_into_this_website_": {
+      "message": "Dieses Passwort, dass Sie benutzen, um sich an diese Webseite anzumelden."
+   },
+   "Time_Zone": {
+      "message": "Zeitzone"
+   },
+   "Timor_Leste": {
+      "message": "Timor-Leste"
+   },
+   "Title": {
+      "message": "Anrede"
+   },
+   "To_create_your_account__please_re_enter_your_LastPass_master_password": {
+      "message": "Um Ihr Konto zu erstellen, geben Sie bitte Ihr LastPass Master-Passwort erneut ein."
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "Um '1Password' Logins zu exportieren, loggen Sie sich bei '1Password' ein und markieren Sie alle, oder nur die die Sie benötigen, Passwörter, die Sie exportieren wollen. Dann wählen Sie: 'File menu' -> 'Export All' -> 'Text file...' Oder 'File menu' -> 'Export Selected' -> 'Text file...'\nKlicken Sie auf den Export-Knopf und speichern die Passwort-Datei, und Importieren diese Datei."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Um Clipperz Karten zu exportieren, loggen Sie sich bei www.clipperz.com ein. Klicken Sie auf Daten, dann Export, dann Export zu JSON. Kopieren Sie den gesamten Text, und speichern Sie ihn mit einem Texteditor ab, dann importieren sie diese Datei. Bitte beachten Sie, dass dieser Import möglicherweise nicht korrekt funktioniert wenn Sie die vorgegebenen Feldnamen geändert haben."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "Um FireForm Profile zu exportieren, klicken Sie mit der rechten Maustaste auf das FireForm-Symbol und wählen 'Simple setup'. Gehen Sie in den 'General options'-Tab, klicken auf 'Export all profiles', und speichern dann eine XML-Datei. Importieren Sie anschließend die Datei."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "Um aus HP Passwort Safe zu exportieren, speichern Sie als HTML und importieren Sie diese Datei."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "Um Passwörter aus KeePass zu exportieren, öffne deine KeePass Datenbank, klicke auf Datei -> Exportieren -> XML-Datei. Wähle einen Ort an dem du die Datei erstellen möchtest und bestätige mit OK. Anschließend importiere die erstellte Datei in dein LastPass Konto."
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "Um LastPass Logins zu exportieren, öffnen Sie einen Browser mit dem LastPass Plugin und klicken Sie anschließend auf LastPass - Tools - Exportieren nach - LastPass CSV Datei. Wählen Sie den Speicherort und drücken Sie speichern. Die generierte Datei kann jetzt importiert werden. "
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "Zum Exportieren von Password Agent Logins, öffnen Sie Ihre Password Agent Datenbank und klicken auf Datei - Drucken und Export. Ändern Sie das Ausgabeformat zu XML-Datei und vergewissern Sie sich, dass 'Gruppe' aktiviert ist. Wählen Sie den Speicherort und drücken Sie den Speichern Button. Importieren Sie die erhaltene Datei."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "Zum Exportieren von Passwords Max Passwörtern, klicken Sie auf File - Database - Export - Text.  Klicken Sie OK, und speichern Sie eine CSV-Datei. Importieren Sie  die resultierende Datei."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "Um RoboForm Anmeldungen zu exportieren, klicken Sie auf RoboForm-Anmeldungen-Liste drucken. Aktivieren Sie die Full-URL-Checkbox und klicken sie auf die Speichern-Schaltfläche. Importieren Sie die entstandene Datei.\n\nUm RoboForm SafeNotizen zu exportieren, klicken Sie auf RoboForm-SafeNotizen-Liste drucken. Klicken sie auf die Speicher-Schaltfläche. Importieren Sie die entstandene Datei.\n\nUm RoboForm Identitäten zu exportieren, klicken Sie auf RoboForm-Identitäten-Liste drucken. Klicken sie auf die Speicher-Schaltfläche. Importieren Sie die entstandene Datei."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "So exportieren eWallet Karten: zu eWallet gehen - Tools - Export. Speichern als Text-Datei. Importieren Sie die resultierende Datei."
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Um aus MyPasswordSafe zu exportieren, klicken Sie auf Datei - Speichern unter - wählen sie den Typ UNVERSCHLÜSSELTES XML aus - speichern Sie die Datei. Importieren Sie die resultierende Datei."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "Um aus Password Safe zu exportieren, klicken Sie auf Datei - Exportieren nach - XML - speichern Sie die Datei. Importieren Sie die resultierende Datei."
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "Um Passwörter zu exportieren, loggen Sie sich in die Desktop-Anwendung ein und klicken Sie auf Datei - Export - CSV - Alle Einträge. Importieren Sie die resultierende Datei."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "Um Passwörter von Darn! Passwords! zu exportieren, klicken Sie auf Tools - Drucken. Klicken sie auf Einstellungen und aktivieren Sie Notizen in Export aufnehmen. Klicken Sie auf drucken und klicken Sie auf das Datei-Export-Symbol, das wie eine blaue Diskette aussieht. Benennen Sie die Datei und klicken Sie auf Öffnen. Importieren Sie die resultierende Datei. "
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Um Passwörter von Passpack zu exportieren: Melden Sie sich an und klicken Sie auf Export. Unter 'What Type of Format Would You Like To Export?' wählen Sie 'Comma Separated Values', und bei 'Which Entries Would You Like To Export?' noch 'All of my entries', dann drücken Sie 'Continue'. Selektieren Sie den ganzen Text im Textfeld auf dem nächsten Bildschirm, kopieren diesen, erstellen eine neue Datei mit Notepad und fügen den Inhalt ein. Dann speichern Sie es unter passpack.csv (als Typ 'alle Dateien' NICHT als txt Datei). Importieren Sie diese Datei."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Um Passwörter aus Password Corral zu exportieren, melden Sie sich an, klicken Sie auf Datei - Passwörter exportieren - erstellen Sie ein Klartextexport aller Passwörter. Importieren Sie diese Datei."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Um Passwörter von Password Depot zu exportieren, klicken Sie auf den Reiter 'Werkzeuge' und wählen Sie 'Exportieren'. Wählen Sie das 'Extensible Markup Language Format (*. xml)', geben Sie eine Zieldatei an und wählen Sie den Ordner, den Sie exportieren möchten."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "So exportieren Sie Passwörter von Password Dragon: Melden Sie sich an, klicken Sie auf File - Export - Text File, stellen Sie sicher, dass 'Password' ausgewählt ist (es ist standardmäßig ausgeschaltet). Importieren Sie die gespeicherte Datei."
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "Um Passwörter aus dem Revelation Password Manager zu exportieren, exportieren Sie die Daten im XML Format."
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "Um Passwörter von SPB Wallet zu exportieren, öffnen Sie die Brieftasche, klicken Sie auf Datei, Exportieren, wählen im Dialogfeld einen Zielordner aus und klicken dann auf Speichern. Dann fügen Sie die Daten in das Feld auf dieser Seite ein."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Um mit LastPass zu starten, werden Sie Webseiten zu Ihrem Konto hinzufügen müssen."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "So importieren Sie Wi-Fi Passwörter, klicken Sie unten einfach auf Import."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "Um von PINs Passwort Manager zu importieren, wählen Sie Export zu Tabulator-getrenntem Format. Importieren Sie die resultierende Datei."
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Um Passwörter aus dem Opera Password Manager zu importieren, klicken Sie unten einfach auf Importieren."
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Um Passwörter vom Safari Password Manager importieren, klicken Sie einfach unten auf Importieren."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "Um Ihre MSI PasswortKeeper Logins zu importieren, starten Sie das Programm und klicken dann auf 'Txt' und 'Öffnen'. Importieren Sie die resultierende Datei."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "So importieren Sie Ihre Password Keeper Logins, öffnen Sie das Programm und die Passwort-Datei, die exportiert werden soll. Klicken Sie auf Datei - Datei exportieren. Klicken Sie auf Ja, geben Sie Ihr Kennwort ein, und klicken Sie auf OK. Es öffnet sich ein Standard-Windows-Speichern-Dialog. Geben Sie einen Dateinamen und den Speicherort an. Importieren Sie die resultierende Datei."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "Um Ihre TurboPasswords Logins zu importieren, öffnen Sie das Programm und exportieren die Passwortdatei. Wenn Sie die exportierten Daten auf bestimmte Kategorien oder Typen begrenzen möchten, filern Sie die angezeigten Einträge mit den Kategorie- und Typ-Dropdown-Felder über dem Hauptfenster. Wählen Sie Datei - Kategorie exportieren. Dadurch öffnet sich ein Standard-Windows-Speichern-Dialog. Geben Sie dort einen Dateinamen und einen Speicherort ein und wähle 'Komma getrennte Werte (.csv)' aus dem Speichertyp-Feld."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Um Ihre Privatsphäre zu schützen und Ihre Daten vertraulich zu behalten,"
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Werkzeuge"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad und Tobago"
+   },
+   "Trust_this_computer": {
+      "message": "Diesen Computer vertrauen"
+   },
+   "Try_Again": {
+      "message": "Probieren Sie es noch einmal"
+   },
+   "Tunisia": {
+      "message": "Tunesien"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswörter"
+   },
+   "Turkey": {
+      "message": "Türkei"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks-und Caicosinseln"
+   },
+   "Tutorials": {
+      "message": "Anleitungen"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Typ"
+   },
+   "Type_": {
+      "message": "Typ:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "BENUTZERNAME"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukraine"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulan Bator, Perth"
+   },
+   "Unexpected_data_type__": {
+      "message": "Unerwarteter Datentyp:"
+   },
+   "United_Arab_Emirates": {
+      "message": "Vereinigte Arabische Emirate"
+   },
+   "United_Kingdom": {
+      "message": "Vereinigtes Königreich"
+   },
+   "United_States": {
+      "message": "Vereinigte Staaten"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Amerikanisch-Ozeanien"
+   },
+   "Unknown": {
+      "message": "Unbekannt"
+   },
+   "Unselect_All": {
+      "message": "Keine auswählen"
+   },
+   "Up": {
+      "message": "Auf"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Upgrade auf LastPass Online!"
+   },
+   "Uploading_Data___": {
+      "message": "Lade Daten hoch..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use": {
+      "message": "Verwenden"
+   },
+   "Use_802_1X": {
+      "message": "Verwenden Sie 802.1X"
+   },
+   "Use_Password": {
+      "message": "Passwort verwenden"
+   },
+   "Use_Special_Characters": {
+      "message": "Sonderzeichen verwenden"
+   },
+   "Use_Special_Characters_": {
+      "message": "Sonderzeichen verwenden?"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "Dieses Passwort jetzt verwenden (für diese Seite)?"
+   },
+   "User_Manual": {
+      "message": "Benutzerhandbuch"
+   },
+   "User_name": {
+      "message": "Benutzername"
+   },
+   "Username_": {
+      "message": "Benutzername:"
+   },
+   "Usernameproper": {
+      "message": "Benutzername"
+   },
+   "Uzbekistan": {
+      "message": "Usbekistan"
+   },
+   "Value_to_fill": {
+      "message": "Einzutragender Wert"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Tresor"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Version"
+   },
+   "Version_": {
+      "message": "Version:"
+   },
+   "Viet_Nam": {
+      "message": "Vietnam"
+   },
+   "View_Image": {
+      "message": "Bild anzeigen"
+   },
+   "View_Passwords": {
+      "message": "Passwörter anzeigen"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Jungferninseln (Britisch)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Jungferninseln (US)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis und Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Vor dem Ausfüllen unsicherer Formulare warnen"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Sehen Sie sich ein Einführungsvideo an"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Wir behalten auch KEINE Kopie oder Backup davon."
+   },
+   "Weak_Password": {
+      "message": "Schwaches Passwort"
+   },
+   "Website": {
+      "message": "Webseite"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Willkommen bei LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "West-Zentralafrika"
+   },
+   "Western_Sahara": {
+      "message": "Westsahara"
+   },
+   "What_you_use_to_log_into_this_website_": {
+      "message": "Was Sie benutzen, um sich an diese Webseite anzumelden."
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, wird mindestens ein Kleinbuchstabe, ein Großbuchstabe und ein Sonderzeichen verwendet werden"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, wird mindestens ein Kleinbuchstaben, ein Großbuchstabe und ein Sonderzeichen verwendet werden."
+   },
+   "When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, werden Zeichen wie  # und ! verwendet werden, wenn ein zufälliges Passwort generiert wird."
+   },
+   "When_this_box_is_checked__confusing_characters__1_I_L_0_O__are_not_used_": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, werden verwechselbare Zeichen (1, I, L, 0, O) nicht verwendet werden."
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, wird ein Passwort erzeugt, das leicht auszusprechen ist"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, wird ein Passwort erstellt, das leicht auszusprechen ist."
+   },
+   "When_this_box_is_checked__potentially_confusing_characters__1_I_L_0_O__are_not_used": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, werden potenziell verwechselbare Zeichen (1, I, L, 0, O) nicht verwendet"
+   },
+   "When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "Wenn dieses Kontrollkästchen aktiviert ist, werden Zeichen wie # und ! im Passwort verwendet"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Passwort"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi Passwörter"
+   },
+   "Windows": {
+      "message": "in einem neuen Fenster"
+   },
+   "Would_you_like_LastPass_to_generate_a_secure_password_for_you_": {
+      "message": "Möchten Sie LastPass ein sicheres Passwort für Sie generieren lassen?"
+   },
+   "Would_you_like_LastPass_to_save_your_site_information_": {
+      "message": "Möchten Sie, dass LastPass Ihre Webseiten-Informationen speichert?"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Möchten Sie jetzt ein Profil für das Ausfüllen von Formularen anlegen?"
+   },
+   "XML_Files": {
+      "message": "XML Dateien"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangun)"
+   },
+   "Yemen": {
+      "message": "Jemen"
+   },
+   "Yes": {
+      "message": "Ja"
+   },
+   "Yes__Use_for_this_Site": {
+      "message": "Ja, für diese Seite benutzen"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Ja, lass mich wählen, welche Einträge ich zu LastPass importieren will"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Ja, ich will die Daten, die beim Ausfüllen benutzt werden, eingeben und überprüfen"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Sie verschieben Webseiten aus einem freigegebenen Ordner in Ihren allgemeinen Tresor. Dadurch sind sie möglicherweise für andere nicht mehr zugreifbar.\n\n Wollen Sie fortfahren?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Sie verschieben Seiten in einen anderen freigegebenen Ordner. Das hat Einfluss darauf, wer Zugriff auf die Seite hat.\n\n Wollen Sie fortfahren?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Sie verschieben Websites in einen freigegebenen Ordner. Diese werden möglicherweise für andere verfügbar.\n\nSind sie sicher, dass Sie fortfahren möchten?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Sie können nicht mehr als einem Hotkey den gleichen Wert zuweisen."
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Sie können einzeln freigegebene Seiten nicht in einen freigegebenen Ordner verschieben."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Sie haben zurzeit LastPass so eingestellt, sich Ihr Passwort zu merken. Dabei ist im Wesentlichen die Optionen zur automatischen Abmeldung, die Sie gewählt haben, nutzlos. Möchten Sie, dass LastPass aufhört, sich Ihr Passwort zu merken?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Sie haben noch kein Standard-Profil für den Formular-Assistenten ausgewählt. Möchten Sie es jetzt wählen?"
+   },
+   "You_have_saved_your_password_to_your_LastPass_Vault_": {
+      "message": "Sie haben Ihr Passwort an Ihrem LastPass Tresor gespeichert."
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Sie können auch alle Cookies blockieren, was Chrome den Zugriff auf die HTML5 Datenbank verbietet."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Sie müssen einverstanden sein, Ihre verschlüsselten Daten an LastPass zu senden.\n\nLastPass.com verschlüsselt Ihre Daten und sendet diese an sichere Server.\nNiemand bei LastPass kann Ihre vertraulichen Daten lesen da diese verschlüsselt sind mittels Ihrem geheimen Passwortes und Sie der einzige sind der dieses kennt."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Sie müssen mit den AGB einverstanden sein um fortzufahren"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Sie müssen einen Namen eingeben."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Sie müssen einen eindeutigen Namen eingeben."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Sie müssen Chrome neustarten oder sich ab- und wieder anmelden, um Änderungen an der Funktion 'Logout beim Beenden des Browsers' zu aktivieren."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Sie müssen den Browser neu starten um alle Änderungen zu übernehmen."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Ihr 4-stelliges Geburtsjahr"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Ihre Google Chrome Passwörter wurden erfolgreich importiert."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Ihre Postleitzahl"
+   },
+   "Your_address_information": {
+      "message": "Ihre Adress-Informationen"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Ihr Anhang befindet sich unter:"
+   },
+   "Your_bank_account_information": {
+      "message": "Ihre Bankverbindung"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Ihre Kontonummer"
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Ihre Bankleitzahl"
+   },
+   "Your_birth_day": {
+      "message": "Geburtstag"
+   },
+   "Your_birth_month": {
+      "message": "Geburtsmonat"
+   },
+   "Your_city_name": {
+      "message": "Wohnort"
+   },
+   "Your_company_s_name": {
+      "message": "Firmenname"
+   },
+   "Your_contact_information": {
+      "message": "Ihre Kontaktinformationen"
+   },
+   "Your_country_name": {
+      "message": "Name ihres Landes"
+   },
+   "Your_county_name": {
+      "message": "Bundesland"
+   },
+   "Your_credit_card_information": {
+      "message": "Information über Ihre Kreditkarte"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Ihre aktuellen Einstellungen verlangen, dass Sie ihr LastPass-Passwort eingeben um diese Aktion abzuschließen."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Deine Daten wurden exportiert nach"
+   },
+   "Your_email_address": {
+      "message": "Ihre E-Mail Adresse"
+   },
+   "Your_first_name": {
+      "message": "Ihr Vorname"
+   },
+   "Your_government_ID_number": {
+      "message": "Ihre Regierungsnummer"
+   },
+   "Your_last_name": {
+      "message": "Ihr Nachname"
+   },
+   "Your_middle_name": {
+      "message": "Ihr zweiter Vorname"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Ihr Passwort darf nicht Ihrer E-Mail Adresse entsprechen."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Ihr Passwort lässt sich zu leicht erraten."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Ihr Passwort ist zu kurz. Es muss mindestens sechs Zeichen lang sein."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Ihr Passwort ist zu kurz. Es muss mindestens 8 Zeichen lang sein"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Ihre Passworterinnerung dient zur Erinnerung Ihres"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Ihre Kennwörter stimmen nicht überein."
+   },
+   "Your_personal_information": {
+      "message": "Ihre persönlichen Informationen"
+   },
+   "Your_phone_number": {
+      "message": "Ihre Telefonnummer"
+   },
+   "Your_phone_number_extension": {
+      "message": "Ihre Durchwahl"
+   },
+   "Your_prefix_or_title": {
+      "message": "Titel"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Ihre ausgewählten Identität ist nicht mehr vorhanden. Stelle auf den Standart 'Alle' zurück und führe einen Logout durch."
+   },
+   "Your_sex": {
+      "message": "Ihr Geschlecht"
+   },
+   "Your_state_or_province_name": {
+      "message": "Name Ihres Bundeslandes"
+   },
+   "Your_street_address": {
+      "message": "Ihre Wohnadresse (Straße)"
+   },
+   "Your_time_zone": {
+      "message": "Ihre Zeitzone"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Ihr Benutzername bei der Anmeldung in Webseiten"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey multifaktorielle Authentifizierung"
+   },
+   "Yugoslavia": {
+      "message": "Jugoslawien"
+   },
+   "ZIP___Postal_code": {
+      "message": "Postleitzahl"
+   },
+   "Zambia": {
+      "message": "Sambia"
+   },
+   "Zimbabwe": {
+      "message": "Simbabwe"
+   },
+   "_Hide_": {
+      "message": "[Verbergen]"
+   },
+   "_History_": {
+      "message": "[Verlauf]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Neue anstehende Freigaben)"
+   },
+   "_Not_applicable_when_the_Pronounceable_box_is_checked__": {
+      "message": "(Entfällt, wenn das Kontrollkästchen für die einfache Ausspache aktiviert ist)."
+   },
+   "_Show_": {
+      "message": "[Anzeigen]"
+   },
+   "_domain_": {
+      "message": "(Domain)"
+   },
+   "_none_": {
+      "message": "(keine)"
+   },
+   "_unknown_": {
+      "message": "[unbekannt]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "Ihres derzeitigen Passwortes, unter Beibehaltung der Geheimhaltung."
+   },
+   "ago": {
+      "message": "zuvor"
+   },
+   "and": {
+      "message": "und"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "kontaktieren Sie uns und wir senden Ihnen Ihre Passworterinnerung."
+   },
+   "day": {
+      "message": "Tag"
+   },
+   "days": {
+      "message": "Tage"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "Nebenstelle"
+   },
+   "false": {
+      "message": "falsch"
+   },
+   "favorites": {
+      "message": "Favoriten"
+   },
+   "hour": {
+      "message": "Stunde"
+   },
+   "hours": {
+      "message": "Stunden"
+   },
+   "just_now": {
+      "message": "gerade eben"
+   },
+   "minute": {
+      "message": "Minute"
+   },
+   "minutes": {
+      "message": "Minuten"
+   },
+   "month": {
+      "message": "Monat"
+   },
+   "months": {
+      "message": "Monaten"
+   },
+   "privacy_statement": {
+      "message": "Datenschutzerklärung"
+   },
+   "recently_usedlower": {
+      "message": "zuletzt verwendet"
+   },
+   "search": {
+      "message": "suchen"
+   },
+   "second": {
+      "message": "Sekunde"
+   },
+   "seconds": {
+      "message": "Sekunden"
+   },
+   "send_more": {
+      "message": "weitere senden"
+   },
+   "terms_of_service": {
+      "message": "AGB"
+   },
+   "the_current_tab": {
+      "message": "im aktuellen Tab"
+   },
+   "true": {
+      "message": "wahr"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "wir wissen NICHT was Ihr LastPass Passwort ist."
+   },
+   "week": {
+      "message": "Woche"
+   },
+   "weeks": {
+      "message": "Wochen"
+   },
+   "year": {
+      "message": "Jahr"
+   },
+   "years": {
+      "message": "Jahre"
+   }
+}

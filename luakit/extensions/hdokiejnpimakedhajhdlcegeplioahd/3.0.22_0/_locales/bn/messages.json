@@ -1,0 +1,332 @@
+{
+   "1Password": {
+      "message": "১। পাসওয়ার্ড"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "১। আপনার ইউবিকি ইউএসবি পোর্টে প্রবেশ করান যাতে ইউএসবি সংযোগ উপরে থাকে"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "১। আপনার মোবাইল যন্ত্রে Google এর অ্যাপ্লিকেশান চালান "
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "১। একবার ব্যবহারের পাসওয়ার্ড তৈরির জন্য LastPass সিসেমি অ্যাপ্লিকেশান চালান"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "২। নিচের বক্সে আপনার বর্তমান যাচাইকরণ কোড লিখুন"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "২। নিচের ইনপুট বক্সে একবার ব্যবহারের পাসওয়ার্ড প্রবেশ করে 'প্রত্যয়ন' এ ক্লিক করুন"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "২। অপেক্ষা করুন যতক্ষণ না আপনার ইউবিকি স্পর্শ-বোতাম অবিচলিতভাবে জ্বলতে থাকে"
+   },
+   "3__Click_Authenticate": {
+      "message": "৩। প্রত্যয়ন এ ক্লিক করুন"
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "পুনঃচেশটা করার একটি ফাইল পাওয়া গিয়েছে। এর কারণ বোধহয় আপনার সকল পরিবর্তিত সাইট সেভ করা হয়নি। আপনি কি উক্ত ফাইলটি মুছে ফেলতে এবং কিছু পরিবর্তন হারাতে চান?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "আপনার অনুরোধ ক্রীয়াধীন থাকা অবস্থায় সার্ভারে ত্রুটি দেখা দিয়েছে।"
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "পূর্বেই শেয়ারকৃত একটি সাইট শেয়ার ফোল্ডারে স্থানান্তর করা যাবেনা।\n\nআপনি কি একটি কপি তৈরি করতে চান?"
+   },
+   "About": {
+      "message": "আমাদের ব্যাপারে "
+   },
+   "About___": {
+      "message": "পরিচিতি..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "আবু ধাবি, মাস্কাট, মস্কো, সেন্ট পিটার্সবার্গ, ভলগোগ্রাদ"
+   },
+   "Accept": {
+      "message": "স্বীকার"
+   },
+   "Account_Settings": {
+      "message": "একাউন্ট সেটিংস"
+   },
+   "Account_Type": {
+      "message": "অ্যাকাউন্টের প্রকার"
+   },
+   "Actionproper": {
+      "message": "কার্যক্রম"
+   },
+   "Add": {
+      "message": "যোগ "
+   },
+   "Add_Credit_Card": {
+      "message": "ক্রেডিট কার্ড যোগ করুন"
+   },
+   "Add_Field": {
+      "message": "ফিল্ড যোগ করুন"
+   },
+   "Add_Identity": {
+      "message": "পরিচয় যোগ করুন"
+   },
+   "Add_New_Site": {
+      "message": "নতুন সাইট যোগ করুন"
+   },
+   "Add_Profile": {
+      "message": "প্রোফাইল যোগ করুন"
+   },
+   "Add_Secure_Note": {
+      "message": "সংরক্ষিত লেখা যোগ করুন "
+   },
+   "Add_Site": {
+      "message": "সাইট যোগ করুন "
+   },
+   "Address": {
+      "message": "ঠিকানা"
+   },
+   "Address_1": {
+      "message": "ঠিকানা ১"
+   },
+   "Address_2": {
+      "message": "ঠিকানা ২"
+   },
+   "Address_3": {
+      "message": "ঠিকানা ৩"
+   },
+   "Adelaide": {
+      "message": "এডিলেড"
+   },
+   "Admin_Tools": {
+      "message": "প্রশাসকের সরঞ্জাম"
+   },
+   "Advanced": {
+      "message": "বিশেষায়িত"
+   },
+   "Afghanistan": {
+      "message": "আফগানিস্তান"
+   },
+   "Agent_Name": {
+      "message": "এজেন্টের নাম"
+   },
+   "Agent_Phone": {
+      "message": "এজেন্টের ফোন"
+   },
+   "Aland_Islands": {
+      "message": "আল্যান্ড দ্বীপ"
+   },
+   "Alaska": {
+      "message": "আলাস্কা"
+   },
+   "Albania": {
+      "message": "আলবেনিয়া"
+   },
+   "Algeria": {
+      "message": "আলজেরিয়া"
+   },
+   "Alias": {
+      "message": "উপনাম"
+   },
+   "All": {
+      "message": "সকল"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "আপনি কি LastPass কে সকল প্রকার অসংরক্ষিত তথ্য খুজতে অনুমতি দান করবেন?"
+   },
+   "Almaty": {
+      "message": "আলমাটি"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "সর্বদা প্রোফাইল এবং ক্রেডিট কার্ড চিহ্নিত করুন"
+   },
+   "American_Samoa": {
+      "message": "আমেরিকান সামোয়া"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "আম্মান, এথেন্স, ইস্তাম্বুল, বৈরুত, কায়রো, জেরুসালেম"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "আমস্টারডাম, বার্লিন, রোম, ভিয়েনা, প্রাগ, ব্রাসেলস"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "আপনার সাইট লোড হওয়ার সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে পুনরায় লগইন করুন"
+   },
+   "An_error_occurred": {
+      "message": "একটি ত্রুটি সংঘটিত হয়েছে"
+   },
+   "Appearance": {
+      "message": "বাহ্যিক অবস্থা"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "আপনি কি সত্যি  আপনার লাস্টপাস কে পাসওয়ার্ড মনেরাখাতে চান?  যেটা আপনার লাস্টপাস একাউন্ট এর নিরাপত্তার খুবই ঘারটি করবে! "
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "আপনি কি সত্যি এই সংরক্ষিত লেখা টিকে মুছেফেলতে চান? "
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "আপনি কি সত্যি এই সাইট টিকে মুছেফেলতে চান? "
+   },
+   "AutoFill": {
+      "message": "আপনাই সংপুরণ "
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "স্বয়ংক্রিয় ভাবে লগইন উপাত্ত পূরণ করুন"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "দুর্বোধ্য চিহ্ন এড়িয়ে চলুন"
+   },
+   "Birthday": {
+      "message": "ঞ্জন্মদিন"
+   },
+   "Blog": {
+      "message": "ব্লগ"
+   },
+   "Cancel": {
+      "message": "বাতিল "
+   },
+   "Change": {
+      "message": "পরিরর্তন করুন"
+   },
+   "Change_Group_Name": {
+      "message": "গ্রুপ এর নাম পরিরর্তন করুন"
+   },
+   "Change_Password": {
+      "message": "পাসওয়ার্ড পরিরর্তন করুন"
+   },
+   "Clear": {
+      "message": "পরিছন্ন "
+   },
+   "Close": {
+      "message": "বন্ধ করুন"
+   },
+   "Confirm": {
+      "message": "অনুমোদন "
+   },
+   "Confirm_Password": {
+      "message": "পাসওয়ার্ড নিশ্চিত করুন"
+   },
+   "Congratulations": {
+      "message": "অভিনন্দন"
+   },
+   "Country": {
+      "message": "দেশ"
+   },
+   "Delete": {
+      "message": "মোছা"
+   },
+   "Down": {
+      "message": "নিচে"
+   },
+   "Edit": {
+      "message": "সম্পাদন"
+   },
+   "Email": {
+      "message": "ই-মেইল"
+   },
+   "ErrorLoginMsg": {
+      "message": "লাস্টপাস এ লগইন করার সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"
+   },
+   "ErrorSendingMsg": {
+      "message": "সার্ভার এর সাথে যোগাযোগ এর সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"
+   },
+   "FillableFormDetected": {
+      "message": "এই পৃষ্ঠাতে পূরণযোজ্ঞ একটি ফর্ম সনাক্ত হয়েছে।"
+   },
+   "Form_Fill": {
+      "message": "ফরম পূরণ করুন"
+   },
+   "Gender": {
+      "message": "লিংগ"
+   },
+   "General": {
+      "message": "সাধারণ"
+   },
+   "Go_Premium_": {
+      "message": "প্রিমিয়াম এ যান"
+   },
+   "Language": {
+      "message": "ভাষা"
+   },
+   "My_LastPass_Vault": {
+      "message": "আমার লাস্টপাস ভল্ট"
+   },
+   "No": {
+      "message": "না"
+   },
+   "Not_Now": {
+      "message": "এখন নয়"
+   },
+   "Old_Password": {
+      "message": "পুরাতন পাসওয়ার্ড"
+   },
+   "Password_": {
+      "message": "পাসওয়ার্ড:"
+   },
+   "Remember_Email": {
+      "message": "ই-মেইল মনে রাখুন"
+   },
+   "Remember_Password": {
+      "message": "পাসওয়ার্ড মনে রাখুন"
+   },
+   "Save_New_Site": {
+      "message": "নতুন সাইট সংরক্ষন করুন"
+   },
+   "Save_Site": {
+      "message": "সাইট সংরক্ষন করুন"
+   },
+   "Searchproper": {
+      "message": "খোজ"
+   },
+   "Security": {
+      "message": "নিরাপত্তা"
+   },
+   "Security_Check": {
+      "message": "্নিরাপত্তা পরিক্ষা করুন"
+   },
+   "Select": {
+      "message": "নির্বাচন করুন"
+   },
+   "Select_All": {
+      "message": "সব নির্বাচন করুন"
+   },
+   "Sign_In": {
+      "message": "্সাইন ইন করুন"
+   },
+   "Username_": {
+      "message": "ইউজারনেম:"
+   },
+   "Yes": {
+      "message": "হ্যাঁ"
+   },
+   "Yugoslavia": {
+      "message": "যুগোস্লাভিয়া"
+   },
+   "_Hide_": {
+      "message": "[লুকান]"
+   },
+   "_History_": {
+      "message": "[ইতিহাস]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(নতুন শেয়ার অফার)"
+   },
+   "_Show_": {
+      "message": "[দেখান]"
+   },
+   "_domain_": {
+      "message": "(ডোমেইন)"
+   },
+   "_none_": {
+      "message": "(none)"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "প্রকৃত পাসওয়ার্ড কি, তার গোপনীয়তা বজায় রেখেই।"
+   },
+   "ago": {
+      "message": "আগে"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "year": {
+      "message": "বছর"
+   }
+}

@@ -1,0 +1,50 @@
+{
+   "0_9": {
+      "message": "(0-૯) (શૂન્ય-નવ)"
+   },
+   "ACTION": {
+      "message": "ક્રિયા"
+   },
+   "A_Zupper": {
+      "message": "એ-ઝેડ"
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "ફાઇલ ફરી પ્રયાસ મળી ગયેલ છે. આ સંભવિત અર્થ એ થાય કે તમારી સાઇટ બધા ફેરફારો નથી સાચવવામાં આવી છે. તમે આ ફાઈલ કાઢી નાખો અને સંભવિત કેટલાક ફેરફારો ગુમાવી માંગો છો?"
+   },
+   "Add_Credit_Card": {
+      "message": "ક્રેડિટ કાર્ડ ઉમેરો"
+   },
+   "Add_Identity": {
+      "message": "ઓળખ ઉમેરો"
+   },
+   "Add_Profile": {
+      "message": "રૂપરેખા ઉમેરો"
+   },
+   "Add_Secure_Note": {
+      "message": "સુરક્ષિત નોંધ ઉમેરો"
+   },
+   "Add_Site": {
+      "message": "સાઇટ ઉમેરો (વેબસાઇટ)"
+   },
+   "Advanced": {
+      "message": "ઉન્નત"
+   },
+   "All": {
+      "message": "તમામ"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "સુધારા ઉપલબ્ધ છે. તમે સ્થાપિત કરવા માંગો છો?"
+   },
+   "Appearance": {
+      "message": "હાજરી"
+   },
+   "ErrorSendingMsg": {
+      "message": "વખતે એક ભૂલ આવી સર્વર સંપર્ક કરવાનો પ્રયાસ. તમારું ઇન્ટરનેટ કનેક્શન તપાસો."
+   },
+   "_none_": {
+      "message": "(કશું જ નહીં)"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   }
+}

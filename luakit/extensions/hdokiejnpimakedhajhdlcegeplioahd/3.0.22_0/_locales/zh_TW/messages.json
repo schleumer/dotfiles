@@ -1,0 +1,3809 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. 請將您的 YubiKey 插入 USB 插槽"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1.在您的移動裝置上執行 Google Authenticator 應用程式"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. 執行 LastPass Sesame 應用程式來產生一次性密碼(OTP)"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2.在下面的框框輸入您當前的驗證碼"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. 貼上臨時密碼在下面的框中,然後按'驗證'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. 等待 YubiKey 觸控按鈕的燈持續亮著"
+   },
+   "3__Click_Authenticate": {
+      "message": "3.按下驗證"
+   },
+   "3__Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. 維持你的指尖觸摸按鈕1秒鐘"
+   },
+   "ACTION": {
+      "message": "動作"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_batch_of_SMS_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "一批簡訊驗證碼已傳送到您的智慧裝置。"
+   },
+   "A_new_password_has_been_created___Would_you_like_LastPass_to_remember_this_password_change_for_this_site_": {
+      "message": "新的密碼已建立。您想讓 LastPass 記住網站此次密碼的變更嗎？"
+   },
+   "A_new_password_has_been_generated_": {
+      "message": "新密碼已建立！"
+   },
+   "A_randomly_generated_password_": {
+      "message": "已建立隨機地密碼。"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "找到必要的 LastPass 更新。請按 OK 開始下載並安裝。"
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "找到一個記錄檔，您可以藉由此記錄還原過去的資料，但在該記錄之後才更動的內容將會遺失，確定進行還原？"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "處理您的請求時伺服器發生錯誤。"
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "一個先前已分享的網站不能被移動到分享資料夾內。\n\n您確定要製造一份複製？"
+   },
+   "About": {
+      "message": "關於"
+   },
+   "About___": {
+      "message": "關於..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": " 阿布達比，馬斯喀特，莫斯科，聖彼得堡，伏爾加格勒"
+   },
+   "Accept": {
+      "message": "接受"
+   },
+   "Account_Settings": {
+      "message": "帳號設定"
+   },
+   "Account_Type": {
+      "message": "帳戶類型"
+   },
+   "Account_number": {
+      "message": "帳號"
+   },
+   "Actionproper": {
+      "message": "動作"
+   },
+   "Actions": {
+      "message": "行動"
+   },
+   "Add": {
+      "message": "新增"
+   },
+   "Add_Credit_Card": {
+      "message": "新增信用卡"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "新增信用卡資料"
+   },
+   "Add_Field": {
+      "message": "新增欄位"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "新增填表個人資料"
+   },
+   "Add_Identity": {
+      "message": "新增身分"
+   },
+   "Add_New_Site": {
+      "message": "新增網站"
+   },
+   "Add_Note": {
+      "message": "新增註記"
+   },
+   "Add_Profile": {
+      "message": "新增個人資料"
+   },
+   "Add_Secure_Note": {
+      "message": "新增安全備註"
+   },
+   "Add_Site": {
+      "message": "新增網站"
+   },
+   "Add_another_custom_field": {
+      "message": "加入其他自訂欄位"
+   },
+   "Address": {
+      "message": "地址"
+   },
+   "Address_1": {
+      "message": "地址1"
+   },
+   "Address_2": {
+      "message": "地址2"
+   },
+   "Address_3": {
+      "message": "地址 3"
+   },
+   "Adelaide": {
+      "message": "阿德萊德"
+   },
+   "Admin_Console": {
+      "message": "管理控制台"
+   },
+   "Admin_Tools": {
+      "message": "系統管理員工具"
+   },
+   "Advanced": {
+      "message": "進階"
+   },
+   "Advanced_Options": {
+      "message": "進階選項"
+   },
+   "Advanced_Tools": {
+      "message": "進階工具"
+   },
+   "Afghanistan": {
+      "message": "阿富汗"
+   },
+   "Agent_Name": {
+      "message": "代理名稱"
+   },
+   "Agent_Phone": {
+      "message": "代理電話"
+   },
+   "Aland_Islands": {
+      "message": "奧蘭群島"
+   },
+   "Alaska": {
+      "message": "阿拉斯加"
+   },
+   "Albania": {
+      "message": "阿爾巴尼亞"
+   },
+   "Algeria": {
+      "message": "阿爾及利亞"
+   },
+   "Alias": {
+      "message": "別名"
+   },
+   "All": {
+      "message": "全部"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "允許 LastPass 在您電腦上找出不安全的資料？"
+   },
+   "Almaty": {
+      "message": "阿馬提"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "另外，請再底下方框中輸入密碼"
+   },
+   "Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "另外，請再底下方框中輸入密碼："
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "永遠選擇個人資料和信用卡"
+   },
+   "American_Samoa": {
+      "message": "美屬薩摩亞"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "安曼，雅典，伊斯坦布爾，貝魯特，開羅，耶路撒冷"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "阿姆斯特丹，柏林，羅馬，維也納，布拉格，布魯塞爾"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "有可用的更新。是否要安裝？"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "載入網頁時遇到錯誤，請重新登入。"
+   },
+   "An_error_occurred": {
+      "message": "發生錯誤"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "當匯入您的 Google 瀏覽器密碼時發生錯誤。"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "重新加密您的資料時發生錯誤"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "上傳個人資料時出現錯誤。您想繼續嗎？"
+   },
+   "Andorra": {
+      "message": "安道爾"
+   },
+   "Angola": {
+      "message": "安哥拉"
+   },
+   "Anguilla": {
+      "message": "安圭拉"
+   },
+   "Antarctica": {
+      "message": "南極洲"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "安提瓜和巴布達"
+   },
+   "Appearance": {
+      "message": "外觀"
+   },
+   "Application_": {
+      "message": "應用程式："
+   },
+   "Applications": {
+      "message": "應用程式"
+   },
+   "April": {
+      "message": "4月"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "任意註記以儲存連同此填表個人資料"
+   },
+   "Are_you_sure_you_want_to_delete_this_": {
+      "message": "你是否想要刪除它？"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "您確定要刪除該身分嗎？"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "您確定要刪除這個網站嗎？"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "您確定要讓 LastPass 記住您的密碼？這將大幅降低您 LastPass 帳戶的安全！"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "您確定要共享這個項目嗎？這樣做將導致您失去這個項目所做的任何變更！"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "您確定要檢視歷史記錄嗎？這樣做將導致您失去這個項目所做的任何變更！"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "您確定要刪除嗎？"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "您確定要刪除選取的項目嗎？"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "您確定要刪除選定的網站？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "您是否確定要刪除此應用程式？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "您確定要刪除這個欄位？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "您確定要刪除此筆個人資料？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "您確定要刪除這個密碼？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "您確定要刪除此群組嗎？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "您確定要刪除這個從未使用網址？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "您確定要刪除此安全註記？"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "您確定要刪除此網站嗎？"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "您確定希望刪除此附件？"
+   },
+   "Argentina": {
+      "message": "阿根廷"
+   },
+   "Arizona": {
+      "message": "亞利桑那"
+   },
+   "Armenia": {
+      "message": "亞美尼亞"
+   },
+   "Aruba": {
+      "message": "阿魯巴"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "阿斯塔納，達卡，伊科得林堡"
+   },
+   "At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "在產生的新密碼中將包含蠻多的數字。"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "大西洋時間 (加拿大)，馬瑙斯，聖地亞哥"
+   },
+   "Auckland__Wellington": {
+      "message": "奧克蘭，惠靈頓"
+   },
+   "August": {
+      "message": "8月"
+   },
+   "Australia": {
+      "message": "澳洲"
+   },
+   "Austria": {
+      "message": "奧地利"
+   },
+   "Authenticate": {
+      "message": "驗證"
+   },
+   "Authentication": {
+      "message": "身份驗證"
+   },
+   "Authentication_Failed_": {
+      "message": "身份驗證失敗。"
+   },
+   "AutoFill": {
+      "message": "自動填入"
+   },
+   "AutoLogin": {
+      "message": "自動登入"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "自動填入資料"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "閒置多久後自動登出 (分鐘)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "自動登出，當所有瀏覽器和 Google Chrome 關閉幾 (分鐘) 後"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "登入超過多久後，自動再重新登入一次(秒)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "避免使用不明確的的字"
+   },
+   "Azerbaijan": {
+      "message": "阿塞拜疆"
+   },
+   "Azores": {
+      "message": "亞速爾群島"
+   },
+   "Back": {
+      "message": "返回"
+   },
+   "Baghdad": {
+      "message": "巴格達"
+   },
+   "Bahamas": {
+      "message": "巴哈馬"
+   },
+   "Bahrain": {
+      "message": "巴林"
+   },
+   "Baku__Yerevan": {
+      "message": "巴庫，埃里溫"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "曼谷，河內，雅加達，諾曼斯比爾斯科"
+   },
+   "Bangladesh": {
+      "message": "孟加拉國"
+   },
+   "Bank_Account": {
+      "message": "銀行帳戶"
+   },
+   "Bank_accountformfill": {
+      "message": "銀行帳戶"
+   },
+   "Bank_name": {
+      "message": "銀行名稱"
+   },
+   "Barbados": {
+      "message": "巴巴多斯"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "請接上指紋辨識器並登入至少一個指紋"
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "北京，香港，新加坡，台北，克拉斯諾亞爾斯克"
+   },
+   "Belarus": {
+      "message": "白俄羅斯"
+   },
+   "Belgium": {
+      "message": "比利時"
+   },
+   "Belize": {
+      "message": "伯利茲"
+   },
+   "Benin": {
+      "message": "貝寧"
+   },
+   "Bermuda": {
+      "message": "百慕大"
+   },
+   "Bhutan": {
+      "message": "不丹"
+   },
+   "Binary_Component_": {
+      "message": "二進制元件："
+   },
+   "Birthday": {
+      "message": "生日"
+   },
+   "Bit_Strength": {
+      "message": "位元強度"
+   },
+   "Blacklist": {
+      "message": "登入失敗次數過多，您的帳戶暫停使用 5 分鐘。"
+   },
+   "Blog": {
+      "message": "部落格"
+   },
+   "Bolivia": {
+      "message": "玻利維亞"
+   },
+   "Bookmarklets": {
+      "message": "書籤"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "波斯尼亞和黑塞哥維那"
+   },
+   "Botswana": {
+      "message": "博茨瓦納"
+   },
+   "Bouvet_Island": {
+      "message": "布維島"
+   },
+   "Branch_Address": {
+      "message": "分支地址"
+   },
+   "Branch_Phone": {
+      "message": "分支電話"
+   },
+   "Brazil": {
+      "message": "巴西"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "布里斯班，關島，莫爾斯貝港，雅庫茨克"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "英屬印度洋領地"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "像平時那樣瀏覽網頁 LastPass 會自動記住您的密碼輸入。"
+   },
+   "Brunei_Darussalam": {
+      "message": "汶萊"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "布宜諾斯艾利斯，喬治敦"
+   },
+   "Built_": {
+      "message": "建立:"
+   },
+   "Bulgaria": {
+      "message": "保加利亞"
+   },
+   "Burkina_Faso": {
+      "message": "布基那法索"
+   },
+   "Burundi": {
+      "message": "布隆迪"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "我是一個健忘的人...如果我忘記我的密碼時,該怎麼辦?"
+   },
+   "CSV_Files": {
+      "message": "CSV 檔案"
+   },
+   "Cambodia": {
+      "message": "柬埔寨"
+   },
+   "Cameroon": {
+      "message": "喀麥隆"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "找不到隱藏的 LastPass 視窗"
+   },
+   "Canada": {
+      "message": "加拿大"
+   },
+   "Canary_Islands": {
+      "message": "加那利群島"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "坎培拉，墨爾本，雪梨，霍巴特"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "Cape_Verde": {
+      "message": "佛得角"
+   },
+   "Cape_Verde_Is_": {
+      "message": "佛得角"
+   },
+   "Caracas": {
+      "message": "加拉加斯"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "卡薩布蘭卡，蒙羅維亞，雷克雅未克"
+   },
+   "Catalan": {
+      "message": "加泰羅尼亞"
+   },
+   "Cayman_Islands": {
+      "message": "開曼群島"
+   },
+   "Central_African_Republic": {
+      "message": "中非共和國"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "中美洲，薩斯喀徹溫省"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "中部時間 (美國和加拿大)，瓜達拉哈拉，墨西哥"
+   },
+   "Chad": {
+      "message": "查德"
+   },
+   "Change": {
+      "message": "變更"
+   },
+   "Change_Group_Name": {
+      "message": "變更群組名稱"
+   },
+   "Change_Password": {
+      "message": "變更密碼"
+   },
+   "Check_For_Updates": {
+      "message": "檢查更新"
+   },
+   "Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "選取此核取方塊以調整如何產生您的密碼。"
+   },
+   "Checkbox": {
+      "message": "核取方塊"
+   },
+   "Checking_For_Updates___": {
+      "message": "檢查更新..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "欽奈，加爾各答，孟買，新德里，斯里蘭卡，斯里加亞渥登普拉"
+   },
+   "Chile": {
+      "message": "智利"
+   },
+   "China": {
+      "message": "中國"
+   },
+   "Chinese__Simplified_": {
+      "message": "中文 (簡體)"
+   },
+   "Chinese__Traditional_": {
+      "message": "中文 (繁體)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "選擇個人資料和信用卡"
+   },
+   "Choose_a_source_above_": {
+      "message": "在上面選擇一個來源。"
+   },
+   "Christmas_Island": {
+      "message": "聖誕島"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "市/鎮"
+   },
+   "Clear": {
+      "message": "清除"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "使用 (秒) 後清除剪貼簿"
+   },
+   "Clear_Forms": {
+      "message": "清除表格"
+   },
+   "Clear_Local_Cache": {
+      "message": "清除本機快取記憶體"
+   },
+   "Clear_Recent": {
+      "message": "清除最近"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "登出時清除欄位"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "按一下繼續，開始使用 LastPass."
+   },
+   "Click_Icons_in_Fields": {
+      "message": "按一下欄位中的圖示"
+   },
+   "Click_here_for_instructions_on_importing_from_a_generic_CSV_file_": {
+      "message": "按下這裡匯入一般的CSV檔案說明。"
+   },
+   "Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "按下這裡來開啟您的手機或智慧裝置上的多重要素驗證。"
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "帳戶設定"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "回報"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "按下此處以檢視 LastPass 使用者手冊"
+   },
+   "Click_on_a_username_or_formfill_profile_row_to_choose_how_LastPass_will_auto_fill_the_current_web_page_": {
+      "message": "按一下使用者名稱或表單填寫設定檔列，選擇 LastPass 應如何自動填寫目前網頁。"
+   },
+   "Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "按一下底部圖示進行更多操作。"
+   },
+   "Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "按下這裡微調你所建立的密碼。"
+   },
+   "Click_to_hide_advanced_options_": {
+      "message": "按下隱藏進階選項"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "關閉"
+   },
+   "Close_this_window": {
+      "message": "關閉這個視窗"
+   },
+   "Co_pay": {
+      "message": "共付"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "科科斯 (基林) 群島"
+   },
+   "Collapse_All": {
+      "message": "全部摺疊"
+   },
+   "Colombia": {
+      "message": "哥倫比亞"
+   },
+   "Comoros": {
+      "message": "科摩羅"
+   },
+   "Company": {
+      "message": "公司"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "公司政策禁止此操作。"
+   },
+   "Company_Phone": {
+      "message": "公司電話"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "公司政策上停用改變一些設定，並非所有的更新都已被儲存。"
+   },
+   "Configure_Form_Fill": {
+      "message": "設定填表"
+   },
+   "Confirm": {
+      "message": "確認"
+   },
+   "Confirm_Password": {
+      "message": "確認密碼"
+   },
+   "Congo": {
+      "message": "剛果"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "剛果民主共和國"
+   },
+   "Congratulations": {
+      "message": "恭喜"
+   },
+   "Connection_Mode": {
+      "message": "連線模式"
+   },
+   "Connection_Type": {
+      "message": "連線類型"
+   },
+   "Contact": {
+      "message": "聯絡"
+   },
+   "Continue": {
+      "message": "繼續"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "若被選取的檔案名稱中含有控制字元，將不會對其進行處理"
+   },
+   "Cook_Islands": {
+      "message": "庫克群島"
+   },
+   "Copy": {
+      "message": "複製"
+   },
+   "Copy_Note": {
+      "message": "複製註解"
+   },
+   "Copy_Password": {
+      "message": "複製密碼"
+   },
+   "Copy_URL": {
+      "message": "複製網址"
+   },
+   "Copy_Username": {
+      "message": "複製使用者名稱"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "版權所有 (C) 2008 LastPass。保留所有權利。\n該軟體的部分元件從第三方取得授權，這些授權的內容在："
+   },
+   "Costa_Rica": {
+      "message": "哥斯大黎加"
+   },
+   "Cote_D_ivoire": {
+      "message": "科特迪瓦"
+   },
+   "Country": {
+      "message": "國家"
+   },
+   "County": {
+      "message": "縣"
+   },
+   "Create_Account": {
+      "message": "建立帳戶"
+   },
+   "Create_Group": {
+      "message": "建立群組"
+   },
+   "Create_Sub_Group": {
+      "message": "建立子群組"
+   },
+   "Create_an_Account": {
+      "message": "建立帳號"
+   },
+   "Creating_Account___": {
+      "message": "建立帳號中..."
+   },
+   "Credit_Card": {
+      "message": "信用卡"
+   },
+   "Credit_Monitoring": {
+      "message": "信用監控"
+   },
+   "Credit_card_number": {
+      "message": "信用卡號碼"
+   },
+   "Credit_cardformfill": {
+      "message": "信用卡"
+   },
+   "Croatia": {
+      "message": "克羅地亞"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "古巴"
+   },
+   "Custom_Value": {
+      "message": "自訂值"
+   },
+   "Custom_field__": {
+      "message": "自訂欄位#"
+   },
+   "Custom_fields": {
+      "message": "自訂欄位"
+   },
+   "Cyprus": {
+      "message": "塞浦路斯"
+   },
+   "Czech_Republic": {
+      "message": "捷克共和國"
+   },
+   "Danish": {
+      "message": "丹麥文"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "達爾文"
+   },
+   "Dashlane": {
+      "message": "Dashlane"
+   },
+   "Database": {
+      "message": "資料庫"
+   },
+   "Date": {
+      "message": "日期"
+   },
+   "Date_of_Birth": {
+      "message": "出生日期"
+   },
+   "December": {
+      "message": "12 月"
+   },
+   "Default": {
+      "message": "預設"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "預設表單填寫資料"
+   },
+   "Delete": {
+      "message": "刪除"
+   },
+   "Delete_Cache": {
+      "message": "刪除快取"
+   },
+   "Delete_Formfill_Profile": {
+      "message": "刪除表格填寫設定檔"
+   },
+   "Delete_Group": {
+      "message": "刪除群組"
+   },
+   "Delete_Identity_": {
+      "message": "刪除身分？"
+   },
+   "Delete_Selected": {
+      "message": "刪除選擇項目"
+   },
+   "Delete_Site": {
+      "message": "刪除網站"
+   },
+   "Delete_Site_": {
+      "message": "刪除網站？"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "刪除此填表個人資料"
+   },
+   "Denmark": {
+      "message": "丹麥"
+   },
+   "Disable": {
+      "message": "停用"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "關閉 Chrome 上不安全的密碼管理套件"
+   },
+   "Disable_LastPass": {
+      "message": "停用 LastPass"
+   },
+   "Disable_LastPass_for_this_page_or_the_entire_site_": {
+      "message": "於此頁面或網站項目停用 LastPass？"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "停用多要素認證"
+   },
+   "Disable_Page": {
+      "message": "停用頁面"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "停用單一認證"
+   },
+   "Disable_Site": {
+      "message": "停用網站"
+   },
+   "Disable_alert___": {
+      "message": "關閉警告"
+   },
+   "Disable_alert_for_this_site": {
+      "message": "對於該網站關閉警告"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "關閉所有危險/重複網站的警告。"
+   },
+   "Disable_for_all_sites": {
+      "message": "停用所有網站"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "放棄變更並關閉該視窗"
+   },
+   "Djibouti": {
+      "message": "吉布提"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "不要覆蓋已經填寫的區段"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "不要再提示"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "您喜歡 LastPass 嗎？"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "難道您真的要離開嗎？若沒有建立帳戶，您將不能使用 LastPass 。"
+   },
+   "Dominica": {
+      "message": "多明尼加"
+   },
+   "Dominican_Republic": {
+      "message": "多米尼加共和國"
+   },
+   "Down": {
+      "message": "向下"
+   },
+   "Dr": {
+      "message": "博士"
+   },
+   "Driver_s_License": {
+      "message": "駕駛執照"
+   },
+   "Duplicate_password": {
+      "message": "重複的密碼"
+   },
+   "Dutch": {
+      "message": "荷蘭文"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "錯誤：目前不支援分享資料夾之間移動網站。"
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "錯誤：您不允許移動分享資料夾的網站。刪除是唯一支援的操作。"
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "東部時間 (美國和加拿大)"
+   },
+   "Ecuador": {
+      "message": "厄瓜多爾"
+   },
+   "Edit": {
+      "message": "編輯"
+   },
+   "Edit_Application": {
+      "message": "編輯應用程式"
+   },
+   "Edit_Application_Fields": {
+      "message": "編輯應用區域"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "修改信用卡個人資料"
+   },
+   "Edit_Form_Fields": {
+      "message": "編輯表格欄位"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "編輯填表個人資料"
+   },
+   "Edit_Secure_Note": {
+      "message": "編輯安全備註"
+   },
+   "Edit_Secure_Notes": {
+      "message": "編輯安全註記"
+   },
+   "Edit_Site": {
+      "message": "編輯網站"
+   },
+   "Edit_Site_Fields": {
+      "message": "編輯網站欄位"
+   },
+   "Egypt": {
+      "message": "埃及"
+   },
+   "El_Salvador": {
+      "message": "薩爾瓦多"
+   },
+   "Email": {
+      "message": "電子郵件"
+   },
+   "Email_Account": {
+      "message": "電子郵件帳號"
+   },
+   "Email_address": {
+      "message": "電子郵件位址"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "電子郵件已在使用中，您是否忘記了密碼?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "啟用信用監控"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "啟用免費的信用監控"
+   },
+   "Enable_new_login_screen": {
+      "message": "啟用新的登入面板"
+   },
+   "Encryption": {
+      "message": "加密"
+   },
+   "End": {
+      "message": "結束"
+   },
+   "English": {
+      "message": "英文"
+   },
+   "English__United_Kingdom_": {
+      "message": "英語 (英國)"
+   },
+   "Enter_PIN": {
+      "message": "請輸入PIN碼"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "輸入任意筆記"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "請輸入您的智慧卡 PIN 碼："
+   },
+   "Enterprise": {
+      "message": "企業"
+   },
+   "Equatorial_Guinea": {
+      "message": "赤道幾內亞"
+   },
+   "Eritrea": {
+      "message": "厄立特里亞"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "取得您 LastPass 網頁資料時發生錯誤。請再重新嘗試登入您的網頁。"
+   },
+   "ErrorLoginMsg": {
+      "message": "登錄發生錯誤。請檢查您的網路連線。"
+   },
+   "ErrorSendingMsg": {
+      "message": "連線錯誤，請檢查您的網際網路連線。"
+   },
+   "ErrorSessionMsg": {
+      "message": "您的 LastPass 期限已經過期，請重新登入。"
+   },
+   "Error_opening_attachment_": {
+      "message": "開附加的檔案時出錯"
+   },
+   "Estonia": {
+      "message": "愛沙尼亞"
+   },
+   "Ethiopia": {
+      "message": "埃塞俄比亞"
+   },
+   "Evening_number": {
+      "message": "晚間號碼"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "若您忘了主密碼，LastPass 可在此為您建立一次性密碼(OTP)，該密碼可用以回復您的帳號，且在伺服器上被啟動前，都將保持未啟用狀態\n\n您要現在進行帳號回復嗎？"
+   },
+   "Expand_All": {
+      "message": "全部展開"
+   },
+   "Expiration": {
+      "message": "過期"
+   },
+   "Expiration_date": {
+      "message": "失效日期"
+   },
+   "Export": {
+      "message": "匯出"
+   },
+   "Export_To": {
+      "message": "匯出到"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "匯出到 LastPass CSV檔案"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS模式"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "福克蘭群島 (馬爾維納斯)"
+   },
+   "Faroe_Islands": {
+      "message": "法羅群島"
+   },
+   "Favorite": {
+      "message": "我的最愛"
+   },
+   "Favoritesproper": {
+      "message": "最愛"
+   },
+   "Fax_number": {
+      "message": "傳真號碼"
+   },
+   "February": {
+      "message": "2 月"
+   },
+   "Feedback": {
+      "message": "意見反應"
+   },
+   "Female": {
+      "message": "女性"
+   },
+   "Fields_": {
+      "message": "欄位:"
+   },
+   "Fiji": {
+      "message": "斐濟"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "斐濟，堪察加半島，馬紹爾群島。"
+   },
+   "File": {
+      "message": "檔案"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "檔案太大了，必需小於 10 MB。"
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "檔案過大，必須小於5MB"
+   },
+   "Files": {
+      "message": "檔案"
+   },
+   "Fill": {
+      "message": "填寫"
+   },
+   "Fill_Current": {
+      "message": "填入目前的"
+   },
+   "Fill_Form": {
+      "message": "填表"
+   },
+   "Fill_Forms": {
+      "message": "填入表格"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "填入預設表單填寫資料"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "填寫下一個登入(當多個)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "填寫上一個登入(當多個)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "填寫或編輯表單資料"
+   },
+   "Fill_with": {
+      "message": "填表"
+   },
+   "FillableFormDetected": {
+      "message": "在此網頁上發現可填入資料的表格。"
+   },
+   "Filter": {
+      "message": "篩選器"
+   },
+   "Find_a_site": {
+      "message": "找尋網站"
+   },
+   "Finland": {
+      "message": "芬蘭"
+   },
+   "Finnish": {
+      "message": "芬蘭文"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefox 密碼管理員"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "電話號碼的前 3 位數字"
+   },
+   "First_name": {
+      "message": "名字"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "對以下列出的每一個座標，找到您的 grid 數值並且輸入那個數值。"
+   },
+   "Forgot_Password_": {
+      "message": "忘記密碼？"
+   },
+   "FormFill": {
+      "message": "表單填寫"
+   },
+   "FormFill_Profiles": {
+      "message": "表單填寫配置"
+   },
+   "Form_Fill": {
+      "message": "表單填寫"
+   },
+   "Form_Fill_Profile": {
+      "message": "填表個人資料"
+   },
+   "Form_Fill_Profiles": {
+      "message": "表單填寫組態"
+   },
+   "Form_Fills": {
+      "message": "表單填寫"
+   },
+   "Form_Name_": {
+      "message": "表格名稱："
+   },
+   "Format": {
+      "message": "格式"
+   },
+   "Forums": {
+      "message": "論壇"
+   },
+   "France": {
+      "message": "法國"
+   },
+   "French": {
+      "message": "法國"
+   },
+   "French_Guiana": {
+      "message": "法屬圭亞那"
+   },
+   "French_Polynesia": {
+      "message": "法屬波利尼西亞"
+   },
+   "French_Southern_Territories": {
+      "message": "法國南部領土"
+   },
+   "French__Canada_": {
+      "message": "法語 (加拿大)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "要匯入的檔案的完整路徑："
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "要匯入的檔案的完整路徑："
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "免費升級進階版"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT 都柏林，愛丁堡，里斯本，倫敦"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "標準時間：都柏林，愛丁堡，里斯本，倫敦"
+   },
+   "Gabon": {
+      "message": "加蓬"
+   },
+   "Gambia": {
+      "message": "岡比亞"
+   },
+   "Gender": {
+      "message": "性別"
+   },
+   "General": {
+      "message": "一般"
+   },
+   "Generate": {
+      "message": "建立"
+   },
+   "GeneratePassword": {
+      "message": "如果您要新增一個帳號或變更密碼，按一下 LastPass 的 [產生] 來自動產生一個獨特安全的密碼。"
+   },
+   "Generate_Password": {
+      "message": "產生密碼"
+   },
+   "Generate_Secure_Password": {
+      "message": "建立安全密碼"
+   },
+   "Generated_Password_for": {
+      "message": "建立密碼給"
+   },
+   "Generic": {
+      "message": "通用"
+   },
+   "Generic_CSV_File": {
+      "message": "一般的 CSV 檔案"
+   },
+   "Georgia": {
+      "message": "格魯吉亞"
+   },
+   "German": {
+      "message": "德文"
+   },
+   "Germany": {
+      "message": "德國"
+   },
+   "Ghana": {
+      "message": "加納"
+   },
+   "Gibraltar": {
+      "message": "直布羅陀"
+   },
+   "Go_Back_": {
+      "message": "返回？"
+   },
+   "Go_Premium_": {
+      "message": "升級進階版！"
+   },
+   "Go_to_URL": {
+      "message": "轉到網址"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Authenticator 多重驗證"
+   },
+   "Google_Chrome": {
+      "message": "Google 瀏覽器"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google瀏覽器密碼管理器"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google瀏覽器需要附加元件使用和瀏覽器一樣的語言，因此為了切換LastPass的語言，請在瀏覽器的選項中變更瀏覽器的使用語言。"
+   },
+   "Greece": {
+      "message": "希臘"
+   },
+   "Greenland": {
+      "message": "格陵蘭"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "格陵蘭，巴西利亞，蒙得維的亞"
+   },
+   "Grenada": {
+      "message": "格林納達"
+   },
+   "Group_": {
+      "message": "群組："
+   },
+   "Group_ID": {
+      "message": "群組帳號"
+   },
+   "Group_Name": {
+      "message": "群組名稱"
+   },
+   "Group_will_be_created_under": {
+      "message": "群組將會被建立或者目前已存在"
+   },
+   "Groups": {
+      "message": "群組"
+   },
+   "Guadeloupe": {
+      "message": "瓜德羅普島"
+   },
+   "Guam": {
+      "message": "關島"
+   },
+   "Guatemala": {
+      "message": "危地馬拉"
+   },
+   "Guernsey": {
+      "message": "根西島"
+   },
+   "Guinea": {
+      "message": "幾內亞"
+   },
+   "Guinea_Bissau": {
+      "message": "幾內亞比紹"
+   },
+   "Guyana": {
+      "message": "圭亞那"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "海地"
+   },
+   "Harare__Pretoria": {
+      "message": "哈拉雷，比勒陀利亞"
+   },
+   "Hawaii": {
+      "message": "夏威夷"
+   },
+   "Health_Insurance": {
+      "message": "健康保險"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "赫德島和麥當勞群島"
+   },
+   "Height": {
+      "message": "高度"
+   },
+   "Help": {
+      "message": "說明"
+   },
+   "Help_Translate": {
+      "message": "協助翻譯"
+   },
+   "Help___": {
+      "message": "說明..."
+   },
+   "Help_spread_the_word": {
+      "message": "幫助我們進行推廣"
+   },
+   "Hide_Advanced_Options": {
+      "message": "隱藏進階選項"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "隱藏右鍵選單選項"
+   },
+   "Hide_Password": {
+      "message": "隱藏密碼"
+   },
+   "Highlight_input_boxes": {
+      "message": "高亮度顯示輸入框"
+   },
+   "History": {
+      "message": "歷史"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "羅馬教廷 (梵蒂岡城國)"
+   },
+   "Home": {
+      "message": "首頁"
+   },
+   "Honduras": {
+      "message": "洪都拉斯"
+   },
+   "Hong_Kong": {
+      "message": "香港"
+   },
+   "Hostname": {
+      "message": "主機名稱"
+   },
+   "HotKeys": {
+      "message": "快捷鍵"
+   },
+   "Hungarian": {
+      "message": "匈牙利文"
+   },
+   "Hungary": {
+      "message": "匈牙利"
+   },
+   "IBAN_Number": {
+      "message": "IBAN 碼"
+   },
+   "IMPORT_": {
+      "message": "匯入？"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "非常重要的是,您永遠不能忘記您新的 LASTPASS 密碼."
+   },
+   "I_Forgot_my_Password": {
+      "message": "我忘記了密碼"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "我忘記密碼了，請幫助我"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "我已經閱讀與同意此"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "我知道我加密的資料將被送到 LastPass"
+   },
+   "I_ve_forgot_the_answer": {
+      "message": "我忘了答案"
+   },
+   "I_ve_lost_my_Google_Authenticator_device": {
+      "message": "我遺失了我的 Google Authenticator 裝置"
+   },
+   "I_ve_lost_my_Sesame_device": {
+      "message": "我遺失了我的 Sesame 裝置"
+   },
+   "I_ve_lost_my_YubiKey_device": {
+      "message": "我遺失了我的 Yubikey 裝置"
+   },
+   "I_ve_lost_my_device": {
+      "message": "我遺失了我的裝置"
+   },
+   "I_ve_lost_my_grid": {
+      "message": "我遺失了我的資料格"
+   },
+   "Iceland": {
+      "message": "冰島"
+   },
+   "Identities": {
+      "message": "身分"
+   },
+   "Identity": {
+      "message": "身分"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "如果勾選它，您將被要求重新輸入您的主控密碼在能夠存取此填表個人資料之前"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "如果選取，您的信用報告將被定期監測，並且當發生任何可疑的動作時會提醒您。"
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "若未指定，則使用文件之副檔名："
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "如果您已經有一個 LastPass 帳號，您可以關閉此視窗，並登入。"
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "如果您真的忘了您的 LastPass 主密碼，"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "如果您忘記了您的答案，請點擊這裡重置您的安全問題"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "如果您使用的是 LastPass 目前不支援的某種格式，您可以嘗試儲存您的資料為 CSV 檔案。\n\n您必須修改 CSV 檔案的第一行以便 LastPass 能夠辨識它。\n\n第一行的儲存格名稱必須按照它對應列的資料正確設定。\n可用的列名包括：\n\nurl,username,password,extra,name,grouping\n\n「extra」的意思是「註解」，而「grouping」的意思是應該被分到哪一類。您不必使用所有這些列的名稱，並且順序也是不限的。比如您的檔案的第一行可以是這樣：\n\nname,username,password,url\n\n如果您想要匯入一個安全註記，而不是網站，只要讓「url」、「username」以及「password」這三列為空 (或者乾脆省略掉這 3 項不寫)，並且確保「extra」列不是空的。只要這兩項注意好了，這項記錄就會被自動匯入為安全註記而不是一個網站。\n\n這應該很容易，只要在 Excel 裡開啟您的 CSV 檔案並且確保第一行是適當的名稱。儲存，然後匯入就可以了。"
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "如果您遺失了您的 Google Authenticator 裝置，點擊這裡關閉 Google Authenticator 認證"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "如果您遺失了 Sesame 裝置，請按這裡來停用 Sesame 驗證"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "如果您遺失了 YubiKey，請按此處以停用 YubiKey 驗證"
+   },
+   "If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "如果您遺失您的手持裝置，請按此停用你的多重認證。"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "如果您失去了您的 grid，點擊這裡停用 grid 認證"
+   },
+   "Import": {
+      "message": "匯入"
+   },
+   "Import_From": {
+      "message": "匯入表格"
+   },
+   "Import_Your_Data": {
+      "message": "匯入你的資料"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "您的資料匯入到您的 LastPass 密碼庫將保護您的安全，並防止身份盜竊。所有匯入的資料仍然完全保密的：唯一的人可以檢視資料人是您。"
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "為了讓 LastPass 填入基本身份驗證對話框，您需要啟用登入訪問以做為輔助裝置。"
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "為了讓 LastPass 填入基本身份驗證對話框，您需要安裝 32 位元的LastPas"
+   },
+   "India": {
+      "message": "印度"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "印第安納州，波哥大，利馬，基多，里奧布朗庫"
+   },
+   "Indonesia": {
+      "message": "印度尼西亞"
+   },
+   "Install": {
+      "message": "安裝"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "安裝用於 Chrome 的 LastPass 程式庫以啟用閒置後自動登出"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "安裝給 Chrome 使用的二進位制 LastPass 版本，使閒置後自動登出"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "安裝給Chrome使用的二進位制 LastPass 版本用以匯入從 Google 瀏覽器密碼管理器的密碼"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "安裝給Chrome使用的二進位制LastPass版本，以啟用與其他瀏覽器分享登錄狀態"
+   },
+   "Instant_Messenger": {
+      "message": "即時通訊"
+   },
+   "Instructions": {
+      "message": "說明"
+   },
+   "Insurance": {
+      "message": "保險"
+   },
+   "International_Date_Line_West": {
+      "message": "國際換日線以西"
+   },
+   "Invalid_Password_": {
+      "message": "無效的密碼"
+   },
+   "Invalid_email_address__try_again": {
+      "message": "錯誤電子郵件位址，再試一次"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "無效的檔案類型，它必須是一個可以由您的瀏覽器顯示的圖像。"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "伊朗 (伊斯蘭共和國)"
+   },
+   "Iraq": {
+      "message": "伊拉克"
+   },
+   "Ireland": {
+      "message": "愛爾蘭"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "伊斯蘭堡，卡拉奇，塔什幹"
+   },
+   "Isle_of_Man": {
+      "message": "馬恩島"
+   },
+   "Israel": {
+      "message": "以色列"
+   },
+   "Issue_number": {
+      "message": "發行號"
+   },
+   "Issued_Date": {
+      "message": "發行日期"
+   },
+   "Issuing_Authority": {
+      "message": "發證機關"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "我們建議您使用刪除附件檔案之後，將它刪除。"
+   },
+   "Italian": {
+      "message": "義大利文"
+   },
+   "Italy": {
+      "message": "義大利"
+   },
+   "IterationsReduction": {
+      "message": "為了建立您似乎已經從快取版本還原的 LastPass 主密碼，重複項目的數字是需要的。您是否要繼續登入？"
+   },
+   "Jamaica": {
+      "message": "牙買加"
+   },
+   "January": {
+      "message": "1 月"
+   },
+   "Japan": {
+      "message": "日本"
+   },
+   "Japanese": {
+      "message": "日文"
+   },
+   "Jersey": {
+      "message": "澤西"
+   },
+   "Jordan": {
+      "message": "約旦"
+   },
+   "July": {
+      "message": "7 月"
+   },
+   "June": {
+      "message": "6 月"
+   },
+   "Kabul": {
+      "message": "喀布爾"
+   },
+   "Kathmandu": {
+      "message": "加德滿都"
+   },
+   "Kazakhstan": {
+      "message": "哈薩克斯坦"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "儲存一份登入和表格填寫的歷史"
+   },
+   "Kenya": {
+      "message": "肯尼亞"
+   },
+   "Key_Index": {
+      "message": "金鑰索引"
+   },
+   "Key_Type": {
+      "message": "金鑰類型"
+   },
+   "Kiribati": {
+      "message": "基里巴斯"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "朝鮮民主主義人民共和國"
+   },
+   "Korea__Republic_Of": {
+      "message": "大韓民國"
+   },
+   "Korean": {
+      "message": "韓文"
+   },
+   "Kuwait": {
+      "message": "科威特"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "科威特，利雅得，內羅畢，第比利斯"
+   },
+   "Kyrgyzstan": {
+      "message": "吉爾吉斯斯坦"
+   },
+   "La_Paz": {
+      "message": "拉巴斯"
+   },
+   "Language": {
+      "message": "語言"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "老撾人民民主共和國"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV 檔"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "Google Chrome LastPass 工具列"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass 加密檔案"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass Grid 多要素認證"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass選單"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass 可以自動填寫網頁表格，只需一次點擊。使用自動「表格填寫」將不僅可以節省您的時間，而且還會提高您線上購物時的安全性。"
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "除非您允許來自 lastpass.com 的 Cookies 否則將無法登入 LastPass."
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass 偵測到一個不安全的登入網站。\n\n您要繼續嗎？"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass 偵測到一個不安全的登入網站\n\n您仍想讓 LastPass 來填寫表格？"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass 偵測到一個密碼更改:"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass 偵測到一個網域密碼的更改:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass 偵測到一個用戶密碼更改:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass 已偵測到一個安裝錯誤。請重新安裝 LastPass。"
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass 偵測您使用了低強度密碼登入此網站。 建議您可以至該網站的帳戶設定中更換,另一組新密碼。 您可以藉由 LastPass 的工具為您的帳戶建立獨特且高強度的密碼,接著將此變更儲存至該網站與 LastPass 裡。"
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass 偵測您曾經使用該相同密碼登入其他的網站。 建議您可以至該網站的帳戶設定中更換,另一組新密碼。 您可以藉由 LastPass 的工具為您的帳戶建立獨特且高強度的密碼,接著將此變更儲存至該網站與 LastPass 裡。"
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass 已經填入您的登入資料至這個網頁的表格上."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass 已經安裝完畢！當您安裝 LastPass 至其他電腦上您就不必再次重覆這個步驟，您很輕鬆的就能登入。不要將您的主密碼告訴任何人，包括 LastPass 員工，我們決不會要求您提供！LastPass 將您敏感的資料加密存在您電腦裡，所以即使 LastPass  員工也無法存取它。當您要幫助時按一下 LastPass 圖示,按一下說明。"
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass 是最後一個您必須記住的密碼。如果您第一次使用 LastPass，您只需要花幾分鐘的時間來設定您的帳號。您可以在任何其他個人電腦使用此帳號，必且始終保持您的個人資料同步。按一下 [建立帳號] 來開始。"
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "由於一個重大變更，LastPass必須重新加密您所有資料。"
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "電話號碼的最後 4 位數字"
+   },
+   "Last_Name2": {
+      "message": "姓氏 2"
+   },
+   "Last_Touch": {
+      "message": "上次登入"
+   },
+   "Last_name": {
+      "message": "姓"
+   },
+   "Latvia": {
+      "message": "拉脫維亞"
+   },
+   "Launch": {
+      "message": "啟動"
+   },
+   "Lebanon": {
+      "message": "黎巴嫩"
+   },
+   "Left": {
+      "message": "向左"
+   },
+   "Lesotho": {
+      "message": "萊索托"
+   },
+   "Liberia": {
+      "message": "利比里亞"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "阿拉伯利比亞民眾國"
+   },
+   "License_Class": {
+      "message": "授權類別"
+   },
+   "License_Key": {
+      "message": "授權金鑰"
+   },
+   "Liechtenstein": {
+      "message": "列支敦士登"
+   },
+   "Link_Personal_Account": {
+      "message": "連接個人賬戶"
+   },
+   "Lithuania": {
+      "message": "立陶宛"
+   },
+   "Local": {
+      "message": "本機"
+   },
+   "Log_into_a_Site": {
+      "message": "登入到網站"
+   },
+   "LoggedInOffline": {
+      "message": "LastPass 無法連接到登錄伺服器，所以您現在是離線模式。\n\n有些功能可能會受到限制。"
+   },
+   "Login": {
+      "message": "登入"
+   },
+   "LoginError": {
+      "message": "登入錯誤，請再試一次。"
+   },
+   "Login_to_LastPass": {
+      "message": "登入 LastPass"
+   },
+   "Logoff": {
+      "message": "登出"
+   },
+   "Logoff_": {
+      "message": "登出："
+   },
+   "LoseChanges": {
+      "message": "您確定要修改此網站的欄位？這樣做會失去您對本網站所做的任何變更！"
+   },
+   "LoseChangesApp": {
+      "message": "您確定要編輯此應用程式的欄位？這樣做會使您失去您對本程式的任何變更！"
+   },
+   "Luxembourg": {
+      "message": "盧森堡"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "澳門"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "馬其頓，前南斯拉夫共和國"
+   },
+   "Madagascar": {
+      "message": "馬達加斯加"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "馬加丹，所羅門群島，新喀里多尼亞群島，海參崴"
+   },
+   "Malawi": {
+      "message": "馬拉維"
+   },
+   "Malaysia": {
+      "message": "馬來西亞"
+   },
+   "Maldives": {
+      "message": "馬爾代夫"
+   },
+   "Male": {
+      "message": "男性"
+   },
+   "Mali": {
+      "message": "馬里"
+   },
+   "Malta": {
+      "message": "馬爾他"
+   },
+   "Manage_Shared_Folders": {
+      "message": "管理分享資料夾"
+   },
+   "March": {
+      "message": "3 月"
+   },
+   "Marshall_Islands": {
+      "message": "馬紹爾群島"
+   },
+   "Martinique": {
+      "message": "馬提尼克島"
+   },
+   "Master_Password": {
+      "message": "主要密碼"
+   },
+   "Matching_Sites": {
+      "message": "符合條件的網站"
+   },
+   "Mauritania": {
+      "message": "毛里塔尼亞"
+   },
+   "Mauritius": {
+      "message": "毛里求斯"
+   },
+   "Maxthon": {
+      "message": "Maxthon瀏覽器"
+   },
+   "May": {
+      "message": "5 月"
+   },
+   "Mayotte": {
+      "message": "馬約特"
+   },
+   "Member_ID": {
+      "message": "會員帳號"
+   },
+   "Member_Name": {
+      "message": "會員名稱"
+   },
+   "Membership": {
+      "message": "會員"
+   },
+   "Membership_Number": {
+      "message": "會員號碼"
+   },
+   "Meta": {
+      "message": "詮釋資料"
+   },
+   "Mexico": {
+      "message": "墨西哥"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "密克羅尼西亞聯邦"
+   },
+   "Mid_Atlantic": {
+      "message": "中大西洋"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "電話號碼的中間 3 位數字"
+   },
+   "Middle_name": {
+      "message": "中間名字"
+   },
+   "Midway_Island__Samoa": {
+      "message": "中途島，薩摩亞"
+   },
+   "Minimum_Digit_Count": {
+      "message": "最少數字數目"
+   },
+   "Mobile_Email_Address": {
+      "message": "移動電子郵件位址"
+   },
+   "Mobile_number": {
+      "message": "手機號碼"
+   },
+   "Moldova__Republic_Of": {
+      "message": "摩爾多瓦共和國"
+   },
+   "Monaco": {
+      "message": "摩納哥"
+   },
+   "Mongolia": {
+      "message": "蒙古"
+   },
+   "Montenegro": {
+      "message": "黑山"
+   },
+   "Montserrat": {
+      "message": "蒙特塞拉特"
+   },
+   "More": {
+      "message": "更多"
+   },
+   "More_Information": {
+      "message": "更多訊息"
+   },
+   "More_Options": {
+      "message": "更多選項"
+   },
+   "Morocco": {
+      "message": "摩洛哥"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "山地時間 (美國和加拿大)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "移動所選擇的到群組"
+   },
+   "Move_to_Group": {
+      "message": "移至群組"
+   },
+   "Move_to_Sub_Group": {
+      "message": "移到次群組"
+   },
+   "Mozambique": {
+      "message": "莫三比克"
+   },
+   "Mr": {
+      "message": "先生"
+   },
+   "Mrs": {
+      "message": "夫人"
+   },
+   "Ms": {
+      "message": "女士"
+   },
+   "Multifactor_Authentication": {
+      "message": "多重因素身份驗證"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "我的帳戶"
+   },
+   "My_LastPass_Vault": {
+      "message": "LastPass 密碼資料庫"
+   },
+   "Myanmar": {
+      "message": "緬甸"
+   },
+   "NAME": {
+      "message": "姓名"
+   },
+   "Name_": {
+      "message": "姓名："
+   },
+   "Name_on_card": {
+      "message": "信用卡持有人姓名"
+   },
+   "Nameproper": {
+      "message": "姓名"
+   },
+   "Namibia": {
+      "message": "納米比亞"
+   },
+   "Nationality": {
+      "message": "國籍"
+   },
+   "Nauru": {
+      "message": "瑙魯"
+   },
+   "Nepal": {
+      "message": "尼泊爾"
+   },
+   "Netherlands": {
+      "message": "荷蘭"
+   },
+   "Netherlands_Antilles": {
+      "message": "荷屬安的列斯"
+   },
+   "Never": {
+      "message": "未使用"
+   },
+   "Never_Add_Site": {
+      "message": "停用新增網站"
+   },
+   "Never_AutoFill": {
+      "message": "停用自動填入"
+   },
+   "Never_AutoLogin": {
+      "message": "停用自動登入"
+   },
+   "Never_Fill_Forms": {
+      "message": "停用填寫表格"
+   },
+   "Never_For_This_Domain": {
+      "message": "此網域停用"
+   },
+   "Never_Generate_Password": {
+      "message": "停用建立密碼"
+   },
+   "Never_Show_Again": {
+      "message": "永遠不要再顯示"
+   },
+   "Never_Show_Context_Icons": {
+      "message": "不顯示右鍵選單圖示"
+   },
+   "Never___": {
+      "message": "永不…"
+   },
+   "New_Caledonia": {
+      "message": "新喀裡多尼亞"
+   },
+   "New_Master_Password": {
+      "message": "新的主密碼"
+   },
+   "New_Zealand": {
+      "message": "紐西蘭"
+   },
+   "Newfoundland": {
+      "message": "紐芬蘭"
+   },
+   "Next_SMS_passcode_starts_with": {
+      "message": "下一封簡訊將開始於"
+   },
+   "Nicaragua": {
+      "message": "尼加拉瓜"
+   },
+   "Niger": {
+      "message": "尼日爾"
+   },
+   "Nigeria": {
+      "message": "尼日利亞"
+   },
+   "Niue": {
+      "message": "紐埃"
+   },
+   "No": {
+      "message": "否"
+   },
+   "No_Matching_Sites_": {
+      "message": "找不到符合網站"
+   },
+   "No_Thanks": {
+      "message": "不，謝謝"
+   },
+   "No_Updates_Are_Available": {
+      "message": "沒有可用的更新"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "發現這台電腦上沒有 Wi-Fi 路由器。此功能需要 Wi-Fi 路由器。"
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "不，我不想 LastPass 幫我自動填寫表格"
+   },
+   "No__Save_as_New_Entry": {
+      "message": "不，儲存為「新項目」"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "不，不匯入任何不安全的資料"
+   },
+   "No_matches_found__Please_search_again_": {
+      "message": "未找到搜尋目標。請再次搜尋。"
+   },
+   "None_Available": {
+      "message": "無法使用"
+   },
+   "Norfolk_Island": {
+      "message": "諾福克島"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "北馬里亞納群島"
+   },
+   "Norway": {
+      "message": "挪威"
+   },
+   "Norwegian": {
+      "message": "挪威語"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "新挪威語"
+   },
+   "Not_Now": {
+      "message": "現在不要"
+   },
+   "Note_Type": {
+      "message": "備註類型"
+   },
+   "Notes": {
+      "message": "備註"
+   },
+   "Notes_": {
+      "message": "備註:"
+   },
+   "Notifications": {
+      "message": "通知"
+   },
+   "November": {
+      "message": "11 月"
+   },
+   "Nuku_alofa": {
+      "message": "努庫阿洛法"
+   },
+   "Number": {
+      "message": "號碼"
+   },
+   "Number_of_Licenses": {
+      "message": "授權數量"
+   },
+   "OK": {
+      "message": "確認"
+   },
+   "October": {
+      "message": "10 月"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "提供產生安全的密碼"
+   },
+   "Old_Password": {
+      "message": "舊密碼"
+   },
+   "Oman": {
+      "message": "阿曼"
+   },
+   "One_Time_Passwords": {
+      "message": "一次性密碼"
+   },
+   "Open_All": {
+      "message": "全部開啟"
+   },
+   "Open_Dashlane___File___Export___CSV___Import_the_resulting_file_": {
+      "message": "開啟 Dashlane - 檔案 - 匯出 - CSV。匯入生成的檔案。"
+   },
+   "Open_Favorites": {
+      "message": "開啟我的最愛"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "開啟我 LastPass 資料庫"
+   },
+   "Open_New_Pages_in": {
+      "message": "開啟新頁面在"
+   },
+   "Open_Popover": {
+      "message": "開啟 Popover"
+   },
+   "Open_Security_Check": {
+      "message": "開啟安全性檢測"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "開啟 Sticky Password - 管理資料庫 - 匯出 - 匯出為文字。匯入該檔案。"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "啟動瀏覽器時打開登入對話框"
+   },
+   "Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "開啟以調整您建立的密碼。"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Opera 密碼管理器"
+   },
+   "Or__would_you_like_LastPass_to_save_a_new_user_password_for_this_site_": {
+      "message": "或者您是想讓 LastPass 為此網站儲存一個新的使用者名稱與密碼組合嗎？"
+   },
+   "Order_Number": {
+      "message": "訂單號碼"
+   },
+   "Order_Total": {
+      "message": "訂單總計"
+   },
+   "Organization": {
+      "message": "組織"
+   },
+   "Other": {
+      "message": "其他"
+   },
+   "Other_Sessions": {
+      "message": "其他的連線"
+   },
+   "PASSWORDupper": {
+      "message": "密碼"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Password Manager"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "太平洋時間 (美國和加拿大)"
+   },
+   "Page_Down": {
+      "message": "下一頁"
+   },
+   "Page_Up": {
+      "message": "上一頁"
+   },
+   "Pakistan": {
+      "message": "巴基斯坦"
+   },
+   "Palau": {
+      "message": "帕勞"
+   },
+   "Palestinian_Territories": {
+      "message": "巴勒斯坦領土"
+   },
+   "Panama": {
+      "message": "巴拿馬"
+   },
+   "Papua_New_Guinea": {
+      "message": "巴布亞新幾內亞"
+   },
+   "Paraguay": {
+      "message": "巴拉圭"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passphrase": {
+      "message": "通行碼"
+   },
+   "Passport": {
+      "message": "護照"
+   },
+   "Password": {
+      "message": "密碼"
+   },
+   "Password_": {
+      "message": "密碼:"
+   },
+   "Password_Agent": {
+      "message": "密碼管理程式"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Password Depot"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "密碼長度"
+   },
+   "Password_Length_": {
+      "message": "密碼長度"
+   },
+   "Password_Reminder": {
+      "message": "密碼提示"
+   },
+   "Password_Safe": {
+      "message": "密碼安全"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "密碼提示與此密碼不相符"
+   },
+   "Password_updated_": {
+      "message": "密碼更新！"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "個人"
+   },
+   "Peru": {
+      "message": "秘魯"
+   },
+   "Philippines": {
+      "message": "菲律賓"
+   },
+   "Phone_number": {
+      "message": "電話號碼"
+   },
+   "Physician_Address": {
+      "message": "醫師地址"
+   },
+   "Physician_Name": {
+      "message": "醫生姓名"
+   },
+   "Physician_Phone": {
+      "message": "醫師電話"
+   },
+   "Pin": {
+      "message": "Pin 碼"
+   },
+   "Pitcairn": {
+      "message": "皮特凱恩"
+   },
+   "Please_Make_a_Selection": {
+      "message": "請選擇"
+   },
+   "Please_Wait___": {
+      "message": "請稍候..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "請回答以下問題："
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "請選擇您希望匯出的類型："
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "請選擇您想要的列印類型："
+   },
+   "Please_close_this_window": {
+      "message": "請關閉此視窗"
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "請完成您的手機或智慧裝置上的多重要素驗證。"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "請輸入密碼提示"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "請輸入要匯入的檔案的完整路徑。"
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "請保持該頁面開啟直到操作完成。"
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "在同一時間內只能從一個分享資料夾中移動網站。"
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "請注意，從 LastPass Local 升級到 LastPass Online 您的密碼將被上傳到具有加密格式的 LastPass 伺服器。您將能夠從任何地方取得您的資料，並且 LastPass 將無法讀取它。您想繼續嗎？"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "請給這台電腦一個名稱"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "請重新載入頁面來查看更改。"
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "請重新啟動所有瀏覽器再使用 LastPass Online。"
+   },
+   "Please_select": {
+      "message": "請選擇"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "請選擇要套用此變更的網站。"
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "請瀏覽 https://lastpass.com 網頁並稍後建立一個帳號."
+   },
+   "Poland": {
+      "message": "波蘭"
+   },
+   "Policy_Number": {
+      "message": "保單號碼"
+   },
+   "Policy_Type": {
+      "message": "策略類型"
+   },
+   "Polish": {
+      "message": "波蘭文"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "每隔多久上傳一次帳號更新 (分鐘)"
+   },
+   "Port": {
+      "message": "埠碼"
+   },
+   "Portugal": {
+      "message": "葡萄牙"
+   },
+   "Portuguese": {
+      "message": "葡萄牙文"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "葡萄牙語 (巴西)"
+   },
+   "Preferences": {
+      "message": "偏好"
+   },
+   "Price": {
+      "message": "價格"
+   },
+   "Print": {
+      "message": "列印"
+   },
+   "Print_Screen": {
+      "message": "列印頁面"
+   },
+   "Print_Secure_Notes": {
+      "message": "列印安全註記"
+   },
+   "Print_Sites": {
+      "message": "列印網站"
+   },
+   "Private_Key": {
+      "message": "私密金鑰"
+   },
+   "Profile": {
+      "message": "個人資料"
+   },
+   "Profile_language": {
+      "message": "設定檔語言"
+   },
+   "Profile_name": {
+      "message": "設定檔名稱"
+   },
+   "Pronounceable": {
+      "message": "拼讀"
+   },
+   "Protected": {
+      "message": "被保護"
+   },
+   "Public_Key": {
+      "message": "公共密鑰"
+   },
+   "Publisher": {
+      "message": "出版商"
+   },
+   "Puerto_Rico": {
+      "message": "波多黎各"
+   },
+   "Purchase_Date": {
+      "message": "購買日期"
+   },
+   "Qatar": {
+      "message": "卡塔爾"
+   },
+   "Re_enter_Password": {
+      "message": "重新輸入密碼"
+   },
+   "Recent_Sites": {
+      "message": "最近網站"
+   },
+   "Recently_Used": {
+      "message": "最近使用"
+   },
+   "Recently_Used_list_size": {
+      "message": "目前使用列表大小"
+   },
+   "Recheck_Page": {
+      "message": "再檢查一次網站"
+   },
+   "Reencrypting_Data___": {
+      "message": "重新加密數據..."
+   },
+   "Refresh": {
+      "message": "重新整理"
+   },
+   "Refresh_Sites": {
+      "message": "重新載入網站"
+   },
+   "Reject": {
+      "message": "不接受"
+   },
+   "Remember_Email": {
+      "message": "記住電子郵件"
+   },
+   "Remember_Password": {
+      "message": "記住密碼"
+   },
+   "Remove_Personal_Account": {
+      "message": "刪除個人帳戶"
+   },
+   "Rename_Group": {
+      "message": "重新命名群組"
+   },
+   "Replace_Existing_Site": {
+      "message": "取代現存網站"
+   },
+   "Request_failed__is_your_Internet_connection_down_": {
+      "message": "請求失敗；是不是您的連線中斷了？"
+   },
+   "Require_All_Character_Type": {
+      "message": "要求所有字元類型"
+   },
+   "Require_All_Character_Types": {
+      "message": "要求所有字元類型"
+   },
+   "Require_Every_Character_Type": {
+      "message": "需要所有字元類型"
+   },
+   "Require_Password_Reprompt": {
+      "message": "需要密碼重新提示"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "何時需要安全提示："
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "維持 自動完成 = 關閉。允許網站關閉自動填入"
+   },
+   "Reunion": {
+      "message": "團圓"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "Right": {
+      "message": "向右"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "羅馬尼亞"
+   },
+   "Routing_number": {
+      "message": "路由號碼"
+   },
+   "Run_the_Google_Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "在您的智慧裝置上執行 Google Authenticator 應用程式並輸入其顯示的驗證碼於底下的輸入框中。"
+   },
+   "Russian": {
+      "message": "俄羅斯文"
+   },
+   "Russian_Federation": {
+      "message": "俄羅斯聯邦"
+   },
+   "Rwanda": {
+      "message": "盧安達"
+   },
+   "SID": {
+      "message": "SID 碼"
+   },
+   "SITE": {
+      "message": "網站"
+   },
+   "SMTP_Port": {
+      "message": "SMTP 埠"
+   },
+   "SMTP_Server": {
+      "message": "SMTP 伺服器"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Wallet"
+   },
+   "SSH_Key": {
+      "message": "SSH Key"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT 代碼"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safari 密碼管理器"
+   },
+   "Saint_Barthelemy": {
+      "message": "聖巴泰勒米"
+   },
+   "Saint_Helena": {
+      "message": "聖海倫娜"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "聖基茨和尼維斯"
+   },
+   "Saint_Lucia": {
+      "message": "聖盧西亞"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "聖馬丁 (法國部分)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "聖皮埃爾和密克隆島"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "聖文森特和格林納丁斯"
+   },
+   "Samoa": {
+      "message": "薩摩亞"
+   },
+   "San_Marino": {
+      "message": "聖馬力諾"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "聖多美和普林西"
+   },
+   "Saudi_Arabia": {
+      "message": "沙烏地阿拉伯"
+   },
+   "Save": {
+      "message": "儲存"
+   },
+   "Save_All_Entered_Data": {
+      "message": "儲存已填入資料"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "儲存信用卡資料"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "儲存填表個人資料"
+   },
+   "Save_New_Site": {
+      "message": "儲存新網頁"
+   },
+   "Save_Password_to_Vault": {
+      "message": "儲存密碼至密碼庫"
+   },
+   "Save_Password_to_Vault_": {
+      "message": "儲存密碼至密碼庫嗎？"
+   },
+   "Save_Site": {
+      "message": "儲存網站"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "製作一次性密碼(OTP)來回復您的帳號"
+   },
+   "Save_the_password_to_your_LastPass_Vault_": {
+      "message": "儲存此密碼至您的 LastPass 密碼庫嗎？"
+   },
+   "Save_this_password_as_a_new_entry": {
+      "message": "儲存此密碼為新項目"
+   },
+   "Save_this_password_as_a_new_entry_": {
+      "message": "在一個新項目中儲存此密碼？"
+   },
+   "Save_this_website_into_your_LastPass_Vault_": {
+      "message": "儲存網站至您的 LastPass 密碼庫！"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "儲存您的變更並且關閉該視窗"
+   },
+   "Save_your_password_to_your_LastPass_Vault_": {
+      "message": "儲存您的密碼至您的 LastPass 密碼庫嗎？"
+   },
+   "Screen_Keyboard": {
+      "message": "螢幕鍵盤"
+   },
+   "Search_All_Data": {
+      "message": "搜尋所有資料"
+   },
+   "Search_All_Groups": {
+      "message": "搜尋所有群組"
+   },
+   "Search_All_Notes": {
+      "message": "搜尋所有筆記"
+   },
+   "Search_All_Sites": {
+      "message": "搜尋所有網站"
+   },
+   "Search_LastPass_Vault": {
+      "message": "搜尋 LastPass 的密碼庫"
+   },
+   "Search_Vault": {
+      "message": "搜尋資料庫"
+   },
+   "Search_within_secure_notes": {
+      "message": "在安全註記的範圍內搜尋"
+   },
+   "Searchproper": {
+      "message": "搜尋"
+   },
+   "Secure_Notes": {
+      "message": "安全備註"
+   },
+   "Security": {
+      "message": "安全性"
+   },
+   "Security_Check": {
+      "message": "安全檢查"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "安全問題多因素身份驗證"
+   },
+   "Security_code": {
+      "message": "驗證碼"
+   },
+   "Select": {
+      "message": "選擇"
+   },
+   "Select_All": {
+      "message": "全選"
+   },
+   "Select_a_group_in_your_LastPass_Vault_to_place_this_website___Optional_": {
+      "message": "選取您的 LastPass 密碼庫中的群組以放置到此網站中。[選擇性]"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "選擇或輸入新的群組名稱"
+   },
+   "Send_SMS_passcodes": {
+      "message": "傳送簡訊驗證碼"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "傳送匿名錯誤報告的資料,以協助 LastPass 改善"
+   },
+   "Senegal": {
+      "message": "塞內加爾"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "首爾，大阪，札幌，東京，伊爾庫次克"
+   },
+   "September": {
+      "message": "9 月"
+   },
+   "Serbia": {
+      "message": "塞爾維亞"
+   },
+   "Server": {
+      "message": "伺服器"
+   },
+   "SesameWrongButton": {
+      "message": "當在離線狀態時要檢視您的資料時，必須執行 Sesame 並且使用「複製離線密碼」按鈕而不是「產生一次性密碼」按鈕。"
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame 多要素驗證"
+   },
+   "Sessions": {
+      "message": "工作階段"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "設定自訂表單欄位"
+   },
+   "Settings": {
+      "message": "設定"
+   },
+   "Sex": {
+      "message": "性別"
+   },
+   "Seychelles": {
+      "message": "塞舌爾"
+   },
+   "Share": {
+      "message": "分享"
+   },
+   "Share_Selected": {
+      "message": "分享所選擇的"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "與其他瀏覽器分享登入狀態"
+   },
+   "Share_offer_from": {
+      "message": "分享提供表格"
+   },
+   "Shares": {
+      "message": "共享"
+   },
+   "Shift": {
+      "message": "Shift 鍵"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "是否讓 LastPass 記住這個密碼?"
+   },
+   "Show": {
+      "message": "顯示"
+   },
+   "Show_Advanced_Options": {
+      "message": "顯示進階選項"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "顯示變更密碼通知列"
+   },
+   "Show_Deleted_Sites": {
+      "message": "顯示刪除網站"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "顯示填寫通知列"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "顯示填表通告"
+   },
+   "Show_Matching_Sites_Count_in_Toolbar": {
+      "message": "工具列上顯示符合的網站數量"
+   },
+   "Show_Matching_Sites_in_top_level_menu": {
+      "message": "最上層選單顯示符合的網站"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "登入後顯示我 LastPass 的密碼資料庫"
+   },
+   "Show_Notifications": {
+      "message": "顯示通知"
+   },
+   "Show_Password": {
+      "message": "顯示密碼"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "顯示儲存網站通知列"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "顯示儲存網站通知"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "以群組顯示網站"
+   },
+   "Show_Vault_After_Login": {
+      "message": "登錄後顯示控制面板"
+   },
+   "Show_all_sites": {
+      "message": "顯示所有網站"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "按一下滑鼠後才會顯示某些通告"
+   },
+   "Show_or_Hide_Password": {
+      "message": "顯示或隱藏密碼"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "顯示另一個自訂欄位項目"
+   },
+   "Sierra_Leone": {
+      "message": "塞拉利昂"
+   },
+   "Sign_In": {
+      "message": "登入"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "簡化您的生活：使用 LastPass 自動在這個網站輸入登入資料！"
+   },
+   "Singapore": {
+      "message": "新加坡"
+   },
+   "Site_Search": {
+      "message": "網站搜尋"
+   },
+   "Sites": {
+      "message": "網站"
+   },
+   "Slovak": {
+      "message": "斯洛伐克"
+   },
+   "Slovakia": {
+      "message": "斯洛伐克"
+   },
+   "Slovenia": {
+      "message": "斯洛維尼亞"
+   },
+   "Social_Security": {
+      "message": "身分證號碼"
+   },
+   "Social_security_number": {
+      "message": "身分證字號"
+   },
+   "Software_License": {
+      "message": "軟體授權"
+   },
+   "Solomon_Islands": {
+      "message": "索羅門群島"
+   },
+   "Somalia": {
+      "message": "索馬利亞"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "很抱歉，這個共用資料夾是唯讀的"
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "對不起，您不能同時對共享和非共享資料夾執行此操作，或一次對多個共享資料夾執行操作。"
+   },
+   "Source_": {
+      "message": "來源："
+   },
+   "South_Africa": {
+      "message": "南非"
+   },
+   "South_Georgia": {
+      "message": "南喬治亞"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "南喬治亞島和南桑威奇群島"
+   },
+   "Spain": {
+      "message": "西班牙"
+   },
+   "Spanish": {
+      "message": "西班牙文"
+   },
+   "Spanish__Mexico_": {
+      "message": "西班牙語 (墨西哥)"
+   },
+   "Special": {
+      "message": "特別"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "斯里蘭卡"
+   },
+   "Start_date": {
+      "message": "開始日期"
+   },
+   "State": {
+      "message": "國家"
+   },
+   "State___Province": {
+      "message": "州/省"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "傳送表格"
+   },
+   "Submitting___": {
+      "message": "傳送中..."
+   },
+   "Sudan": {
+      "message": "蘇丹"
+   },
+   "Support_Email": {
+      "message": "支援電子郵件"
+   },
+   "Suriname": {
+      "message": "蘇利南"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "若被選取的檔案名稱中含有可疑字元，將不會對其進行處理"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "斯瓦爾巴群島和揚馬延島"
+   },
+   "Swaziland": {
+      "message": "斯威士蘭"
+   },
+   "Sweden": {
+      "message": "瑞典"
+   },
+   "Swedish": {
+      "message": "瑞典文"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "驗證目前使用者的指紋"
+   },
+   "Swipe_finger": {
+      "message": "輕掃手指"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "掃描指紋"
+   },
+   "Switzerland": {
+      "message": "瑞士"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "阿拉伯敘利亞共和國"
+   },
+   "Tabs": {
+      "message": "分頁"
+   },
+   "Taiwan": {
+      "message": "台灣"
+   },
+   "Tajikistan": {
+      "message": "塔吉克斯坦"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "坦桑尼亞聯合共和國"
+   },
+   "Tehran": {
+      "message": "德黑蘭"
+   },
+   "Telephone": {
+      "message": "電話"
+   },
+   "Tell_a_friend_": {
+      "message": "與您的朋友分享！"
+   },
+   "Text": {
+      "message": "文字"
+   },
+   "Text_to_find": {
+      "message": "尋找文字"
+   },
+   "Thailand": {
+      "message": "泰國"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "該檔案遺失或空白。請輸入要匯入檔案的完整路徑。"
+   },
+   "That_group_already_exists_": {
+      "message": "該群組已存在。"
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "信用卡 4 位數的發卡年份"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "沒有在這台電腦偵測到 LastPass 的 Wi-Fi 工具。您想要執行 LastPass Universal Installer 來安裝它嗎？"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "您重新輸入的 LastPass 主密碼是錯的"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "您輸入的舊密碼不是正確的"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "此操作需要二進位制版本的 LastPass 外掛程式。它可以直接從 lastpass.com 網站下載。"
+   },
+   "The_credit_card_number": {
+      "message": "信用卡號碼"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "信用卡的 4 位數到期年份"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "信用卡的到期月份"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "信用卡的發行號碼。\n只適用於某些歐洲品牌的記帳卡，如 Maestro 卡。"
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "信用卡的安全密碼.\n對於大多數信用卡，這是印在卡片背面的最後 3 位數的號碼。\n對於美國運通信用卡，它是印在卡片正面的最後 4 位數字的小型印字。"
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "印在信用卡上的完整的名稱"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "本填表個人資料將被用於這種語言的網站"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "信用卡發行月份"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "這個填表個人資料的名字"
+   },
+   "The_name_of_your_bank": {
+      "message": "您的銀行的名稱"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "資料超量。每個註解只可儲存 45,000 個字元。\n\n超過的資料將會被捨棄，確定嗎？"
+   },
+   "The_number_of_characters_in_the_generated_password_": {
+      "message": "已建立密碼字元中的數字。"
+   },
+   "The_password_that_you_use_to_log_into_this_website_": {
+      "message": "您登入到該網站的密碼。"
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "文字包括表單欄位名稱，或表單欄位 ID 會被填寫。\n如果多個項目都是相符的，則在單獨的行中指定出每一個相符項目。"
+   },
+   "The_value_to_be_filled": {
+      "message": "該值必須填寫"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "您目前正在執行的 Chrome 版本沒有啟用 HTML5 資料庫支援。因此，這個登錄頁面不會記住您的電子信件位址和密碼，以及其他如重新啟動瀏覽器自動登錄功能將無法工作。"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "您目前執行的瀏覽器的版並本不支援 HTML5 的資料庫。因此，這個登入畫面將不會儲存你的電子郵件和密碼，以及其他功能，如瀏覽器的自動登入將無法運作。您可以添加 --enable-databases 參數至 Google Chrome 瀏覽器的捷徑來解決這個問題。"
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "此附件需要先儲存。"
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "這只能從網頁來處理"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "這是可信任的電腦，不需要再次驗証。"
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "本功能並不適用於此版本。請造訪 https://lastpass.com/dl 安裝二進制附加元件"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "此功能需要在這個瀏覽器擴充的二進制版本。您想現在安裝？"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "該功能需要在生效後，方可直接讀取"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "這是一個分享的網站。您不能檢視密碼。"
+   },
+   "This_is_the_name_or_URL_of_this_web_page_": {
+      "message": "這是本網頁的名稱或網址。"
+   },
+   "This_may_take_a_while___": {
+      "message": "這可能需要一段時間..."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "此頁面無法正確的開啟。請確認您正使用最新版本的 Maxthon 瀏覽器( LastPass 需要在最新的4.0.3.2000 版本中運行)。\n有可能此錯誤是由 Maxthon 瀏覽器中的漏洞所引發。 請重新開啟該頁面。"
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "此頁面無法正確的開啟。請確認您正使用最新版本的 Maxthon 瀏覽器( LastPass 需要在最新的4.0.3.3000 版本中運行)。\n有可能此錯誤是由 Maxthon 瀏覽器中的漏洞所引發。 請重新開啟該頁面。"
+   },
+   "This_password_you_use_to_log_into_this_website_": {
+      "message": "您使用這個密碼登入到此網站。"
+   },
+   "Time_Zone": {
+      "message": "時區"
+   },
+   "Timor_Leste": {
+      "message": "東帝汶"
+   },
+   "Title": {
+      "message": "標題"
+   },
+   "To_create_your_account__please_re_enter_your_LastPass_master_password": {
+      "message": "為了建立您的帳號，請重新輸入您的 LastPass 主密碼。"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "若要匯出 1Password 登錄，登錄到 1Password。全部選擇或是您要匯出的密碼。然後選擇：「File menu / Export All / Text file... 」或「File menu / Export Selected / Text file...」按一下 [匯出] 按鈕，儲存密碼檔，並匯入產生的檔案。"
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "要匯出 Clipperz cards 的資料，請於登入後執行 data>Export>Export to JSON。複製全部文字並另存成文字檔即可匯入。其中任何的內容更動皆可能導致此動作失敗。"
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "要匯出 FireForm 資料，以右鍵按一下 FireForm 圖示，然後選擇「快速設定」。切換到「一般」標籤上，按一下「匯出所有 FireForm 資料」，將檔案存成 .XML 格式即可。"
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "要從 HP Password Safe 匯出，請先儲存為一個 HTML 檔案，然後匯入產生的檔案。"
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "開啟 KeePass，開啟您的 KeePass 資料庫，按一下檔案 - 匯出 - XML​​檔案。選擇檔案位置，然後按「儲存」按鈕。然後，按「確定」按鈕。匯入產生的檔案。"
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "開啟安裝有 LastPass 的瀏覽器，按一下 LastPass - 工具 - 匯出到 - CSV 檔案。選擇一個檔案路徑並按一下儲存。匯入產生的檔案。"
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "開啟您的 Password Agent 資料庫，按一下檔案 - 列印和匯出 - 變更輸出格式為 XML 檔案，確保以選取'群組'。選擇一個檔案路徑並按一下儲存。匯入產生的檔案。"
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "要匯出 Passwords Max 的密碼，按一下檔案 - 資料庫 - 匯出 - 文字。按一下確定，並儲存為 CSV 檔案。匯入產生的檔案。"
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "要匯出 RoboForm 的登錄資料，按一下 RoboForm 上的登錄最後找到匯出列表，按下完整的 URL 複選框然後按下儲存按鈕，最後匯出登錄資料。\n\n要匯出 RoboForm 的安全標註，按一下 RoboForm 上的安全標註 -> 列印清單。按下儲存按鈕。匯入產生的檔案。\n\n要匯出 RoboForm 的身份資訊，按一下 RoboForm 上的身份資訊 -> 列印清單。按下儲存按鈕。匯入產生的檔案。"
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "要匯出 eWallet 的銀行卡資訊，選擇 eWallet - 工具 - 匯出，然後以文字格式儲存並匯出。"
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "要從 MyPasswordSafe 匯出，按一下檔案 - 另存為 - 未加密的 XML - 儲存該檔案。匯入產生的檔案。"
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "要從 Password Safe 匯出，按一下檔案 - 匯出 - XML - 儲存該檔案。匯入產生的檔案。"
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "要匯出密碼，登錄到桌面的應用程式和檔案 - 匯出 - CSV - 所有項目，匯入產生的檔案。"
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "要從 Darn! Passwords! 匯出密碼，按一下 工具 - 匯出，選擇設定，然後選取「在匯出中包含註解」，最後按一下匯出，選取看起來像一個藍色磁碟的圖示。選取該檔案，然後按一下開啟並匯出檔案。"
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "匯出密碼 Passpack: 登入，點選 [工具]，按一下[匯出]。您想以何種格式匯出？選擇以逗號分開的數值。哪些項目您想匯出？選擇全部項目，然後按下 [繼續]。在下個畫面選擇所有文字，複製到剪貼簿，以記事本建立一個新檔案並命名為 passpack.csv，將剪貼簿的內容貼上到這個檔案。匯入此檔案。"
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "要匯出 Password Corral 的密碼，選擇：登錄，找到檔案選單 - 匯出密碼 - 建立一個明文密碼的匯出，匯入此檔案。"
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "要匯出 Password Depot 密碼，請按一下「工具」標籤，點擊「匯出」。選擇「可擴展標記語言格式 (*.xml)」，指定目的檔案，並選擇您要匯出的資料夾。"
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "要匯出 Password Dragon 的密碼：登錄，選擇檔案選單 - 匯出 - 文字檔案，檢查「密碼」選項，確保它預設關閉，最後匯入儲存的檔案。"
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "要匯出 Revelation Password Manager 的密碼，請匯出資料為 XML 格式。"
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "要匯出 SPB Wallet 的密碼，開啟錢包，按一下檔案 - 匯出，選擇檔案的儲存位置，按一下「儲存」。然後，貼上資料到這個頁面上的框中。"
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "要開始使用 LastPass，您需要將網站新增到您的帳號。"
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "匯入 Wi-Fi 密碼，只需點擊匯入下列內容。"
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "要匯出 PINs Password Manager 的資料，請從 Separated format 頁籤中匯出檔案。然後匯入產生的檔案。"
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "從 Opera 密碼管理器中匯入密碼，僅需按一下下面的「匯入」。"
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "從 Safari 密碼管理器中匯入密碼，僅需按一下下面的「匯入」。"
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "要匯入 MSI PasswordKeeper 的登入資料，開啟該程式。按一下 [Txt] 然後 [開啟]。匯入所產生的檔案。"
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "要匯入您的密碼管理器登錄資料，開啟該程式，並要匯出的密碼檔案。按一下「檔案 - 匯出檔案，按一下「是」並輸入密碼，然後按一下確定，這將開啟一個標準的 Windows 儲存對話框，輸入檔案名稱和位置，匯入產生的檔案。"
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "要匯入 TurboPasswords 的登入資料，開啟該程式，選擇要匯出的密碼檔案。如果您想要限制匯出某一種特定類別或類型，使用視窗的類別和類型下拉式選單來篩選想要顯示的項目。按一下 [檔案] -> [匯出類別]。 這將開啟一個標準視窗的對話框「儲存」，輸入一個檔案名稱和位置，從儲存選單選擇以逗號分開的數值 (.csv) 儲存。"
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "為了保護您的隱私和讓您的資料保密，"
+   },
+   "Togo": {
+      "message": "多哥"
+   },
+   "Tokelau": {
+      "message": "托克勞"
+   },
+   "Tonga": {
+      "message": "東加"
+   },
+   "Tools": {
+      "message": "工具"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "特里尼達和多巴哥"
+   },
+   "Try_Again": {
+      "message": "再試一次"
+   },
+   "Tunisia": {
+      "message": "突尼斯"
+   },
+   "TurboPasswords": {
+      "message": "TurboPasswords"
+   },
+   "Turkey": {
+      "message": "土耳其"
+   },
+   "Turkmenistan": {
+      "message": "土庫曼斯坦"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "特克斯和凱科斯群島"
+   },
+   "Tutorials": {
+      "message": "教學課程"
+   },
+   "Tuvalu": {
+      "message": "吐瓦魯"
+   },
+   "Type": {
+      "message": "類型"
+   },
+   "Type_": {
+      "message": "類型："
+   },
+   "URL": {
+      "message": "網址"
+   },
+   "URL_": {
+      "message": "網址:"
+   },
+   "USERNAME": {
+      "message": "使用者名稱"
+   },
+   "Uganda": {
+      "message": "烏干達"
+   },
+   "Ukraine": {
+      "message": "烏克蘭"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "烏蘭巴托，伯斯"
+   },
+   "United_Arab_Emirates": {
+      "message": "阿拉伯聯合大公國"
+   },
+   "United_Kingdom": {
+      "message": "英國"
+   },
+   "United_States": {
+      "message": "美國"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "美國本土外小島嶼"
+   },
+   "Unknown": {
+      "message": "未知"
+   },
+   "Unselect_All": {
+      "message": "取消全部選擇"
+   },
+   "Up": {
+      "message": "向上"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "升級至 LastPass Online！"
+   },
+   "Uploading_Data___": {
+      "message": "上傳資料..."
+   },
+   "Uruguay": {
+      "message": "烏拉圭"
+   },
+   "Use": {
+      "message": "使用"
+   },
+   "Use_802_1X": {
+      "message": "使用 802.1x"
+   },
+   "Use_Password": {
+      "message": "使用密碼"
+   },
+   "Use_Special_Characters": {
+      "message": "使用特殊字元"
+   },
+   "Use_Special_Characters_": {
+      "message": "使用特殊字元？"
+   },
+   "Use_this_password_now__for_this_site__": {
+      "message": "立即使用此密碼嗎？（對於這個網站）"
+   },
+   "User_Manual": {
+      "message": "使用者手冊"
+   },
+   "User_name": {
+      "message": "使用者名稱"
+   },
+   "Username_": {
+      "message": "使用者名稱："
+   },
+   "Usernameproper": {
+      "message": "用戶名稱"
+   },
+   "Uzbekistan": {
+      "message": "烏茲別克斯坦"
+   },
+   "Value_to_fill": {
+      "message": "填入數值"
+   },
+   "Vanuatu": {
+      "message": "瓦努阿圖"
+   },
+   "Vault": {
+      "message": "資料庫"
+   },
+   "Venezuela": {
+      "message": "委內瑞拉"
+   },
+   "Version": {
+      "message": "版本"
+   },
+   "Version_": {
+      "message": "版本："
+   },
+   "Viet_Nam": {
+      "message": "越南"
+   },
+   "View_Image": {
+      "message": "檢視圖片"
+   },
+   "View_Passwords": {
+      "message": "檢視密碼"
+   },
+   "Virgin_Islands__British_": {
+      "message": "英屬維京群島"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "美屬維京群島"
+   },
+   "Wallis_and_Futuna": {
+      "message": "瓦利斯群島和富圖納群島"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "在填寫不安全表格時先警告"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "觀看基本使用教學影片"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "我們也不會保留一份拷貝或是備份的資料。"
+   },
+   "Weak_Password": {
+      "message": "低強度密碼"
+   },
+   "Website": {
+      "message": "網站"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "歡迎來到 LastPass！"
+   },
+   "West_Central_Africa": {
+      "message": "西中非"
+   },
+   "Western_Sahara": {
+      "message": "西撒哈拉"
+   },
+   "What_you_use_to_log_into_this_website_": {
+      "message": "您用什麼登入到該網站。"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "選取此框時，將至少包括一個小寫字元、一個大寫字元，以及一個特殊符號。"
+   },
+   "When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "選取此框時，將至少包括一個小寫字元、一個大寫字元，以及一個特殊符號。"
+   },
+   "When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "選取此框時，像是 # 和 ! 字元將在隨機產生時被使用。"
+   },
+   "When_this_box_is_checked__confusing_characters__1_I_L_0_O__are_not_used_": {
+      "message": "選取此框時，不使用容易混淆的字元 (1,I,L,0,O)。"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "選取此框時，產生一個易於朗讀的密碼。"
+   },
+   "When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "選取此框時，產生一個易於朗讀的密碼。"
+   },
+   "When_this_box_is_checked__potentially_confusing_characters__1_I_L_0_O__are_not_used": {
+      "message": "選取此框時，不使用可能造成混淆的字元 (1,I,L,0,O)"
+   },
+   "When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "選取此框時，在密碼中使用像是 # 和 ! 字元"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi 密碼"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi 密碼"
+   },
+   "Windows": {
+      "message": "視窗"
+   },
+   "Would_you_like_LastPass_to_generate_a_secure_password_for_you_": {
+      "message": "您想讓 LastPass 幫您產生一個安全的密碼嗎？"
+   },
+   "Would_you_like_LastPass_to_save_your_site_information_": {
+      "message": "您想讓 LastPass 幫您儲存您在網站的資訊嗎？"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "您想建立一個填表的個人資料嗎？"
+   },
+   "XML_Files": {
+      "message": "XML 檔案"
+   },
+   "Yangon__Rangoon_": {
+      "message": "仰光"
+   },
+   "Yemen": {
+      "message": "葉門"
+   },
+   "Yes": {
+      "message": "是"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "是的，讓我選擇我想要匯入到 LastPass 的項目"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "是的，讓我輸入和審查將使用於填表時的資料"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "您正在將網站由分享資料夾移除並設定為私人，其它人將不能再看到該網站。\n\n您想繼續嗎？"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "您正在將網站移動到另一個分享資料夾，這將可能影響存取權限。\n\n\n您想繼續嗎？"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "您正在移動網站到一個分享資料夾。這將可能使其他人也可以使用它們。\n\n您確定要繼續嗎？"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "同一功能不能設定過超過一組快捷鍵"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "您不能個別地移動分享網站到分享資料夾中。"
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "您目前有 LastPass 設定為記住您的密碼。這樣做基本上會使得您所選擇的自動登出選項無效。您想讓 LastPass 停止記住您的密碼？"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "還沒有選擇一個預設的表格填寫。您現在要選擇一個嗎？"
+   },
+   "You_have_saved_your_password_to_your_LastPass_Vault_": {
+      "message": "您必須要儲存密碼至 LastPass 密碼資料庫。"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "您也可以阻止所有 cookie，這會導致瀏覽器不允許 HTML5 的資料庫存取。"
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "您必須同意您加密的資料傳送到 LastPass.com.\n\nLastPass.com 加密您的資料並傳送到 LastPass 安全的伺服器。\nLastPass 的任何人都無法讀取您的機密資料，因為它是用您的密碼加密，您是唯一誰知道您密碼的人。"
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "您必須接受條款以便繼續"
+   },
+   "You_must_enter_a_name_": {
+      "message": "您必須輸入一個名稱。"
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "您必須輸入一個未被使用的名稱。"
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "您必須重新開啟 Google Chrome 或重新登入以套用所做的變更"
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "您必須重新啟動瀏覽器，所有的變更才會生效。"
+   },
+   "Your_4_digit_birth_year": {
+      "message": "您的西元出生年份(請填入完整四位數字)"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "您的 Google Chrome 瀏覽器密碼已被成功匯入。"
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "您的郵政編號"
+   },
+   "Your_address_information": {
+      "message": "您的地址訊息"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "您的附件位於："
+   },
+   "Your_bank_account_information": {
+      "message": "您的銀行帳戶資訊"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "您的帳戶號碼。\n此號碼通常可以在您的存簿或者金融卡上看到。"
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "您的銀行轉帳號碼。\n台灣地區皆為銀行代碼與帳戶號碼。"
+   },
+   "Your_birth_day": {
+      "message": "您的生日"
+   },
+   "Your_birth_month": {
+      "message": "您的出生月份"
+   },
+   "Your_city_name": {
+      "message": "您的城市名稱"
+   },
+   "Your_company_s_name": {
+      "message": "您的公司名稱"
+   },
+   "Your_contact_information": {
+      "message": "您的聯繫訊息"
+   },
+   "Your_country_name": {
+      "message": "您的國家名稱"
+   },
+   "Your_county_name": {
+      "message": "您的縣市名"
+   },
+   "Your_credit_card_information": {
+      "message": "您的信用卡訊息"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "請再次輸入 LastPass 密碼以完成設定。"
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "您的資料已匯出到"
+   },
+   "Your_email_address": {
+      "message": "您的電子郵件地址"
+   },
+   "Your_first_name": {
+      "message": "您的名字"
+   },
+   "Your_government_ID_number": {
+      "message": "您的身份證號碼"
+   },
+   "Your_last_name": {
+      "message": "你的姓"
+   },
+   "Your_middle_name": {
+      "message": "您的中間名"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "您的密碼不能與您的電子郵件相同。"
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "您的密碼很容易被猜到。"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "您的密碼太短。必須至少有 6 個字元"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "您的密碼長度太短，至少需要 8 個字元"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "您的密碼提示用來提醒您有關您的"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "您的密碼不相同。"
+   },
+   "Your_personal_information": {
+      "message": "您的個人訊息"
+   },
+   "Your_phone_number": {
+      "message": "您的電話號碼"
+   },
+   "Your_phone_number_extension": {
+      "message": "您的電話號碼分機"
+   },
+   "Your_prefix_or_title": {
+      "message": "您的前綴或抬頭"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "您所選擇的身分已不存在，將預設為「所有」並且登出。"
+   },
+   "Your_sex": {
+      "message": "您的性別"
+   },
+   "Your_state_or_province_name": {
+      "message": "您所在的州或省名"
+   },
+   "Your_street_address": {
+      "message": "您的街道地址"
+   },
+   "Your_time_zone": {
+      "message": "您的時區"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "您的用戶名稱當登錄進網站時"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey 多要素驗證"
+   },
+   "Yugoslavia": {
+      "message": "南斯拉夫"
+   },
+   "ZIP___Postal_code": {
+      "message": "郵遞/郵政編碼"
+   },
+   "Zambia": {
+      "message": "贊比亞"
+   },
+   "Zimbabwe": {
+      "message": "津巴布韋"
+   },
+   "_Hide_": {
+      "message": "[隱藏]"
+   },
+   "_History_": {
+      "message": "[歷史]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(等待新的分享)"
+   },
+   "_Not_applicable_when_the_Pronounceable_box_is_checked__": {
+      "message": "(可朗讀選項選取時不適用)。"
+   },
+   "_Show_": {
+      "message": "[顯示]"
+   },
+   "_domain_": {
+      "message": "(網域)"
+   },
+   "_none_": {
+      "message": "(無)"
+   },
+   "_unknown_": {
+      "message": "[未知]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "實際的密碼，但仍然保持其機密性。"
+   },
+   "ago": {
+      "message": "以前"
+   },
+   "and": {
+      "message": "與"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "與我們聯絡，我們會透過電子郵件將您的密碼提示傳送給您。"
+   },
+   "day": {
+      "message": "天"
+   },
+   "days": {
+      "message": "天"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "ext."
+   },
+   "false": {
+      "message": "錯誤"
+   },
+   "favorites": {
+      "message": "我的最愛"
+   },
+   "hour": {
+      "message": "小時"
+   },
+   "hours": {
+      "message": "小時"
+   },
+   "just_now": {
+      "message": "就是現在"
+   },
+   "minute": {
+      "message": "分"
+   },
+   "minutes": {
+      "message": "分"
+   },
+   "month": {
+      "message": "月"
+   },
+   "months": {
+      "message": "月"
+   },
+   "privacy_statement": {
+      "message": "隱私聲明"
+   },
+   "recently_usedlower": {
+      "message": "最近使用"
+   },
+   "search": {
+      "message": "搜尋"
+   },
+   "second": {
+      "message": "秒"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "send_more": {
+      "message": "傳送更多"
+   },
+   "terms_of_service": {
+      "message": "服務條款"
+   },
+   "the_current_tab": {
+      "message": "目前分頁"
+   },
+   "true": {
+      "message": "正確"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "我們不知道您的 LastPass 密碼。"
+   },
+   "week": {
+      "message": "星期"
+   },
+   "weeks": {
+      "message": "星期"
+   },
+   "year": {
+      "message": "年"
+   },
+   "years": {
+      "message": "年"
+   }
+}

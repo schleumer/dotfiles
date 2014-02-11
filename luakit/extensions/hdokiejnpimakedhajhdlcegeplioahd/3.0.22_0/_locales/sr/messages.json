@@ -1,0 +1,3407 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Лозинка"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Убаците Ваш YubiKey УСБ порт са УСБ-контакт окренут према горе"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Покрените Google Authenticator програм на вашем мобилном уређају"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Покрени LastPass Sesame апликацију за генерисање једнократну лозинку"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Унесите тренутну шифру верификације у пољу испод"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Прилепите једнократну лозинку у поље за унос испод и кликните на 'аутентификација'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Сачекајте док ваше YubiKey дугме-додир сија са сталном светлу"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Кликните Аутентификација"
+   },
+   "ACTION": {
+      "message": "РАДЊА"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Потребно ажурирање LastPass-а је доступно. Молимо Вас да притисните У реду да бисте започели преузимање и инсталацију."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Поновна датотека је пронађена. Ово вероватно значи да нису све измене сачуване. Желите ли да обришете ову датотеку и изгубите неке измене?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Сервер је дошао до грешке при обрађивању Вашег захтева."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Сајт који је претходно подељен не може бити померен на дељени фолдер.\n\nДа ли би сте желели да направите копију?"
+   },
+   "About": {
+      "message": "О програму"
+   },
+   "About___": {
+      "message": "О ..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Абу Даби, Мускат, Москви, Санкт Петербургу, Волгоград"
+   },
+   "Accept": {
+      "message": "Прихвати"
+   },
+   "Account_Settings": {
+      "message": "Подешавања налога"
+   },
+   "Account_Type": {
+      "message": "Врста налога"
+   },
+   "Account_number": {
+      "message": "Број рачуна"
+   },
+   "Actionproper": {
+      "message": "Акција"
+   },
+   "Actions": {
+      "message": "Акције"
+   },
+   "Add": {
+      "message": "Додај"
+   },
+   "Add_Credit_Card": {
+      "message": "Додај кредитну картицу"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Додај профил 'Кредитна картица'"
+   },
+   "Add_Field": {
+      "message": "Додајте поље"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Додај профил 'Попуни Формулар'"
+   },
+   "Add_Identity": {
+      "message": "Додај идентитет"
+   },
+   "Add_New_Site": {
+      "message": "Додај нов сајт"
+   },
+   "Add_Note": {
+      "message": "Додај белешку"
+   },
+   "Add_Profile": {
+      "message": "Додај профил"
+   },
+   "Add_Secure_Note": {
+      "message": "Додај сигурносну белешку"
+   },
+   "Add_Site": {
+      "message": "Додај сајт"
+   },
+   "Add_another_custom_field": {
+      "message": "Додај још једно прилагођено поље"
+   },
+   "Address": {
+      "message": "Адреса"
+   },
+   "Address_1": {
+      "message": "Адреса 1"
+   },
+   "Address_2": {
+      "message": "Адреса 2"
+   },
+   "Address_3": {
+      "message": "Адреса 3"
+   },
+   "Adelaide": {
+      "message": "Аделаида"
+   },
+   "Admin_Tools": {
+      "message": "Админ Алатке"
+   },
+   "Advanced": {
+      "message": "Напредно"
+   },
+   "Advanced_Options": {
+      "message": "Напредне опције"
+   },
+   "Afghanistan": {
+      "message": "Авганистан"
+   },
+   "Agent_Name": {
+      "message": "Име агента"
+   },
+   "Agent_Phone": {
+      "message": "Телефон агента"
+   },
+   "Aland_Islands": {
+      "message": "Оландска Острва"
+   },
+   "Alaska": {
+      "message": "Аљаска"
+   },
+   "Albania": {
+      "message": "Албанија"
+   },
+   "Algeria": {
+      "message": "Алжир"
+   },
+   "Alias": {
+      "message": "Псеудоним"
+   },
+   "All": {
+      "message": "Све"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Дозволи LastPass да пронађе небезбедне податке на рачунару?"
+   },
+   "Almaty": {
+      "message": "Алмати"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Увек изаберите профил и кредитну картицу"
+   },
+   "American_Samoa": {
+      "message": "Америчка Самоа"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Аман, Атина, Истамбул, Бејрут, Каиро, Јерусалим"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Амстердам, Берлин, Рим, Беч, Праг, Брисел"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Доградња је доступна. Желите ли да је поставите?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Дошло је до грешке приликом учитавања сајтова. Молимо да се поново пријавите."
+   },
+   "An_error_occurred": {
+      "message": "Дошло је до грешке"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Дошло је до грешке приликом увоза Chrome лозинке."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Дошло је до грешке док се поново криптовало податаци"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Дошло је до грешке у току преноса података. Желите ли да поновите?"
+   },
+   "Andorra": {
+      "message": "Андора"
+   },
+   "Angola": {
+      "message": "Ангола"
+   },
+   "Anguilla": {
+      "message": "Ангвила"
+   },
+   "Antarctica": {
+      "message": "Антарктик"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Антигва и Барбуда"
+   },
+   "Appearance": {
+      "message": "Изглед"
+   },
+   "Application_": {
+      "message": "Апликација:"
+   },
+   "Applications": {
+      "message": "Апликације"
+   },
+   "April": {
+      "message": "Април"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Произвољне белешке за складиштење, заједно са овим профилом попуњавања образца"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Да ли сте сигурни да желите да избришете овај идентитет?"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Да ли сте сигурни да желите да избришете овај сајт?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Јесте ли сигурни да желите да LastPass запамти вашу лозинку? Ово ће значајно смањити сигурност вашег LastPass налога!"
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Да ли сте сигурни да желите да делите ову ставку? То ће проузроковати да изгубите све промене које сте извршили на овој ставки!"
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Да ли сте сигурни да желите да видите историју? То ће проузроковати да изгубите све промене које сте извршили на овој ставки!"
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Да ли сте сигурни да желите да избришете?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Да ли сте сигурни да желите да обришете изабране ставке?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Јесте ли сигурни да желите да избришете одабрани сајтови?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Јесте ли сигурни да желите да избришете ову апликацију?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Јесте ли сигурни да желите да избришете ово поље?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Јесте ли сигурни да желите да обришете овај профил попуњавања?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Јесте ли сигурни да желите да избришете oву генерисану лозинку?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Јесте ли сигурни да желите да избришете ову групу?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Да ли сте сигурни да желите да избришете ову нову интернет аресу?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Јесте ли сигурни да желите да избришете ову сигурну белешку?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Јесте ли сигурни да желите да избришете овај сајт?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Јесте ли сигурни да желите да уклоните овај прилог?"
+   },
+   "Argentina": {
+      "message": "Аргентина"
+   },
+   "Arizona": {
+      "message": "Аризона"
+   },
+   "Armenia": {
+      "message": "Јерменија"
+   },
+   "Aruba": {
+      "message": "Аруба"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Астана, Дака, Јекатеринбург"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Пацифично време (Канада), Манаус, Сантјаго"
+   },
+   "Auckland__Wellington": {
+      "message": "Окланд, Велингтон"
+   },
+   "August": {
+      "message": "Август"
+   },
+   "Australia": {
+      "message": "Аустралија"
+   },
+   "Austria": {
+      "message": "Аустрија"
+   },
+   "Authenticate": {
+      "message": "Аутентификација"
+   },
+   "Authentication": {
+      "message": "Аутентификација"
+   },
+   "Authentication_Failed_": {
+      "message": "Аутентификација није успела."
+   },
+   "AutoFill": {
+      "message": "Аутоматско попуњавање"
+   },
+   "AutoLogin": {
+      "message": "Самостална пријава"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Аутоматски попунити информације за пријављивање"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Аутоматска одјава после мировања (минутљ)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Аутоматско одјављивање када се све броусере затворе и када је Chrome затворен за (мин)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Аутоматско пријављивање на сајтове, ако последњи приступ > (секунди)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Избегавајте двосмислени ликови"
+   },
+   "Azerbaijan": {
+      "message": "Азербејџан"
+   },
+   "Azores": {
+      "message": "Азорска острва"
+   },
+   "Back": {
+      "message": "Назад"
+   },
+   "Baghdad": {
+      "message": "Багдад"
+   },
+   "Bahamas": {
+      "message": "Бахамас"
+   },
+   "Bahrain": {
+      "message": "Бахреин"
+   },
+   "Baku__Yerevan": {
+      "message": "Баку, Јереван"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Банкок, Ханој, Џакарта, Москва"
+   },
+   "Bangladesh": {
+      "message": "Бангладеш"
+   },
+   "Bank_Account": {
+      "message": "Банковни рачун"
+   },
+   "Bank_accountformfill": {
+      "message": "Банковни рачун"
+   },
+   "Bank_name": {
+      "message": "Име банке"
+   },
+   "Barbados": {
+      "message": "Барбадос"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Пре него што почнете да користите LastPass, прво морате да повежете свој читач отиска прста и уписати један или више прстију."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Пекинг, Хонг Конг, Сингапур, Тајпеј, Краснојарск"
+   },
+   "Belarus": {
+      "message": "Белорусија"
+   },
+   "Belgium": {
+      "message": "Белгија"
+   },
+   "Belize": {
+      "message": "Белиз"
+   },
+   "Benin": {
+      "message": "Бенин"
+   },
+   "Bermuda": {
+      "message": "Бермуди"
+   },
+   "Bhutan": {
+      "message": "Бутан"
+   },
+   "Binary_Component_": {
+      "message": "Бинарни Компонент:"
+   },
+   "Birthday": {
+      "message": "Рођендан"
+   },
+   "Blacklist": {
+      "message": "Ваш налог је привремено суспендован (5 минута) због превиших покушаја пријављивања."
+   },
+   "Blog": {
+      "message": "Блог"
+   },
+   "Bolivia": {
+      "message": "Боливија"
+   },
+   "Bookmarklets": {
+      "message": "Bookmarklets"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Босна и Херцеговина"
+   },
+   "Botswana": {
+      "message": "Боцвана"
+   },
+   "Bouvet_Island": {
+      "message": "Острво Буве"
+   },
+   "Branch_Address": {
+      "message": "Адреса филијале"
+   },
+   "Branch_Phone": {
+      "message": "Телефонски огранак"
+   },
+   "Brazil": {
+      "message": "Бразил"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Бризбејн, Гуам, Порт Морзби, Јакутск"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Британска територија у Индијском океану"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Прегледајте интернет као нормално и LastPass ће аутоматски запамтити лозинке када их унесете."
+   },
+   "Brunei_Darussalam": {
+      "message": "Брунеји"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Буенос Ајрес, Џорџтаун"
+   },
+   "Built_": {
+      "message": "Градња:"
+   },
+   "Bulgaria": {
+      "message": "Бугарска"
+   },
+   "Burkina_Faso": {
+      "message": "Буркине Фасо"
+   },
+   "Burundi": {
+      "message": "Бурунди"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Али ја сам заборавна особа ... шта треба да радим ако заборавим лозинку?"
+   },
+   "CSV_Files": {
+      "message": "CSV датотеке"
+   },
+   "Cambodia": {
+      "message": "Камбоџа"
+   },
+   "Cameroon": {
+      "message": "Камерун"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Не може да се пронађе скривен LastPass прозор"
+   },
+   "Canada": {
+      "message": "Канада"
+   },
+   "Canary_Islands": {
+      "message": "Канарска острва"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Канбера, Мелбурн, Сиднеј, Хобарт"
+   },
+   "Cancel": {
+      "message": "Откажи"
+   },
+   "Cape_Verde": {
+      "message": "Зеленортска Острва"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Зеленортска острва"
+   },
+   "Caracas": {
+      "message": "Каракас"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Казабланка, Монровија, Рејкјавик"
+   },
+   "Catalan": {
+      "message": "Каталонски"
+   },
+   "Cayman_Islands": {
+      "message": "Кајманска острва"
+   },
+   "Central_African_Republic": {
+      "message": "Централноафричка Република"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Централна Америка, Саскачеван"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Централно време (САД & канада), Гвадалахара, Мексико Сити"
+   },
+   "Chad": {
+      "message": "Чад"
+   },
+   "Change": {
+      "message": "Променити"
+   },
+   "Change_Group_Name": {
+      "message": "Промена назив групе"
+   },
+   "Change_Password": {
+      "message": "Промена лозинке"
+   },
+   "Check_For_Updates": {
+      "message": "Провери ажурирања"
+   },
+   "Checkbox": {
+      "message": "Квадратић"
+   },
+   "Checking_For_Updates___": {
+      "message": "Провера ажурирања..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Ченај, Калкута, Мумбаију, Њу Делхи, Шри Јаиаварденепура"
+   },
+   "Chile": {
+      "message": "Чиле"
+   },
+   "China": {
+      "message": "Кина"
+   },
+   "Chinese__Simplified_": {
+      "message": "Кинески (поједностављени)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Кинески (Традиционални)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Изаберите профил и кредитну картицу"
+   },
+   "Choose_a_source_above_": {
+      "message": "Изаберите извор изнад."
+   },
+   "Christmas_Island": {
+      "message": "Божићно острво"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "Град / Место"
+   },
+   "Clear": {
+      "message": "Избриши"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Бриши клипборд после употребе(у секундама)"
+   },
+   "Clear_Forms": {
+      "message": "Испразни формуларе"
+   },
+   "Clear_Local_Cache": {
+      "message": "Очисти привремену меморију"
+   },
+   "Clear_Recent": {
+      "message": "Обриши недавно"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Испразни попуњена поља на одјављивање"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Кликните на дугме Настави да бисте започели коришћење LastPass-а."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Кликните овде да бисте покренули Подешавање налога"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Кликните овде да бисте покренули повратне информације"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "Кликните овде да бисте видели приручник LastPass-а"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Затворити"
+   },
+   "Close_this_window": {
+      "message": "Затвори овај прозор"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Кокос (Килинг) Острва"
+   },
+   "Collapse_All": {
+      "message": "Скупи све"
+   },
+   "Colombia": {
+      "message": "Колумбија"
+   },
+   "Comoros": {
+      "message": "Комори"
+   },
+   "Company": {
+      "message": "Компанија"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Политика компаније забрањује ову операцију."
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Политика компаније спречава мењање неке параметре, нису све исправке сачуване."
+   },
+   "Configure_Form_Fill": {
+      "message": "Конфигурисање Попуњавање формулара"
+   },
+   "Confirm": {
+      "message": "Потврди"
+   },
+   "Confirm_Password": {
+      "message": "Потврда лозинке"
+   },
+   "Congo": {
+      "message": "Конго"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Конго, Демократска Република"
+   },
+   "Congratulations": {
+      "message": "Честитке"
+   },
+   "Connection_Mode": {
+      "message": "Режим везе"
+   },
+   "Connection_Type": {
+      "message": "Тип везе"
+   },
+   "Contact": {
+      "message": "Контакт"
+   },
+   "Continue": {
+      "message": "Настави"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Контролни карактери се налазе у изабраној датотеци, неће бити обрађена"
+   },
+   "Cook_Islands": {
+      "message": "Кукова острва"
+   },
+   "Copy": {
+      "message": "Копирај"
+   },
+   "Copy_Note": {
+      "message": "Копирање Напомене"
+   },
+   "Copy_Password": {
+      "message": "Копирај Лозинку"
+   },
+   "Copy_URL": {
+      "message": "Копирај URL"
+   },
+   "Copy_Username": {
+      "message": "Копирај корисничко име"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Копирајт 2008 LastPass. Сва права сачувана.\nДео овог софтвера је лиценциран од трећих лица као што је описано овде:"
+   },
+   "Costa_Rica": {
+      "message": "Костарика"
+   },
+   "Cote_D_ivoire": {
+      "message": "Обала слоноваче"
+   },
+   "Country": {
+      "message": "Земља"
+   },
+   "County": {
+      "message": "Општина"
+   },
+   "Create_Account": {
+      "message": "Отвори налог"
+   },
+   "Create_Group": {
+      "message": "Направи групу"
+   },
+   "Create_Sub_Group": {
+      "message": "Направите Под-групу"
+   },
+   "Create_an_Account": {
+      "message": "Направите налог"
+   },
+   "Creating_Account___": {
+      "message": "Креирање налога..."
+   },
+   "Credit_Card": {
+      "message": "Кредитна картица"
+   },
+   "Credit_Monitoring": {
+      "message": "Кредит за мониторинг"
+   },
+   "Credit_card_number": {
+      "message": "Број кредитне картице"
+   },
+   "Credit_cardformfill": {
+      "message": "Кредитна картица"
+   },
+   "Croatia": {
+      "message": "Хрватска"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Куба"
+   },
+   "Custom_Value": {
+      "message": "Прилагођена вредност"
+   },
+   "Custom_field__": {
+      "message": "Прилагођено поље бр."
+   },
+   "Custom_fields": {
+      "message": "Прилагођена поља"
+   },
+   "Cyprus": {
+      "message": "Кипар"
+   },
+   "Czech_Republic": {
+      "message": "Чешка"
+   },
+   "Danish": {
+      "message": "Дански"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Дарвин"
+   },
+   "Database": {
+      "message": "База података"
+   },
+   "Date": {
+      "message": "Датум"
+   },
+   "Date_of_Birth": {
+      "message": "Датум рођења"
+   },
+   "December": {
+      "message": "Децембар"
+   },
+   "Default": {
+      "message": "Подразумевани"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Стандардни профил попуњавања"
+   },
+   "Delete": {
+      "message": "Избриши"
+   },
+   "Delete_Cache": {
+      "message": "Обриши кеш"
+   },
+   "Delete_Group": {
+      "message": "Избриши групу"
+   },
+   "Delete_Identity_": {
+      "message": "Брисање идентитета?"
+   },
+   "Delete_Selected": {
+      "message": "Избриши изабране"
+   },
+   "Delete_Site_": {
+      "message": "Избриши сајт?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Избриши овај профил попуњавања формулара"
+   },
+   "Denmark": {
+      "message": "Данска"
+   },
+   "Disable": {
+      "message": "Онемогући"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Онемогући небезбедан Менаџер Лозинка Chrome-а"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Угаси мултифактор аутентификацију"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Угаси Један фактор аутентификације"
+   },
+   "Disable_alert___": {
+      "message": "Онемогући упозорење..."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Онемогући упозор за овог сајта"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Одбаци промене и затворите овај прозор"
+   },
+   "Djibouti": {
+      "message": "Џибути"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Не преписати поља која су већ попуњена"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Не питај поново за"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Да ли волите LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Да ли стварно желите да изађете? Не можете да користите LastPass без креације налога."
+   },
+   "Dominica": {
+      "message": "Доминика"
+   },
+   "Dominican_Republic": {
+      "message": "Доминиканска Република"
+   },
+   "Down": {
+      "message": "Down"
+   },
+   "Dr": {
+      "message": "Др"
+   },
+   "Driver_s_License": {
+      "message": "Возачка дозвола"
+   },
+   "Duplicate_password": {
+      "message": "Дуплирај лозинку"
+   },
+   "Dutch": {
+      "message": "Холандски"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "ГРЕШКА: Премештање сајтова између подељених фасцикли тренутно није подржано."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "ГРЕШКА: Није Вам дозвољено да се померате сајтове из подељених фасцикли. Брисање је једина подржана операција."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Источно време (САД и Канада)"
+   },
+   "Ecuador": {
+      "message": "Еквадор"
+   },
+   "Edit": {
+      "message": "Уреди"
+   },
+   "Edit_Application": {
+      "message": "Измени апликацију"
+   },
+   "Edit_Application_Fields": {
+      "message": "Уређивање поља апликације"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Уређивање профила Кредитне картице"
+   },
+   "Edit_Form_Fields": {
+      "message": "Уреди поља формулара"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Уређивање профила Попуњавање формулара"
+   },
+   "Edit_Secure_Note": {
+      "message": "Измени сигурносну белешку"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Уреди сигурносне напомене"
+   },
+   "Edit_Site": {
+      "message": "Уређивање сајта"
+   },
+   "Edit_Site_Fields": {
+      "message": "Измени поља сајта"
+   },
+   "Egypt": {
+      "message": "Египат"
+   },
+   "El_Salvador": {
+      "message": "Салвадор"
+   },
+   "Email": {
+      "message": "Е-пошта"
+   },
+   "Email_Account": {
+      "message": "Налог за е-пошту"
+   },
+   "Email_address": {
+      "message": "Е-пошта адреса"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Имејл је већ употребњен, да ли сте заборавили своју лозинку?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Омогућите Праћење кредита"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Омогућите бесплатно Праћење кредита"
+   },
+   "Enable_new_login_screen": {
+      "message": "Омогућите нови екран пријаве"
+   },
+   "Encryption": {
+      "message": "Шифровање"
+   },
+   "End": {
+      "message": "End"
+   },
+   "English": {
+      "message": "Енглески-English"
+   },
+   "English__United_Kingdom_": {
+      "message": "Енглески (Уједињено Краљевство)"
+   },
+   "Enter_PIN": {
+      "message": "Унесите ПИН"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Унесите произвољне белешке"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Унесите свој ПИН код смарт картице:"
+   },
+   "Enterprise": {
+      "message": "Предузеће"
+   },
+   "Equatorial_Guinea": {
+      "message": "Екваторијална Гвинеја"
+   },
+   "Eritrea": {
+      "message": "Еритреја"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Грешке приликом преузимања ваших LastPass сајтова. Покушајте поново да се пријавите да преузмете своје сајтове."
+   },
+   "ErrorLoginMsg": {
+      "message": "Грешке приликом пријављивања на LastPass. Проверите своју Интернет везу."
+   },
+   "ErrorSendingMsg": {
+      "message": "Дошло је до грешке приликом покушаја контактирања сервера. Проверите своју Интернет везу."
+   },
+   "ErrorSessionMsg": {
+      "message": "Ваша сесија LastPass-а изгледа да је истекла. Молимо Вас да се поново пријавите."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Грешка: Ова фасцикла је већ премештена?"
+   },
+   "Error_opening_attachment_": {
+      "message": "Грешка при отварању прилога."
+   },
+   "Estonia": {
+      "message": "Естонија"
+   },
+   "Ethiopia": {
+      "message": "Етиопија"
+   },
+   "Evening_number": {
+      "message": "Вечерни број"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass сада може да сачува Једно Време Лозинка (ЈВЛ) на локалном нивоу који се може користити да повратак налога ако заборавите главну лозинку. Овај ЈВЛ ће остати онемогућен док се не активира на серверу.\n\nДа ли желите да активирате налог опоравка?"
+   },
+   "Expand_All": {
+      "message": "Развиј све"
+   },
+   "Expiration": {
+      "message": "Издисање"
+   },
+   "Expiration_date": {
+      "message": "Рок употребе"
+   },
+   "Export": {
+      "message": "Извоз"
+   },
+   "Export_To": {
+      "message": "За извоз"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Извоз у LastPass CSV датотеку"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS режим"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Фокландска острва (Малвинас)"
+   },
+   "Faroe_Islands": {
+      "message": "Фарска Острва"
+   },
+   "Favorite": {
+      "message": "Омиљени"
+   },
+   "Favoritesproper": {
+      "message": "Фаворит"
+   },
+   "Fax_number": {
+      "message": "Број факса"
+   },
+   "February": {
+      "message": "Фебруар"
+   },
+   "Feedback": {
+      "message": "Повратне информације"
+   },
+   "Female": {
+      "message": "Женско"
+   },
+   "Fields_": {
+      "message": "Поља:"
+   },
+   "Fiji": {
+      "message": "Фиџи"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Фиџи, Камчатка, Маршал ос."
+   },
+   "File": {
+      "message": "Датотека"
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "Датотека је превелика, мора бити мањa од 5MB."
+   },
+   "Files": {
+      "message": "Датотеке"
+   },
+   "Fill": {
+      "message": "Попуни"
+   },
+   "Fill_Current": {
+      "message": "Попуни тренутни"
+   },
+   "Fill_Form": {
+      "message": "Попуните Формулар"
+   },
+   "Fill_Forms": {
+      "message": "Попуњавање образаца"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Профил стандардног попуњавање формулара"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Попуните Следеће Пријављивање (Кад више)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Попуните Претходно Пријављивање (Кад више)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Попуните или уреди образац са подаци"
+   },
+   "FillableFormDetected": {
+      "message": "Формулар који се може попунити је откривен на овој страници."
+   },
+   "Filter": {
+      "message": "Филтер"
+   },
+   "Find_a_site": {
+      "message": "Пронађи сајт"
+   },
+   "Finland": {
+      "message": "Финска"
+   },
+   "Finnish": {
+      "message": "Фински"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Менаџер Лозинка Firefox-а"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Прве 3 цифре Вашег броја телефона"
+   },
+   "First_name": {
+      "message": "Име"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "За сваки координат испод, пронађите вредност Ваше решетке и унесите ту вредност."
+   },
+   "Forgot_Password_": {
+      "message": "Заборавили сте лозинку?"
+   },
+   "FormFill": {
+      "message": "Испуњивач формулара"
+   },
+   "FormFill_Profiles": {
+      "message": "Профили Испуњивача формулара"
+   },
+   "Form_Fill": {
+      "message": "Попуњавање формулара"
+   },
+   "Form_Fill_Profile": {
+      "message": "Облик попуњавање формулара"
+   },
+   "Form_Fill_Profiles": {
+      "message": "Профили попуњавања формулара"
+   },
+   "Form_Fills": {
+      "message": "Попоњавање обрасца"
+   },
+   "Form_Name_": {
+      "message": "Име формулара:"
+   },
+   "Forums": {
+      "message": "Форуми"
+   },
+   "France": {
+      "message": "Француска"
+   },
+   "French": {
+      "message": "Француски"
+   },
+   "French_Guiana": {
+      "message": "Француска Гвајана"
+   },
+   "French_Polynesia": {
+      "message": "Француска Полинезија"
+   },
+   "French_Southern_Territories": {
+      "message": "Француске Јужне Територије"
+   },
+   "French__Canada_": {
+      "message": "Француски (Канада)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "Целу путању датотеке за увоз:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "Целу путању датотеке за увоз:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "ДОБИЈ БЕСПЛАТАН ПРЕМИЈУМ"
+   },
+   "GMT_5": {
+      "message": "ГМТ +5"
+   },
+   "GMT_7": {
+      "message": "ГМТ +7"
+   },
+   "GMT_9": {
+      "message": "ГМТ +9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "ГМТ"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Даблин, Единбург, Лисабон, Лондон"
+   },
+   "Gabon": {
+      "message": "Габон"
+   },
+   "Gambia": {
+      "message": "Гамбија"
+   },
+   "Gender": {
+      "message": "Род"
+   },
+   "General": {
+      "message": "Опште"
+   },
+   "Generate": {
+      "message": "Генеришите"
+   },
+   "GeneratePassword": {
+      "message": "Ако креирате налог или промени лозинку, притисните генериши да би се створило јединствена безбедна лозинка са LastPass."
+   },
+   "Generate_Password": {
+      "message": "Генеришите лозинку"
+   },
+   "Generate_Secure_Password": {
+      "message": "Направи безбедну лозинку"
+   },
+   "Generated_Password_for": {
+      "message": "Створена лозинка за"
+   },
+   "Generic": {
+      "message": "Општи"
+   },
+   "Generic_CSV_File": {
+      "message": "Општа CSV датотека"
+   },
+   "Georgia": {
+      "message": "Грузија"
+   },
+   "German": {
+      "message": "Немачки"
+   },
+   "Germany": {
+      "message": "Немачка"
+   },
+   "Ghana": {
+      "message": "Гана"
+   },
+   "Gibraltar": {
+      "message": "Гибралтар"
+   },
+   "Go_Premium_": {
+      "message": "Узми премијум!"
+   },
+   "Go_to_URL": {
+      "message": "Иди на УРЛ"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Authenticator Multifactor аутентификација"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Менаџер Лозинке Chrome-а"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome захтева да екстензије користе исти језик као претраживач, тако да би се пребацио језик LastPass-а, молимо Вас да промените основни језик претраживача под опције Chrome-а."
+   },
+   "Greece": {
+      "message": "Грчка"
+   },
+   "Greenland": {
+      "message": "Гренланд"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Гренланд, Бразилија, Монтевидео"
+   },
+   "Grenada": {
+      "message": "Гренада"
+   },
+   "Group_": {
+      "message": "Група:"
+   },
+   "Group_Name": {
+      "message": "Назив групе"
+   },
+   "Group_will_be_created_under": {
+      "message": "Група ће бити креирана или тренутно постоји под"
+   },
+   "Groups": {
+      "message": "Групе"
+   },
+   "Guadeloupe": {
+      "message": "Гваделуп"
+   },
+   "Guam": {
+      "message": "Гуам"
+   },
+   "Guatemala": {
+      "message": "Гватемала"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Гвинеја"
+   },
+   "Guinea_Bissau": {
+      "message": "Гвинеја Бисао"
+   },
+   "Guyana": {
+      "message": "Гвајана"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Хаити"
+   },
+   "Harare__Pretoria": {
+      "message": "Хараре, Преторија"
+   },
+   "Hawaii": {
+      "message": "Хаваји"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heard Island and Mcdonald Islands"
+   },
+   "Height": {
+      "message": "Висина"
+   },
+   "Help": {
+      "message": "Помоћ"
+   },
+   "Help_Translate": {
+      "message": "Помоћ превода"
+   },
+   "Help___": {
+      "message": "Помоћ..."
+   },
+   "Help_spread_the_word": {
+      "message": "Помоћи у проширењу реча"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Сакриј контекстуелни мену опције"
+   },
+   "Hide_Password": {
+      "message": "Сакриј Лозинку"
+   },
+   "Highlight_input_boxes": {
+      "message": "Истакни улазне кутије"
+   },
+   "History": {
+      "message": "Историја"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Ватикан"
+   },
+   "Home": {
+      "message": "Почетна"
+   },
+   "Honduras": {
+      "message": "Хондурас"
+   },
+   "Hong_Kong": {
+      "message": "Хонгконг"
+   },
+   "Hostname": {
+      "message": "Име домаћина"
+   },
+   "HotKeys": {
+      "message": "Пречице"
+   },
+   "Hungarian": {
+      "message": "Мађарски"
+   },
+   "Hungary": {
+      "message": "Мађарска"
+   },
+   "IBAN_Number": {
+      "message": "IBAN број"
+   },
+   "IMPORT_": {
+      "message": "УВОЗ?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "ВЕОМА ЈЕ ВАЖНО да никада не заборавите Ваш нову нову LASTPASS лозинку."
+   },
+   "I_Forgot_my_Password": {
+      "message": "Заборавио сам лозинку"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Заборавио сам моју лозинку, Помоћ"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Прочитао сам и слажем се са"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Разумем да ће моје шифроване податке бити послане LastPass-у"
+   },
+   "Iceland": {
+      "message": "Исланд"
+   },
+   "Identities": {
+      "message": "Идентитети"
+   },
+   "Identity": {
+      "message": "Идентитет"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Ако унето, од вас ће бити затражено да поново унесете Вашу главну лозинку\nпре него што буде у могућности да приступите овом профилу"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Ако је чекиранo, ваш кредитни извештај ће се редовно пратити и бићете обавештени ако дође до било какве сумњиве активности."
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Ако није наведено, користиће се екстензија:"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Ако већ имате LastPass налог, можете да затворите овај прозор и пријаву."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Ако на крају ипак заборавите своју главну LastPass лозинку"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Уколико сте заборавили одговор, кликните овде да ресетујете безбедносно питање"
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Ако имате неки други формат који LastPass тренутно не подржава можете да покушате да сачувате своје податке као CSV  датотеку\n\nМОРАТЕ ДА ИЗМЕНИТЕ ПРВИ РЕД CSV ДАТОТЕКЕ ДА БИ ЈЕ LASTPASS ПРЕПОЗНАО\n\nПрви ред у колони имена треба да буде правилно подешаван за податке у колонама\nМогући први ред имена:\n\nурл,корисничко име,лозинка,екстра,групирање\n\n'екстра' значи 'белешке' и 'групирање' је где група треба да буде. Не морате да користите сва имена колона и не морају да буду у било ком редоследу. На пример, први ред може бити овакав:\n\nиме,корисничко име,лозинкљ,урл\n\nАко желите да увезете Сигурне белешке уместо сајта, једноставно проверити да колоне 'УРЛ', 'име' и 'лозинка' су празно (или изоставите те колоне), и да 'екстра' колона није празна. Докле год ове две ствари су урађене, запис ће бити аутоматски увезене као Сигурна белешка уместо сајта.\n\nОво треба да буде веома једноставна, само отворите сачувану CSV датотеку програму Excel и уверите се горњи ред има одговарајуће име. Сачувате га, а затим увезете резултатну датотеку."
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Ако сте изгубили ваш Google Authenticator уређај, кликните овде да бисте онемогућили Google Authenticator аутентификацију"
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Уколико сте изгубили ваш Sesame уређај, кликните овде да бисте онемогућили Sesame аутентичност"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Ако сте изгубили свог YubiKey уређај, кликните овде да бисте онемогућили YubiKey аутентичност"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Ако изгубите вашу решетку, кликните овде да бисте онемогућили решетну аутентификацију"
+   },
+   "Import": {
+      "message": "Увоз"
+   },
+   "Import_From": {
+      "message": "Увоз из"
+   },
+   "Import_Your_Data": {
+      "message": "Увоз Ваши подаци"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Увоз података на ЛастПасс сефу ће га заштитити од крађе идентитета. Сви увезени подаци остају ПОТПУНО поврељиви: једина особа која може да види Ваше податке то сте ВИ."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "Да би LastPass попунио основне аутентификационе дијалоге, морате омогућити приступ помоћним уређајима."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "Да би LastPass попунио основне аутентификационе дијалоге, морате инсталирати бинарну верзију LastPass-а за Chrome."
+   },
+   "India": {
+      "message": "Индија"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Индијана, Богота, Лима, Кито, Рио Бранко"
+   },
+   "Indonesia": {
+      "message": "Индонезија"
+   },
+   "Install": {
+      "message": "Инсталирајте"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Инсталирајте библиотеку LastPass за Chrome да би сте омогућили аутоматско одјављивање после мировања"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Инсталирајте бинарну верзије LastPass-а за Chrome да омогућите аутоматско одјављивање након мировања"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Инсталирајте бинарну верзију LastPass за Chrome да би се омогућио увоз из Chrome Манаџера лозинки"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Инсталирајте бинарну верзије LastPass-а за Chrome да омогућите дељење стљтусљ пријљве између остљлих претраживача"
+   },
+   "Instant_Messenger": {
+      "message": "Текући достављач"
+   },
+   "Instructions": {
+      "message": "Упутства"
+   },
+   "Insurance": {
+      "message": "Осигурање"
+   },
+   "International_Date_Line_West": {
+      "message": "Међународна датумска граница Запада"
+   },
+   "Invalid_Password_": {
+      "message": "Погрешна лозинка."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Нетачна адреса, покушајте поново"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Неважећи тип датотеке, она мора бити слика која може бити приказана у Вашем претраживачу."
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Иран"
+   },
+   "Iraq": {
+      "message": "Ирак"
+   },
+   "Ireland": {
+      "message": "Ирска"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Исламабад, Карачи, Ташкент"
+   },
+   "Isle_of_Man": {
+      "message": "Острво Ман"
+   },
+   "Israel": {
+      "message": "Израел"
+   },
+   "Issue_number": {
+      "message": "Питање број"
+   },
+   "Issued_Date": {
+      "message": "Датум издавања"
+   },
+   "Issuing_Authority": {
+      "message": "Надлежни орган"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Препоручује се да избришете датотеку прилога након што је користите."
+   },
+   "Italian": {
+      "message": "Италијански"
+   },
+   "Italy": {
+      "message": "Италија"
+   },
+   "Jamaica": {
+      "message": "Јамајка"
+   },
+   "January": {
+      "message": "Јануар"
+   },
+   "Japan": {
+      "message": "Јапан"
+   },
+   "Japanese": {
+      "message": "Јапански"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Јордан"
+   },
+   "July": {
+      "message": "Јул"
+   },
+   "June": {
+      "message": "Јун"
+   },
+   "Kabul": {
+      "message": "Кабул"
+   },
+   "Kathmandu": {
+      "message": "Катхманду"
+   },
+   "Kazakhstan": {
+      "message": "Казахстан"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Задржи историји моје пријаве и попуњавање формулара"
+   },
+   "Kenya": {
+      "message": "Кенија"
+   },
+   "Key_Index": {
+      "message": "Индекс кључа"
+   },
+   "Key_Type": {
+      "message": "Тип кључа"
+   },
+   "Kiribati": {
+      "message": "Кирибати"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Кореја, Демократска Народна Република"
+   },
+   "Korea__Republic_Of": {
+      "message": "Република Кореја"
+   },
+   "Korean": {
+      "message": "Корејски"
+   },
+   "Kuwait": {
+      "message": "Кувајт"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Кувајт, Ријад, Најроби, Тбилисију"
+   },
+   "Kyrgyzstan": {
+      "message": "Киргизија"
+   },
+   "La_Paz": {
+      "message": "Ла Паз"
+   },
+   "Language": {
+      "message": "Језик"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Лаос, Демократска Народна Република"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV датотека"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome алатна трака"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass шифрована датотека"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass Grid Multifactor аутентификација"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass Мени"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass може аутоматски да попуни веб формуларе помоћу једног клика. Коришћење 'Попуњавање формулара', не само да ће вам уштедети време, али ће такође побољшати Вашу безбедност приликом онлајн куповине."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass не може да се пријавим док се не дозволе колачиће за lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass открио пријаву која није сигурна.\n\nЖелите ли да наставите?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass открио пријаву која није сигурна.\n\nДа ли ипак желите да LastPass попуни формулар?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass открио промену лозинке за"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass открио промену лозинке за домен:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass открио промену лозинке за корисника:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass је открио грешку инсталације. Молимо вас да поново инсталирате LastPass."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass је попунио податке пријављивања у формулару ове странице."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass је у потпуности инсталиран! Када инсталирате LastPass на другим рачунарима нећете морати да прође кроз овај процес поново, једноставно моћи ћете да се пријавите. Немојте делити вашу главну лозинку ни са ким, укључујући и LastPass запослених, ми никада нећемо је тражити! LastPass  шифрује ваше осетљиве податке локално, тако да и LastPass  запослени немају приступ. Можете добити помоћ кликом на LastPass иконом и после Помоћ."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass је последња лозинка коју ћете икада имати да запамтите. Ако сте нови у LastPass, треба Вам само пар минута да бисте креирали свој налог. Моћи ћете да користите овај налог на било који други рачунар који користите да би ваше личне податке били синхронизовани. Стиснути 'направите налог' за почетак."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass мора поново да шифрује све податке због промене кључа."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Последње 4 цифре Вашег броја телефона"
+   },
+   "Last_Name2": {
+      "message": "Презиме 2"
+   },
+   "Last_Touch": {
+      "message": "Последњи додир"
+   },
+   "Last_name": {
+      "message": "Презиме"
+   },
+   "Latvia": {
+      "message": "Летонија"
+   },
+   "Launch": {
+      "message": "Покрени"
+   },
+   "Lebanon": {
+      "message": "Либан"
+   },
+   "Left": {
+      "message": "Left"
+   },
+   "Lesotho": {
+      "message": "Лесото"
+   },
+   "Liberia": {
+      "message": "Либерија"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Либијска Арапска Џамахирије"
+   },
+   "License_Class": {
+      "message": "Врста дозволе"
+   },
+   "License_Key": {
+      "message": "Кључ за дозволу"
+   },
+   "Liechtenstein": {
+      "message": "Лихтенштајн"
+   },
+   "Link_Personal_Account": {
+      "message": "Привежи лични налог"
+   },
+   "Lithuania": {
+      "message": "Литванија"
+   },
+   "Local": {
+      "message": "Локални"
+   },
+   "Log_into_a_Site": {
+      "message": "Пријавите се на сајт"
+   },
+   "LoggedInOffline": {
+      "message": "LastPass није успео да контактира сервер за пријављивање, тако да сте сада у режиму ван мреже.\n\nФункционалност може бити ограничена."
+   },
+   "Login": {
+      "message": "Пријава"
+   },
+   "LoginError": {
+      "message": "Грешка пријављена у LastPass. Покушајте поново."
+   },
+   "Login_to_LastPass": {
+      "message": "Пријава на LastPass"
+   },
+   "Logoff": {
+      "message": "Одјављивање"
+   },
+   "Logoff_": {
+      "message": "Одјављивање:"
+   },
+   "LoseChanges": {
+      "message": "Јесте ли сигурни да желите да измените поља овог сајта? На тај начин ће изгубићете све измене које сте направили на овај сајт!"
+   },
+   "LoseChangesApp": {
+      "message": "Да ли сте сигурни да желите да измените поља ове апликације? На тај начин, изгубићете све промене које су направљене на ову апликацију!"
+   },
+   "Luxembourg": {
+      "message": "Луксембург"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Макао"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Македонија, Бивша Југословенска Република"
+   },
+   "Madagascar": {
+      "message": "Мадагаскар"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Магадан, Соломонова ли, Нова Каледонија, Владивостока."
+   },
+   "Malawi": {
+      "message": "Малави"
+   },
+   "Malaysia": {
+      "message": "Малезија"
+   },
+   "Maldives": {
+      "message": "Малдиви"
+   },
+   "Male": {
+      "message": "Мушко"
+   },
+   "Mali": {
+      "message": "Мали"
+   },
+   "Malta": {
+      "message": "Малта"
+   },
+   "Manage_Shared_Folders": {
+      "message": "Управљање подељеним фасциклама"
+   },
+   "March": {
+      "message": "Март"
+   },
+   "Marshall_Islands": {
+      "message": "Маршалска Острва"
+   },
+   "Martinique": {
+      "message": "Мартиник"
+   },
+   "Master_Password": {
+      "message": "Главна лозинка"
+   },
+   "Matching_Sites": {
+      "message": "Одговарајући сајтови"
+   },
+   "Mauritania": {
+      "message": "Мауританија"
+   },
+   "Mauritius": {
+      "message": "Маурицијус"
+   },
+   "Maxthon": {
+      "message": "Maxthon"
+   },
+   "May": {
+      "message": "Мај"
+   },
+   "Mayotte": {
+      "message": "Мајоте"
+   },
+   "Member_Name": {
+      "message": "Име члана"
+   },
+   "Membership": {
+      "message": "Чланство"
+   },
+   "Membership_Number": {
+      "message": "Број чланова"
+   },
+   "Meta": {
+      "message": "Мета"
+   },
+   "Mexico": {
+      "message": "Мексико"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Микронезија, Федералне Државе"
+   },
+   "Mid_Atlantic": {
+      "message": "Средњи Атлантик"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Средње 3 цифре Вашег броја телефона"
+   },
+   "Middle_name": {
+      "message": "Друго име"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Острво Мидвеј, Самоа"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Минималне цифр"
+   },
+   "Mobile_Email_Address": {
+      "message": " Е-адреса мобилног"
+   },
+   "Mobile_number": {
+      "message": "Број мобилног телефона"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Молдавија, Република"
+   },
+   "Monaco": {
+      "message": "Монако"
+   },
+   "Mongolia": {
+      "message": "Монголија"
+   },
+   "Montenegro": {
+      "message": "Црна Гора"
+   },
+   "Montserrat": {
+      "message": "Монсерат"
+   },
+   "More": {
+      "message": "Још"
+   },
+   "More_Information": {
+      "message": "Више информација"
+   },
+   "Morocco": {
+      "message": "Мароко"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Планинско време (САД и Канада)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Помери изабрано у групу"
+   },
+   "Move_to_Group": {
+      "message": "Премести у групу"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Премести у Под-групи"
+   },
+   "Mozambique": {
+      "message": "Мозамбик"
+   },
+   "Mr": {
+      "message": "Г-дин"
+   },
+   "Mrs": {
+      "message": "Г-ђа"
+   },
+   "Ms": {
+      "message": "Г-ђица"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Мој Налог"
+   },
+   "My_LastPass_Vault": {
+      "message": "Ластпас"
+   },
+   "Myanmar": {
+      "message": "Мијанмар"
+   },
+   "NAME": {
+      "message": "ИМЕ"
+   },
+   "Name_": {
+      "message": "Име:"
+   },
+   "Name_on_card": {
+      "message": "Име на картици"
+   },
+   "Nameproper": {
+      "message": "Назив"
+   },
+   "Namibia": {
+      "message": "Намибија"
+   },
+   "Nationality": {
+      "message": "Држављанство"
+   },
+   "Nauru": {
+      "message": "Науруа"
+   },
+   "Nepal": {
+      "message": "Непал"
+   },
+   "Netherlands": {
+      "message": "Холандија"
+   },
+   "Netherlands_Antilles": {
+      "message": "Холандски Антили"
+   },
+   "Never": {
+      "message": "Никада"
+   },
+   "Never_Show_Again": {
+      "message": "Не приказуј поново"
+   },
+   "Never___": {
+      "message": "Никада..."
+   },
+   "New_Caledonia": {
+      "message": "Нова Каледонија"
+   },
+   "New_Master_Password": {
+      "message": "Нова главна лозинка"
+   },
+   "New_Zealand": {
+      "message": "Нови Зеланд"
+   },
+   "Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "Nicaragua": {
+      "message": "Никарагва"
+   },
+   "Niger": {
+      "message": "Нигер"
+   },
+   "Nigeria": {
+      "message": "Нигерија"
+   },
+   "Niue": {
+      "message": "Нијуе"
+   },
+   "No": {
+      "message": "Не"
+   },
+   "No_Matching_Sites_": {
+      "message": "Нема пронађених сајтова!"
+   },
+   "No_Thanks": {
+      "message": "Не хвала"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Нема ажурирања"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "Wi-Fi адаптер није откривен на овом рачунару. Ова функција захтева Wi-Fi адаптер."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Не, не желим да ми LastPass аутоматско попуњава формуларе"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Не, не увози било ког од мојих несигурних елемента"
+   },
+   "None_Available": {
+      "message": "Ништа није доступно"
+   },
+   "Norfolk_Island": {
+      "message": "Острво Норфолк"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Северна Маријанска острва"
+   },
+   "Norway": {
+      "message": "Норвешка"
+   },
+   "Norwegian": {
+      "message": "Норвешки"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Норвешки нови"
+   },
+   "Not_Now": {
+      "message": "Не сада"
+   },
+   "Note_Type": {
+      "message": "Врста белешке"
+   },
+   "Notes": {
+      "message": "Белешке"
+   },
+   "Notes_": {
+      "message": "Белешке:"
+   },
+   "Notifications": {
+      "message": "Обавештења"
+   },
+   "November": {
+      "message": "Новембар"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Број"
+   },
+   "Number_of_Licenses": {
+      "message": "Број дозвола"
+   },
+   "OK": {
+      "message": "У реду"
+   },
+   "October": {
+      "message": "Октобар"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Понуда за генерисање Сигурне Лозинке"
+   },
+   "Old_Password": {
+      "message": "Стара лозинка"
+   },
+   "Oman": {
+      "message": "Оман"
+   },
+   "One_Time_Passwords": {
+      "message": "Једнокрајна лозинка"
+   },
+   "Open_All": {
+      "message": "Отвори све"
+   },
+   "Open_Favorites": {
+      "message": "Отвори омиљене"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Отвори Мој LastPass сеф"
+   },
+   "Open_New_Pages_in": {
+      "message": "Отвори нови лист у"
+   },
+   "Open_Popover": {
+      "message": "Отвори Popover"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Отворите Sticky Password - Manage Database - Извоз - Извоз као текст. Увезите ову датотеку"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Отвори дијалог за пријављивање када покренете претраживач"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Opera Менаџер лозинке"
+   },
+   "Order_Number": {
+      "message": "Редни број"
+   },
+   "Order_Total": {
+      "message": "Потпуни ред"
+   },
+   "Organization": {
+      "message": "Удружење"
+   },
+   "Other": {
+      "message": "Остало"
+   },
+   "Other_Sessions": {
+      "message": "Остале сесије"
+   },
+   "PASSWORDupper": {
+      "message": "ЛОЗИНКА"
+   },
+   "PINs_Password_Manager": {
+      "message": "PIN лозинка менаџер"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Пацифичко време (САД и Канада)"
+   },
+   "Page_Down": {
+      "message": "Page Down"
+   },
+   "Page_Up": {
+      "message": "Page Up"
+   },
+   "Pakistan": {
+      "message": "Пакистан"
+   },
+   "Palau": {
+      "message": "Палау"
+   },
+   "Palestinian_Territories": {
+      "message": "Палестинске територије"
+   },
+   "Panama": {
+      "message": "Панама"
+   },
+   "Papua_New_Guinea": {
+      "message": "Папуа Нова Гвинеја"
+   },
+   "Paraguay": {
+      "message": "Парагвај"
+   },
+   "Passpack": {
+      "message": "Passpack"
+   },
+   "Passport": {
+      "message": "Пасош"
+   },
+   "Password": {
+      "message": "Лозинка"
+   },
+   "Password_": {
+      "message": "Лозинка:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Depot": {
+      "message": "Складиште лозинки"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "Дужина лозинке"
+   },
+   "Password_Length_": {
+      "message": "Дужина лозинке:"
+   },
+   "Password_Reminder": {
+      "message": "Подсетник лозинке"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Подсетник за лозинку не може да буде исти као лозинка"
+   },
+   "Password_updated_": {
+      "message": "Лозинка ажурирана!"
+   },
+   "Passwords_Max": {
+      "message": "Passwords Max"
+   },
+   "Personal": {
+      "message": "Лично"
+   },
+   "Peru": {
+      "message": "Перу"
+   },
+   "Philippines": {
+      "message": "Филипини"
+   },
+   "Phone_number": {
+      "message": "Број телефона"
+   },
+   "Pin": {
+      "message": "Извод "
+   },
+   "Pitcairn": {
+      "message": "Питкерн"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Молимо Вас да направите избор"
+   },
+   "Please_Wait___": {
+      "message": "Сачекајте…"
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Молимо вас да одговорите на следеће питање:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Молимо Вас да изаберете врсту извоза који желите да обавите:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Молимо Вас да изаберете врсту штампе коју желите да обавите:"
+   },
+   "Please_close_this_window": {
+      "message": "Молимо вас да затворите овај прозор"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Молимо Вас да унесете лозинку за Подсетника"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Молимо Вас да унесете пуну путању датотеке за увоз."
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Држите ову страницу отворену све док се радња не заврши."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Молимо вас да премештате сајтове из само једне подељене фасцикле у исто време."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Имајте на уму да надоградња од LastPass Local на LastPass Online ће довести да  ваше податке лозинке буду слане у шифрованом формату на нашим серверима. Бићете у могућности да приступите вашим подацима са било ког места, а LastPass неће моћи да их чита. Желите ли да наставите?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Наведите име овом рачунару"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Поново учитајте страницу да бисте видели промене."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Молимо Вас да поново покренете све претраживаче да почнете да користите LastPass Online."
+   },
+   "Please_select": {
+      "message": "Молимо одаберите"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Молимо Вас да изаберете које сајтове желите да примените ове промене."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Посетите https://lastpass.com да касније креирали налог."
+   },
+   "Poland": {
+      "message": "Пољска"
+   },
+   "Policy_Number": {
+      "message": "Број политике"
+   },
+   "Policy_Type": {
+      "message": "Тип политике"
+   },
+   "Polish": {
+      "message": "Пољски"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Питај сервера за промене рачуна (минуте)"
+   },
+   "Port": {
+      "message": "Прикључак"
+   },
+   "Portugal": {
+      "message": "Португалија"
+   },
+   "Portuguese": {
+      "message": "Португалски"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Португалски (Бразилски)"
+   },
+   "Preferences": {
+      "message": "Подешавања"
+   },
+   "Price": {
+      "message": "Вредност"
+   },
+   "Print": {
+      "message": "Штампај"
+   },
+   "Print_Screen": {
+      "message": "Print Screen"
+   },
+   "Print_Secure_Notes": {
+      "message": "Штампај Сигурносне Белешке"
+   },
+   "Print_Sites": {
+      "message": "Штампај сајтове"
+   },
+   "Profile": {
+      "message": "Профил"
+   },
+   "Profile_language": {
+      "message": "Језик профила"
+   },
+   "Profile_name": {
+      "message": "Име профила"
+   },
+   "Pronounceable": {
+      "message": "Изговорљив"
+   },
+   "Protected": {
+      "message": "Заштићено"
+   },
+   "Publisher": {
+      "message": "Издавач"
+   },
+   "Puerto_Rico": {
+      "message": "Порторико"
+   },
+   "Purchase_Date": {
+      "message": "Датум куповине"
+   },
+   "Qatar": {
+      "message": "Катар"
+   },
+   "Re_enter_Password": {
+      "message": "Поново унесите лозинку"
+   },
+   "Recent_Sites": {
+      "message": "Последњих сајтови"
+   },
+   "Recently_Used": {
+      "message": "Недавно"
+   },
+   "Recently_Used_list_size": {
+      "message": "Величина списак Недавних"
+   },
+   "Recheck_Page": {
+      "message": "Проверите страницу"
+   },
+   "Reencrypting_Data___": {
+      "message": "Поново криптовање података..."
+   },
+   "Refresh": {
+      "message": "Освежи"
+   },
+   "Refresh_Sites": {
+      "message": "Освежи сајтове"
+   },
+   "Reject": {
+      "message": "Одбаци"
+   },
+   "Remember_Email": {
+      "message": "Запамти Имејл"
+   },
+   "Remember_Password": {
+      "message": "Запамти лозинку"
+   },
+   "Remove_Personal_Account": {
+      "message": "Уклони лични налог"
+   },
+   "Rename_Group": {
+      "message": "Преименуј групу"
+   },
+   "Replace_Existing_Site": {
+      "message": "Замени постојећи сајт"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Сваки тип знакова је потребан"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Захтева поновни унос лозинке"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Захтева безбедности одзив када:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Поштовати АутоматскоДовршавање=off: прихвата сајтове да онемогуће АутоматскоПопуњавање"
+   },
+   "Reunion": {
+      "message": "Реинион"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Менаџер лозинке"
+   },
+   "Right": {
+      "message": "Right"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Румунија"
+   },
+   "Routing_number": {
+      "message": "Број усмеравања"
+   },
+   "Russian": {
+      "message": "Руски"
+   },
+   "Russian_Federation": {
+      "message": "Руска Федерација"
+   },
+   "Rwanda": {
+      "message": "Руанда"
+   },
+   "SID": {
+      "message": "Безбедоносни идентификатор"
+   },
+   "SITE": {
+      "message": "САЈТ"
+   },
+   "SMTP_Port": {
+      "message": "SMTP прикључак"
+   },
+   "SMTP_Server": {
+      "message": "SMTP послужитељ"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Новчаник"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT ознака"
+   },
+   "Safari": {
+      "message": "Сафари"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safari Менаџер лозинке"
+   },
+   "Saint_Barthelemy": {
+      "message": "Свети Бартоломеј"
+   },
+   "Saint_Helena": {
+      "message": "Света Јелена"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Свети Китс и Невис"
+   },
+   "Saint_Lucia": {
+      "message": "Света Луција"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Свети Мартин (француски део)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Свети Пјер и Микелон"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Свети Винсент и Гренадини"
+   },
+   "Samoa": {
+      "message": "Самое"
+   },
+   "San_Marino": {
+      "message": "Сан Марино"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Сао Том и Принцип"
+   },
+   "Saudi_Arabia": {
+      "message": "Саудијска Арабија"
+   },
+   "Save": {
+      "message": "Сачувати"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Сачувај све унете податке"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Сачувај профил Кредитне картице"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Сачувај профил Попуњавања формулара"
+   },
+   "Save_New_Site": {
+      "message": "Сачувај нови сајт"
+   },
+   "Save_Site": {
+      "message": "Сачувај сајт"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Локално сачувај онемогућену Једно Време Лозинку због опоравка налога"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Сачувајте промене и затворите овај прозор"
+   },
+   "Screen_Keyboard": {
+      "message": "Тастатура на екрану"
+   },
+   "Search_All_Data": {
+      "message": "Претражи све податке"
+   },
+   "Search_All_Groups": {
+      "message": "Претражи све групе"
+   },
+   "Search_All_Notes": {
+      "message": "Претражи Све Белешке"
+   },
+   "Search_All_Sites": {
+      "message": "Претражи Сви сајтови"
+   },
+   "Search_Vault": {
+      "message": "Претрага Ковчега"
+   },
+   "Search_within_secure_notes": {
+      "message": "Претрага у сигурне белешке"
+   },
+   "Searchproper": {
+      "message": "Претражи"
+   },
+   "Secure_Notes": {
+      "message": "Сигурне белешка"
+   },
+   "Security": {
+      "message": "Безбедност"
+   },
+   "Security_Check": {
+      "message": "Провера безбедности"
+   },
+   "Security_code": {
+      "message": "Сигурносна цифра"
+   },
+   "Select": {
+      "message": "Изаберите"
+   },
+   "Select_All": {
+      "message": "Изабери све"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Изаберите или унесите ново име групе"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Пошаљи анонимни извештај грешке да бисте побољшали LastPass"
+   },
+   "Senegal": {
+      "message": "Сенегал"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Сеул, Осака, Сапоро, Токио, Иркутск"
+   },
+   "September": {
+      "message": "Септембар"
+   },
+   "Serbia": {
+      "message": "Србија"
+   },
+   "Server": {
+      "message": "Послужитељ"
+   },
+   "SesameWrongButton": {
+      "message": "Да бисте видели податке када сте ван мреже, морате покренути Sesame па 'Копирајван мреже лозинку' у место 'Генеришите једнократну лозинку'."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame Multifactor Аутентификација"
+   },
+   "Sessions": {
+      "message": "Сесије"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Поставите прилагођених поља формулара"
+   },
+   "Settings": {
+      "message": "Подешавања"
+   },
+   "Sex": {
+      "message": "Пол"
+   },
+   "Seychelles": {
+      "message": "Сејшели"
+   },
+   "Share": {
+      "message": "Поделити"
+   },
+   "Share_Selected": {
+      "message": "Поделите дабране"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Поделите статус пријаве између осталих претраживача"
+   },
+   "Share_offer_from": {
+      "message": "Понуда дељења од"
+   },
+   "Shares": {
+      "message": "Дељена"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Треба ли да LastPass запамти ову лозинку?"
+   },
+   "Show": {
+      "message": "Прикажи"
+   },
+   "Show_Advanced_Options": {
+      "message": "Прикажи напредне опције"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Прикажи траку промене лозинке"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Прикажи избрисани сајтови"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Прикажи траку попуњавања"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Прикажи обавештења попуњавање формулара"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Прикажи мој LastPass сеф након пријаве"
+   },
+   "Show_Notifications": {
+      "message": "Прикажи Обавештења"
+   },
+   "Show_Password": {
+      "message": "Прикажи Лозинку"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Прикажи траку сачувавања сајта"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Прикажи обавештење сачувавање сајта"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Прикажи сајтове у групе"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Прикажи сеф после пријаве"
+   },
+   "Show_all_sites": {
+      "message": "Прикажи све сајтове"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Прикажи одређена обавештења само после клика"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Показује још једно прилагођено поље"
+   },
+   "Sierra_Leone": {
+      "message": "Сијера Леоне"
+   },
+   "Sign_In": {
+      "message": "Пријава"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Поједноставите свој живот: Користите LastPass за аутоматско попуњавање пријаве ове странице!"
+   },
+   "Singapore": {
+      "message": "Сингапур"
+   },
+   "Site_Search": {
+      "message": "Претрага сајта"
+   },
+   "Sites": {
+      "message": "Сајтови"
+   },
+   "Slovak": {
+      "message": "Словачки"
+   },
+   "Slovakia": {
+      "message": "Словачка"
+   },
+   "Slovenia": {
+      "message": "Словенија"
+   },
+   "Social_Security": {
+      "message": "Социјална сигурност"
+   },
+   "Social_security_number": {
+      "message": "Социјални број"
+   },
+   "Software_License": {
+      "message": "Програмска лиценца"
+   },
+   "Solomon_Islands": {
+      "message": "Соломонова Острва"
+   },
+   "Somalia": {
+      "message": "Сомалија"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Жао ми је, дељена фасцикла је само за читање."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Извините, не можете да извршите ову радњу истовремено на подељеним и неподељеним фасциклама или на више подељених фасцикли."
+   },
+   "Source_": {
+      "message": "Извор:"
+   },
+   "South_Africa": {
+      "message": "Јужна Африка"
+   },
+   "South_Georgia": {
+      "message": "Јужна Џорџија"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Јужна Џорџија и Јужна Сендвичка Острва"
+   },
+   "Spain": {
+      "message": "Шпанија"
+   },
+   "Spanish": {
+      "message": "Шпански"
+   },
+   "Spanish__Mexico_": {
+      "message": "Шпански (Мексико)"
+   },
+   "Special": {
+      "message": "Специјално"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Шри Ланка"
+   },
+   "Start_date": {
+      "message": "Почетни датум"
+   },
+   "State": {
+      "message": "Држава"
+   },
+   "State___Province": {
+      "message": "Држава / Провинција"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Слање формулара"
+   },
+   "Submitting___": {
+      "message": "Слање…"
+   },
+   "Sudan": {
+      "message": "Судан"
+   },
+   "Support_Email": {
+      "message": "Подршка за е-пошту"
+   },
+   "Suriname": {
+      "message": "Суринам"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Сумњиви карактери се налазе у изабраној датотеци, неће бити обрађена"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard and Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Свазиленд"
+   },
+   "Sweden": {
+      "message": "Шведска"
+   },
+   "Swedish": {
+      "message": "Шведски"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Пребацивање тренутног мрежног корисника интернета"
+   },
+   "Swipe_finger": {
+      "message": "Пречи прстом"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Пречи прстом преко сензора отиска"
+   },
+   "Switzerland": {
+      "message": "Швајцарска"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Сиријска Арапска Република"
+   },
+   "Tabs": {
+      "message": "Јењичци"
+   },
+   "Taiwan": {
+      "message": "Тајван"
+   },
+   "Tajikistan": {
+      "message": "Таџикистан"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Танзанија, Велика Републике"
+   },
+   "Tehran": {
+      "message": "Техеран"
+   },
+   "Telephone": {
+      "message": "Телефон"
+   },
+   "Tell_a_friend_": {
+      "message": "Обавестите пријатеља!"
+   },
+   "Text": {
+      "message": "Текст"
+   },
+   "Text_to_find": {
+      "message": "Текст за тражење"
+   },
+   "Thailand": {
+      "message": "Тајланд"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Датотека недостаје или је празна. Молимо Вас да унесете пуну путању датотеке за увоз."
+   },
+   "That_group_already_exists_": {
+      "message": "Та група већ постоји."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "4 цифре године када је картица издата"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "LastPass Wi-Fi услужни програм није детектован на овом рачунару. Желите ли да покренете LastPass Universal Installer, како би га инсталирали?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Главна лозинка LastPass-а коју сте поново унели не одговара"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "'Стара лозинка' коју сте унели није исправна LastPass главна лозинка"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "Бинарна верзија LastPass додатка је потребна за ову операцију. Може се преузети са lastpass.com."
+   },
+   "The_credit_card_number": {
+      "message": "Број кредитне картице"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "4 цифре године када картица истеће"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "месец када картица истеће"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Број питања кредитне картице.\nВажи на одређене европских брендова дебитних картица, као што је маестро."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Безбедносни код кредитне картице.\nЗа вечину картице, то су последње 3 цифре одштампани на позадини картице.\nЗа American Express, то су последње 4 цифре одштампани у малим словима на насловној станици картице."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Пуно име исписано на картици"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Језик Веб локација где ће се овај профил користити"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Месеца када је картица издата"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Име профила попуњавања формулара"
+   },
+   "The_name_of_your_bank": {
+      "message": "Име банке"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Поље белешке садржи превише података. Можете сачувати највише 45.000 знакова по белешци.\n\nДа ли желите да вам скратимо белешку? Изгубићете неке од Ваших података."
+   },
+   "The_value_to_be_filled": {
+      "message": "Вредност за попуњавање"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Верзија Chrome коју тренутно користите нема подршку HTML5 базе података. То знаћи да ова страница за пријаву неће запамтити ваш имејл и лозинку, као и друге функције као што су аутоматско пријављивање на претраживачу у случају његовог рестартовања."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Верзија Chrome коју тренутно користите нема подршку HTML5 базе података. То знаћи да ова страница за пријаву неће запамтити ваш имејл и лозинку, као и друге функције као што су аутоматско пријављивање на претраживачу. Можда ћете моћи да поправите ово додавањем --enable-databases као параметар пречице Google Chrome-а."
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "Овај прилог треба да се прво сачува."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Ово може само да буде обраден из веб странице"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Овај рачунар је поуздан, не захтевај други облик провере идентитета."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Ова функција није доступна у овој верзији. Молимо вас да инсталирате бинарну екстензију одласком на https://lastpass.com/dl"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Ова функција захтева бинарну верзију екстензије овог претраживача. Желите ли да је инсталирате сада?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Ова функција још увек треба да се спроводи, да се директно чита са"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Ово је заједнички сајт. Није вам дозвољено да видите лозинку."
+   },
+   "This_may_take_a_while___": {
+      "message": "Ова радња може потрајати…"
+   },
+   "Time_Zone": {
+      "message": "Временска зона"
+   },
+   "Timor_Leste": {
+      "message": "Источни Тимор"
+   },
+   "Title": {
+      "message": "Наслов"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "Да бисте извезли '1Password' пријаве, пријавите се у програму. Изабери све или само лозинке које желите да извезете. Затим изаберите: File/Export All/Text file... или File/Export Selected/Text file... Кликните на дугме 'Export' и сачувајте датотеку, и увезите ту датотеку."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Да бисте извезли 'Clipperz' картице, пријавите се на www.clipperz.com. Кликните на 'data', а затим 'Export', па 'Export to JSON'. Копирајте комплетан текст и сачувајте га у датотеци користећи текст едитор, и затим увозите је. Имајте на уму да овај увоз неће радити исправно ако сте променили имена поља из својих стандардних вредности."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "Да бисте извезли FireForm профиле, кликните десним тастером миша на икону „FireForm“-а, а затим изаберите 'Simple setup'. Идите на картицу 'General options', кликните на 'Export all profiles', и сачувајте у XML датотеку. Увезите добијену датотеку."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "Да би сте извезли HP Password Safe, сачувајте у HTML фајлу. Увезите добијен фајл."
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Да бисте извезли лозинке из Passpack: Пријавите се, идите на 'Tools' екрану и кликните на 'Export'. Под  _What Type of Format Would You Like To Export?_ изаберите _Comma Separated Values_, а на _Which Entries Would You Like To Export?_ изаберите _All of my entries_, а затим притисните _Continue_. Изаберите сав текст у текст-поље на следећем екрану, копирајте га у оставу, направите нову датотеку названу passpack.csv са оставом, налепите садржај у ту датотеку. Увезите ту датотеку."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Да би сте извезли лозинке из Складишта лозинки, кликните језичак 'Алати' и изаберите 'Извоз'. Изаберите 'Extensible Markup Language format (*.xml)', наведите циљну датотеку и изаберите фасциклу коју желите да извезете."
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "Да бисте извезли лозинке из Revelation Password Manager, извезете их као XML."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Да бисте почели са LastPass, мораћете да додате сајтове на свом налогу."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Да бисте увезли Ви-Фи лозинке, једноставно кликните на Увоз испод."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "За увоз из PINs Password Manager, извезите у 'Tab Separated'. Затим, увезите датотеку."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "Да бисте увезли ваше MSI PasswordKeeper пријаве, отворите програм. Кликните на 'Txt', а потом на 'Open'. Увезите добијену датотеку."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "Да увезете 'TurboPasswords' пријаве, отворите програм и датотеку коју ћете извести. Ако желите да ограничите извоз у одређену категорију или врсту, филтрирајте ставке користећи 'Category' и 'Type' изнад главног прозора. Одаберите 'File|Export Category'. Ово отвара стандардни дијалог сачувавања, тако да унесете име датотеке и локацију, а затим изаберите 'Comma Separated Values (.csv)' као врсту сачувавања."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Да бисте заштитили своју приватност и држали Ваше податке поверљиве,"
+   },
+   "Togo": {
+      "message": "Того"
+   },
+   "Tokelau": {
+      "message": "Токелау"
+   },
+   "Tonga": {
+      "message": "Тонга"
+   },
+   "Tools": {
+      "message": "Алатке"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Тринидад и Тобаго"
+   },
+   "Try_Again": {
+      "message": "Покушајте поново"
+   },
+   "Tunisia": {
+      "message": "Тунис"
+   },
+   "TurboPasswords": {
+      "message": "ТурбоЛозинке"
+   },
+   "Turkey": {
+      "message": "Турска"
+   },
+   "Turkmenistan": {
+      "message": "Туркменистан"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Острва Туркс и Каикос"
+   },
+   "Tuvalu": {
+      "message": "Тувалу"
+   },
+   "Type": {
+      "message": "Тип"
+   },
+   "Type_": {
+      "message": "Тип:"
+   },
+   "URL": {
+      "message": "Адреса"
+   },
+   "URL_": {
+      "message": "УРЛ:"
+   },
+   "USERNAME": {
+      "message": "КОРИСНИЧКО ИМЕ"
+   },
+   "Uganda": {
+      "message": "Уганда"
+   },
+   "Ukraine": {
+      "message": "Украјина"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Улаан Батаар, Перт"
+   },
+   "United_Arab_Emirates": {
+      "message": "Уједињени Арапски Емирати"
+   },
+   "United_Kingdom": {
+      "message": "Уједињена Енгленска"
+   },
+   "United_States": {
+      "message": "Сједињене Америчке Државе"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "United States Minor Outlying Islands"
+   },
+   "Unknown": {
+      "message": "Непознат"
+   },
+   "Unselect_All": {
+      "message": "Скини одабир"
+   },
+   "Up": {
+      "message": "Up"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Надоградња на LastPass Online!"
+   },
+   "Uploading_Data___": {
+      "message": "Пренос података..."
+   },
+   "Uruguay": {
+      "message": "Уругвај"
+   },
+   "Use_802_1X": {
+      "message": "Користите 802.1X"
+   },
+   "User_Manual": {
+      "message": "Приручник"
+   },
+   "User_name": {
+      "message": "Корисничко име"
+   },
+   "Username_": {
+      "message": "Корисничко име:"
+   },
+   "Usernameproper": {
+      "message": "Корисничко име"
+   },
+   "Uzbekistan": {
+      "message": "Узбекистан"
+   },
+   "Value_to_fill": {
+      "message": "Вредност за попуњавање"
+   },
+   "Vanuatu": {
+      "message": "Ванату"
+   },
+   "Vault": {
+      "message": "Сеф"
+   },
+   "Venezuela": {
+      "message": "Венецуела"
+   },
+   "Version": {
+      "message": "Издање"
+   },
+   "Version_": {
+      "message": "Издање:"
+   },
+   "Viet_Nam": {
+      "message": "Вијетнам"
+   },
+   "View_Image": {
+      "message": "Види слику"
+   },
+   "View_Passwords": {
+      "message": "Приказ лозинке"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Девичанска острва (Британска)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Девичанска острва (САД)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Валис и Футуна"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Упозори пре попуњавање несигурних формулара"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Гледати видео за основне употребе"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Такође не задржавамо копије или резервне копије."
+   },
+   "Weak_Password": {
+      "message": "Слаба лозинка"
+   },
+   "Website": {
+      "message": "Сајт"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Добродошли у LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Западна Централна Африка"
+   },
+   "Western_Sahara": {
+      "message": "Западна Сахара"
+   },
+   "Wi_Fi_Password": {
+      "message": "Ви-Фи лозинка"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Ви-Фи лозинке"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Желите ли да сада подесите профил за пуњавање формулара?"
+   },
+   "XML_Files": {
+      "message": "XML датотеке"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Иангон (Рангун)"
+   },
+   "Yemen": {
+      "message": "Јемен"
+   },
+   "Yes": {
+      "message": "Да"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Да, дозволите ми да одаберем које ставке желим да увезем у LastPass"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Да, дозволи ми да уђем и прегледам податциа који ће се користити приликом попуњавања формулара"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Премештате сајтове са дељене фасцикле у ​​ваш ковчег. Ово ће потенцијално да их постави недоступни осталима.\n\n Да ли желите да наставите?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Премештате сајтове у другу подељену фасциклу. Ово може да промени које особе имају приступ сајтовима.\n\n Да ли желите да наставите?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Померате сајтове у подељену фасциклу. Ово ће их потенцијално учинити доступним другима."
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Не можете доделити више од једне пречице истој вредности."
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Не можете да преместите појединачно подељене сајтове у подељену фасциклу."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Тренутно имате LastPass подешен да запамти лозинку. На тај начин аутоматско одјављивање је бескорисно. Желите ли да прекинете да LastPass запамтити вашу лозинку?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Још увек нисте изабрали подразумевани профил попуњавања формулара. Да ли то сада да се уради?"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Можда исто блокирате свих колачића, што изазива да Chrome онемогући приступ HTML5 базе."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Морате се сложити да пошаљете шифроване податке на LastPass.com.\n\nLastPass.com. кодира податке и шаље их на свом сигурнон серверу.\nНико из LastPass не може да чита ваше поверљиве податке су шифровани помоћу Ваше\nтајне лозинке и ви сте једини који знате ту лозинку."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Морате се сложити са условима за наставак"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Морате унети име."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Морате унети јединствено име."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Морате поново покренути Chrome за одразивање промена"
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Морате поново покренути прегледач да би промене ступиле на снагу."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "4 цифре године рођења"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Ваше Chrome лозинке су успешно увезене."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Ваш ЗИП или поштански број"
+   },
+   "Your_address_information": {
+      "message": "О вашој адреси"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Ваш прилог се налази на адреси:"
+   },
+   "Your_bank_account_information": {
+      "message": "О свом банковном рачуну"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Ваш број банковног рачуна.\nОбично може се наћи са десне стране броја усмеравања на ваше личне чекове."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Број усмеравања ваше банке.\nТих 9 цифара могу се обично наћи на ваше личне чекове у доњем левом углу."
+   },
+   "Your_birth_day": {
+      "message": "Ваш дан рођења"
+   },
+   "Your_birth_month": {
+      "message": "Ваш месец рођења"
+   },
+   "Your_city_name": {
+      "message": "Ваше име града"
+   },
+   "Your_company_s_name": {
+      "message": "Ваше име компаније"
+   },
+   "Your_contact_information": {
+      "message": "Ваше контакт информације"
+   },
+   "Your_country_name": {
+      "message": "Ваше име земље"
+   },
+   "Your_county_name": {
+      "message": "Ваше име кантону"
+   },
+   "Your_credit_card_information": {
+      "message": "Информације о кредитној картици"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Ваша тренутна подешавања захтевају да унесете LastPass лозинку да бисте довршили ову радњу."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Ваши подаци су извезени у"
+   },
+   "Your_email_address": {
+      "message": "Ваша е-пошта адреса"
+   },
+   "Your_first_name": {
+      "message": "Ваше име"
+   },
+   "Your_government_ID_number": {
+      "message": "Ваш владин број"
+   },
+   "Your_last_name": {
+      "message": "Ваше презиме"
+   },
+   "Your_middle_name": {
+      "message": "Ваше средње име"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Ваша лозинка не може бити иста као и вашег имејла."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Ваша лозинка је лако налажњива."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Ваша лозинка је превише кратка. Мора имати најмање 6 знакова"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Ваша лозинка је превише кратка. Мора да има најмање 8 знакова"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Ваш подсетник лозинке служи да вас подсети на оно што"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Лозинке се не подударају."
+   },
+   "Your_personal_information": {
+      "message": "Ваши лични подаци"
+   },
+   "Your_phone_number": {
+      "message": "Ваш број телефона"
+   },
+   "Your_phone_number_extension": {
+      "message": "Локал вашег телефонског броја"
+   },
+   "Your_prefix_or_title": {
+      "message": "Ваш префикс или наслов"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Изабрани идентитет више не постоји. Враћање на 'Све' и одјављивање."
+   },
+   "Your_sex": {
+      "message": "Ваш секс"
+   },
+   "Your_state_or_province_name": {
+      "message": "Ваша држава или име провинције"
+   },
+   "Your_street_address": {
+      "message": "Ваша кућна адреса"
+   },
+   "Your_time_zone": {
+      "message": "Ваша временска зона"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Ваше корисничко име приликом регистрације на Веб локације"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey Multifactor Аутентификација"
+   },
+   "Yugoslavia": {
+      "message": "Југославија"
+   },
+   "ZIP___Postal_code": {
+      "message": "Поштански код"
+   },
+   "Zambia": {
+      "message": "Замбија"
+   },
+   "Zimbabwe": {
+      "message": "Зимбабве"
+   },
+   "_Hide_": {
+      "message": "[Сакри]"
+   },
+   "_History_": {
+      "message": "[Историја]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(New Pending Share Offers)"
+   },
+   "_Show_": {
+      "message": "[Прикажи]"
+   },
+   "_domain_": {
+      "message": "(домен)"
+   },
+   "_none_": {
+      "message": "(ништа)"
+   },
+   "_unknown_": {
+      "message": "[Непознато]"
+   },
+   "a_zlower": {
+      "message": "А-з"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "је Ваша лозинка, а ипак је сачувава тајну."
+   },
+   "ago": {
+      "message": "пре"
+   },
+   "and": {
+      "message": "и"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "контактирајте нас и ми ћемо вам послати имејл са подсетником лозинке."
+   },
+   "day": {
+      "message": "дан"
+   },
+   "days": {
+      "message": "дана"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "лок."
+   },
+   "false": {
+      "message": "лажно"
+   },
+   "favorites": {
+      "message": "омињени"
+   },
+   "hour": {
+      "message": "сат"
+   },
+   "hours": {
+      "message": "сати"
+   },
+   "just_now": {
+      "message": "само сада"
+   },
+   "minute": {
+      "message": "минут"
+   },
+   "minutes": {
+      "message": "минута"
+   },
+   "month": {
+      "message": "месец"
+   },
+   "months": {
+      "message": "месеци"
+   },
+   "privacy_statement": {
+      "message": "Изјава о приватности"
+   },
+   "recently_usedlower": {
+      "message": "недавно коришћено"
+   },
+   "search": {
+      "message": "тражи"
+   },
+   "second": {
+      "message": "секунд"
+   },
+   "seconds": {
+      "message": "секунди"
+   },
+   "terms_of_service": {
+      "message": "употребе сервиса"
+   },
+   "the_current_tab": {
+      "message": "на актуелном језичку"
+   },
+   "true": {
+      "message": "тачан"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "ми не знамо која Вам је LastPass лозинка."
+   },
+   "week": {
+      "message": "недеља"
+   },
+   "weeks": {
+      "message": "недеља"
+   },
+   "year": {
+      "message": "година"
+   },
+   "years": {
+      "message": "године"
+   }
+}

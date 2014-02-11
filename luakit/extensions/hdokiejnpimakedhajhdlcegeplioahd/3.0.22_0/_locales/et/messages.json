@@ -1,0 +1,3065 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Password"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Sisestage oma YubiKey USB-porti, nii et USB-kontaktid oleks ülespoole"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Käivita Google ID programm oma mobiiltelefonis"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Käivitage LastPassi rakendus Sesame, et luua ühekordne parool"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Sisestage kehtiv kontrollkood allolevasse lahtrisse."
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Aseta ühekordne parool allolevasse ja vajuta 'Autendi'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Oodake, kuni teie YubiKey puutenupp põleb püsiva tulega"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Kliki autentimine"
+   },
+   "ACTION": {
+      "message": "TEGEVUS"
+   },
+   "A_Zupper": {
+      "message": "A-Z"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Kohustuslik LastPassi uuendus on saadaval. Palun vajuta OK, et alustada allalaadimist ja paigaldust."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "Leiti korduskatsefail. See tähendab tõenäoliselt, et mõned saidi muudatused pole salvestatud. Kas soovite selle faili kustutada ja kaotada potentsiaalselt mõned muudatused?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Päringu töötlemisel ilmnes serveritõrge."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Saiti, mis on varem jagatud pole võimalik jagatud kausta kopeerida.\n\nKas soovid teha koopia?"
+   },
+   "About": {
+      "message": "Teave"
+   },
+   "About___": {
+      "message": "Teave..."
+   },
+   "Accept": {
+      "message": "Nõustu"
+   },
+   "Account_Settings": {
+      "message": "Konto sätted"
+   },
+   "Account_Type": {
+      "message": "Konto tüüp"
+   },
+   "Account_number": {
+      "message": "Konto number"
+   },
+   "Actionproper": {
+      "message": "Toiming"
+   },
+   "Actions": {
+      "message": "Toimingud"
+   },
+   "Add": {
+      "message": "Lisa"
+   },
+   "Add_Credit_Card": {
+      "message": "Lisa krediitkaart"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Lisa krediitkaardi profiil"
+   },
+   "Add_Field": {
+      "message": "Lisa väli"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Lisa vormi täitmise profiil"
+   },
+   "Add_Identity": {
+      "message": "Lisa identiteet"
+   },
+   "Add_New_Site": {
+      "message": "Lisa uus sait"
+   },
+   "Add_Note": {
+      "message": "Lisa märkus"
+   },
+   "Add_Profile": {
+      "message": "Lisa profiil"
+   },
+   "Add_Secure_Note": {
+      "message": "Lisa turvaline märkus"
+   },
+   "Add_Site": {
+      "message": "Lisa sait"
+   },
+   "Add_another_custom_field": {
+      "message": "Lisa uus kohandatud väli"
+   },
+   "Address": {
+      "message": "Aadress"
+   },
+   "Address_1": {
+      "message": "Aadress 1"
+   },
+   "Address_2": {
+      "message": "Aadress 2"
+   },
+   "Address_3": {
+      "message": "Aadress 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Haldustööriistad"
+   },
+   "Advanced": {
+      "message": "Täpsemalt"
+   },
+   "Advanced_Options": {
+      "message": "Täppis seaded"
+   },
+   "Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "Agent_Name": {
+      "message": "Agendi nimi"
+   },
+   "Agent_Phone": {
+      "message": "Agendi telefon"
+   },
+   "Aland_Islands": {
+      "message": "Ahvenamaa"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albaania"
+   },
+   "Algeria": {
+      "message": "Algeria"
+   },
+   "Alias": {
+      "message": "Alias"
+   },
+   "All": {
+      "message": "Kõik"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Kas lubate LastPassil otsida teie arvutist ebaturvalisi andmeid?"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Vali alati profiil ja krediitkaart"
+   },
+   "American_Samoa": {
+      "message": "Ameerika Samoa"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Ateena, Istanbul, Beirut, Kairo, Jeruusalemm"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berliin, Rooma, Viin, Praha, Brüssel"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Uuendus on saadaval. Kas soovite selle installida?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "Teie saitide laadimisel ilmnes tõrge. Palun logige uuesti sisse."
+   },
+   "An_error_occurred": {
+      "message": "Esines tõrge"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Sinu Google Chrome paroolide importimise ajal esines tõrge."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Esines viga andmete uuesti kürüptimisel"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Esines tõrge andmete üleslaadimisel. Kas soovid uuesti proovida?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Antarktika"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua ja Barbuda"
+   },
+   "Appearance": {
+      "message": "Välimus"
+   },
+   "Application_": {
+      "message": "Programm:"
+   },
+   "Applications": {
+      "message": "Rakendused"
+   },
+   "April": {
+      "message": "Aprill"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Suvalised märkmed, mis hoitakse vormi täitmis profiili kõrval"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Oled sa kindel, et tahad kustutada seda saiti?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Kas soovite kindlasti, et LastPass peaks meeles teie parooli? See vähendab oluliselt teie LastPassi konto turvalisust."
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Oled sa kindel, et soovid kustutada?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Oled kindel, et soovid kustutada valitud failid?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Kas soovite kindlasti kustutada valitud saidid?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Oled sa kindel, et soovid kustutada seda rakendust?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Kas soovite kindlasti kustutada selle välja?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Kas olete kindel, et soovite kustutada selle vormitäite profiili?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Kas soovite kindlasti kustutada selle genereeritud parooli?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Oled sa kindel et soovid kustutada seda gruppi?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Oled sa kindel, et soovid kustutada selle mitte-kunagi URL'i?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Kas soovite kindlasti kustutada selle turvalise märkuse?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Kas soovite kindlasti kustutada selle saidi?"
+   },
+   "Argentina": {
+      "message": "Argentiina"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armeenia"
+   },
+   "Aruba": {
+      "message": "Aruuba"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlandi ookeani aeg (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "August"
+   },
+   "Australia": {
+      "message": "Austraalia"
+   },
+   "Austria": {
+      "message": "Austria"
+   },
+   "Authenticate": {
+      "message": "Autendi"
+   },
+   "Authentication": {
+      "message": "Autentimine"
+   },
+   "Authentication_Failed_": {
+      "message": "Autentimine ebaõnnestus."
+   },
+   "AutoFill": {
+      "message": "Täida autom."
+   },
+   "AutoLogin": {
+      "message": "Logi sisse autom."
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Täida sisselogimisväljad automaatselt"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Logi automaatselt välja peale jõudeseisu (min)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Logi automaatselt välja, kui kõik brauserid on suletud ja Chrome on olnud suletud (min)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Automaatselt logi sisse saitidesse kui aeg viimasest sisselogimisest > (sekundites)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Vältida kahemõttelisi märke"
+   },
+   "Azerbaijan": {
+      "message": "Aserbaidžaan"
+   },
+   "Azores": {
+      "message": "Assoorid"
+   },
+   "Back": {
+      "message": "Tagasi"
+   },
+   "Bahamas": {
+      "message": "Bahama"
+   },
+   "Bahrain": {
+      "message": "Bahrain"
+   },
+   "Baku__Yerevan": {
+      "message": "Bakuu, Jerevan"
+   },
+   "Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "Bank_Account": {
+      "message": "Pangakonto"
+   },
+   "Bank_accountformfill": {
+      "message": "Pangakonto"
+   },
+   "Bank_name": {
+      "message": "Panga nimi"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Belarus": {
+      "message": "Valgevene"
+   },
+   "Belgium": {
+      "message": "Beligia"
+   },
+   "Belize": {
+      "message": "Beliis"
+   },
+   "Benin": {
+      "message": "Beniin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Binary_Component_": {
+      "message": "Binaar komponent:"
+   },
+   "Birthday": {
+      "message": "Sünnipäev"
+   },
+   "Blacklist": {
+      "message": "Sinu konto on ajutiselt peatatud (5 minutiks) liiga paljude ebaõnnestunud sisenemisürituste tõttu."
+   },
+   "Blog": {
+      "message": "Ajaveeb"
+   },
+   "Bolivia": {
+      "message": "Boliivia"
+   },
+   "Bookmarklets": {
+      "message": "Bookmarklet'id"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosnia ja Hertsegoviina"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvet saar"
+   },
+   "Branch_Address": {
+      "message": "Filiaali aadress"
+   },
+   "Branch_Phone": {
+      "message": "Filiaali telefon"
+   },
+   "Brazil": {
+      "message": "Brasiilia"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Briti India Ookeani Territoorium"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Sirvi veebi nagu sa seda tavaliselt teed ja LastPass jätab automaatselt meelde paroolid nagu sa neid sisestad."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Ehitatud:"
+   },
+   "Bulgaria": {
+      "message": "Bulgaaria"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Aga ma olen unustaja tüüpi... Mida ma peaksin tegema, kui olen oma parooli unustanud?"
+   },
+   "CSV_Files": {
+      "message": "CSV-failid"
+   },
+   "Cambodia": {
+      "message": "Kambodža"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Ei leia peidetud LastPass akent"
+   },
+   "Canada": {
+      "message": "Kanada"
+   },
+   "Canary_Islands": {
+      "message": "Kanaari saared"
+   },
+   "Cancel": {
+      "message": "Loobu"
+   },
+   "Cape_Verde": {
+      "message": "Cape Verde"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Cabo Verde saar"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalaani"
+   },
+   "Cayman_Islands": {
+      "message": "Kaimanisaared"
+   },
+   "Central_African_Republic": {
+      "message": "Kesk-Aafrika Vabariik"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Kesk-Ameerika, Saskatchewan"
+   },
+   "Chad": {
+      "message": "Tšaad"
+   },
+   "Change": {
+      "message": "Muuda"
+   },
+   "Change_Group_Name": {
+      "message": "Muuda gruppi nime"
+   },
+   "Change_Password": {
+      "message": "Muuda parooli"
+   },
+   "Check_For_Updates": {
+      "message": "Vaata uuendusi"
+   },
+   "Checkbox": {
+      "message": "Märkeruut"
+   },
+   "Checking_For_Updates___": {
+      "message": "Kontrollin uuendusi..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Tšiili"
+   },
+   "China": {
+      "message": "Hiina"
+   },
+   "Chinese__Simplified_": {
+      "message": "Hiina (lihtsustatud)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Hiina (traditsiooniline)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Vali profiil ja krediitkaart"
+   },
+   "Choose_a_source_above_": {
+      "message": "Vali allikas eespool."
+   },
+   "Christmas_Island": {
+      "message": "Jõulusaar"
+   },
+   "City___Town": {
+      "message": "Linn"
+   },
+   "Clear": {
+      "message": "Puhasta"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Puhasta lõikepuhver pärast kasutamist (sekundit)"
+   },
+   "Clear_Forms": {
+      "message": "Tühjenda vormid"
+   },
+   "Clear_Local_Cache": {
+      "message": "Tühjenda kohalik vahemälu"
+   },
+   "Clear_Recent": {
+      "message": "Puhasta viimased"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Klõpsake nuppu Jätka, et alustada LastPassi kasutamist."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Vajuta siia, et käivitada konto seaded"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Vajuta siia, et anda tagasisidet"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Sulge"
+   },
+   "Close_this_window": {
+      "message": "Sulge see aken"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocose (Keelingi) saared"
+   },
+   "Collapse_All": {
+      "message": "Ahenda kõik"
+   },
+   "Colombia": {
+      "message": "Kolumbia"
+   },
+   "Comoros": {
+      "message": "Comoros"
+   },
+   "Company": {
+      "message": "Ettevõte"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Firma poliitika keelab seda operatsiooni."
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Firma poliitika takistab mõnede seadete muutmise, kõiki uuendusi ei salvestatud."
+   },
+   "Configure_Form_Fill": {
+      "message": "Seadista vormi täitmine"
+   },
+   "Confirm": {
+      "message": "Kinnita"
+   },
+   "Confirm_Password": {
+      "message": "Kinnita parool"
+   },
+   "Congo": {
+      "message": "Kongo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongo Demokraatlik Vabariik"
+   },
+   "Congratulations": {
+      "message": "Palju õnne"
+   },
+   "Connection_Mode": {
+      "message": "Ühenduse režiim"
+   },
+   "Connection_Type": {
+      "message": "Ühenduse tüüp"
+   },
+   "Contact": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Jätka"
+   },
+   "Cook_Islands": {
+      "message": "Cooki saared"
+   },
+   "Copy": {
+      "message": "Kopeeri"
+   },
+   "Copy_Note": {
+      "message": "Kopeeri Meelespea"
+   },
+   "Copy_Password": {
+      "message": "Kopeeri parool"
+   },
+   "Copy_URL": {
+      "message": "Kopeeri URL"
+   },
+   "Copy_Username": {
+      "message": "Kopeeri kasutajanimi"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Autoriõigus 2008 LastPass. Kõik õigused on kaitstud.\nOsa sellest tarkvarast on litsenseeritud kolmandatelt osapooltelt, nagu kirjas:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Elevandiluurannik"
+   },
+   "Country": {
+      "message": "Riik"
+   },
+   "County": {
+      "message": "Vald"
+   },
+   "Create_Account": {
+      "message": "Loo konto"
+   },
+   "Create_Group": {
+      "message": "Loo grupp"
+   },
+   "Create_Sub_Group": {
+      "message": "Loo alamrühm"
+   },
+   "Create_an_Account": {
+      "message": "Loo konto"
+   },
+   "Creating_Account___": {
+      "message": "Konto loomine..."
+   },
+   "Credit_Card": {
+      "message": "Krediitkaart"
+   },
+   "Credit_card_number": {
+      "message": "Krediitkaardi number"
+   },
+   "Credit_cardformfill": {
+      "message": "Krediitkaart"
+   },
+   "Croatia": {
+      "message": "Horvaatia"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Kuuba"
+   },
+   "Custom_Value": {
+      "message": "Kohendatud väärtus"
+   },
+   "Custom_field__": {
+      "message": "Kohandatud välja #"
+   },
+   "Custom_fields": {
+      "message": "Kohandatud väljad"
+   },
+   "Cyprus": {
+      "message": "Küpros"
+   },
+   "Czech_Republic": {
+      "message": "Tšehhi Vabariik"
+   },
+   "Danish": {
+      "message": "Taani"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Andmebaas"
+   },
+   "Date_of_Birth": {
+      "message": "Sünnikuupäev"
+   },
+   "December": {
+      "message": "Detsember"
+   },
+   "Default": {
+      "message": "Vaikimisi"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Vaike vormi täitmise profiil"
+   },
+   "Delete": {
+      "message": "Kustuta"
+   },
+   "Delete_Cache": {
+      "message": "Kustuta Vahemälu"
+   },
+   "Delete_Group": {
+      "message": "Kustuta grupp"
+   },
+   "Delete_Selected": {
+      "message": "Kustuta valitud"
+   },
+   "Delete_Site_": {
+      "message": "Kustutada sait?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Kustuta see vormi täitmise profiil"
+   },
+   "Denmark": {
+      "message": "Taani"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Keela ebaturvaline Chrome paroolihaldur"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Keela multiteguri autentimine"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Keela ühe teguri autentimine"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Tühista muudatused ja sulge see aken"
+   },
+   "Djibouti": {
+      "message": "Djibouti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Ära kirjuta üle välju, mis on juba täidetud"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Ära küsi uuesti selle kohta"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Kas sa soovid tõesti väljuda? Sa ei saa kasutada LastPassi ilma kontot loomata."
+   },
+   "Dominica": {
+      "message": "Dominica"
+   },
+   "Dominican_Republic": {
+      "message": "Dominikaani Vabariik"
+   },
+   "Down": {
+      "message": "Alla"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "Juhiluba"
+   },
+   "Dutch": {
+      "message": "Holland"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "VIGA: Jagatud kaustade vahel domeenide liigutamine ei ole hetkel toetatud."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "VIGA: Sul ei ole lubatud liigutada saite jagatud kaustadest välja. Kustutamine ainult lubatud."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Ida-Ameerika aeg (USA ja Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ecuador"
+   },
+   "Edit": {
+      "message": "Muuda"
+   },
+   "Edit_Application": {
+      "message": "Muuda rakendust"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Muuda krediitkaardi profiili"
+   },
+   "Edit_Form_Fields": {
+      "message": "Vormiväljade muutmine"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Muuda vormi täitmise profiili"
+   },
+   "Edit_Secure_Note": {
+      "message": "Turvalise märkuse muutmine"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Muuda turvalisi märkusi"
+   },
+   "Edit_Site": {
+      "message": "Muuda saiti"
+   },
+   "Edit_Site_Fields": {
+      "message": "Saidi väljade muutmine"
+   },
+   "Egypt": {
+      "message": "Egiptus"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-mail"
+   },
+   "Email_Account": {
+      "message": "Emaili konto"
+   },
+   "Email_address": {
+      "message": "E-posti aadress"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "E-posti aadress on juba kasutuses, kas olete unustanud oma parooli?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Luba krediidi Seire"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Luba Vaba Krediidi Seire"
+   },
+   "End": {
+      "message": "Lõpp"
+   },
+   "English": {
+      "message": "Inglise"
+   },
+   "English__United_Kingdom_": {
+      "message": "Inglise (Suurbritannia)"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Sisesta suvalised märkmed"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Sisesta oma kiipkaardi PIN"
+   },
+   "Equatorial_Guinea": {
+      "message": "Ekvatoriaal-Guinea"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Teie LastPassi saitide hankimisel ilmnes tõrge. Palun proovige uuesti sisse logida, et värskendada teie saitide nimekirja."
+   },
+   "ErrorLoginMsg": {
+      "message": "LastPassi sisse logimisel ilmnes tõrge. Palun kontrollige oma Interneti-ühendust."
+   },
+   "ErrorSendingMsg": {
+      "message": "Serveriga ühenduse loomisel ilmnes tõrge. Palun kontrollige oma Interneti-ühendust."
+   },
+   "ErrorSessionMsg": {
+      "message": "Sinu LastPass sessioon on ilmselt lõppenud. Palun sisene uuesti."
+   },
+   "Error_opening_attachment_": {
+      "message": "Viga manuse avamisel."
+   },
+   "Estonia": {
+      "message": "Eesti"
+   },
+   "Ethiopia": {
+      "message": "Etioopia"
+   },
+   "Evening_number": {
+      "message": "Õhtune number"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass saab nüüd talletada kohalikus arvutis ühekordse parooli (One Time Password), mida saab kasutada teie konto taastamiseks, kui olete unustanud oma ülemparooli. See ühekordne parool jääb keelatuks seni, kuni see serveris aktiveeritakse.\n\nKas soovite aktiveerida konto taastamise?"
+   },
+   "Expand_All": {
+      "message": "Laienda kõik"
+   },
+   "Expiration_date": {
+      "message": "Aegumistähtaeg"
+   },
+   "Export": {
+      "message": "Ekspordi"
+   },
+   "Export_To": {
+      "message": "Ekspordi"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Ekspordi LastPass CSV faili"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falklandi saared (Malviinid)"
+   },
+   "Faroe_Islands": {
+      "message": "Fääri saared"
+   },
+   "Favorite": {
+      "message": "Lemmik"
+   },
+   "Favoritesproper": {
+      "message": "Lemmikud"
+   },
+   "Fax_number": {
+      "message": "Faksinumber"
+   },
+   "February": {
+      "message": "Veebruar"
+   },
+   "Feedback": {
+      "message": "Tagasiside"
+   },
+   "Female": {
+      "message": "Naine"
+   },
+   "Fields_": {
+      "message": "Väljad:"
+   },
+   "Fiji": {
+      "message": "Fidži"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fidži, Kamtšatka, Marshalli."
+   },
+   "File": {
+      "message": "Fail"
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "Fail liiga suur, see peab olema väiksem kui 5MB."
+   },
+   "Fill": {
+      "message": "Täida"
+   },
+   "Fill_Current": {
+      "message": "Täida praegune"
+   },
+   "Fill_Form": {
+      "message": "Täida vorm"
+   },
+   "Fill_Forms": {
+      "message": "Täida vormid"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Täida vaikevormi täitmis profiil"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Täida järgmine kasutajanimi (kui on mitu)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Täida eelmine kasutajanimi (kui on mitu)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Täida või muuda vormi täitmis andmeid"
+   },
+   "FillableFormDetected": {
+      "message": "Sellel lehel on tuvastatud täidetav vorm."
+   },
+   "Find_a_site": {
+      "message": "Leia sait"
+   },
+   "Finland": {
+      "message": "Soome"
+   },
+   "Finnish": {
+      "message": "Soome"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefxi paroolihaldur"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "3 esimest numbrit oma telefoni numberis"
+   },
+   "First_name": {
+      "message": "Eesnimi"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "Iga alltoodud koordinaadi jaoks leia väärtus oma koordinaatvõrgus ja sisesta väärtus"
+   },
+   "FormFill": {
+      "message": "Täida vormid"
+   },
+   "FormFill_Profiles": {
+      "message": "Täida vormi profiilid"
+   },
+   "Form_Fill": {
+      "message": "Vormi täitmine"
+   },
+   "Form_Name_": {
+      "message": "Vormi nimi:"
+   },
+   "Forums": {
+      "message": "Foorumid"
+   },
+   "France": {
+      "message": "Prantsusmaa"
+   },
+   "French": {
+      "message": "Prantsuse"
+   },
+   "French_Guiana": {
+      "message": "Prantsuse Guajaana"
+   },
+   "French_Polynesia": {
+      "message": "Prantsuse Polüneesia"
+   },
+   "French_Southern_Territories": {
+      "message": "Prantsuse Lõunaalad"
+   },
+   "French__Canada_": {
+      "message": "Prantsuse (Kanada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "Terve järjekord faili importimiseks:"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburgh, Lissabon, London"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lissabon, London"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambia"
+   },
+   "Gender": {
+      "message": "Sugu"
+   },
+   "General": {
+      "message": "Üldist"
+   },
+   "Generate": {
+      "message": "Genereeri"
+   },
+   "GeneratePassword": {
+      "message": "Kui loote kontot või muudate oma parooli, siis klõpsake nuppu Genereeri, et luua LastPassiga unikaalne ja turvaline parool."
+   },
+   "Generate_Password": {
+      "message": "Loo parool"
+   },
+   "Generate_Secure_Password": {
+      "message": "Genereeri turvaline parool"
+   },
+   "Generated_Password_for": {
+      "message": "Genereeritud parool saidile"
+   },
+   "Generic": {
+      "message": "Geneeriline"
+   },
+   "Generic_CSV_File": {
+      "message": "Üldine CSV fail"
+   },
+   "Georgia": {
+      "message": "Gruusia"
+   },
+   "German": {
+      "message": "Saksa"
+   },
+   "Germany": {
+      "message": "Saksamaa"
+   },
+   "Ghana": {
+      "message": "Ghana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Premium_": {
+      "message": "Mine Premiumi!"
+   },
+   "Go_to_URL": {
+      "message": "Mine URL-ile"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google ID kõigi tegurite identifitseerimiseks"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome paroolide haldur"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome nõuab, et laiendus kasutaks sama keelt brauseris, nii et LastPass keele vahetamiseks, palun muuda peamine brauseri keel vastavalt Chrome seadetes."
+   },
+   "Greece": {
+      "message": "Kreeka"
+   },
+   "Greenland": {
+      "message": "Gröönimaa"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Gröönimaa, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Grupp:"
+   },
+   "Group_Name": {
+      "message": "Grupi nimi"
+   },
+   "Groups": {
+      "message": "Grupid"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Parool Kaitstud"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heardi ja McDonaldi saared"
+   },
+   "Height": {
+      "message": "Kõrgus"
+   },
+   "Help": {
+      "message": "Abi"
+   },
+   "Help_Translate": {
+      "message": "Aita tõlkida"
+   },
+   "Help___": {
+      "message": "Abi..."
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Peida kontektimenüü valikud"
+   },
+   "Hide_Password": {
+      "message": "Peida parool"
+   },
+   "Highlight_input_boxes": {
+      "message": "Tõsta sisestuskastid esile"
+   },
+   "History": {
+      "message": "Ajalugu"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Püha Tool (Vatikani Linnriik)"
+   },
+   "Home": {
+      "message": "Kodu"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "Hostname": {
+      "message": "Hostinimi"
+   },
+   "HotKeys": {
+      "message": "Kiirklahvid"
+   },
+   "Hungarian": {
+      "message": "Ungari"
+   },
+   "Hungary": {
+      "message": "Ungari"
+   },
+   "IBAN_Number": {
+      "message": "IBAN number"
+   },
+   "IMPORT_": {
+      "message": "IMPORDIN?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "ON VÄGA OLULINE, ET TE KUNAGI EI UNUSTAKS OMA UUT LASTPASSI PAROOLI."
+   },
+   "I_Forgot_my_Password": {
+      "message": "Unustasin parooli"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Ma unustasin oma parooli, Appi"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Olen lugenud ja nõustun"
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Ma mõistan, et minu krüptitud andmed saadetakse LastPassi"
+   },
+   "Iceland": {
+      "message": "Island"
+   },
+   "Identities": {
+      "message": "Identiteedid"
+   },
+   "Identity": {
+      "message": "Identiteet"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Kui see on valitud, palutakse teil sisestada uuesti oma ülemparool\nenne, kui lastakse teil vormi täitmis profiili kasutada"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Kui valitud, sinu krediidi raport on regulaarselt jälgitud ja sind hoiatakse kui midagi kahtlast toimub."
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Kui sul on juba LastPassi konto, võid selle akna sulgeda ja siseneda."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Kui te siiski unustasite oma LastPassi ülemparooli,"
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Kui olete kaotanud Google ID sead,e, kliki siia et välja lülitada Google ID identifitseerimine."
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Kui sa kaotasid oma Sesame seadme, vajuta siia, et keelata Sesame autentimine"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Kui sa kaotasid oma YubiKey seadme, vajuta siia, et keelata YubiKey autentimine"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Kui sa kaotasid oma koordinaatvõrgu, vajuta siia, et keelata koordinaatvõrgu autentimine"
+   },
+   "Import": {
+      "message": "Impordi"
+   },
+   "Import_From": {
+      "message": "Impordi"
+   },
+   "Import_Your_Data": {
+      "message": "Import oma andmed"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Teie andmete importimine LastPass hoidlasse tagab nende turvalisuse ja kaitseb sind identiteedivarguse eest. Kõik imporditud andmed JÄÄVAD täielikult konfidentsiaalseks: ainus, kes saab vaadata neid andmeid on TEIE."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "Kui tahad, et LastPass täidaks põhi autentimis dialoogid, pead lubama juurdepääsu abistavate seadetele."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "Kui tahad, et LastPass täidaks põhi autentimis dialoogid, pead paigaldama LastPass Chrome binaar versiooni."
+   },
+   "India": {
+      "message": "India"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indoneesia"
+   },
+   "Install": {
+      "message": "Paigalda"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Paigaldage LastPass Raamatukogu Chrome et võimaldada automaatne väljalogimine ...."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Paigalda Chrome binaarne LastPass versioon, mis võimaldab automaatset väljalogimist siis kui oled olnud tegevusetu"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Install binaarne versioon LastPass Chrome, et võimaldada importida paroolid Google Chrome parooli manager"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Paigalda Chrome'ile LastPass'i binaarne versioon, et võimaldada sisselogimise oleku jagamine teiste brauserite vahel."
+   },
+   "Instant_Messenger": {
+      "message": "Messenger"
+   },
+   "Instructions": {
+      "message": "Juhised"
+   },
+   "Insurance": {
+      "message": "Kindlustus"
+   },
+   "Invalid_Password_": {
+      "message": "Vale parool."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "E-posti aadress on vigane, proovi uuesti"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Iraan (Iraani Islamivabariik)"
+   },
+   "Iraq": {
+      "message": "Iraak"
+   },
+   "Ireland": {
+      "message": "Iirimaa"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karachi, Tashkent"
+   },
+   "Isle_of_Man": {
+      "message": "Mani saar"
+   },
+   "Israel": {
+      "message": "Iisrael"
+   },
+   "Issue_number": {
+      "message": "Dokumendi number"
+   },
+   "Issued_Date": {
+      "message": "Väljastatud kuupäev"
+   },
+   "Issuing_Authority": {
+      "message": "Väljastaja volitus"
+   },
+   "Italian": {
+      "message": "Itaalia"
+   },
+   "Italy": {
+      "message": "Itaalia"
+   },
+   "Jamaica": {
+      "message": "Jamaica"
+   },
+   "January": {
+      "message": "Jaanuar"
+   },
+   "Japan": {
+      "message": "Jaapan"
+   },
+   "Japanese": {
+      "message": "Jaapan"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordaania"
+   },
+   "July": {
+      "message": "Juuli"
+   },
+   "June": {
+      "message": "Juuni"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kasahstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Hoia ajalugu minu sisenemistest ja vormi täitmistest"
+   },
+   "Kenya": {
+      "message": "Keenia"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Korea Rahvademokraatlik Vabariik"
+   },
+   "Korea__Republic_Of": {
+      "message": "Korea Vabariik"
+   },
+   "Korean": {
+      "message": "Korea"
+   },
+   "Kuwait": {
+      "message": "Kuveit"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuveit, Riyadh, Nairobi, Tbilisi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kõrgõzstan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Keel"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Lao Demokraatlik Rahvavabariik"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV fail"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome'i tööriistariba"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "Lastpassi krüptitud fail"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass koordinaatvõrgu mitmefaktoriline autentimine"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass menüü"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass saab automaatselt täita veebilehe vorme ühe klõpsuga. Kasutades automaatset vormi täitmist, mitte ainult ei säästa see aega, vaid suurendab ka Teie turvalisust, kui ostlete internetis."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass ei saa sisse logida, kuni küpsised on lubatud lehelt lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass tuvastas ebaturvalise sisselogimisvormi.\n\nKas soovite jätkata?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass tuvastas ebaturvalise sisselogimisvormi.\n\nKas sa ikka soovid, et LastPass selle vormi täidaks?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass tuvastas parooli muutuse saidile "
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "Lastpass tuvastas parooli muutuse domeenil:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass tuvastas parooli muutuse kasutajal:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass avastas paigaldamise tõrke. Palun paigalda LastPass uuesti."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass on täitnud sinu sisselogimise andmed sellel leheküljel."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass on täielikult installitud! Kui installite LastPassi teistesse arvutitesse, siis ei pea te seda protsessi enam läbi tegema, vaid piisab sisse logimisest. Ärge jagage oma ülemparooli mitte kellegagi, sealhulgas LastPassi töötajatega, kuna me ei küsi seda kunagi! LastPass krüptib teie tundlikud andmed kohalikult, nii et isegi LastPassi töötajad ei pääse neile ligi. Te saate abi, klõpsates LastPassi ikooni ja valides käsu Abi."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass on viimane parool, mida peate meeles pidama. Kui olete uus LastPassi kasutaja, siis vajame vaid paari minutit teie aega, et teie konto tööle seada. Teil on võimalik kasutada seda kontot mistahes muu arvutiga, et hoida oma andmed alati sünkroonis. Alustamiseks klõpsake käsku Loo konto."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "4 viimast numbrit oma telefoni numberis"
+   },
+   "Last_Name2": {
+      "message": "Perekonnanimi2"
+   },
+   "Last_Touch": {
+      "message": "Viimane puude."
+   },
+   "Last_name": {
+      "message": "Perekonnanimi"
+   },
+   "Latvia": {
+      "message": "Läti"
+   },
+   "Launch": {
+      "message": "Käivita"
+   },
+   "Lebanon": {
+      "message": "Liibanon"
+   },
+   "Left": {
+      "message": "Vasakule"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Libeeria"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Liibüa"
+   },
+   "License_Class": {
+      "message": "Litsents klass"
+   },
+   "License_Key": {
+      "message": "Litsentsi võti"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Lithuania": {
+      "message": "Leedu"
+   },
+   "Local": {
+      "message": "Kohalik"
+   },
+   "Log_into_a_Site": {
+      "message": "Logi saidile sisse"
+   },
+   "Login": {
+      "message": "Logi sisse"
+   },
+   "LoginError": {
+      "message": "Viga LastPassi sisenemisel. Palun proovige uuesti."
+   },
+   "Login_to_LastPass": {
+      "message": "Logi sisse LastPassi"
+   },
+   "Logoff": {
+      "message": "Logi välja"
+   },
+   "Logoff_": {
+      "message": "Logi välja:"
+   },
+   "LoseChanges": {
+      "message": "Kas olete kindel, et soovite muuta selle saidi välju? Nii tehes lähevad kaotsi kõik sellesse saiti tehtud muudatused!"
+   },
+   "Luxembourg": {
+      "message": "Luksemburg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Aomen"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Makedoonia, endine Jugoslaavia Vabariik"
+   },
+   "Madagascar": {
+      "message": "Madagaskar"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malaisia"
+   },
+   "Maldives": {
+      "message": "Maldiivid"
+   },
+   "Male": {
+      "message": "Mees"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "March": {
+      "message": "Märts"
+   },
+   "Marshall_Islands": {
+      "message": "Marshalli Saared"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Ülemparool"
+   },
+   "Matching_Sites": {
+      "message": "Sobivad saidid"
+   },
+   "Mauritania": {
+      "message": "Mauritaania"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "May": {
+      "message": "Mai"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_Name": {
+      "message": "Liikme nimi"
+   },
+   "Membership": {
+      "message": "Liikmeskond"
+   },
+   "Membership_Number": {
+      "message": "Liikmenumber"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mehhiko"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Mikroneesia Ühendriigid"
+   },
+   "Mid_Atlantic": {
+      "message": "Kesk-Atlandi"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "3 keskmist numbrit oma telefoni numberis"
+   },
+   "Middle_name": {
+      "message": "Teine eesnimi"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway saared Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Minimaalne numbrite hulk"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobiilne e-posti aadress"
+   },
+   "Mobile_number": {
+      "message": "Mobiiltelefoni number"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldova Vabariik"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Mongoolia"
+   },
+   "Montenegro": {
+      "message": "Montenegro"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Veel"
+   },
+   "More_Information": {
+      "message": "Rohkem informatsiooni"
+   },
+   "Morocco": {
+      "message": "Maroko"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Mägede aeg (USA ja Kanada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Liiguta valitud grupp"
+   },
+   "Move_to_Group": {
+      "message": "Liiguta gruppi"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Liiguta alamgruppi"
+   },
+   "Mozambique": {
+      "message": "Mosambiik"
+   },
+   "Mr": {
+      "message": "Hr"
+   },
+   "Mrs": {
+      "message": "Pr"
+   },
+   "Ms": {
+      "message": "Prl"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Minu konto"
+   },
+   "My_LastPass_Vault": {
+      "message": "Minu LastPassi hoidla"
+   },
+   "Myanmar": {
+      "message": "Myanmar"
+   },
+   "NAME": {
+      "message": "NIMI"
+   },
+   "Name_": {
+      "message": "Nimi:"
+   },
+   "Name_on_card": {
+      "message": "Nimi kaardil"
+   },
+   "Nameproper": {
+      "message": "Nimi"
+   },
+   "Namibia": {
+      "message": "Namiibia"
+   },
+   "Nationality": {
+      "message": "Kodakondsus"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepaal"
+   },
+   "Netherlands": {
+      "message": "Holland"
+   },
+   "Netherlands_Antilles": {
+      "message": "Hollandi Antillid"
+   },
+   "Never": {
+      "message": "Mitte kunagi"
+   },
+   "Never_Show_Again": {
+      "message": "Ära näita seda enam"
+   },
+   "Never___": {
+      "message": "Mitte kunagi..."
+   },
+   "New_Caledonia": {
+      "message": "Uus-Kaledoonia"
+   },
+   "New_Master_Password": {
+      "message": "Uus ülemparool"
+   },
+   "New_Zealand": {
+      "message": "Uus-Meremaa"
+   },
+   "Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigeeria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Ei"
+   },
+   "No_Matching_Sites_": {
+      "message": "Tulemusi pole!"
+   },
+   "No_Thanks": {
+      "message": "Tänan ei"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Uuendusi ei ole saadaval"
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Ei, ma ei taha, et LastPass mind aitab automaatselt vorme täita"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Ei, ära impordi minu ebaturvalisi üksusi"
+   },
+   "None_Available": {
+      "message": "Ühtegi pole saadaval"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolki Saar"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Põhja-Mariaanid"
+   },
+   "Norway": {
+      "message": "Norra"
+   },
+   "Norwegian": {
+      "message": "Norra"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norra Nynorsk"
+   },
+   "Not_Now": {
+      "message": "Mitte praegu"
+   },
+   "Note_Type": {
+      "message": "Märkuse tüüp"
+   },
+   "Notes": {
+      "message": "Märkused"
+   },
+   "Notes_": {
+      "message": "Märkused:"
+   },
+   "Notifications": {
+      "message": "Märguanded"
+   },
+   "November": {
+      "message": "November"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Number"
+   },
+   "Number_of_Licenses": {
+      "message": "Litsentside arv"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Oktoober"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Paku võimalust genereerida turvalisi paroole"
+   },
+   "Old_Password": {
+      "message": "Vana parool"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "Open_All": {
+      "message": "Ava kõik"
+   },
+   "Open_Favorites": {
+      "message": "Ava lemmikud"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Ava Minu LastPassi hoidla"
+   },
+   "Open_New_Pages_in": {
+      "message": "Ava uus lehekülg"
+   },
+   "Open_Popover": {
+      "message": "Ava popover"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Ava sisselogimise aken, kui käivitad brauseri"
+   },
+   "Order_Number": {
+      "message": "Tellimuse number"
+   },
+   "Order_Total": {
+      "message": "Kokku tellitud"
+   },
+   "Organization": {
+      "message": "Organisatsioon"
+   },
+   "Other": {
+      "message": "Muu"
+   },
+   "Other_Sessions": {
+      "message": "Muud Seansid"
+   },
+   "PASSWORDupper": {
+      "message": "PAROOL"
+   },
+   "PINs_Password_Manager": {
+      "message": "PIN paroolide haldamine"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Vaikse ookeani aeg (USA ja Kanada)"
+   },
+   "Page_Down": {
+      "message": "Lk Alla"
+   },
+   "Page_Up": {
+      "message": "Lk Üles"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Palestiina Alad"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Paapua Uus-Guinea"
+   },
+   "Paraguay": {
+      "message": "Paraguai"
+   },
+   "Passpack": {
+      "message": "Parooli pakk"
+   },
+   "Passport": {
+      "message": "Pass"
+   },
+   "Password": {
+      "message": "Parool"
+   },
+   "Password_": {
+      "message": "Parool:"
+   },
+   "Password_Agent": {
+      "message": "Password Agent"
+   },
+   "Password_Corral": {
+      "message": "Password Corral"
+   },
+   "Password_Dragon": {
+      "message": "Password Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Password Keeper"
+   },
+   "Password_Length": {
+      "message": "Parooli pikkus"
+   },
+   "Password_Length_": {
+      "message": "Parooli pikkus:"
+   },
+   "Password_Reminder": {
+      "message": "Parooli meenutus"
+   },
+   "Password_Safe": {
+      "message": "Password Safe"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Parooli meenutus ei tohi kattuda parooliga."
+   },
+   "Password_updated_": {
+      "message": "Parool uuendatud!"
+   },
+   "Passwords_Max": {
+      "message": "Paroole maksimaalselt"
+   },
+   "Personal": {
+      "message": "Isiklik"
+   },
+   "Peru": {
+      "message": "Peruu"
+   },
+   "Philippines": {
+      "message": "Filipiinid"
+   },
+   "Phone_number": {
+      "message": "Telefoninumber"
+   },
+   "Pin": {
+      "message": "PIN"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Palun tee valik"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Palun sisestage parooli meenutus"
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Palun liiguta saite ainult üks jagatud kaust korraga."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Pane tähele, et kohaliku LastPass parendamine LastPass onlineiks toob kaasa sinu parooli andmete üles laadimise krüpteeritud vormingus LastPass serveritesse. Sul on võimalik siis pääseda ligi oma andmetele kõikjal ja LastPass ise ei saa neid lugeda. Kas soovid jätkata?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Palun andke sellele arvutile nimi"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Palun värskenda seda lehekülge, et vaadata oma muudatusi."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Palun taaskäivita kõik oma brauserid, et alustada LastPass Online kasutamist."
+   },
+   "Please_select": {
+      "message": "Palun valige"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Palun vali millistele saitidele soovid selle muudatuse rakendada."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Palun külastage https://lastpass.com et luua konto hiljem."
+   },
+   "Poland": {
+      "message": "Poola"
+   },
+   "Policy_Number": {
+      "message": "Poliisi number"
+   },
+   "Policy_Type": {
+      "message": "Poliisi tüüp"
+   },
+   "Polish": {
+      "message": "Poola"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Kontrolli serverist konto muudatusi (min)"
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portugal"
+   },
+   "Portuguese": {
+      "message": "Portugal"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portugal (Brasiilia)"
+   },
+   "Preferences": {
+      "message": "Eelistused"
+   },
+   "Price": {
+      "message": "Hind"
+   },
+   "Print": {
+      "message": "Prindi"
+   },
+   "Print_Screen": {
+      "message": "Prindi Ekraan"
+   },
+   "Print_Secure_Notes": {
+      "message": "Prindi turvalised märkused"
+   },
+   "Print_Sites": {
+      "message": "Prindi lehekülg"
+   },
+   "Profile": {
+      "message": "Profiil"
+   },
+   "Profile_language": {
+      "message": "Profiil keel"
+   },
+   "Profile_name": {
+      "message": "Profiili nimi"
+   },
+   "Protected": {
+      "message": "Kaitstud"
+   },
+   "Publisher": {
+      "message": "Väljaandja"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Ostu kuupäev"
+   },
+   "Qatar": {
+      "message": "Katar"
+   },
+   "Re_enter_Password": {
+      "message": "Sisestage parool uuesti"
+   },
+   "Recent_Sites": {
+      "message": "Hiljutised lehed"
+   },
+   "Recently_Used": {
+      "message": "Hiljuti kasutatud"
+   },
+   "Recently_Used_list_size": {
+      "message": "Hiljuti kasutatud nimekirja suurus"
+   },
+   "Recheck_Page": {
+      "message": "Kontrolli lehte uuesti"
+   },
+   "Reencrypting_Data___": {
+      "message": "Krüpteerin andmeid..."
+   },
+   "Refresh": {
+      "message": "Värskenda"
+   },
+   "Refresh_Sites": {
+      "message": "Värskenda saite"
+   },
+   "Reject": {
+      "message": "Keeldu"
+   },
+   "Remember_Email": {
+      "message": "Pea e-posti aadress meeles"
+   },
+   "Remember_Password": {
+      "message": "Pea parool meeles"
+   },
+   "Rename_Group": {
+      "message": "Muuda gruppi"
+   },
+   "Replace_Existing_Site": {
+      "message": "Asenda olemas olev sait"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Nõua igat märkide tüüpi"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Nõua parooli uuesti sisestamist"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Nõua turvalisuse viipe kui:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Austa sätet AutoComplete=off: võimaldab veebisaitidel keelata automaattäitmise"
+   },
+   "Reunion": {
+      "message": "Kokkutulek"
+   },
+   "Right": {
+      "message": "Paremale"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Rumeenia"
+   },
+   "Routing_number": {
+      "message": "Marsruudi number"
+   },
+   "Russian": {
+      "message": "Vene"
+   },
+   "Russian_Federation": {
+      "message": "Vene Föderatsioon"
+   },
+   "Rwanda": {
+      "message": "Ruanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "SAIT"
+   },
+   "SMTP_Port": {
+      "message": "SMTP port"
+   },
+   "SMTP_Server": {
+      "message": "SMTP server"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT-kood"
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint-Barthélemy"
+   },
+   "Saint_Helena": {
+      "message": "Saint Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts ja Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Saint Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (Prantsuse osa)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint-Pierre ja Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent ja Grenadiinid"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sao Tome ja Principe"
+   },
+   "Saudi_Arabia": {
+      "message": "Saudi Araabia"
+   },
+   "Save": {
+      "message": "Salvesta"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Salveta kõik sisestatud andmed"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Salvesta krediitkaardi profiil"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Salvesta vormi täitmise profiil"
+   },
+   "Save_New_Site": {
+      "message": "Salvesta uus sait"
+   },
+   "Save_Site": {
+      "message": "Salvesta sait"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Salvesta keelatud Ühekordsed Paroolid kohapeal konto taastamiseks"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Salvesta muudatused ja sulgege see aken"
+   },
+   "Screen_Keyboard": {
+      "message": "Ekraaniklaviatuur"
+   },
+   "Search_All_Data": {
+      "message": "Otsi kõiki andmeid"
+   },
+   "Search_All_Groups": {
+      "message": "Otsi kõiki gruppe"
+   },
+   "Search_All_Notes": {
+      "message": "Otsi Kõiki Märkuseid"
+   },
+   "Search_All_Sites": {
+      "message": "Otsi kõiki saite"
+   },
+   "Search_within_secure_notes": {
+      "message": "Otsing turvalistes märkmetes"
+   },
+   "Searchproper": {
+      "message": "Otsi"
+   },
+   "Secure_Notes": {
+      "message": "Turvalised märkmed"
+   },
+   "Security": {
+      "message": "Turvalisus"
+   },
+   "Security_Check": {
+      "message": "Turvakontroll"
+   },
+   "Security_code": {
+      "message": "Turvakood"
+   },
+   "Select": {
+      "message": "Vali"
+   },
+   "Select_All": {
+      "message": "Vali kõik"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Vali või sisesta uue gruppi nimi"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Saada anonüümsed vigade aruande andmed, et aidata täiustada LastPassi"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "September": {
+      "message": "September"
+   },
+   "Serbia": {
+      "message": "Serbia"
+   },
+   "Server": {
+      "message": "Server"
+   },
+   "SesameWrongButton": {
+      "message": "Oma andmete nägemiseks ühenduseta peate käivitama Sesame ja kasutama nuppu Kopeeri ühenduseta parool nupu Genereeri ühekordne parool asemel."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame mitmefaktoriline autentimine"
+   },
+   "Sessions": {
+      "message": "Seansid"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Loo kohendatud vormivälju"
+   },
+   "Settings": {
+      "message": "Seaded"
+   },
+   "Sex": {
+      "message": "Sugu"
+   },
+   "Seychelles": {
+      "message": "Seišellid"
+   },
+   "Share": {
+      "message": "Jaga"
+   },
+   "Share_Selected": {
+      "message": "Jaga valitud"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Jaga sisselogimis olekut Teiste brauseritega"
+   },
+   "Share_offer_from": {
+      "message": "Jaga pakkumist"
+   },
+   "Shift": {
+      "message": "Tõste"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Kas LastPass peaks seda parooli meeles pidama?"
+   },
+   "Show": {
+      "message": "Näita"
+   },
+   "Show_Advanced_Options": {
+      "message": "Näita täpsemaid seadeid"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Kuva parooli muutmis teaberiba"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Näita kustutatuid lehekülgi"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Näita täitmise teateriba"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Näita vormitäite märguandeid"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Näita pärast sisselogimist Minu LastPassi hoidlat"
+   },
+   "Show_Notifications": {
+      "message": "Näita märguandeid"
+   },
+   "Show_Password": {
+      "message": "Näita parooli"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Näita saidi salvestamise teateriba"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Näita saidi salvestamise märguandeid"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Näita saite rühmades"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Näita Laegast Peale logimist"
+   },
+   "Show_all_sites": {
+      "message": "Näita kõiki saite"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Näita teatud märguandeid alles pärast klõpsu"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Näitab teist kohandatud välja üksust"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Logi sisse"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Lihtsustage oma elu! Las LastPass täidab selle saidi sisselogimisvormi automaatselt!"
+   },
+   "Singapore": {
+      "message": "Singapur"
+   },
+   "Site_Search": {
+      "message": "Saidi otsing"
+   },
+   "Sites": {
+      "message": "Saidid"
+   },
+   "Slovak": {
+      "message": "Slovaki"
+   },
+   "Slovakia": {
+      "message": "Slovakkia"
+   },
+   "Slovenia": {
+      "message": "Sloveenia"
+   },
+   "Social_Security": {
+      "message": "Sotsiaalkindlustus"
+   },
+   "Social_security_number": {
+      "message": "Sotsiaalkindlustuse number"
+   },
+   "Software_License": {
+      "message": "Tarkvara litsents"
+   },
+   "Solomon_Islands": {
+      "message": "Saalomoni Saared"
+   },
+   "Somalia": {
+      "message": "Somaalia"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Vabandame, see kaust on kirjutuskaitstud"
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Vabandame, seda toiming ei ole võimalik sooritada. Jagatud ja jagamata kaustasid pole võimalik otsida samaaegselt."
+   },
+   "Source_": {
+      "message": "Allikas:"
+   },
+   "South_Africa": {
+      "message": "Lõuna-Aafrika"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Lõuna-Georgia ja Lõuna-Sandwichi saared"
+   },
+   "Spain": {
+      "message": "Hispaania"
+   },
+   "Spanish": {
+      "message": "Hispaania"
+   },
+   "Spanish__Mexico_": {
+      "message": "Hispaania (Mehhiko)"
+   },
+   "Special": {
+      "message": "Eriline"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Alguskuupäev"
+   },
+   "State": {
+      "message": "Riik"
+   },
+   "State___Province": {
+      "message": "Maakond/provints"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Saada vorm"
+   },
+   "Sudan": {
+      "message": "Sudaan"
+   },
+   "Support_Email": {
+      "message": "Toe e-mail"
+   },
+   "Suriname": {
+      "message": "Suriname"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard ja Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Svaasimaa"
+   },
+   "Sweden": {
+      "message": "Rootsi"
+   },
+   "Swedish": {
+      "message": "Rootsi"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Libista praeguse kasutaja sõrme"
+   },
+   "Swipe_finger": {
+      "message": "Tõmba näpuga"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Hoia näpp sõrmejälje sensori peal"
+   },
+   "Switzerland": {
+      "message": "Šveits"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Süüria Araabia Vabariik"
+   },
+   "Tabs": {
+      "message": "Vahelehed"
+   },
+   "Taiwan": {
+      "message": "Taivan"
+   },
+   "Tajikistan": {
+      "message": "Tadžikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tansaania Ühendvabariik"
+   },
+   "Tehran": {
+      "message": "Teheran"
+   },
+   "Telephone": {
+      "message": "Telefon"
+   },
+   "Text": {
+      "message": "Tekst"
+   },
+   "Text_to_find": {
+      "message": "Otsitav tekst"
+   },
+   "Thailand": {
+      "message": "Tai"
+   },
+   "That_group_already_exists_": {
+      "message": "See grupp on juba olemas."
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "4-kohaline aasta number, millal krediitkaart on väljastatud"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Teie poolt uuesti sisestatud LastPassi ülemparool ei sobi."
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "Sisestatud 'Vana parool' ei ole Teie õige LastPass ülemparool"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "LastPass laiendi binaarversiooni on vaja selle tegevuse jaoks. Seda saab alla laadida lehelt lastpass.com."
+   },
+   "The_credit_card_number": {
+      "message": "Krediitkaardi number"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Krediitkaardi 4-kohaline aegumise aasta"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Krediitkaardi aegumiskuupäev"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Krediitkaardi number.\nKasutatakse ainult mõningates Euroopa deebetkaardi markides, nagu Maestro."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Krediitkaardi turvakood.\nEnamus krediitkaartidel, see on 3 viimast numbrit, mis on trükitud kaardi tagaküljele.\nAmerican Express krediitkaartidel on see viimased 4 numbrit, mis on trükitud väikeses kirjas kaardi esimesele poolele."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Krediitkaardile trükitud täisnimi"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Veebisaitide keel, kus seda vormi täitmis profiili kasutatakse"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "Mis kuul krediitkaart on väljastatud"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Vormi täitmis profiili nimi"
+   },
+   "The_name_of_your_bank": {
+      "message": "Teie panga nimi"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Märkuseväli sisaldab liiga palju andmeid. Te võite talletada ühes märkuses maksimaalselt 45 000 märki.\n\nKas soovite, et kärbime märkuse teie eest? Osa teie andmeid läheb sel juhul kaotsi."
+   },
+   "The_value_to_be_filled": {
+      "message": "Väärtus tuleb täita"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Teie Crome versioon mida hetkel kasutate ei oma HTML5 andmebaasi toetust. Seetõttu, see lehekülg ei salvesta sinu e-maili ega parooli ning teised funktsioonid nagu automaatne sisselogimine peale brauseri restarti ei tööta."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Chrome versioonil, mida sa praegu kasutad, ei ole HTML5 andmebaaside tugi lubatud. Seetõttu ei jäta see sisenemise leht meelde sinu e-postiaadressi ega parooli ja muud võimalused, nagu automaatne sisenemine brauseri käivitamisel ei tööta. Sul võib õnnestuda see viga parandada, kui lisad --enable-databases oma Google Chrome käivitamise otseteele."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Seda saab muuta ainult veebisaidilt"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "See arvuti on usaldusväärne, ära nõua teist moodust autentimiseks."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "See funktsioon ei ole saadaval selles versioonis. Palun installige binaarne pikendamine minnes https://lastpass.com/dl"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "See on jagatud sait. Teil ei ole luba selle parooli nägemiseks."
+   },
+   "Time_Zone": {
+      "message": "Ajavöönd"
+   },
+   "Timor_Leste": {
+      "message": "Ida-Timori"
+   },
+   "Title": {
+      "message": "Pealkiri"
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Et alustada LastPass kasutamist, sa pead lisama saidi oma kontosse."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "Et importida Wi-Fi paroolid, kliki import allpool."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Et oma privaatsust kaitsta ning oma andmeid konfidentsiaalsena hoida,"
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Tööriistad"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad ja Tobago"
+   },
+   "Try_Again": {
+      "message": "Proovi uuesti"
+   },
+   "Tunisia": {
+      "message": "Tuneesia"
+   },
+   "TurboPasswords": {
+      "message": "Turboparoolid"
+   },
+   "Turkey": {
+      "message": "Türgi"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks ja Caicos saared"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Tüüp"
+   },
+   "Type_": {
+      "message": "Tüüp:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "KASUTAJANIMI"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukraina"
+   },
+   "United_Arab_Emirates": {
+      "message": "Araabia Ühendemiraadid"
+   },
+   "United_Kingdom": {
+      "message": "Ühendkuningriik"
+   },
+   "United_States": {
+      "message": "Ameerika Ühendriigid"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "Ameerika Ühendriikide hajasaared"
+   },
+   "Unselect_All": {
+      "message": "Tühista kõik valikud"
+   },
+   "Up": {
+      "message": "Üles"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Uuenda LastPass Online!"
+   },
+   "Uploading_Data___": {
+      "message": "Laen andmeid ..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use_802_1X": {
+      "message": "Kasuta 802.1X"
+   },
+   "User_Manual": {
+      "message": "Kasutusjuhend"
+   },
+   "User_name": {
+      "message": "Kasutajanimi"
+   },
+   "Username_": {
+      "message": "Kasutajanimi:"
+   },
+   "Usernameproper": {
+      "message": "Kasutajanimi"
+   },
+   "Uzbekistan": {
+      "message": "Usbekistan"
+   },
+   "Value_to_fill": {
+      "message": "Täidetav väärtus"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Hoidla"
+   },
+   "Venezuela": {
+      "message": "Venetsueela"
+   },
+   "Version": {
+      "message": "Versioon"
+   },
+   "Version_": {
+      "message": "Versioon:"
+   },
+   "Viet_Nam": {
+      "message": "Vietnam"
+   },
+   "View_Passwords": {
+      "message": "Vaata paroole"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Virgin Islands (British)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Virgin Islands (US)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis ja Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Hoiata enne ebaturvaliste vormide täitmist"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Vaata rakenduse põhikasutuse videot"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Sammuti me EI HOIA koopiat või tagavarakoopiat sellest."
+   },
+   "Website": {
+      "message": "Veebileht"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Teretulemast LastPass´i!"
+   },
+   "West_Central_Africa": {
+      "message": "Lääne-Kesk-Aafrika"
+   },
+   "Western_Sahara": {
+      "message": "Lääne-Sahara"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Salasõna"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi Paroolid"
+   },
+   "Windows": {
+      "message": "Aknad"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Kas soovid luua vormi täitmise profiili nüüd?"
+   },
+   "XML_Files": {
+      "message": "XML failid"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Jeemen"
+   },
+   "Yes": {
+      "message": "Jah"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Jah, lubage minul valida, millised üksused impoditakse LastPass´i"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Jah, las ma sisestan ja kontrollin andmeid, mida kasutatakse vormide täitmisel"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Sa liiguvad saite jagatud kausta. See tõenäoliselt teeb need kättesaadavaks teistele kasutajatele.\n\nAre sa kindel, et soovid jätkata?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Sa ei saa sama väärtust omistada mitmele Kiirklahvile"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Sa ei saa liigutada üksikult jagatud lehekülgi jagatud kausta."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Teil on praegu LastPass seatud nii et ta jätab meelde Teie paroolid. Nii sisuliselt muutub automaatselt välja logimise valik, mille oled valinud kasutuks. Kas tahad, et LastPass lõpetada Teie paroolide meelde jätmise?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Sa ei ole veel valinud vaikevormi täitmis profiili. Kas soovid valida ühe nüüd?"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Võimalik, et sa blokeerid kõiki küpsiseid, mis võib Chrome'l keelata HTML5 andmebaasi juurdepääsu."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Pead nõustuma, et sa saadad krüptitud andmeid LastPass.com'i.\n\nLastPass.com krüpteerib Teie andmed ning saadab selle oma turvalisse serverisse.\nKeegi ei saa lugeda Teie konfidentsiaalseid andmeid LastPass'is, sest need on krüpteeritud Teie parooliga ja te olete ainus, kes seda parooli teab."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Sa pead nõustuma tingimustega jätkata"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Pead sisestama nime."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Peate sisestama unikaalse nime."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Peate Chrome taaskäivitama või välja ja uuesti sisse logima, et brauseri sulgemisel välja logimise muudatused hakkaks kehtima"
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Pead oma brauseri taaskäivitama enne, kui  kõik muudatused jõustuvad."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "Teie 4-kohaline sünniaasta number"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Sinu Google Chrome paroolid on edukalt imporditud."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Teie postiindeks"
+   },
+   "Your_address_information": {
+      "message": "Teie aadressi informatsioon"
+   },
+   "Your_bank_account_information": {
+      "message": "Teie pangakonto andmed"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Teie pangakonto number.\nSeda numbrit võib tavaliselt leida paremal marsruudi numbri kõrval oma isiklikutel tšekkidel."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Teie panga marsruudi number.\nSeda 9-kohalist numbrit võib tavaliselt leida oma isikliku tšekki alt vasakust nurgast."
+   },
+   "Your_birth_day": {
+      "message": "Teie sünnipäev"
+   },
+   "Your_birth_month": {
+      "message": "Teie sünni kuu"
+   },
+   "Your_city_name": {
+      "message": "Teie linna nimi"
+   },
+   "Your_company_s_name": {
+      "message": "Teie firma nimi"
+   },
+   "Your_contact_information": {
+      "message": "Teie kontaktandmed"
+   },
+   "Your_country_name": {
+      "message": "Teie riigi nimi"
+   },
+   "Your_county_name": {
+      "message": "Teie maakonna nimi"
+   },
+   "Your_credit_card_information": {
+      "message": "Teie krediitkaardi andmed"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Sinu praegused seaded nõuavad LastPassi parooli uuesti sisestamist selle tegevuse lõpetamiseks."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Teie andmed on eksporditud"
+   },
+   "Your_email_address": {
+      "message": "Teie e-posti aadress"
+   },
+   "Your_first_name": {
+      "message": "Teie eesnimi"
+   },
+   "Your_government_ID_number": {
+      "message": "Teie valitsus ID number"
+   },
+   "Your_last_name": {
+      "message": "Teie perekonnanimi"
+   },
+   "Your_middle_name": {
+      "message": "Teie keskmine nimi"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Teie parool ei tohi olla e-postiga samasugune."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Sinu parool on kerge ära arvata"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Teie parool on liiga lühike. See peab olema vähemalt 6 tähemärki pikk"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Teie parool on liiga lühike. See peab olema vähemalt 8 tähemärgi pikkune"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Teie parooli meeldetuletus tuletab Teile meelde, mis Teie"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Paroolid ei sobi."
+   },
+   "Your_personal_information": {
+      "message": "Teie isiklikud andmed"
+   },
+   "Your_phone_number": {
+      "message": "Teie telefoninumber"
+   },
+   "Your_phone_number_extension": {
+      "message": "Teie telefoninumbri laiendus"
+   },
+   "Your_prefix_or_title": {
+      "message": "Sinu eesliide või tiitel"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Valitud identiteeti enam ei eksisteeri. Sean vaikeseadeeks 'Kõik' ja login välja."
+   },
+   "Your_sex": {
+      "message": "Teie sugu"
+   },
+   "Your_state_or_province_name": {
+      "message": "Teie riigi või provintsi nimi"
+   },
+   "Your_street_address": {
+      "message": "Teie tänava aadress"
+   },
+   "Your_time_zone": {
+      "message": "Teie ajavöönd"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Sinu kasutajanimi, kui logid veebilehele sisse"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey mitmefaktoriline autentimine"
+   },
+   "Yugoslavia": {
+      "message": "Jugoslaavia"
+   },
+   "ZIP___Postal_code": {
+      "message": "Postiindeks"
+   },
+   "Zambia": {
+      "message": "Sambia"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "_Hide_": {
+      "message": "[Peida]"
+   },
+   "_History_": {
+      "message": "[Ajalugu]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Uued jagamispakkumised ootel)"
+   },
+   "_Show_": {
+      "message": "[Näita]"
+   },
+   "_domain_": {
+      "message": "(domeen)"
+   },
+   "_none_": {
+      "message": "(pole)"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "tegelik parool on, säilitades samal ajal selle salajasuse."
+   },
+   "ago": {
+      "message": "tagasi"
+   },
+   "and": {
+      "message": "ja"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "võtke meiega ühendust ja me saadame Teile e-kirja Teie parooli meeldetuletusega."
+   },
+   "day": {
+      "message": "päev"
+   },
+   "days": {
+      "message": "päeva"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "ext."
+   },
+   "false": {
+      "message": "vale"
+   },
+   "favorites": {
+      "message": "Lemmikud"
+   },
+   "hour": {
+      "message": "tund"
+   },
+   "hours": {
+      "message": "tundi"
+   },
+   "just_now": {
+      "message": "just nüüd"
+   },
+   "minute": {
+      "message": "minut"
+   },
+   "minutes": {
+      "message": "minutit"
+   },
+   "month": {
+      "message": "kuu"
+   },
+   "months": {
+      "message": "kuud"
+   },
+   "privacy_statement": {
+      "message": "privaatsusavaldus"
+   },
+   "recently_usedlower": {
+      "message": "hiljuti kasutatud"
+   },
+   "second": {
+      "message": "sekund"
+   },
+   "seconds": {
+      "message": "sekundit"
+   },
+   "terms_of_service": {
+      "message": "teenuse tingimused"
+   },
+   "the_current_tab": {
+      "message": "hetke vaheleht"
+   },
+   "true": {
+      "message": "õige"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "Me EI TEA, milline Teie LastPass parool on."
+   },
+   "week": {
+      "message": "nädal"
+   },
+   "weeks": {
+      "message": "nädalat"
+   },
+   "year": {
+      "message": "aasta"
+   },
+   "years": {
+      "message": "aastat"
+   }
+}

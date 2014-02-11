@@ -1,0 +1,49 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon_gray2.gif",
+      "default_popup": "lp_toolstrip.html?browseraction=1",
+      "default_title": "LastPass"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "onloadwff.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "csp.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "default-src 'self' https://lastpass.com https://*.lastpass.com https://lastpass.eu https://*.lastpass.eu https://www.youtube.com; img-src 'self' data: https://lastpass.com https://lastpass.eu https://rodan.lastpass.com https://dev.lastpass.com; connect-src https://lastpass.com https://lastpass.eu https://rodan.lastpass.com https://dev.lastpass.com http://lastpass.com http://lastpass.eu http://rodan.lastpass.com http://dev.lastpass.com wss://*.lastpass.com ws://*.lastpass.com wss://*.lastpass.eu ws://*.lastpass.eu; style-src 'self' 'unsafe-inline' https://lastpass.com https://lastpass.eu https://rodan.lastpass.com https://dev.lastpass.com",
+   "default_locale": "en_US",
+   "description": "LastPass is a free password manager and form filler.  LastPass is also available for Firefox, Internet Explorer, Opera and Safari.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiL9y2jziKp5kjb13uYG1bAXsuemUKAYUAwR/N9qTuhMIuly02Ecm63dOkn+M2r26IGfDE/lbPv/dB/W+d34pqGo5uJJY+Omt9t3xsIuz7mQwuvF1H5ozj0OHok5XDFRaBIfPa06RhQw3M7sSZJvQ+qqD3+dr0aLX+mvi0LQ11uQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0",
+   "name": "LastPass",
+   "omnibox": {
+      "keyword": "lp"
+   },
+   "optional_permissions": [ "nativeMessaging" ],
+   "options_page": "prefs.html",
+   "permissions": [ "tabs", "idle", "notifications", "contextMenus", "unlimitedStorage", "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
+   "requirements": {
+      "plugins": {
+         "npapi": false
+      }
+   },
+   "short_name": "LastPass",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.22",
+   "web_accessible_resources": [ "overlay.html", "general.css", "popupfilltab.html", "images/icon48.png", "images/svg/formfill16x16.svg", "images/svg/generate16x16.svg", "images/svg/sites16x16.svg", "images/svg/close16x16.svg" ]
+}

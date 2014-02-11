@@ -1,0 +1,1 @@
+document.getElementById("csv").value=gs("LastPass CSV File");document.getElementById("encrypted").value=gs("LastPass Encrypted File");document.getElementById("wifi").value=gs("Wi-Fi Passwords");document.getElementById("formfill").value=gs("Form Fill Profiles");

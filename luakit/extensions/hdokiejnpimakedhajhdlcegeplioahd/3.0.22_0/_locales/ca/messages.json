@@ -1,0 +1,2576 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Contrasenya"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Introduïu la vostra YubiKey al port USB amb el connector USB cap amunt"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Executar l'aplicació autenticador Google al teu dispositiu mòbil"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Introduïu l'actual codi de verificació en el quadre"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Espereu fins que el botó de la vostra YubiKey s'il·lumini de forma continuada."
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Feu clic a l'autenticació"
+   },
+   "ACTION": {
+      "message": "ACCIÓ"
+   },
+   "A_Zupper": {
+      "message": "AZ"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "Hi ha disponible una actualització recomanada per LastPass. Si us plau, feu clic a OK per començar la descàrrega i l'instal·lació."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "S'ha troba un arxiu de duplicat. Això significa que és probable que no tots els canvis del vostre lloc han estat salvats. Voleu eliminar aquest arxiu i pot esser perdre alguns canvis?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "S'ha produït un error al servidor mentre es processava la seva sol·licitud."
+   },
+   "About": {
+      "message": "Quant a"
+   },
+   "About___": {
+      "message": "Quant a..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dhabi, Muscat, Moscou, Sant Petersburg, Volgograd"
+   },
+   "Accept": {
+      "message": "Accepta"
+   },
+   "Account_Settings": {
+      "message": "Configuració del compte"
+   },
+   "Account_Type": {
+      "message": "Tipus de compte"
+   },
+   "Actionproper": {
+      "message": "Acció"
+   },
+   "Actions": {
+      "message": "Accions"
+   },
+   "Add": {
+      "message": "Afegir"
+   },
+   "Add_Credit_Card": {
+      "message": "Afegeix una targeta de crèdit"
+   },
+   "Add_Field": {
+      "message": "Afegeix un camp"
+   },
+   "Add_Identity": {
+      "message": "Afegeix una identitat"
+   },
+   "Add_New_Site": {
+      "message": "Afegeix un lloc nou"
+   },
+   "Add_Note": {
+      "message": "Afegir Nota"
+   },
+   "Add_Profile": {
+      "message": "Afegeix un perfil"
+   },
+   "Add_Secure_Note": {
+      "message": "Afegeix una nota segura"
+   },
+   "Add_Site": {
+      "message": "Afegeix un lloc"
+   },
+   "Address": {
+      "message": "Adreça"
+   },
+   "Address_1": {
+      "message": "Adreça 1"
+   },
+   "Address_2": {
+      "message": "Adreça 2"
+   },
+   "Address_3": {
+      "message": "Adreça 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Eines d'Administració"
+   },
+   "Advanced": {
+      "message": "Avançat"
+   },
+   "Advanced_Options": {
+      "message": "Opcions Avançades"
+   },
+   "Afghanistan": {
+      "message": "Afganistan"
+   },
+   "Agent_Name": {
+      "message": "Nom de l'Agent"
+   },
+   "Agent_Phone": {
+      "message": "Telèfon de l'Agent"
+   },
+   "Aland_Islands": {
+      "message": "Illes Aland"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albània"
+   },
+   "Algeria": {
+      "message": "Algèria"
+   },
+   "Alias": {
+      "message": "Àlies"
+   },
+   "All": {
+      "message": "Tot"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Permetre a LastPass trobar les dades no segures en l'equip?"
+   },
+   "Almaty": {
+      "message": "Almaty"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Trieu sempre perfil i targeta de crèdit"
+   },
+   "American_Samoa": {
+      "message": "Samoa Americana"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Atenes, Istanbul, Beirut, el Caire, Jerusalem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlín, Roma, Viena, Praga, Brussel·les"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "Hi ha una actualització disponible. La voleu instal·lar?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "S'ha produït un error en el decurs de la càrrega dels seus llocs. Si us plau, torneu a iniciar la sessió."
+   },
+   "An_error_occurred": {
+      "message": "S'ha produït un error"
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "S'ha produït un error en tornar a xifrar les seves dades"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "S'ha produït un error en carregar les dades. T'agradaria tornar a intentar-ho?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguila"
+   },
+   "Antarctica": {
+      "message": "Antàrtida"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua i Barbuda"
+   },
+   "Appearance": {
+      "message": "Aparença"
+   },
+   "Applications": {
+      "message": "Aplicacions"
+   },
+   "April": {
+      "message": "Abril"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Esteu segurs que voleu que LastPass recordi la contrasenya?  Això redueix significativament la seguretat del seu compte LastPass!"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Esteu segur que voleu eliminar els elements seleccionats?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Veritablement voleu suprimir els llocs seleccionats?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Esteu segur que voleu eliminar aquesta aplicació?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Esteu segur que voleu eliminar aquest camp?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Esteu segur que voleu suprimir aquesta dada del perfil?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Esteu segurs que voleu eliminar aquesta contrasenya generada?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Esteu segur que voleu eliminar aquest grup?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Esteu segur que voleu eliminar aquest URL?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Està segur que vol eliminar aquesta nota segura?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Està segur que vol eliminar aquest lloc?"
+   },
+   "Argentina": {
+      "message": "Argentina"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armènia"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dhaka, Ekaterinburg"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Hora de l'Atlàntic (Canadà), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "Agost"
+   },
+   "Australia": {
+      "message": "Austràlia"
+   },
+   "Austria": {
+      "message": "Àustria"
+   },
+   "Authenticate": {
+      "message": "Autenticar"
+   },
+   "Authentication": {
+      "message": "Autenticació"
+   },
+   "Authentication_Failed_": {
+      "message": "Error d'autenticació."
+   },
+   "AutoFill": {
+      "message": "Omplir automàticament"
+   },
+   "AutoLogin": {
+      "message": "Inici de sessió automàtic"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Omple automàticament la informació d'accés"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Tancament automàtic de la sessió després de (min)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Connexió automàtica als llocs si el temps des de l'últim accés > (segons)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Eviteu caràcters ambigus"
+   },
+   "Azerbaijan": {
+      "message": "Azerbaidjan"
+   },
+   "Azores": {
+      "message": "Açores"
+   },
+   "Back": {
+      "message": "Enrere"
+   },
+   "Baghdad": {
+      "message": "Bagdad"
+   },
+   "Bahamas": {
+      "message": "Bahames"
+   },
+   "Bahrain": {
+      "message": "Bahrain"
+   },
+   "Baku__Yerevan": {
+      "message": "Bakú, Yerevan"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Novosibirsk"
+   },
+   "Bangladesh": {
+      "message": "Bangla Desh"
+   },
+   "Bank_Account": {
+      "message": "Compte bancari"
+   },
+   "Bank_accountformfill": {
+      "message": "Compte bancari"
+   },
+   "Bank_name": {
+      "message": "Nom del banc"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Beijing, Hong Kong, Singapur, Taipei, Krasnoyarsk"
+   },
+   "Belarus": {
+      "message": "Bielorússia"
+   },
+   "Belgium": {
+      "message": "Bèlgica"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benín"
+   },
+   "Bermuda": {
+      "message": "Bermudes"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Birthday": {
+      "message": "Aniversari"
+   },
+   "Blacklist": {
+      "message": "El seu compte ha estat suspès temporalment (5 minuts) a causa dels reiterats intens erronis d'inici de sessió."
+   },
+   "Blog": {
+      "message": "Bloc"
+   },
+   "Bolivia": {
+      "message": "Bolívia"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bòsnia i Hercegovina"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Illa Bouvet"
+   },
+   "Branch_Address": {
+      "message": "Direcció de la sucursal"
+   },
+   "Branch_Phone": {
+      "message": "Telèfon de la sucursal"
+   },
+   "Brazil": {
+      "message": "Brasil"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Yakutsk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "British Indian Ocean Territory"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Podeu navegar per Internet com ho faríeu normalment i LastPass recordarà automàticament les contrasenyes a introduir."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Construïda:"
+   },
+   "Bulgaria": {
+      "message": "Bulgària"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Però jo sóc una persona desmemoriada... què he de fer si oblido la contrasenya?"
+   },
+   "CSV_Files": {
+      "message": "Arxius CSV"
+   },
+   "Cambodia": {
+      "message": "Cambodja"
+   },
+   "Cameroon": {
+      "message": "Camerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "No es pot trobar la finestra LastPass"
+   },
+   "Canada": {
+      "message": "Canadà"
+   },
+   "Canary_Islands": {
+      "message": "Illes Canàries"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "Cancel": {
+      "message": "Cancel·la"
+   },
+   "Cape_Verde": {
+      "message": "Cap Verd"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Illes de Cap Verd"
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monròvia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Català"
+   },
+   "Cayman_Islands": {
+      "message": "Les Illes Caiman"
+   },
+   "Central_African_Republic": {
+      "message": "República Centreafricana"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Amèrica Central, Saskatchewan"
+   },
+   "Chad": {
+      "message": "Txad"
+   },
+   "Change": {
+      "message": "Canvia"
+   },
+   "Change_Group_Name": {
+      "message": "Canvia el nom del grup"
+   },
+   "Change_Password": {
+      "message": "Canvia la contrasenya"
+   },
+   "Check_For_Updates": {
+      "message": "Cerca actualitzacions"
+   },
+   "Checkbox": {
+      "message": "Casella de verificació"
+   },
+   "Checking_For_Updates___": {
+      "message": "Comprovant actualitzacions ..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, Nova Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Xile"
+   },
+   "China": {
+      "message": "Xina"
+   },
+   "Chinese__Simplified_": {
+      "message": "Xinès (simplificat)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Xinès (tradicional)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Escolliu el perfil i la targeta de crèdit"
+   },
+   "Christmas_Island": {
+      "message": "Christmas Island"
+   },
+   "City___Town": {
+      "message": "Ciutat / Població"
+   },
+   "Clear": {
+      "message": "Neteja"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Netejar Portapapers després del seu ús (en segons)"
+   },
+   "Clear_Forms": {
+      "message": "Neteja els formularis"
+   },
+   "Clear_Local_Cache": {
+      "message": "Esborra la memòria cau local"
+   },
+   "Clear_Recent": {
+      "message": "Esborrar recents"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Feu clic a Continua per començar a utilitzar el LastPass."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Feu clic aquí per iniciar la configuració del compte"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Feu clic aquí per enviar comentaris"
+   },
+   "Close": {
+      "message": "Tanca"
+   },
+   "Close_this_window": {
+      "message": "Tancar aquesta finestra"
+   },
+   "Co_pay": {
+      "message": "Copagament"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocos (Keeling) Islands"
+   },
+   "Collapse_All": {
+      "message": "Tanca-ho tot"
+   },
+   "Colombia": {
+      "message": "Colòmbia"
+   },
+   "Comoros": {
+      "message": "Comores"
+   },
+   "Company": {
+      "message": "Empresa"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Política de l'empresa prohibeix aquesta operació."
+   },
+   "Company_Phone": {
+      "message": "Telèfon de l'empresa"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "La política de l'empresa impedeix alguns canvis de configuració, no tots els canvis han estat guardats."
+   },
+   "Configure_Form_Fill": {
+      "message": "Configura l'emplenament de formularis"
+   },
+   "Confirm": {
+      "message": "Confirma"
+   },
+   "Confirm_Password": {
+      "message": "Confirmar contrasenya"
+   },
+   "Congo": {
+      "message": "Congo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "República Democràtica del Congo"
+   },
+   "Congratulations": {
+      "message": "Enhorabona"
+   },
+   "Connection_Mode": {
+      "message": "Mode de connexió"
+   },
+   "Connection_Type": {
+      "message": "Tipus de connexió"
+   },
+   "Contact": {
+      "message": "Poseu-vos en contacte amb"
+   },
+   "Continue": {
+      "message": "Continua"
+   },
+   "Cook_Islands": {
+      "message": "Illes Cook"
+   },
+   "Copy": {
+      "message": "Copia"
+   },
+   "Copy_Password": {
+      "message": "Copia la contrasenya"
+   },
+   "Copy_URL": {
+      "message": "Còpia la URL"
+   },
+   "Copy_Username": {
+      "message": "Copia el nom d'usuari"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Costa d'Ivori"
+   },
+   "Country": {
+      "message": "País"
+   },
+   "County": {
+      "message": "Comarca"
+   },
+   "Create_Account": {
+      "message": "Crear Compte"
+   },
+   "Create_Group": {
+      "message": "Crea un grup"
+   },
+   "Create_Sub_Group": {
+      "message": "Crea un subgrup"
+   },
+   "Create_an_Account": {
+      "message": "Crea un compte"
+   },
+   "Creating_Account___": {
+      "message": "S'està creant el compte..."
+   },
+   "Credit_Card": {
+      "message": "Targeta de crèdit"
+   },
+   "Credit_cardformfill": {
+      "message": "Targeta de crèdit"
+   },
+   "Croatia": {
+      "message": "Croàcia"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Cuba"
+   },
+   "Cyprus": {
+      "message": "Xipre"
+   },
+   "Czech_Republic": {
+      "message": "República Txeca"
+   },
+   "Danish": {
+      "message": "Danès"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Base de dades"
+   },
+   "Date": {
+      "message": "Data"
+   },
+   "Date_of_Birth": {
+      "message": "Data de naixement"
+   },
+   "December": {
+      "message": "Desembre"
+   },
+   "Default": {
+      "message": "Predeterminat"
+   },
+   "Delete": {
+      "message": "Suprimeix"
+   },
+   "Delete_Group": {
+      "message": "Eliminar grup"
+   },
+   "Delete_Selected": {
+      "message": "Suprimeix tot allò seleccionat"
+   },
+   "Denmark": {
+      "message": "Dinamarca"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Deshabilitar Chrome Password Manager insegura"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Desactivar l'autenticació de múltiples factors"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Desactivar un sol factor d'autenticació"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Descartar els canvis i tanca aquesta finestra"
+   },
+   "Djibouti": {
+      "message": "Djibouti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "No sobreescriure els camps que ja estan plens"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "No tornar a preguntar per"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "T'agrada LastPass?"
+   },
+   "Dominica": {
+      "message": "Dominica"
+   },
+   "Dominican_Republic": {
+      "message": "República Dominicana"
+   },
+   "Down": {
+      "message": "A sota"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "Carnet de conduir"
+   },
+   "Dutch": {
+      "message": "Neerlandès"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "ERROR: Avui per avui no és possible moure llocs entre carpetes compartides."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "ERROR: No es permet moure llocs fora de les carpetes compartides. Només s'admet l'operació de borrar."
+   },
+   "Ecuador": {
+      "message": "Equador"
+   },
+   "Edit": {
+      "message": "Edita"
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Edita el perfil de les targetes de crèdit"
+   },
+   "Edit_Form_Fields": {
+      "message": "Edita els camps del formulari"
+   },
+   "Edit_Secure_Note": {
+      "message": "Edita Nota segura"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Editar Notes Segures"
+   },
+   "Edit_Site": {
+      "message": "Editar lloc"
+   },
+   "Edit_Site_Fields": {
+      "message": "Edita el camps"
+   },
+   "Egypt": {
+      "message": "Egipte"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "Correu electrònic"
+   },
+   "Email_Account": {
+      "message": "Compte de correu electrònic"
+   },
+   "Email_address": {
+      "message": "Adreça de correu electrònic"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Correu electrònic ja està en ús, ha oblidat la seva contrasenya?"
+   },
+   "Encryption": {
+      "message": "Encriptar"
+   },
+   "End": {
+      "message": "Final"
+   },
+   "English": {
+      "message": "Anglès"
+   },
+   "English__United_Kingdom_": {
+      "message": "Anglès (Regne Unit)"
+   },
+   "Enter_a_passcode_in_the_box_below_": {
+      "message": "Introduïu un codi d'accés al quadre següent:"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Introduïu el vostre PIN de targeta intel·ligent:"
+   },
+   "Equatorial_Guinea": {
+      "message": "Guinea Equatorial"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "S'ha produït un error al recuperar el llocs LastPass. Si us plau, intenteu accedir de nou a recuperar els llocs."
+   },
+   "ErrorLoginMsg": {
+      "message": "S'ha produït un error al utilitzar LastPass. Si us plau, comproveu la vostra connexió a Internet."
+   },
+   "ErrorSendingMsg": {
+      "message": "S'ha produït un error en intentar contactar amb el servidor. Si us plau, comproveu la vostra connexió a Internet."
+   },
+   "ErrorSessionMsg": {
+      "message": "La seva sessió de LastPass ha caducat. Torneu a iniciar sessió."
+   },
+   "Estonia": {
+      "message": "Estònia"
+   },
+   "Ethiopia": {
+      "message": "Etiòpia"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass ara pot emmagatzemar un One Time Password (OTP) a nivell local que pot ser utilitzada per recuperar el seu compte si oblida la seva contrasenya mestra. Aquest OTP romandrà desactivat fins que s'activi al servidor.\n\nVol activar la recuperació de compte?"
+   },
+   "Expand_All": {
+      "message": "Expandeix-ho tot"
+   },
+   "Expiration": {
+      "message": "Venciment"
+   },
+   "Expiration_date": {
+      "message": "Data de caducitat"
+   },
+   "Export_To": {
+      "message": "Exporta"
+   },
+   "FIPS_Mode": {
+      "message": "Mode FIPS"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Illes Malvines (Falkland)"
+   },
+   "Faroe_Islands": {
+      "message": "Illes Fèroe"
+   },
+   "Favorite": {
+      "message": "Preferit"
+   },
+   "Favoritesproper": {
+      "message": "Favorits"
+   },
+   "Fax_number": {
+      "message": "Número de fax"
+   },
+   "February": {
+      "message": "Febrer"
+   },
+   "Feedback": {
+      "message": "Feedback"
+   },
+   "Female": {
+      "message": "Dona"
+   },
+   "Fields_": {
+      "message": "Camps:"
+   },
+   "Fiji": {
+      "message": "Fiji"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fiji, Kamchatka, Illes Marshall."
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Arxiu molt gran, ha de ser inferior a 10 MB."
+   },
+   "Fill": {
+      "message": "Omplir"
+   },
+   "Fill_Current": {
+      "message": "Ompli actual"
+   },
+   "Fill_Form": {
+      "message": "Ompli el formulari"
+   },
+   "Fill_Forms": {
+      "message": "Omplir-ho"
+   },
+   "FillableFormDetected": {
+      "message": "S'ha detectat un formulari en aquesta pàgina"
+   },
+   "Find_a_site": {
+      "message": "Trobar un lloc"
+   },
+   "Finland": {
+      "message": "Finlàndia"
+   },
+   "Finnish": {
+      "message": "Finès"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Directori de Contrasenyes Firefox"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Els 3 primers dígits del seu número de telèfon"
+   },
+   "First_name": {
+      "message": "Nom"
+   },
+   "Forgot_Password_": {
+      "message": "Heu oblidat la contrasenya?"
+   },
+   "Form_Fill": {
+      "message": "Omple el formulari"
+   },
+   "Form_Name_": {
+      "message": "Nom del Formulari:"
+   },
+   "Format": {
+      "message": "Format"
+   },
+   "Forums": {
+      "message": "Fòrums"
+   },
+   "France": {
+      "message": "França"
+   },
+   "French": {
+      "message": "Francès"
+   },
+   "French_Guiana": {
+      "message": "Guaiana Francesa"
+   },
+   "French_Polynesia": {
+      "message": "Polinèsia francesa"
+   },
+   "French_Southern_Territories": {
+      "message": "Territoris Australs Francesos"
+   },
+   "French__Canada_": {
+      "message": "Francès (Canadà)"
+   },
+   "GMT_5": {
+      "message": "GMT+5"
+   },
+   "GMT_7": {
+      "message": "GMT+7"
+   },
+   "GMT_9": {
+      "message": "GMT+9"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublín, Edimburg, Lisboa, Londres"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gàmbia"
+   },
+   "Gender": {
+      "message": "Gènere"
+   },
+   "General": {
+      "message": "General"
+   },
+   "Generate": {
+      "message": "Genera"
+   },
+   "GeneratePassword": {
+      "message": "Si esteu creant un compte o canviant la contrasenya, cliqueu Generar per crear una contrasenya única i segura amb LastPass."
+   },
+   "Generate_Password": {
+      "message": "Generar Contrasenya"
+   },
+   "Generate_Secure_Password": {
+      "message": "Genera una contrasenya segura"
+   },
+   "Generated_Password_for": {
+      "message": "Generar Contrasenya per"
+   },
+   "Generic": {
+      "message": "Genèric"
+   },
+   "Generic_CSV_File": {
+      "message": "Fitxer CSV genèric"
+   },
+   "Georgia": {
+      "message": "Geòrgia"
+   },
+   "German": {
+      "message": "Alemany"
+   },
+   "Germany": {
+      "message": "Alemanya"
+   },
+   "Ghana": {
+      "message": "Ghana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Premium_": {
+      "message": "Obté el Premium!"
+   },
+   "Go_to_URL": {
+      "message": "Vés a l'URL"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Greece": {
+      "message": "Grècia"
+   },
+   "Greenland": {
+      "message": "Groenlàndia"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Groenlàndia, Brasília, Montevideo"
+   },
+   "Grenada": {
+      "message": "Granada"
+   },
+   "Group_": {
+      "message": "Grup:"
+   },
+   "Group_ID": {
+      "message": "ID de grup"
+   },
+   "Group_Name": {
+      "message": "Nom del grup"
+   },
+   "Guadeloupe": {
+      "message": "Guadalupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Guinea Bissau"
+   },
+   "Guyana": {
+      "message": "Guaiana"
+   },
+   "Haiti": {
+      "message": "Haití"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretòria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Health_Insurance": {
+      "message": "Assegurança de Salut"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Illes Heard i McDonald"
+   },
+   "Height": {
+      "message": "Alçada"
+   },
+   "Help": {
+      "message": "Ajuda"
+   },
+   "Help_Translate": {
+      "message": "Ajuda a traduir"
+   },
+   "Help___": {
+      "message": "Ajuda..."
+   },
+   "Help_spread_the_word": {
+      "message": "Explica-ho a les teves amistats"
+   },
+   "Hide_Password": {
+      "message": "Amaga contrasenya"
+   },
+   "History": {
+      "message": "Historial"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Santa Seu (Ciutat del Vaticà)"
+   },
+   "Home": {
+      "message": "Inici"
+   },
+   "Honduras": {
+      "message": "Hondures"
+   },
+   "Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "Hostname": {
+      "message": "Nom de host"
+   },
+   "HotKeys": {
+      "message": "Tecles ràpides"
+   },
+   "Hungarian": {
+      "message": "Hongarès"
+   },
+   "Hungary": {
+      "message": "Hongria"
+   },
+   "IBAN_Number": {
+      "message": "Número IBAN"
+   },
+   "IMPORT_": {
+      "message": "IMPORTAR?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "ÉS FONAMENTAL QUE NO OBLIDI MAI LA SEVA NOVA CONTRASENYA LASTPASS."
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "He oblidat la contrasenya, Ajuda"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "He llegit i estic d'acord amb "
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Entenc que les meves dades xifrades s'enviarà a LastPass"
+   },
+   "Iceland": {
+      "message": "Islàndia"
+   },
+   "Identities": {
+      "message": "Identitats"
+   },
+   "Identity": {
+      "message": "Identitat"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Si ja te un compte LastPass pot tancar aquesta finestra."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Si vostè oblida la contrasenya mestra LastPass,"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Si vostè va perdre el seu dispositiu YubiKey, feu clic aquí per desactivar l'autenticació YubiKey"
+   },
+   "Import": {
+      "message": "Importació"
+   },
+   "Import_From": {
+      "message": "Importa des de"
+   },
+   "Import_Your_Data": {
+      "message": "Importar les meves dades"
+   },
+   "India": {
+      "message": "Índia"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogotà, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonèsia"
+   },
+   "Install": {
+      "message": "Instal·lar"
+   },
+   "Instant_Messenger": {
+      "message": "Instant Messenger"
+   },
+   "Instructions": {
+      "message": "Instruccions"
+   },
+   "Insurance": {
+      "message": "Assegurança"
+   },
+   "Invalid_Password_": {
+      "message": "Contrasenya no vàlida."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "L'adreça de correu electrònic no és vàlida, torni a provar-ho"
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "República Islàmica de l'Iran"
+   },
+   "Iraq": {
+      "message": "Iraq"
+   },
+   "Ireland": {
+      "message": "Irlanda"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karachi, Tashkent"
+   },
+   "Isle_of_Man": {
+      "message": "Illa de Man"
+   },
+   "Israel": {
+      "message": "Israel"
+   },
+   "Issued_Date": {
+      "message": "Data d'emissió"
+   },
+   "Issuing_Authority": {
+      "message": "L'autoritat expedidora"
+   },
+   "Italian": {
+      "message": "Italià"
+   },
+   "Italy": {
+      "message": "Itàlia"
+   },
+   "Jamaica": {
+      "message": "Jamaica"
+   },
+   "January": {
+      "message": "Gener"
+   },
+   "Japan": {
+      "message": "Japó"
+   },
+   "Japanese": {
+      "message": "Japonès"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordània"
+   },
+   "July": {
+      "message": "Juliol"
+   },
+   "June": {
+      "message": "Juny"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Katmandú"
+   },
+   "Kazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Mantingueu un historial dels meus inicis de sessió i formularis"
+   },
+   "Kenya": {
+      "message": "Kenya"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "República Popular Democràtica de Corea"
+   },
+   "Korea__Republic_Of": {
+      "message": "Corea del Sud"
+   },
+   "Korean": {
+      "message": "Coreà"
+   },
+   "Kuwait": {
+      "message": "Kuwait"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuwait, Riad, Nairobi, Tbilisi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kirguizistan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Idioma"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "República Democràtica Popular de Lao"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass arxiu CSV"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "Barra d'eines de LastPass Chrome"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass arxiu encriptat"
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass no pot ingressar fins que es permetin les galetes des de lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass ha detectat un formulari de contrasenyes insegur.\n\nVoleu continuar?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass ha detectat un formulari de contrasenyes insegur.\n\nVoleu encara que LastPass ompli el formulari?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass ha detectat un canvi de contrasenya per"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass ha detectat un canvi de contrasenya per al domini:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass ha detectat un canvi de contrasenya per a l'usuari:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass ha detectat un error d'instal·lació. Si us plau, torneu a instal·lar LastPass."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass ha omplert les dades d'accés al formulari de la pàgina."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass instal • lat completament! Quan instal·li LastPass en altres equips no haurà de passar altre cop per aquest procés, simplement haurà d'iniciar sessió. No comparteixi la seva contrasenya mestra amb ningú, incloent els empleats LastPass, mai li demanarem! LastPass encripta les dades confidencials a nivell local per la qual cosa fins i tot els empleats LastPass no tenen accés. Vostè pot obtenir ajuda fent clic a la icona de LastPass."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass és l'última contrasenya que haurà de recordar. Si és nou a LastPass, necessitem uns minuts del seu temps per configurar el seu compte. Vostè podrà utilitzar aquest compte en qualsevol altre PC mantenint sempre les seves dades personals en sincronia. Crear un compte per començar."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Els 4 últims dígits del seu número de telèfon"
+   },
+   "Last_Name2": {
+      "message": "Cognom2"
+   },
+   "Last_Touch": {
+      "message": "Darrer"
+   },
+   "Last_name": {
+      "message": "Cognom"
+   },
+   "Latvia": {
+      "message": "Letònia"
+   },
+   "Launch": {
+      "message": "Executar"
+   },
+   "Lebanon": {
+      "message": "Líban"
+   },
+   "Left": {
+      "message": "Esquerra"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Libèria"
+   },
+   "License_Class": {
+      "message": "Classe de llicència"
+   },
+   "License_Key": {
+      "message": "Clau de llicència"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Lithuania": {
+      "message": "Lituània"
+   },
+   "Local": {
+      "message": "Local"
+   },
+   "Login": {
+      "message": "Inici de sessió"
+   },
+   "LoginError": {
+      "message": "S'ha produït un error al iniciar la sessió LastPass. Si us plau, torneu-ho a provar."
+   },
+   "Login_to_LastPass": {
+      "message": "Iniciar sessió a LastPass"
+   },
+   "Logoff": {
+      "message": "Tancar sessió"
+   },
+   "Logoff_": {
+      "message": "Tancament de sessió:"
+   },
+   "LoseChanges": {
+      "message": "Esteu segur que voleu editar els camps d'aquest lloc? Si ho fa, pot perdre tots els canvis que han fet!"
+   },
+   "Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "Guardacontrasenya MSI"
+   },
+   "Macao": {
+      "message": "Macau"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Antiga República Iugoslava de Macedònia "
+   },
+   "Madagascar": {
+      "message": "Madagascar"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Illes Salomó, Nova Caledònia, Vladivostok"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malàisia"
+   },
+   "Maldives": {
+      "message": "Maldives"
+   },
+   "Male": {
+      "message": "Home"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "March": {
+      "message": "Març"
+   },
+   "Marshall_Islands": {
+      "message": "Illes Marshall"
+   },
+   "Martinique": {
+      "message": "Martinica"
+   },
+   "Master_Password": {
+      "message": "Contrasenya Mestra"
+   },
+   "Mauritania": {
+      "message": "Mauritània"
+   },
+   "Mauritius": {
+      "message": "Maurici"
+   },
+   "May": {
+      "message": "Maig"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_ID": {
+      "message": "ID membre"
+   },
+   "Member_Name": {
+      "message": "Nom d'usuari"
+   },
+   "Membership": {
+      "message": "Afiliació"
+   },
+   "Membership_Number": {
+      "message": "Número de soci"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mèxic"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Estats Federats de Micronèsia"
+   },
+   "Mid_Atlantic": {
+      "message": "Mid-Atlantic"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway Island, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Nombre mínim de dígits"
+   },
+   "Mobile_Email_Address": {
+      "message": "Adreça de correu al mòbil"
+   },
+   "Moldova__Republic_Of": {
+      "message": "República de Moldàvia"
+   },
+   "Monaco": {
+      "message": "Mònaco"
+   },
+   "Mongolia": {
+      "message": "Mongòlia"
+   },
+   "Montenegro": {
+      "message": "Montenegro"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Més"
+   },
+   "More_Information": {
+      "message": "Més informació"
+   },
+   "Morocco": {
+      "message": "Marroc"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Moure la selecció al Grup"
+   },
+   "Move_to_Group": {
+      "message": "Canvia de Grup"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Mou al Sub-Grup"
+   },
+   "Mozambique": {
+      "message": "Moçambic"
+   },
+   "Mr": {
+      "message": "En"
+   },
+   "Mrs": {
+      "message": "Na"
+   },
+   "Ms": {
+      "message": "Na"
+   },
+   "My_LastPass_Vault": {
+      "message": "La meva LastPass Vault"
+   },
+   "Myanmar": {
+      "message": "Myanmar"
+   },
+   "NAME": {
+      "message": "NOM"
+   },
+   "Name_": {
+      "message": "Nom:"
+   },
+   "Nameproper": {
+      "message": "Nom"
+   },
+   "Namibia": {
+      "message": "Namíbia"
+   },
+   "Nationality": {
+      "message": "Nacionalitat"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Països Baixos"
+   },
+   "Netherlands_Antilles": {
+      "message": "Antilles Holandeses"
+   },
+   "Never": {
+      "message": "Mai"
+   },
+   "Never_Show_Again": {
+      "message": "No tornar a mostrar"
+   },
+   "Never___": {
+      "message": "Mai ..."
+   },
+   "New_Caledonia": {
+      "message": "Nova Caledònia"
+   },
+   "New_Master_Password": {
+      "message": "Nova contrasenya mestra"
+   },
+   "New_Zealand": {
+      "message": "Nova Zelanda"
+   },
+   "Newfoundland": {
+      "message": "Terranova"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Níger"
+   },
+   "Nigeria": {
+      "message": "Nigèria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "No"
+   },
+   "No_Matching_Sites_": {
+      "message": "No hi ha llocs!"
+   },
+   "No_Thanks": {
+      "message": "No, gràcies"
+   },
+   "No_Updates_Are_Available": {
+      "message": "No hi ha actualitzacions disponibles"
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "No, no vull que LastPass m'ajudi a omplir formularis de forma automàtica"
+   },
+   "None_Available": {
+      "message": "No disponible"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolk Island"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Illes Mariannes del Nord"
+   },
+   "Norway": {
+      "message": "Noruega"
+   },
+   "Norwegian": {
+      "message": "Noruec"
+   },
+   "Not_Now": {
+      "message": "Ara no"
+   },
+   "Notes": {
+      "message": "Notes"
+   },
+   "Notes_": {
+      "message": "Notes:"
+   },
+   "Notifications": {
+      "message": "Notificacions"
+   },
+   "November": {
+      "message": "Novembre"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Número"
+   },
+   "Number_of_Licenses": {
+      "message": "Nombre de llicències"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Octubre"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Oferir generar contrasenyes segures"
+   },
+   "Old_Password": {
+      "message": "Contrasenya anterior"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "Open_All": {
+      "message": "Obrir tots"
+   },
+   "Open_Favorites": {
+      "message": "Obrir Preferits"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Obrir el meu LastPass"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Diàleg d'accés obert a l'inici del navegador"
+   },
+   "Opera": {
+      "message": "Òpera"
+   },
+   "Order_Number": {
+      "message": "Número de comanda"
+   },
+   "Order_Total": {
+      "message": "Total de la comanda"
+   },
+   "Organization": {
+      "message": "Organització"
+   },
+   "Other": {
+      "message": "Altres"
+   },
+   "Other_Sessions": {
+      "message": "Altres sessions"
+   },
+   "PASSWORDupper": {
+      "message": "CONTRASENYA"
+   },
+   "Page_Down": {
+      "message": "Anar cap a baix de la Pàgina"
+   },
+   "Page_Up": {
+      "message": "Anar cap a dalt de la Pàgina"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Territoris Palestins"
+   },
+   "Panama": {
+      "message": "Panamà"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua Nova Guinea"
+   },
+   "Paraguay": {
+      "message": "Paraguai"
+   },
+   "Passport": {
+      "message": "Passaport"
+   },
+   "Password": {
+      "message": "Contrasenya"
+   },
+   "Password_": {
+      "message": "Contrasenya:"
+   },
+   "Password_Keeper": {
+      "message": "Conservar contrasenya"
+   },
+   "Password_Length": {
+      "message": "Longitud de la contrasenya"
+   },
+   "Password_Length_": {
+      "message": "Longitud de la Contrasenya:"
+   },
+   "Password_Reminder": {
+      "message": "Recordar contrasenya"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "El recordatori de la contrasenya no pot coincidir amb la contrasenya"
+   },
+   "Password_updated_": {
+      "message": "Contrasenya actualitzada!"
+   },
+   "Peru": {
+      "message": "Perú"
+   },
+   "Philippines": {
+      "message": "Filipines"
+   },
+   "Physician_Address": {
+      "message": "Direcció del metge"
+   },
+   "Physician_Name": {
+      "message": "Nom del metge"
+   },
+   "Physician_Phone": {
+      "message": "Telèfon del Metge"
+   },
+   "Pin": {
+      "message": "PIN"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Si us plau, fes una selecció"
+   },
+   "Please_Wait___": {
+      "message": "Espereu si us plau..."
+   },
+   "Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Si us plau, completi l'autenticació multifactor al seu telèfon o dispositiu mòbil."
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Si us plau, introduïu un recordatori per la contrasenya "
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Si us plau, mantingui aquesta pàgina oberta fins que es completi l'operació."
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Si us plau, nom d'aquest equip/ordinador"
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Si us plau, reiniciar tots els navegadors per començar a utilitzar LastPass OnLine."
+   },
+   "Please_select": {
+      "message": "Si us plau seleccioneu"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Si us plau, seleccioneu els llocs en que voleu aplicar aquest canvi."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Si us plau, visiteu https://lastpass.com per crear un compte més endavant."
+   },
+   "Poland": {
+      "message": "Polònia"
+   },
+   "Polish": {
+      "message": "Polonès"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Valoració de servidor per als canvis de compte (mins)"
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portugal"
+   },
+   "Portuguese": {
+      "message": "Portuguès"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portuguès (Brasil)"
+   },
+   "Preferences": {
+      "message": "Preferències"
+   },
+   "Price": {
+      "message": "Preu"
+   },
+   "Print": {
+      "message": "Imprimeix"
+   },
+   "Print_Sites": {
+      "message": "Imprimir Llocs"
+   },
+   "Private_Key": {
+      "message": "Clau Privada"
+   },
+   "Profile": {
+      "message": "Perfil"
+   },
+   "Profile_name": {
+      "message": "Nom del perfil"
+   },
+   "Pronounceable": {
+      "message": "Pronunciable"
+   },
+   "Protected": {
+      "message": "Protegit"
+   },
+   "Public_Key": {
+      "message": "Clau pública"
+   },
+   "Publisher": {
+      "message": "Editor"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Data d'adquisició"
+   },
+   "Qatar": {
+      "message": "Qatar"
+   },
+   "Re_enter_Password": {
+      "message": "Torneu a introduir la contrasenya"
+   },
+   "Recently_Used": {
+      "message": "Usats recentment"
+   },
+   "Recently_Used_list_size": {
+      "message": "Mida de la llista Usats recentment"
+   },
+   "Recheck_Page": {
+      "message": "Tornar a Pàgina"
+   },
+   "Refresh": {
+      "message": "Actualitzar"
+   },
+   "Refresh_Sites": {
+      "message": "Actualitza els llocs"
+   },
+   "Reject": {
+      "message": "Rebutjar"
+   },
+   "Remember_Email": {
+      "message": "Recordeu Email"
+   },
+   "Remember_Password": {
+      "message": "Recordar la contrasenya"
+   },
+   "Rename_Group": {
+      "message": "Canviar el nom de Grup"
+   },
+   "Replace_Existing_Site": {
+      "message": "Substituir l'actual lloc"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Requereix tornar a demanar contrasenya"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Respectar AutoComplete=off: Permet a les webs desactivar l'autocompletat."
+   },
+   "Reunion": {
+      "message": "Reunió"
+   },
+   "Right": {
+      "message": "Dreta"
+   },
+   "Romania": {
+      "message": "Romania"
+   },
+   "Russian": {
+      "message": "Rus"
+   },
+   "Russian_Federation": {
+      "message": "Federació Russa"
+   },
+   "Rwanda": {
+      "message": "Rwanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "LLOC"
+   },
+   "SMTP_Port": {
+      "message": "Port SMTP"
+   },
+   "SMTP_Server": {
+      "message": "Servidor SMTP"
+   },
+   "SSH_Key": {
+      "message": "Clau SSH"
+   },
+   "SSID": {
+      "message": "SSID"
+   },
+   "SWIFT_Code": {
+      "message": "Codi SWIFT"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Saint_Barthelemy": {
+      "message": "Sant Bartomeu"
+   },
+   "Saint_Helena": {
+      "message": "Santa Elena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts and Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Santa Llúcia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Sant Martí (part francesa)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre and Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent i les Grenadines"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "Sant Tomé i Príncep"
+   },
+   "Saudi_Arabia": {
+      "message": "Aràbia Saudita"
+   },
+   "Save": {
+      "message": "Salvar"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Desar totes les dades introduïdes"
+   },
+   "Save_New_Site": {
+      "message": "Guardar lloc nou"
+   },
+   "Save_Site": {
+      "message": "Desa lloc"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Desar localment una Contrasenya d'Un Sol Ús deshabilitada per a la recuperació del compte"
+   },
+   "Screen_Keyboard": {
+      "message": "Teclat de Pantalla"
+   },
+   "Searchproper": {
+      "message": "Recerca"
+   },
+   "Secure_Notes": {
+      "message": "En quan a seguretat"
+   },
+   "Security": {
+      "message": "Seguretat"
+   },
+   "Security_Check": {
+      "message": "Revisió de seguretat"
+   },
+   "Security_code": {
+      "message": "Codi de seguretat"
+   },
+   "Select": {
+      "message": "Seleccionar"
+   },
+   "Select_All": {
+      "message": "Seleccionar-ho tot"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Seleccioneu o escriviu un nou nom de grup"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Envia els errors anònimament per ajudar a millorar LastPass"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Seül, Osaka, Sapporo, Tòquio, Irkutsk"
+   },
+   "September": {
+      "message": "Setembre"
+   },
+   "Serbia": {
+      "message": "Sèrbia"
+   },
+   "Server": {
+      "message": "Servidor"
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sèsam autenticació multifactorial"
+   },
+   "Settings": {
+      "message": "Configuració"
+   },
+   "Sex": {
+      "message": "Sexe"
+   },
+   "Seychelles": {
+      "message": "Seychelles"
+   },
+   "Share": {
+      "message": "Compartir"
+   },
+   "Share_Selected": {
+      "message": "Compartir seleccionats"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Compartir l'estat de sessió amb els altres navegadors"
+   },
+   "Share_offer_from": {
+      "message": "Compartir oferta"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "LastPass ha de recordar aquesta contrasenya?"
+   },
+   "Show": {
+      "message": "Veure"
+   },
+   "Show_Advanced_Options": {
+      "message": "Mostra Opcions avançades"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Mostra llocs suprimits"
+   },
+   "Show_Notifications": {
+      "message": "Mostra Notificacions"
+   },
+   "Show_Password": {
+      "message": "Mostra la contrasenya"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Mostra els llocs en grups"
+   },
+   "Show_all_sites": {
+      "message": "Mostrar tots els llocs"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Ingressar"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Simplifiqui la seva vida: Utilitzi LastPass autocompletar per la informació d'accés d'aquest lloc!"
+   },
+   "Singapore": {
+      "message": "Singapur"
+   },
+   "Site_Search": {
+      "message": "Recerca del lloc"
+   },
+   "Sites": {
+      "message": "Llocs"
+   },
+   "Slovak": {
+      "message": "Eslovac"
+   },
+   "Slovakia": {
+      "message": "Eslovàquia"
+   },
+   "Slovenia": {
+      "message": "Eslovènia"
+   },
+   "Social_Security": {
+      "message": "Seguretat social"
+   },
+   "Software_License": {
+      "message": "Llicència de Programari"
+   },
+   "Solomon_Islands": {
+      "message": "Les Illes Salomó"
+   },
+   "Somalia": {
+      "message": "Somàlia"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Ho sentim, aquesta carpeta compartida només és de lectura."
+   },
+   "South_Africa": {
+      "message": "Sud-àfrica"
+   },
+   "South_Georgia": {
+      "message": "South Georgia"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Geòrgia del Sud i Illes Sandwich del Sud"
+   },
+   "Spain": {
+      "message": "Espanya"
+   },
+   "Spanish": {
+      "message": "Espanyol"
+   },
+   "Spanish__Mexico_": {
+      "message": "Espanyol (Mèxic)"
+   },
+   "Special": {
+      "message": "Especial"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Data d'inici"
+   },
+   "State": {
+      "message": "Estat"
+   },
+   "State___Province": {
+      "message": "Estat / Província"
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "Assistència per correu electrònic"
+   },
+   "Suriname": {
+      "message": "Suriname"
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard i Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Swazilàndia"
+   },
+   "Sweden": {
+      "message": "Suècia"
+   },
+   "Swedish": {
+      "message": "Suec"
+   },
+   "Swipe_finger": {
+      "message": "Passar el dit"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Lliscar el dit pel sensor d'empremtes digitals"
+   },
+   "Switzerland": {
+      "message": "Suïssa"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "República Àrab Síria"
+   },
+   "Taiwan": {
+      "message": "Taiwan"
+   },
+   "Tajikistan": {
+      "message": "Tadjikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Unió de repúbliques de Tanzània"
+   },
+   "Tehran": {
+      "message": "Teheran"
+   },
+   "Telephone": {
+      "message": "Telèfon"
+   },
+   "Tell_a_friend_": {
+      "message": "Enviar a un amic!"
+   },
+   "Text": {
+      "message": "Text"
+   },
+   "Text_to_find": {
+      "message": "Text a cercar"
+   },
+   "Thailand": {
+      "message": "Tailàndia"
+   },
+   "That_group_already_exists_": {
+      "message": "Aquest grup ja existeix."
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "Introduïu una altra contrasenya mestra LastPass que no coincideixi amb"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "El 'Old Password' que ha introduït no és la correcta contrasenya mestra LastPass"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "El camp conté massa dades. Vostè pot emmagatzemar un màxim de 45.000 caràcters per nota.\n\nVol que retallem automàticament la nota? Vostè perdrà algunes de les seves dades."
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Aquest equip és de confiança, no requereix d'una segona autenticació."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Aquesta característica no està disponible en aquesta versió. Si us plau, instal·la extensió binària anant a https://lastpass.com/dl"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Aquest és un lloc comú. No se li permet veure la contrasenya."
+   },
+   "This_may_take_a_while___": {
+      "message": "Això pot prendre un temps..."
+   },
+   "Time_Zone": {
+      "message": "Zona horària"
+   },
+   "Timor_Leste": {
+      "message": "Timor-Leste"
+   },
+   "Title": {
+      "message": "Títol"
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "Per començar amb LastPass, cal afegir llocs al vostre compte."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "Per protegir la seva privacitat i mantenir les seves dades confidencials,"
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Eines"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinitat i Tobago"
+   },
+   "Try_Again": {
+      "message": "Torneu a provar-ho"
+   },
+   "Tunisia": {
+      "message": "Tunísia"
+   },
+   "TurboPasswords": {
+      "message": "TurboContrasenyes"
+   },
+   "Turkey": {
+      "message": "Turquia"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Illes Turks i Caicos"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Tipus"
+   },
+   "Type_": {
+      "message": "Tipus:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "NOM D'USUARI"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ucraïna"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulan Bator, Perth"
+   },
+   "United_Arab_Emirates": {
+      "message": "Emirats Àrabs Units"
+   },
+   "United_Kingdom": {
+      "message": "Regne Unit"
+   },
+   "United_States": {
+      "message": "Estats Units"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "United States Minor Outlying Islands"
+   },
+   "Unselect_All": {
+      "message": "Deseleccionar-ho tot"
+   },
+   "Up": {
+      "message": "A dalt"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Actualitza a LastPass OnLine!"
+   },
+   "Uploading_Data___": {
+      "message": "Carregant dades ..."
+   },
+   "Uruguay": {
+      "message": "Uruguai"
+   },
+   "Use_802_1X": {
+      "message": "Utilitza 802.1X"
+   },
+   "User_name": {
+      "message": "Nom d'usuari"
+   },
+   "Username_": {
+      "message": "Nom d'usuari:"
+   },
+   "Usernameproper": {
+      "message": "Nom d'usuari"
+   },
+   "Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Caixa forta"
+   },
+   "Venezuela": {
+      "message": "Veneçuela"
+   },
+   "Version": {
+      "message": "Versió"
+   },
+   "Version_": {
+      "message": "Versió:"
+   },
+   "Viet_Nam": {
+      "message": "Vietnam"
+   },
+   "View_Passwords": {
+      "message": "Veure contrasenyes"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Illes Verges (Britàniques)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Illes Verges (EUA)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis i Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Avisar abans d'omplir els formularis insegurs"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Mira un vídeo d'utilització bàsica"
+   },
+   "Website": {
+      "message": "Lloc Web"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Benvingut a LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Àfrica Central i Occidental"
+   },
+   "Western_Sahara": {
+      "message": "Sàhara Occidental"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi Contrasenya"
+   },
+   "Windows": {
+      "message": "Windows"
+   },
+   "XML_Files": {
+      "message": "Arxiu XML"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Iemen"
+   },
+   "Yes": {
+      "message": "Si"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Sí, anem a triar els elements que cal importar a LastPass"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "No pot moure els llocs compartits de forma individual en una carpeta compartida."
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Vostè encara no ha triat un perfil de dades per defecte. Vol triar-ne un ara?"
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Cal acceptar els acords per continuar"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Cal introduir un nom."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Heu d'introduir un nom únic."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Cal reiniciar el navegador abans que tots els canvis tinguin efecte."
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "La seva configuració actual requereix introduir la contrasenya de LastPass per poder completar aquesta acció."
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "La contrasenya no pot ser la seva adreça de correu electrònic."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "La contrasenya és fàcil d'endevinar."
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "La contrasenya és massa curta. Ha de tenir un mínim de 6 caràcters"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "La seva contrasenya és massa curta. Ha de tenir almenys 8 caràcters de longitud"
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Les contrasenyes no coincideixen."
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey autenticació multifactorial"
+   },
+   "Yugoslavia": {
+      "message": "Iugoslàvia"
+   },
+   "Zambia": {
+      "message": "Zàmbia"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "_Hide_": {
+      "message": "[Oculta]"
+   },
+   "_Show_": {
+      "message": "[Veure]"
+   },
+   "_domain_": {
+      "message": "(Domini)"
+   },
+   "_none_": {
+      "message": "(cap)"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "ago": {
+      "message": "fa"
+   },
+   "and": {
+      "message": "i"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "poseu-vos en contacte amb nosaltres i li enviarem un correu electrònic al seu recordatori de contrasenya."
+   },
+   "day": {
+      "message": "dia"
+   },
+   "days": {
+      "message": "dies"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "ext."
+   },
+   "false": {
+      "message": "fals"
+   },
+   "favorites": {
+      "message": "preferits"
+   },
+   "hour": {
+      "message": "hora"
+   },
+   "hours": {
+      "message": "hores"
+   },
+   "just_now": {
+      "message": "acaba"
+   },
+   "minute": {
+      "message": "minuts"
+   },
+   "minutes": {
+      "message": "minuts"
+   },
+   "month": {
+      "message": "mes"
+   },
+   "months": {
+      "message": "mesos"
+   },
+   "privacy_statement": {
+      "message": "declaració de privacitat"
+   },
+   "recently_usedlower": {
+      "message": "usats recentment"
+   },
+   "second": {
+      "message": "segons"
+   },
+   "seconds": {
+      "message": "segons"
+   },
+   "terms_of_service": {
+      "message": "Condicions del servei"
+   },
+   "the_current_tab": {
+      "message": "la fitxa actual"
+   },
+   "true": {
+      "message": "veritable"
+   },
+   "week": {
+      "message": "setmana"
+   },
+   "weeks": {
+      "message": "setmanes"
+   },
+   "year": {
+      "message": "any"
+   },
+   "years": {
+      "message": "anys"
+   }
+}

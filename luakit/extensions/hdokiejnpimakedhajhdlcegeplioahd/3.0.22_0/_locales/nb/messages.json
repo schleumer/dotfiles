@@ -1,0 +1,3515 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1Password": {
+      "message": "1Passord"
+   },
+   "1__Insert_your_YubiKey_in_the_USB_port_with_the_USB_contact_facing_upward": {
+      "message": "1. Sett inn din YubiKey i USB-porten med USB-kontakten pekende oppover"
+   },
+   "1__Run_the_Google_Authenticator_application_on_your_mobile_device": {
+      "message": "1. Kjør Google Authenticator på den mobile enheten"
+   },
+   "1__Run_the_LastPass_Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Kjør LastPass Sesame programmet for å generere et enganspassord"
+   },
+   "2__Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Skriv inn din nåværende verifiseringskode i boksen under"
+   },
+   "2__Paste_the_one_time_password_in_the_input_box_below_and_click__Authenticate_": {
+      "message": "2. Lim engangspassordet inn i feltet nedenfor og klikk 'Autentiser'"
+   },
+   "2__Wait_until_your_YubiKey_touch_button_shines_with_a_steady_light": {
+      "message": "2. Vent til din YubiKey berøringsknapp lyser kontinuerlig"
+   },
+   "3__Click_Authenticate": {
+      "message": "3. Klikk Autensier"
+   },
+   "ACTION": {
+      "message": "HANDLING"
+   },
+   "A_Zupper": {
+      "message": "A-Å"
+   },
+   "A_required_update_is_available_for_LastPass__Please_press_OK_to_begin_download_and_installation_": {
+      "message": "En nødvendig oppdatering er tilgjengelig for LastPass. Vennligst trykk OK for å starte nedlastingen og installasjonen."
+   },
+   "A_retry_file_has_been_found__This_likely_means_that_not_all_of_your_site_changes_have_been_saved__Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "En prøv-igjen fil har blitt funnet. Det betyr antageligvis at ikke alle din nettstedforandringer har blitt lagret. Ønsker du å slette denne filen og kanskje miste noen forandringer?"
+   },
+   "A_server_error_occurred_while_processing_your_request_": {
+      "message": "Det oppstod en feil på tjensten under behandling av forespørselen."
+   },
+   "A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder___Would_you_like_to_make_a_copy_": {
+      "message": "Et nettsted som tidligere er delt kan ikke flyttes til en delt mappe.\n\nVil du lage en kopi?"
+   },
+   "About": {
+      "message": "Om"
+   },
+   "About___": {
+      "message": "Om..."
+   },
+   "Abu_Dhabi__Muscat__Moscow__St__Petersburg__Volgograd": {
+      "message": "Abu Dhabi, Muskat, Moskva, St. Petersburg, Volgograd"
+   },
+   "Accept": {
+      "message": "Godta"
+   },
+   "Account_Settings": {
+      "message": "Brukerinnstillinger"
+   },
+   "Account_Type": {
+      "message": "Kontotype"
+   },
+   "Account_number": {
+      "message": "Kontonummer"
+   },
+   "Actionproper": {
+      "message": "Handling"
+   },
+   "Actions": {
+      "message": "Handlinger"
+   },
+   "Add": {
+      "message": "Legg til"
+   },
+   "Add_Credit_Card": {
+      "message": "Legg til kredittkort"
+   },
+   "Add_Credit_Card_profile": {
+      "message": "Legg til kredittkortprofil"
+   },
+   "Add_Field": {
+      "message": "Legg til felt"
+   },
+   "Add_Form_Fill_profile": {
+      "message": "Legg til skjemautfyllingsprofil"
+   },
+   "Add_Identity": {
+      "message": "Legg til Identitet"
+   },
+   "Add_New_Site": {
+      "message": "Legg til ny side"
+   },
+   "Add_Note": {
+      "message": "Nytt notat"
+   },
+   "Add_Profile": {
+      "message": "Legg til Profil"
+   },
+   "Add_Secure_Note": {
+      "message": "Nytt sikkert notat"
+   },
+   "Add_Site": {
+      "message": "Legg til side"
+   },
+   "Add_another_custom_field": {
+      "message": "Legg til en annen egendefinert felt"
+   },
+   "Address": {
+      "message": "Adresse"
+   },
+   "Address_1": {
+      "message": "Adresse 1"
+   },
+   "Address_2": {
+      "message": "Adresse 2"
+   },
+   "Address_3": {
+      "message": "Adresse 3"
+   },
+   "Adelaide": {
+      "message": "Adelaide"
+   },
+   "Admin_Tools": {
+      "message": "Administratorverktøy"
+   },
+   "Advanced": {
+      "message": "Avansert"
+   },
+   "Advanced_Options": {
+      "message": "Avanserte innstillinger"
+   },
+   "Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "Agent_Name": {
+      "message": "Agentnavn"
+   },
+   "Agent_Phone": {
+      "message": "Agenttelefon"
+   },
+   "Aland_Islands": {
+      "message": "Aland Islands"
+   },
+   "Alaska": {
+      "message": "Alaska"
+   },
+   "Albania": {
+      "message": "Albania"
+   },
+   "Algeria": {
+      "message": "Algerie"
+   },
+   "Alias": {
+      "message": "Alias"
+   },
+   "All": {
+      "message": "Alle"
+   },
+   "Allow_LastPass_to_find_insecure_data_on_your_computer_": {
+      "message": "Tillat LastPass å finne usikre data på din datamaskin?"
+   },
+   "Almaty": {
+      "message": "Almaty"
+   },
+   "Alt": {
+      "message": "Alt"
+   },
+   "Always_Choose_Profile_and_Credit_Card": {
+      "message": "Velg Alltid Profil og Kredittkort"
+   },
+   "American_Samoa": {
+      "message": "Amerikansk Samoa"
+   },
+   "Amman__Athens__Istanbul__Beirut__Cairo__Jerusalem": {
+      "message": "Amman, Athen, Istanbul, Beirut, Kairo, Jerusalem"
+   },
+   "Amsterdam__Berlin__Rome__Vienna__Prague__Brussels": {
+      "message": "Amsterdam, Berlin, Roma, Wien, Praha, Brussel"
+   },
+   "An_Update_is_Available__Would_you_like_to_install_": {
+      "message": "En oppdatering er tilgjengelig. Vil du installere den?"
+   },
+   "An_error_has_been_encountered_while_loading_your_sites__Please_relogin_": {
+      "message": "En feil oppsto under lasting av dine nettsteder. Logg inn på nytt."
+   },
+   "An_error_occurred": {
+      "message": "Det oppsto en feil"
+   },
+   "An_error_occurred_while_importing_your_Google_Chrome_passwords_": {
+      "message": "Det oppstod en feil under import av Google Chrome-passord."
+   },
+   "An_error_occurred_while_re_encrypting_your_data": {
+      "message": "En feil oppstod ved re-kryptering av dine data"
+   },
+   "An_error_occurred_while_uploading_your_data___Would_you_like_to_retry_": {
+      "message": "Det oppstod en feil under opplasting av dine data. Vil du prøve på nytt?"
+   },
+   "Andorra": {
+      "message": "Andorra"
+   },
+   "Angola": {
+      "message": "Angola"
+   },
+   "Anguilla": {
+      "message": "Anguilla"
+   },
+   "Antarctica": {
+      "message": "Antarktis"
+   },
+   "Antigua_and_Barbuda": {
+      "message": "Antigua og Barbuda"
+   },
+   "Appearance": {
+      "message": "Utseende"
+   },
+   "Application_": {
+      "message": "Søknad:"
+   },
+   "Applications": {
+      "message": "Program"
+   },
+   "April": {
+      "message": "April"
+   },
+   "Arbitrary_notes_to_store_along_with_this_Form_Fill_profile": {
+      "message": "Tilfeldige notater som lagres sammen med denne profilen for skjemautfylling"
+   },
+   "Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Er du sikker på at du ønsker å slette denne identiteten?"
+   },
+   "Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Er du sikker på at du vil slette denne siden?"
+   },
+   "Are_you_sure_you_want_to_have_LastPass_remember_your_password___This_will_significantly_decrease_the_security_of_your_LastPass_account_": {
+      "message": "Er du helt sikker på at du vil la LastPass huske passordet ditt? Dette vil redusere sikkerheten på din LastPass-konto betraktelig."
+   },
+   "Are_you_sure_you_want_to_share_this_item___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Er du sikker på at du ønsker å dele dette elementet? Deling vil føre til at du mister alle endringer du har gjort i elementet."
+   },
+   "Are_you_sure_you_want_to_view_history___Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Er du sikker på at du ønsker å vise loggen? Visning av loggen fører til at du mister alle endringer du har gjort i elementet."
+   },
+   "Are_you_sure_you_would_like_to_delete_": {
+      "message": "Er du sikker på at du vil slette dette elementet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Er du sikker på at du vil slette de valgte elementene?"
+   },
+   "Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Er du sikker på at du vil slette de valgte nettstedene?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Er du sikker på at du vil slette dette programmet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Er du sikker på at du vil slette dette feltet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Vil du virkelig slette denne skjemaprofilen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Er du sikker på at du ønsker å slette dette genererte passordet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Er du sikker på at du vil slette denne gruppen?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_never_URL_": {
+      "message": "Er du sikker på at du vil slette denne aldri URL?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Er du sikker du vil slette dette sikre notatet?"
+   },
+   "Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Er du sikker på at du vil slette dette nettstedet?"
+   },
+   "Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Er du sikker på at du vil fjerne dette vedlegget?"
+   },
+   "Argentina": {
+      "message": "Argentina"
+   },
+   "Arizona": {
+      "message": "Arizona"
+   },
+   "Armenia": {
+      "message": "Armenia"
+   },
+   "Aruba": {
+      "message": "Aruba"
+   },
+   "Astana__Dhaka__Ekaterinburg": {
+      "message": "Astana, Dhaka, Jekaterinburg"
+   },
+   "Atlantic_Time__Canada___Manaus__Santiago": {
+      "message": "Atlantisk tid (Kanada), Manaus, Santiago"
+   },
+   "Auckland__Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "August": {
+      "message": "August"
+   },
+   "Australia": {
+      "message": "Australia"
+   },
+   "Austria": {
+      "message": "Østerrike"
+   },
+   "Authenticate": {
+      "message": "Autentiser:"
+   },
+   "Authentication": {
+      "message": "Autentisering"
+   },
+   "Authentication_Failed_": {
+      "message": "Autentisering mislyktes."
+   },
+   "AutoFill": {
+      "message": "Autofyll"
+   },
+   "AutoLogin": {
+      "message": "Automatisk pålogging"
+   },
+   "Automatically_Fill_Login_Information": {
+      "message": "Fyll inn påloggingsinformasjon automatisk"
+   },
+   "Automatically_Logoff_after_idle__mins_": {
+      "message": "Logg automatisk av etter ingen aktivitet (minutter)"
+   },
+   "Automatically_Logoff_when_all_browsers_are_closed_and_Chrome_has_been_closed_for__mins_": {
+      "message": "Automatisk Avlogging når alle nettlesere er lukket og Google Chrome har vært lukket i (minutter)"
+   },
+   "Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Logg automatisk inn på nettsteder dersom tiden siden siste innlogging > (sekunder)"
+   },
+   "Avoid_Ambiguous_Characters": {
+      "message": "Unngå uklare bokstaver"
+   },
+   "Azerbaijan": {
+      "message": "Aserbajdsjan"
+   },
+   "Azores": {
+      "message": "Azorene"
+   },
+   "Back": {
+      "message": "Tilbake"
+   },
+   "Baghdad": {
+      "message": "Bagdad"
+   },
+   "Bahamas": {
+      "message": "Bahamas"
+   },
+   "Bahrain": {
+      "message": "Bahrain"
+   },
+   "Baku__Yerevan": {
+      "message": "Baku, Jerevan"
+   },
+   "Bangkok__Hanoi__Jakarta__Novosibirsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Novosibirsk"
+   },
+   "Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "Bank_Account": {
+      "message": "Bankkonto"
+   },
+   "Bank_accountformfill": {
+      "message": "Bankkonto"
+   },
+   "Bank_name": {
+      "message": "Navn på bank"
+   },
+   "Barbados": {
+      "message": "Barbados"
+   },
+   "Before_you_can_use_LastPass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Før du kan bruke LastPass, må du først koble til en fingeravtrykksleser og registrere en eller flere fingre."
+   },
+   "Beijing__Hong_Kong__Singapore__Taipei__Krasnoyarsk": {
+      "message": "Beijing, Hongkong, Singapore, Taipei, Krasnojarsk"
+   },
+   "Belarus": {
+      "message": "Hviterussland"
+   },
+   "Belgium": {
+      "message": "Belgia"
+   },
+   "Belize": {
+      "message": "Belize"
+   },
+   "Benin": {
+      "message": "Benin"
+   },
+   "Bermuda": {
+      "message": "Bermuda"
+   },
+   "Bhutan": {
+      "message": "Bhutan"
+   },
+   "Binary_Component_": {
+      "message": "Binærkomponent:"
+   },
+   "Birthday": {
+      "message": "Fødselsdag"
+   },
+   "Bit_Strength": {
+      "message": "Bit styrke"
+   },
+   "Blacklist": {
+      "message": "Din konto har blitt midlertidig blokkert (i 5 minutter) på grunn av for mange påloggingsforsøk."
+   },
+   "Blog": {
+      "message": "Blogg"
+   },
+   "Bolivia": {
+      "message": "Bolivia"
+   },
+   "Bookmarklets": {
+      "message": "Bookmarklets"
+   },
+   "Bosnia_and_Herzegovina": {
+      "message": "Bosnia og Herzegovina"
+   },
+   "Botswana": {
+      "message": "Botswana"
+   },
+   "Bouvet_Island": {
+      "message": "Bouvetøya"
+   },
+   "Branch_Address": {
+      "message": "Filialadresse"
+   },
+   "Branch_Phone": {
+      "message": "Filialtelefon"
+   },
+   "Brazil": {
+      "message": "Brasil"
+   },
+   "Brisbane__Guam__Port_Moresby__Yakutsk": {
+      "message": "Brisbane, Guam, Port Moresby, Jakutsk"
+   },
+   "British_Indian_Ocean_Territory": {
+      "message": "Britiske territoriet i Indiahavet"
+   },
+   "Browse_the_web_as_you_normally_would_and_LastPass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Surf på nettet som vanlig, og LastPass husker automatisk passordene etterhvert som du taster de inn."
+   },
+   "Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "Buenos_Aires__Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "Built_": {
+      "message": "Bygget:"
+   },
+   "Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "Burkina_Faso": {
+      "message": "Burkina Faso"
+   },
+   "Burundi": {
+      "message": "Burundi"
+   },
+   "But_I_m_a_forgetful_person___what_should_I_do_if_I_forget_my_password_": {
+      "message": "Men jeg er en person som glemmer lett...hva gjør jeg hvis jeg glemmer det?"
+   },
+   "CSV_Files": {
+      "message": "CSV Filer"
+   },
+   "Cambodia": {
+      "message": "Kambodsja"
+   },
+   "Cameroon": {
+      "message": "Kamerun"
+   },
+   "Can_t_find_hidden_LastPass_window": {
+      "message": "Kan ikke finne skjult LastPass vindu"
+   },
+   "Canada": {
+      "message": "Canada"
+   },
+   "Canary_Islands": {
+      "message": "Kanariøyene"
+   },
+   "Canberra__Melbourne__Sydney__Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "Cancel": {
+      "message": "Avbryt"
+   },
+   "Cape_Verde": {
+      "message": "Kapp Verde"
+   },
+   "Cape_Verde_Is_": {
+      "message": "Kapp Verde er."
+   },
+   "Caracas": {
+      "message": "Caracas"
+   },
+   "Casablanca__Monrovia__Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "Catalan": {
+      "message": "Katalan"
+   },
+   "Cayman_Islands": {
+      "message": "Cayman Islands"
+   },
+   "Central_African_Republic": {
+      "message": "Den sentralafrikanske republikk"
+   },
+   "Central_America__Saskatchewan": {
+      "message": "Mellom-Amerika, Saskatchewan"
+   },
+   "Central_Time__US___Canada___Guadalajara__Mexico_City": {
+      "message": "Sentral tid (USA og Kanada), Guadalajara, Mexico City "
+   },
+   "Chad": {
+      "message": "Chad"
+   },
+   "Change": {
+      "message": "Forandre"
+   },
+   "Change_Group_Name": {
+      "message": "Forandre gruppenavn"
+   },
+   "Change_Password": {
+      "message": "Forandre passord"
+   },
+   "Check_For_Updates": {
+      "message": "Se etter oppdateringer"
+   },
+   "Checkbox": {
+      "message": "Avkryssningsboks"
+   },
+   "Checking_For_Updates___": {
+      "message": "Sjekker etter oppdateringer..."
+   },
+   "Chennai__Kolkata__Mumbai__New_Delhi__Sri_Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura"
+   },
+   "Chile": {
+      "message": "Chile"
+   },
+   "China": {
+      "message": "Kina"
+   },
+   "Chinese__Simplified_": {
+      "message": "Kinesisk (forenklet)"
+   },
+   "Chinese__Traditional_": {
+      "message": "Kinesisk (tradisjonell)"
+   },
+   "Choose_Profile_and_Credit_Card": {
+      "message": "Velg profil og kredittkort"
+   },
+   "Choose_a_source_above_": {
+      "message": "Velg en kilde ovenfor."
+   },
+   "Christmas_Island": {
+      "message": "Christmas Island"
+   },
+   "Chrome": {
+      "message": "Chrome"
+   },
+   "City___Town": {
+      "message": "By / Sted"
+   },
+   "Clear": {
+      "message": "Slett"
+   },
+   "Clear_Clipboard_after_use__seconds_": {
+      "message": "Tøm utklippstavlen etter bruk (sekunder)"
+   },
+   "Clear_Forms": {
+      "message": "Slett felt"
+   },
+   "Clear_Local_Cache": {
+      "message": "Slett lokal cache"
+   },
+   "Clear_Recent": {
+      "message": "Slett siste"
+   },
+   "Clear_filled_fields_on_logoff": {
+      "message": "Tøm fylte felter ved utlogging"
+   },
+   "Click_Continue_to_start_using_LastPass_": {
+      "message": "Klikk Fortsett, for å starte å bruke LastPass."
+   },
+   "Click_here_to_launch_account_settings": {
+      "message": "Klikk her for å starte kontoinnstillinger"
+   },
+   "Click_here_to_launch_feedback": {
+      "message": "Klikk her for å gi tilbakemelding"
+   },
+   "Click_here_to_view_the_LastPass_User_Manual": {
+      "message": "Klikk her for å se brukerveiledningen"
+   },
+   "Clipperz": {
+      "message": "Clipperz"
+   },
+   "Close": {
+      "message": "Steng"
+   },
+   "Close_this_window": {
+      "message": "Lukk dette vinduet"
+   },
+   "Cocos__Keeling__Islands": {
+      "message": "Cocos (Keeling) Islands"
+   },
+   "Collapse_All": {
+      "message": "Legg ned alle"
+   },
+   "Colombia": {
+      "message": "Colombia"
+   },
+   "Comoros": {
+      "message": "Komorene"
+   },
+   "Company": {
+      "message": "Bedrift"
+   },
+   "CompanyPolicyProhibits": {
+      "message": "Selskapets retningslinjer forbyr denne handlingen."
+   },
+   "Company_Phone": {
+      "message": "Jobbtelefon"
+   },
+   "Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Selskapets policy hindrer at du endre noen av innstillingene, ikke alle oppdateringene er lagret."
+   },
+   "Configure_Form_Fill": {
+      "message": "Konfigurér Skjemautfylling"
+   },
+   "Confirm": {
+      "message": "Bekreft"
+   },
+   "Confirm_Password": {
+      "message": "Bekreft Passord"
+   },
+   "Congo": {
+      "message": "Kongo"
+   },
+   "Congo__the_Democratic_Republic_of_The": {
+      "message": "Kongo, Den demokratiske republikken"
+   },
+   "Congratulations": {
+      "message": "Gratulerer"
+   },
+   "Connection_Mode": {
+      "message": "Tilkoblingsmodus"
+   },
+   "Connection_Type": {
+      "message": "Tilkoblingstype"
+   },
+   "Contact": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Fortsett"
+   },
+   "Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Det ble funnet kontrolltegn i det valgte filnavnet. Filen blir ikke behandlet."
+   },
+   "Cook_Islands": {
+      "message": "Cook Islands"
+   },
+   "Copy": {
+      "message": "Kopier"
+   },
+   "Copy_Note": {
+      "message": "Kopier Notat"
+   },
+   "Copy_Password": {
+      "message": "Kopier passord"
+   },
+   "Copy_URL": {
+      "message": "Kopier URL"
+   },
+   "Copy_Username": {
+      "message": "Kopier brukernavn"
+   },
+   "Copyright_2008_LastPass__All_Rights_Reserved__Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "© 2008 LastPass. Alle rettigheter reservert.\nDeler av denne programvaren ble lisensiert fra tredjeparter, som beskrevet her:"
+   },
+   "Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "Cote_D_ivoire": {
+      "message": "Cote D'Ivoire"
+   },
+   "Country": {
+      "message": "Land"
+   },
+   "County": {
+      "message": "Fylke"
+   },
+   "Create_Account": {
+      "message": "Opprett konto"
+   },
+   "Create_Group": {
+      "message": "Opprett gruppe"
+   },
+   "Create_Sub_Group": {
+      "message": "Opprett undergruppe"
+   },
+   "Create_an_Account": {
+      "message": "Opprett en Konto"
+   },
+   "Creating_Account___": {
+      "message": "Oppretter konto..."
+   },
+   "Credit_Card": {
+      "message": "Kredittkort"
+   },
+   "Credit_Monitoring": {
+      "message": "Kredittmonitor"
+   },
+   "Credit_card_number": {
+      "message": "Kredittkortnummer"
+   },
+   "Credit_cardformfill": {
+      "message": "Kredittkort"
+   },
+   "Croatia": {
+      "message": "Kroatia"
+   },
+   "Ctrl": {
+      "message": "Ctrl"
+   },
+   "Cuba": {
+      "message": "Cuba"
+   },
+   "Custom_Value": {
+      "message": "Egendefinert Verdi"
+   },
+   "Custom_field__": {
+      "message": "Egendefinert felt #"
+   },
+   "Custom_fields": {
+      "message": "Egendefinerte felt"
+   },
+   "Cyprus": {
+      "message": "Kypros"
+   },
+   "Czech_Republic": {
+      "message": "Tsjekkia"
+   },
+   "Danish": {
+      "message": "Dansk"
+   },
+   "Darn__Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "Darwin": {
+      "message": "Darwin"
+   },
+   "Database": {
+      "message": "Database"
+   },
+   "Date": {
+      "message": "Dato"
+   },
+   "Date_of_Birth": {
+      "message": "Fødselsdato"
+   },
+   "December": {
+      "message": "Desember"
+   },
+   "Default": {
+      "message": "Standard"
+   },
+   "Default_Form_Fill_Profile": {
+      "message": "Standardprofil for skjemautfylling"
+   },
+   "Delete": {
+      "message": "Slett"
+   },
+   "Delete_Cache": {
+      "message": "Slett Cache"
+   },
+   "Delete_Group": {
+      "message": "Slett gruppe"
+   },
+   "Delete_Identity_": {
+      "message": "Ønsker du å slette denne identiteten?"
+   },
+   "Delete_Selected": {
+      "message": "Slett valgte"
+   },
+   "Delete_Site_": {
+      "message": "Slett Nettside?"
+   },
+   "Delete_this_form_fill_profile": {
+      "message": "Slett denne skjemaprofilen"
+   },
+   "Denmark": {
+      "message": "Danmark"
+   },
+   "Disable_Insecure_Chrome_Password_Manager": {
+      "message": "Slå av dem usikkre Chrome passordbehandleren"
+   },
+   "Disable_Multifactor_Authentication": {
+      "message": "Deaktiver flerfaktorsautentisering"
+   },
+   "Disable_Single_factor_Authentication": {
+      "message": "Deaktiver enkeltfaktorsautentisering"
+   },
+   "Disable_alert___": {
+      "message": "Deaktiver varsel..."
+   },
+   "Disable_alert_for_this_site": {
+      "message": "Deaktiver varsel for dette nettstedet"
+   },
+   "Disable_all_weak_duplicate_site_alerts": {
+      "message": "Deaktiver alle varsler for svake/dupliserte nettsteder"
+   },
+   "Discard_changes_and_close_this_window": {
+      "message": "Forkast endringer og lukk dette vinduet"
+   },
+   "Djibouti": {
+      "message": "Djibouti"
+   },
+   "Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Ikke overskriv felt, som allerede er utfylt"
+   },
+   "Do_not_re_prompt_for_": {
+      "message": "Ikke spør igjen for"
+   },
+   "Do_you_like_LastPass_": {
+      "message": "Liker du LastPass?"
+   },
+   "Do_you_really_want_to_quit___You_cannot_use_LastPass_without_creating_an_account_": {
+      "message": "Vil du avslutte? Du må ha en konto for å kunne bruke LastPass."
+   },
+   "Dominica": {
+      "message": "Dominica"
+   },
+   "Dominican_Republic": {
+      "message": "Den dominikanske republikk"
+   },
+   "Down": {
+      "message": "Ned"
+   },
+   "Dr": {
+      "message": "Dr"
+   },
+   "Driver_s_License": {
+      "message": "Førerkort"
+   },
+   "Duplicate_password": {
+      "message": "Dupliser passord"
+   },
+   "Dutch": {
+      "message": "Flamsk"
+   },
+   "ERROR__Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "FEIL: Flyttin av sider mellom delte mapper er foreløpig ikke støttet."
+   },
+   "ERROR__You_are_not_allowed_to_move_sites_out_of_shared_folders__Delete_is_the_only_supported_operation_": {
+      "message": "FEIL: Du har ikke tilgang til å flytte sider ut av delte mapper. Den eneste støttede operasjonen er å slette."
+   },
+   "Eastern_Time__US___Canada_": {
+      "message": "Østlig tid (USA og Kanada)"
+   },
+   "Ecuador": {
+      "message": "Ecuador"
+   },
+   "Edit": {
+      "message": "Rediger"
+   },
+   "Edit_Application": {
+      "message": "Rediger Applikasjon"
+   },
+   "Edit_Application_Fields": {
+      "message": " "
+   },
+   "Edit_Credit_Card_profile": {
+      "message": "Rediger kredittkort profil"
+   },
+   "Edit_Form_Fields": {
+      "message": "Forandre feltene i skjema"
+   },
+   "Edit_Form_Fill_profile": {
+      "message": "Rediger skjemautfyllingsprofil"
+   },
+   "Edit_Secure_Note": {
+      "message": "Rediger sikkert notat"
+   },
+   "Edit_Secure_Notes": {
+      "message": "Rediger sikre notater"
+   },
+   "Edit_Site": {
+      "message": "Rediger Site"
+   },
+   "Edit_Site_Fields": {
+      "message": "Rediger nettstedfelt"
+   },
+   "Egypt": {
+      "message": "Egypt"
+   },
+   "El_Salvador": {
+      "message": "El Salvador"
+   },
+   "Email": {
+      "message": "E-post"
+   },
+   "Email_Account": {
+      "message": "E-post konto"
+   },
+   "Email_address": {
+      "message": "Epostadresse"
+   },
+   "Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "Eposten er allerede i bruk, har du glemt passordet ditt?"
+   },
+   "Enable_Credit_Monitoring": {
+      "message": "Aktiver kreditt overvåking"
+   },
+   "Enable_Free_Credit_Monitoring": {
+      "message": "Aktiver Gratis kreditt overvåking"
+   },
+   "Enable_new_login_screen": {
+      "message": "Aktivér nytt innloggingsgrensesnitt"
+   },
+   "Encryption": {
+      "message": "Kryptering"
+   },
+   "End": {
+      "message": "End"
+   },
+   "English": {
+      "message": "Engelsk"
+   },
+   "English__United_Kingdom_": {
+      "message": "Engelsk (Storbritannia)"
+   },
+   "Enter_PIN": {
+      "message": "Tast inn PIN-kode"
+   },
+   "Enter_arbitrary_notes": {
+      "message": "Skriv inn vilkårlig notater"
+   },
+   "Enter_your_smart_card_PIN_": {
+      "message": "Skriv inn din smartkort PIN kode"
+   },
+   "Enterprise": {
+      "message": "Stor bedrift"
+   },
+   "Equatorial_Guinea": {
+      "message": "Ekvatorial-Guinea"
+   },
+   "Eritrea": {
+      "message": "Eritrea"
+   },
+   "ErrorGetAcctsMsg": {
+      "message": "Det oppstod en feil ved henting av LastPass-sidene dine. Vennligst prøv å logg inn på nytt, for å hente sidene."
+   },
+   "ErrorLoginMsg": {
+      "message": "Kunne ikke logge inn på LastPass. Vennligst sjekk din internettilkobling."
+   },
+   "ErrorSendingMsg": {
+      "message": "Klarte ikke oppnå kontakt med tjeneren. Kontroller tilkoblingen til internett."
+   },
+   "ErrorSessionMsg": {
+      "message": "Din LastPass-økt har utgått. Vennligst logg inn på nytt."
+   },
+   "Error__This_folder_has_already_been_moved_": {
+      "message": "Feil: Denne mappen har trolig allerede blitt flyttet."
+   },
+   "Error_opening_attachment_": {
+      "message": "Feil ved åpning av vedlegg."
+   },
+   "Estonia": {
+      "message": "Estland"
+   },
+   "Ethiopia": {
+      "message": "Etiopia"
+   },
+   "Evening_number": {
+      "message": "Nummer på kveldstid"
+   },
+   "ExistingUsersOTPPrompt": {
+      "message": "LastPass kan nå lagre et engangspassord (OTP) lokalt som kan brukes til å gjenopprette din konto dersom du glemmer ditt hovedpassord. Dette enganspassordet vil være deaktivert frem til det aktivert på serveren.\n\nVil du aktivere kontogjenoppretting?"
+   },
+   "Expand_All": {
+      "message": "Utvid alle"
+   },
+   "Expiration": {
+      "message": "Utløp"
+   },
+   "Expiration_date": {
+      "message": "Utløpsdato"
+   },
+   "Export": {
+      "message": "Eksport"
+   },
+   "Export_To": {
+      "message": "Eksportér til"
+   },
+   "Export_To_LastPass_CSV_File": {
+      "message": "Eksporter til LastPass CSV_fil"
+   },
+   "FIPS_Mode": {
+      "message": "FIPS-modus"
+   },
+   "Falkland_Islands__Malvinas_": {
+      "message": "Falklandsøyene (Malvinas)"
+   },
+   "Faroe_Islands": {
+      "message": "Færøyene"
+   },
+   "Favorite": {
+      "message": "Favoritt"
+   },
+   "Favoritesproper": {
+      "message": "Favoritter"
+   },
+   "Fax_number": {
+      "message": "Faxnummer"
+   },
+   "February": {
+      "message": "Februar"
+   },
+   "Feedback": {
+      "message": "Tilbakemelding"
+   },
+   "Female": {
+      "message": "Kvinne"
+   },
+   "Fields_": {
+      "message": "Felt:"
+   },
+   "Fiji": {
+      "message": "Fiji"
+   },
+   "Fiji__Kamchatka__Marshall_Is_": {
+      "message": "Fiji, Kamchatka, Marshalløyene."
+   },
+   "File": {
+      "message": "Fil"
+   },
+   "File_too_large__it_must_be_less_than_10MB_": {
+      "message": "Filen er for stor. Den må være mindre enn 10 MB."
+   },
+   "File_too_large__it_must_be_less_than_5MB_": {
+      "message": "Filen er for stor, den må være mindre enn 5 MB."
+   },
+   "Files": {
+      "message": "Filer"
+   },
+   "Fill": {
+      "message": "Fyll ut"
+   },
+   "Fill_Current": {
+      "message": "Fyll Gjeldende"
+   },
+   "Fill_Form": {
+      "message": "Fyll Ut Skjema"
+   },
+   "Fill_Forms": {
+      "message": "Fyll ut skjemaene"
+   },
+   "Fill_In_Default_Form_Fill_Profile": {
+      "message": "Fyll ut standardprofil for skjemautfylling"
+   },
+   "Fill_In_Next_Login__When_Multiple_": {
+      "message": "Fyll ut neste pålogging (når flere)"
+   },
+   "Fill_In_Previous_Login__When_Multiple_": {
+      "message": "Fyll ut forrige pålogging (når flere)"
+   },
+   "Fill_or_Edit_Form_Fill_Data": {
+      "message": "Fyll inn eller rediger skjemadata"
+   },
+   "FillableFormDetected": {
+      "message": "Et utfyllbart skjema har blitt oppdaget på denne siden."
+   },
+   "Filter": {
+      "message": "Filtrere"
+   },
+   "Find_a_site": {
+      "message": "Finn et nettsted"
+   },
+   "Finland": {
+      "message": "Finland"
+   },
+   "Finnish": {
+      "message": "Finsk"
+   },
+   "FireForm": {
+      "message": "FireForm"
+   },
+   "Firefox_Password_Manager": {
+      "message": "Firefox Passord Behandler"
+   },
+   "First_3_digits_of_your_phone_number": {
+      "message": "Første 3 siffer av ditt telefonnummer"
+   },
+   "First_name": {
+      "message": "Fornavn"
+   },
+   "For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "For hver av koordinatene nedenfor, finn verdien i rutenettet og oppgi den."
+   },
+   "Forgot_Password_": {
+      "message": "Glemt passord?"
+   },
+   "FormFill": {
+      "message": "FormFill"
+   },
+   "FormFill_Profiles": {
+      "message": "FormFill Profiler"
+   },
+   "Form_Fill": {
+      "message": "Fyll ut skjema"
+   },
+   "Form_Fill_Profile": {
+      "message": "Skjemafyllingsprofil"
+   },
+   "Form_Fills": {
+      "message": "Fyll ut skjemaene"
+   },
+   "Form_Name_": {
+      "message": "Feltnavn:"
+   },
+   "Format": {
+      "message": "Format"
+   },
+   "Forums": {
+      "message": "Forum"
+   },
+   "France": {
+      "message": "Frankrike"
+   },
+   "French": {
+      "message": "Fransk"
+   },
+   "French_Guiana": {
+      "message": "Fransk Guyana"
+   },
+   "French_Polynesia": {
+      "message": "Fransk Polynesia"
+   },
+   "French_Southern_Territories": {
+      "message": "Franske sørlige territorier"
+   },
+   "French__Canada_": {
+      "message": "Fransk (Canada)"
+   },
+   "Full_path_of_file_to_import_": {
+      "message": "Hele stien til fil som skal importeres:"
+   },
+   "Full_path_of_the_file_to_import_": {
+      "message": "Fullstendig sti til filen som skal importeres:"
+   },
+   "GET_FREE_PREMIUM": {
+      "message": "FÅ GRATIS PREMIUM"
+   },
+   "GMT_5": {
+      "message": "GMT +5"
+   },
+   "GMT_7": {
+      "message": "GMT +7"
+   },
+   "GMT_9": {
+      "message": "GMT +9"
+   },
+   "GMT_Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT Dublin, Edinburgh, Lisboa, London"
+   },
+   "GMT__Dublin__Edinburgh__Lisbon__London": {
+      "message": "GMT: Dublin, Edinburgh, Lisboa, London"
+   },
+   "Gabon": {
+      "message": "Gabon"
+   },
+   "Gambia": {
+      "message": "Gambia"
+   },
+   "Gender": {
+      "message": "Kjønn"
+   },
+   "General": {
+      "message": "Generelt"
+   },
+   "Generate": {
+      "message": "Lag"
+   },
+   "GeneratePassword": {
+      "message": "Hvis du skal opprette en konto eller skal endre passordet ditt, trykk generer for å lage et unik, sikkert passord med LastPass."
+   },
+   "Generate_Password": {
+      "message": "Lag passord"
+   },
+   "Generate_Secure_Password": {
+      "message": "Generer sikkert passord"
+   },
+   "Generated_Password_for": {
+      "message": "Passord Laget for"
+   },
+   "Generic": {
+      "message": "Generisk"
+   },
+   "Generic_CSV_File": {
+      "message": "Standard CSV fil"
+   },
+   "Georgia": {
+      "message": "Georgia"
+   },
+   "German": {
+      "message": "Tysk"
+   },
+   "Germany": {
+      "message": "Tyskland"
+   },
+   "Ghana": {
+      "message": "Ghana"
+   },
+   "Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "Go_Premium_": {
+      "message": "Oppgradér til Premium!"
+   },
+   "Go_to_URL": {
+      "message": "Gå til adresse"
+   },
+   "Google_Authenticator_Multifactor_Authentication": {
+      "message": "Google Authenticator Flerfaktor Autentisering"
+   },
+   "Google_Chrome": {
+      "message": "Google Chrome"
+   },
+   "Google_Chrome_Password_Manager": {
+      "message": "Google Chrome passordhåndterer"
+   },
+   "Google_Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch_LastPass_s_language__please_change_the_main_browser_language_under_Chrome_s_Options_": {
+      "message": "Google Chrome krever at utvidelser bruker samme språk som nettleseren, så for å bytte språket i Lastpass må du endre språket til nettleseren under Chrome sine innstillinger."
+   },
+   "Greece": {
+      "message": "Hellas"
+   },
+   "Greenland": {
+      "message": "Grønland"
+   },
+   "Greenland__Brasilia__Montevideo": {
+      "message": "Grønland, Brasilia, Montevideo"
+   },
+   "Grenada": {
+      "message": "Grenada"
+   },
+   "Group_": {
+      "message": "Gruppe:"
+   },
+   "Group_ID": {
+      "message": "Gruppe-ID"
+   },
+   "Group_Name": {
+      "message": "Gruppenavn"
+   },
+   "Group_will_be_created_under": {
+      "message": "Gruppen vil enten bli opprettet eller så eksisterer den allerede under"
+   },
+   "Groups": {
+      "message": "Grupper"
+   },
+   "Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "Guam": {
+      "message": "Guam"
+   },
+   "Guatemala": {
+      "message": "Guatemala"
+   },
+   "Guernsey": {
+      "message": "Guernsey"
+   },
+   "Guinea": {
+      "message": "Guinea"
+   },
+   "Guinea_Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "Guyana": {
+      "message": "Guyana"
+   },
+   "HP_Password_Safe": {
+      "message": "HP Password Safe"
+   },
+   "Haiti": {
+      "message": "Haiti"
+   },
+   "Harare__Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "Hawaii": {
+      "message": "Hawaii"
+   },
+   "Health_Insurance": {
+      "message": "Helseforsikring"
+   },
+   "Heard_Island_and_Mcdonald_Islands": {
+      "message": "Heard-og McDonald-øyene"
+   },
+   "Height": {
+      "message": "Høyde"
+   },
+   "Help": {
+      "message": "Hjelp"
+   },
+   "Help_Translate": {
+      "message": "Hjelp med å oversette"
+   },
+   "Help___": {
+      "message": "Hjelp..."
+   },
+   "Help_spread_the_word": {
+      "message": "Bidra til å spre ordet"
+   },
+   "Hide_Context_Menu_Options": {
+      "message": "Skjul kontekstmenyvalg"
+   },
+   "Hide_Password": {
+      "message": "Skjul passord"
+   },
+   "Highlight_input_boxes": {
+      "message": "Marker inndatafelt"
+   },
+   "History": {
+      "message": "Historikk"
+   },
+   "Holy_See__Vatican_City_State_": {
+      "message": "Den hellige stol (Vatikanstaten)"
+   },
+   "Home": {
+      "message": "Hjem"
+   },
+   "Honduras": {
+      "message": "Honduras"
+   },
+   "Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "Hostname": {
+      "message": "Vertsnavn"
+   },
+   "HotKeys": {
+      "message": "Tastatursnarveier"
+   },
+   "Hungarian": {
+      "message": "Ungarsk"
+   },
+   "Hungary": {
+      "message": "Ungarn"
+   },
+   "IBAN_Number": {
+      "message": "IBAN nummer"
+   },
+   "IMPORT_": {
+      "message": "IMPORTERE?"
+   },
+   "IT_IS_CRITICAL_THAT_YOU_NEVER_FORGET_YOUR_NEW_LASTPASS_PASSWORD_": {
+      "message": "VIKTIG. DU MÅ IKKE GLEMME PASSORDET TIL LASTPASS !"
+   },
+   "I_Forgot_my_Password": {
+      "message": "Jeg har glemt passordet"
+   },
+   "I_forgot_my_password__Help_": {
+      "message": "Jeg har glemt mitt passord, hjelp"
+   },
+   "I_have_read_and_agree_with_the": {
+      "message": "Jeg har lest og godtar "
+   },
+   "I_understand_that_my_encrypted_data_will_be_sent_to_LastPass": {
+      "message": "Jeg forstår at mine krypterte data blir sendt til LastPass"
+   },
+   "Iceland": {
+      "message": "Island"
+   },
+   "Identities": {
+      "message": "Identiteter"
+   },
+   "Identity": {
+      "message": "Identitet"
+   },
+   "If_checked__you_will_be_asked_to_re_enter_your_master_password_before_being_able_to_access_this_Form_Fill_profile": {
+      "message": "Hvis huket av, vil du måtte skrive inn master-passordet en gang til før du får tilgang til profilen for skjemautfylling"
+   },
+   "If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Hvis merket, vil kreditt rapporten overvåkes regelmessig og du vil bli varslet hvis noe mistenkelig aktivitet oppstår."
+   },
+   "If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Hvis dette ikke spesifiseres, vil det brukes en filtype av:"
+   },
+   "If_you_already_have_a_LastPass_account_you_can_close_this_window_and_login_": {
+      "message": "Hvis du allerede har en konto, kan du lukke dette vinduet og logge inn."
+   },
+   "If_you_do_end_up_forgetting_your_LastPass_master_password_": {
+      "message": "Dersom du skulle glemme ditt LastPass hovedpassord,"
+   },
+   "If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Glemt svaret? Trykk her for å tilbakestille sikkerhetsspørsmålet."
+   },
+   "If_you_have_another_format_that_LastPass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a_CSV_file__YOU_MUST_MODIFY_THE_FIRST_ROW_OF_THE_CSV_FILE_FOR_LASTPASS_TO_RECOGNIZE_IT__The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns_Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in___You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order___For_example_your_file_s_first_row_might_be_like___name_username_password_url__If_you_want_to_import_a_Secure_Note_instead_of_a_Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank___As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a_Secure_Note_instead_of_a_Site___This_should_be_very_simple__just_open_your_saved_CSV_file_in_Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is___Save_it__then_import_the_resulting_file_": {
+      "message": "Hvis du har et annet format som LastPass ikke støtter, så kan du prøve å lagre dataene som en CSV file\n\nDU MÅ REDIGERE FØRSTE RADEN I CSV- filen FOR AT LASTPASS SKAL KJENNE DEN IGJEN!\n\nKolonneoverskriftene bør velges nøye, slik at de gjenspeiler dataene i radene. Eksempler kan være:\n\nurl,brukernavn,passord,ekstra,navn,gruppering\n\nEkstra - betyr notater og gruppering er i hvilken gruppe du vil legge oppføringen i. Du trenger ikke å fylle inn i alle kolonner, og de behøver ikke være i en spesiell rekkefølge. For eksempel kan din første rad se slik ut:\n\nnavn,brukernavn,passord,url\n\nHvis du vil importere et Sikkert Notat i stedet for et nettsted, lar du bare feltene for url, brukernavn og passord stå tomme (eller du kan utelate kolonneoverskriftene helt), og så forsikre deg om at ekstra kolonnen ikke er tom. Så lenge disse tingene er gjort, vil oppføringen importeres som et sikkert notat i motsetning som til et nettsted.\n\nDette skal være enkelt; åpne csv filen din i Excel og sørg for at overskriftene dine samspeiler med innholdet i radene nedover. Lagre og importer filen i Laspass."
+   },
+   "If_you_lost_your_Google_Authenticator_device__click_here_to_disable_Google_Authenticator_authentication": {
+      "message": "Hvis du mistet din Google Authenticator enhet, klikk her for å deaktivere  autentisering med Google Authenticator."
+   },
+   "If_you_lost_your_Sesame_device__click_here_to_disable_Sesame_authentication": {
+      "message": "Dersom du har mistet din Sesame enhet, klikk her for å deaktivere Sesame autentikasjon"
+   },
+   "If_you_lost_your_YubiKey_device__click_here_to_disable_YubiKey_authentication": {
+      "message": "Dersom du har mistet din YubiKey enhet, klikk her for å deaktivere YubiKey autentikasjon"
+   },
+   "If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Hvis du har mistet rutenettet ditt, klikk her for å slå av autentisering med rutenett"
+   },
+   "Import": {
+      "message": "Importér"
+   },
+   "Import_From": {
+      "message": "Importér fra"
+   },
+   "Import_Your_Data": {
+      "message": "Importér dataene dine"
+   },
+   "Importing_your_data_to_your_LastPass_vault_will_secure_it_and_protect_you_against_identity_theft__All_imported_data_remains_COMPLETELY_confidential__the_only_person_who_can_view_YOUR_data_is_YOU_": {
+      "message": "Importering av dine data til LastPass vault vil sikre dem og beskytte deg mot identitetstyveri.\nAlle importerte data forblir HELT konfidensielle: den eneste personen som kan se DINE data er DEG."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "For at LastPass skal fylle inn grunnleggende påloggingsdialoger, må du aktivere tilgang på hjelpemidler."
+   },
+   "In_order_for_LastPass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of_LastPass_for_Chrome_": {
+      "message": "For at LastPass skal fylle inn grunnleggende påloggingsdialoger, må du installere den binære versjonen av LastPass for Chrome."
+   },
+   "India": {
+      "message": "India"
+   },
+   "Indiana__Bogota__Lima__Quito__Rio_Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "Indonesia": {
+      "message": "Indonesia"
+   },
+   "Install": {
+      "message": "Installer"
+   },
+   "Install_the_LastPass_Library_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installer LastPass biblioteket for Chrome til å aktivere automatisk avlogging etter fravær"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installer binærversjonen av LastPass for Chrome, for å bruke automatisk utlogging ved inaktivitet"
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_importing_passwords_from_Google_Chrome_password_manager": {
+      "message": "Installer den binære versjonen av LastPass for Chrome for å muliggjøre import av passord fra Google Chrome passord manager."
+   },
+   "Install_the_binary_version_of_LastPass_for_Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Installer binærversjonen av LastPass for Chrome, for å dele innloggingsstatus mellom nettlesere"
+   },
+   "Instant_Messenger": {
+      "message": "Lynmelding"
+   },
+   "Instructions": {
+      "message": "Instruksjoner"
+   },
+   "Insurance": {
+      "message": "Forsikring"
+   },
+   "International_Date_Line_West": {
+      "message": "Internasjonal datolinje Vest"
+   },
+   "Invalid_Password_": {
+      "message": "Ugyldig Passord."
+   },
+   "Invalid_email_address__try_again": {
+      "message": "Ugyldig epostadresse, prøv igjen"
+   },
+   "Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Ugyldig filtype, det må være et bilde som kan vises av nettleseren din."
+   },
+   "Iran__Islamic_Republic_Of_": {
+      "message": "Iran (Den islamske republikken)"
+   },
+   "Iraq": {
+      "message": "Irak"
+   },
+   "Ireland": {
+      "message": "Irland"
+   },
+   "Islamabad__Karachi__Tashkent": {
+      "message": "Islamabad, Karachi, Tasjkent"
+   },
+   "Isle_of_Man": {
+      "message": "Isle of Man"
+   },
+   "Israel": {
+      "message": "Israel"
+   },
+   "Issue_number": {
+      "message": "Utstedernummer"
+   },
+   "Issued_Date": {
+      "message": "Utstedt dato"
+   },
+   "Issuing_Authority": {
+      "message": "Utstedelse Autoritet"
+   },
+   "It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Det er anbefalt at du sletter vedleggsfilen etter at du bruker den."
+   },
+   "Italian": {
+      "message": "Italiensk"
+   },
+   "Italy": {
+      "message": "Italia"
+   },
+   "Jamaica": {
+      "message": "Jamaica"
+   },
+   "January": {
+      "message": "Januar"
+   },
+   "Japan": {
+      "message": "Japan"
+   },
+   "Japanese": {
+      "message": "Japansk"
+   },
+   "Jersey": {
+      "message": "Jersey"
+   },
+   "Jordan": {
+      "message": "Jordan"
+   },
+   "July": {
+      "message": "Juli"
+   },
+   "June": {
+      "message": "Juni"
+   },
+   "Kabul": {
+      "message": "Kabul"
+   },
+   "Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "Kazakhstan": {
+      "message": "Kasakhstan"
+   },
+   "KeePass": {
+      "message": "KeePass"
+   },
+   "Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Behold en historikk av mine innlogginger og skjemautfyllinger"
+   },
+   "Kenya": {
+      "message": "Kenya"
+   },
+   "Key_Index": {
+      "message": "Nøkkelindeks"
+   },
+   "Key_Type": {
+      "message": "Type nøkkel"
+   },
+   "Kiribati": {
+      "message": "Kiribati"
+   },
+   "Korea__Democratic_People_s_Republic_Of": {
+      "message": "Korea, Den demokratiske folkerepublikken"
+   },
+   "Korea__Republic_Of": {
+      "message": "Korea, Republikken"
+   },
+   "Korean": {
+      "message": "Koreansk"
+   },
+   "Kuwait": {
+      "message": "Kuwait"
+   },
+   "Kuwait__Riyadh__Nairobi__Tbilisi": {
+      "message": "Kuwait, Riyadh, Nairobi, Tbilisi"
+   },
+   "Kyrgyzstan": {
+      "message": "Kirgisistan"
+   },
+   "La_Paz": {
+      "message": "La Paz"
+   },
+   "Language": {
+      "message": "Språk"
+   },
+   "Lao_People_s_Democratic_Republic": {
+      "message": "Lao People's Democratic Republic"
+   },
+   "LastPass": {
+      "message": "LastPass"
+   },
+   "LastPass_CSV_File": {
+      "message": "LastPass CSV fil"
+   },
+   "LastPass_Chrome_Toolbar": {
+      "message": "LastPass Chrome verktøylinje"
+   },
+   "LastPass_Encrypted_File": {
+      "message": "LastPass kryptert fil"
+   },
+   "LastPass_Grid_Multifactor_Authentication": {
+      "message": "LastPass flerfaktors rutenettautentisering"
+   },
+   "LastPass_Menu": {
+      "message": "LastPass-meny"
+   },
+   "LastPass_can_automatically_fill_web_page_forms_with_a_single_click___Using_automatic__Form_Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass kan fylle ut webskjema med et enkelt klikk. Ved å bruke 'skjemautfyllingen' sparer du ikke bare tid, men vil også forbedre sikkerheten når du handler på nett."
+   },
+   "LastPass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass kan ikke logge inn før informasjonskapsler (cookies) er tillatt fra lastpass.com"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_like_to_continue_": {
+      "message": "LastPass oppdaget et usikkert innloggingsfelt.\n\nVil du fortsette?"
+   },
+   "LastPass_detected_a_login_form_that_is_insecure___Would_you_still_like_LastPass_to_fill_the_form_": {
+      "message": "LastPass oppdaget et usikkert innloggingsfelt.\n\nVil du fortsatt la LastPass fylle ut feltet?"
+   },
+   "LastPass_detected_a_password_change_for": {
+      "message": "LastPass oppdaget en passordforandring for"
+   },
+   "LastPass_detected_a_password_change_for_domain_": {
+      "message": "LastPass oppdaget en passordforandring for domenet:"
+   },
+   "LastPass_detected_a_password_change_for_user_": {
+      "message": "LastPass oppdaget en passordforandring for bruker:"
+   },
+   "LastPass_has_detected_an_installation_error___Please_reinstall_LastPass_": {
+      "message": "LastPass har oppdaget en installasjonsfeil. Installer LastPass på nytt."
+   },
+   "LastPass_has_detected_that_you_are_using_a_weak_password_for_the_site_below__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass har oppdaget at du bruker et svakt passord for nettstedet nedenfor. Vi anbefaler å gå til kontoinnstillingene dine for dette nettstedet, og opprette et nytt passord. Bruk LastPass til å generere et unik, sterkt passord for denne kontoen. Du kan deretter lagre endringene på nettstedet, og LastPass."
+   },
+   "LastPass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too__We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password__Use_LastPass_to_generate_a_unique__strong_password_for_this_account__You_can_then_save_the_changes_on_the_site__and_to_LastPass_": {
+      "message": "LastPass har oppdaget at du har brukt passordet til dette brukernavnet på andre nettsteder også. Vi anbefaler å gå til kontoinnstillingene dine for dette nettstedet, og opprette et nytt passord. Bruk LastPass til å generere et unikt, sterkt passord for denne kontoen. Du kan deretter lagre endringene på nettstedet, og LastPass."
+   },
+   "LastPass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass har fylt inn påloggingsinformasjonen din i skjemaet på denne siden."
+   },
+   "LastPass_is_fully_installed___When_you_install_LastPass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login____Do_not_share_your_Master_Password_with_anyone__including_LastPass_employees__we_ll_never_ask_for_it___LastPass_encrypts_your_sensitive_data_locally_so_even_LastPass_employees_do_not_have_access_to_it___You_can_get_help_by_clicking_on_the_LastPass_icon_and_going_to_Help_": {
+      "message": "LastPass er installert! Når du installerer LastPass på andre datamaskiner, trenger du ikke gå gjennom denne prosessen på nytt. Du kan enkelt og greit logge deg inn. Del aldri hovedpassordet ditt med noen, LastPass-ansatte inkludert. Vi kommer ikke til å spørre etter det! LastPass krypterer de sensitive opplysningene dine lokalt, slik at ikke engang LastPass-ansatte har tilgang til dem. Du kan få hjelp, ved å klikke LastPass-ikonet og klikke linken 'Hjelp'."
+   },
+   "LastPass_is_the_last_password_you_ll_ever_have_to_remember___If_you_re_new_to_LastPass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account___You_ll_be_able_to_use_this_account_on_any_other_PC_you_use_to_always_keep_your_personal_data_in_sync___Hit_create_account_to_begin_": {
+      "message": "LastPass er det siste passordet du noen gang trenger å huske. Dersom du er en ny bruker av LastPass, trenger vi kun noen få minutter av deg for å opprette din konto. Du kan bruke denne kontoen på hvilken som helst datamaskin, og alltid ha dine personlige data synkronisert. Klikk 'Opprett konto' for å begynne."
+   },
+   "LastPass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass må omkryptere alle dine data på grunn forandret nøkkelpassord."
+   },
+   "Last_4_digits_of_your_phone_number": {
+      "message": "Siste 4 siffre av ditt telefonnummer"
+   },
+   "Last_Name2": {
+      "message": "Etternavn2"
+   },
+   "Last_Touch": {
+      "message": "Siste Trykk"
+   },
+   "Last_name": {
+      "message": "Etternavn"
+   },
+   "Latvia": {
+      "message": "Latvia"
+   },
+   "Launch": {
+      "message": "Start"
+   },
+   "Lebanon": {
+      "message": "Libanon"
+   },
+   "Left": {
+      "message": "Venstre"
+   },
+   "Lesotho": {
+      "message": "Lesotho"
+   },
+   "Liberia": {
+      "message": "Liberia"
+   },
+   "Libyan_Arab_Jamahiriya": {
+      "message": "Libya"
+   },
+   "License_Class": {
+      "message": "Lisens klasse"
+   },
+   "License_Key": {
+      "message": "Lisensnøkkel"
+   },
+   "Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "Link_Personal_Account": {
+      "message": "Lenk Personal Account"
+   },
+   "Lithuania": {
+      "message": "Litauen"
+   },
+   "Local": {
+      "message": "Lokal"
+   },
+   "Log_into_a_Site": {
+      "message": "Logg inn på et nettsted"
+   },
+   "LoggedInOffline": {
+      "message": "LastPass klarte ikke å kontakte serveren, så du er nå i frakoblet modus.\n\nNoe av funksjonaliteten kan være begrenset i denne modusen."
+   },
+   "Login": {
+      "message": "Logg inn"
+   },
+   "LoginError": {
+      "message": "Feil ved innlogging til LastPass. Vennligst prøv igjen."
+   },
+   "Login_to_LastPass": {
+      "message": "Logg inn på LastPass"
+   },
+   "Logoff": {
+      "message": "Logg av"
+   },
+   "Logoff_": {
+      "message": "Logg ut:"
+   },
+   "LoseChanges": {
+      "message": "Er du sikker på at du vil redigere feltene på denne siden? Dette vil føre til at du mister alle endringer du har gjort på denne siden!"
+   },
+   "LoseChangesApp": {
+      "message": "Er du sikker på at du vil endre dette programmets felter? Dette kan resultere i at du mister alle endringer som er gjort tidligere!"
+   },
+   "Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "MSI_PasswordKeeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "Macao": {
+      "message": "Macao"
+   },
+   "Macedonia__the_Former_Yugoslav_Republic_Of": {
+      "message": "Makedonia, det tidligere jugoslaviske republikken"
+   },
+   "Madagascar": {
+      "message": "Madagaskar"
+   },
+   "Magadan__Solomon_Is___New_Caledonia__Vladivostok": {
+      "message": "Magadan, Salomonøyene, Ny-Caledonia, Vladivostok"
+   },
+   "Malawi": {
+      "message": "Malawi"
+   },
+   "Malaysia": {
+      "message": "Malaysia"
+   },
+   "Maldives": {
+      "message": "Maldivene"
+   },
+   "Male": {
+      "message": "Mann"
+   },
+   "Mali": {
+      "message": "Mali"
+   },
+   "Malta": {
+      "message": "Malta"
+   },
+   "March": {
+      "message": "Mars"
+   },
+   "Marshall_Islands": {
+      "message": "Marshall Islands"
+   },
+   "Martinique": {
+      "message": "Martinique"
+   },
+   "Master_Password": {
+      "message": "Hovedpassord"
+   },
+   "Matching_Sites": {
+      "message": "Matchende Nettsteder"
+   },
+   "Mauritania": {
+      "message": "Mauritania"
+   },
+   "Mauritius": {
+      "message": "Mauritius"
+   },
+   "Maxthon": {
+      "message": "Maxthon"
+   },
+   "May": {
+      "message": "Mai"
+   },
+   "Mayotte": {
+      "message": "Mayotte"
+   },
+   "Member_ID": {
+      "message": "Medlems-ID"
+   },
+   "Member_Name": {
+      "message": "Medlemsnavn"
+   },
+   "Membership": {
+      "message": "Medlemskap"
+   },
+   "Membership_Number": {
+      "message": "Medlemsnummer"
+   },
+   "Meta": {
+      "message": "Meta"
+   },
+   "Mexico": {
+      "message": "Mexico"
+   },
+   "Micronesia__Federated_States_Of": {
+      "message": "Mikronesiaføderasjonen Of"
+   },
+   "Mid_Atlantic": {
+      "message": "Midt-Atlanteren"
+   },
+   "Middle_3_digits_of_your_phone_number": {
+      "message": "Midtre tre sifrene i telefonnummeret ditt"
+   },
+   "Middle_name": {
+      "message": "Mellomnavn"
+   },
+   "Midway_Island__Samoa": {
+      "message": "Midway Island, Samoa"
+   },
+   "Minimum_Digit_Count": {
+      "message": "Minste antall siffer"
+   },
+   "Mobile_Email_Address": {
+      "message": "Mobil e-postadresse"
+   },
+   "Mobile_number": {
+      "message": "Mobilnummer"
+   },
+   "Moldova__Republic_Of": {
+      "message": "Moldova, Republikken"
+   },
+   "Monaco": {
+      "message": "Monaco"
+   },
+   "Mongolia": {
+      "message": "Mongolia"
+   },
+   "Montenegro": {
+      "message": "Montenegro"
+   },
+   "Montserrat": {
+      "message": "Montserrat"
+   },
+   "More": {
+      "message": "Mer"
+   },
+   "More_Information": {
+      "message": "Mer informasjon"
+   },
+   "Morocco": {
+      "message": "Marokko"
+   },
+   "Mountain_Time__US___Canada_": {
+      "message": "Mountain Time (USA og Canada)"
+   },
+   "Move_Selected_to_Group": {
+      "message": "Flytt valgte til gruppe"
+   },
+   "Move_to_Group": {
+      "message": "Flytt til gruppe"
+   },
+   "Move_to_Sub_Group": {
+      "message": "Flytt til undergruppe"
+   },
+   "Mozambique": {
+      "message": "Mosambik"
+   },
+   "Mr": {
+      "message": "Herr"
+   },
+   "Mrs": {
+      "message": "Fru"
+   },
+   "Ms": {
+      "message": "Frk"
+   },
+   "Multifactor_Authentication": {
+      "message": "Flerfaktorautentisering"
+   },
+   "MyPasswordSafe": {
+      "message": "MyPasswordSafe"
+   },
+   "My_Account": {
+      "message": "Min bruker"
+   },
+   "My_LastPass_Vault": {
+      "message": "Mitt LastPass-hvelv"
+   },
+   "Myanmar": {
+      "message": "Myanmar"
+   },
+   "NAME": {
+      "message": "NAVN"
+   },
+   "Name_": {
+      "message": "Navn:"
+   },
+   "Name_on_card": {
+      "message": "Navn på kortet"
+   },
+   "Nameproper": {
+      "message": "Navn"
+   },
+   "Namibia": {
+      "message": "Namibia"
+   },
+   "Nationality": {
+      "message": "Nasjonalitet"
+   },
+   "Nauru": {
+      "message": "Nauru"
+   },
+   "Nepal": {
+      "message": "Nepal"
+   },
+   "Netherlands": {
+      "message": "Nederland"
+   },
+   "Netherlands_Antilles": {
+      "message": "De nederlandske Antillene"
+   },
+   "Never": {
+      "message": "Aldri"
+   },
+   "Never_Show_Again": {
+      "message": "Ikke vis Igjen"
+   },
+   "Never___": {
+      "message": "Aldri..."
+   },
+   "New_Caledonia": {
+      "message": "Ny Caledonia"
+   },
+   "New_Master_Password": {
+      "message": "Nytt Master Passord"
+   },
+   "New_Zealand": {
+      "message": "New Zealand"
+   },
+   "Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "Niger": {
+      "message": "Niger"
+   },
+   "Nigeria": {
+      "message": "Nigeria"
+   },
+   "Niue": {
+      "message": "Niue"
+   },
+   "No": {
+      "message": "Nei"
+   },
+   "No_Matching_Sites_": {
+      "message": "Ingen samsvarende nettsider!"
+   },
+   "No_Thanks": {
+      "message": "Nei, takk"
+   },
+   "No_Updates_Are_Available": {
+      "message": "Ingen oppdateringer er tilgjengelige"
+   },
+   "No_Wi_Fi_adapter_was_detected_on_this_computer___This_feature_requires_a_Wi_Fi_adapter_": {
+      "message": "LastPass sitt Wi-Fi verktøy ble ikke funnet på denne datamaskinen.  Denne funksjonen krever at Wi-Fi verktøy er installert."
+   },
+   "No__I_do_not_want_LastPass_to_help_me_fill_forms_automatically": {
+      "message": "Nei, jeg vil ikke at LastPass skal hjelpe meg med å fylle ut skjema automatisk"
+   },
+   "No__do_not_import_any_of_my_insecure_items": {
+      "message": "Nei, ikke importér mine usikrede elementer"
+   },
+   "None_Available": {
+      "message": "Ingen tilgjengelig"
+   },
+   "Norfolk_Island": {
+      "message": "Norfolk Island"
+   },
+   "Northern_Mariana_Islands": {
+      "message": "Nord-Marianene"
+   },
+   "Norway": {
+      "message": "Norge"
+   },
+   "Norwegian": {
+      "message": "Norsk"
+   },
+   "Norwegian_Nynorsk": {
+      "message": "Norsk (nynorsk)"
+   },
+   "Not_Now": {
+      "message": "Ikke nå"
+   },
+   "Note_Type": {
+      "message": "Notattype "
+   },
+   "Notes": {
+      "message": "Notater"
+   },
+   "Notes_": {
+      "message": "Notater:"
+   },
+   "Notifications": {
+      "message": "Meldinger"
+   },
+   "November": {
+      "message": "November"
+   },
+   "Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "Number": {
+      "message": "Nummer"
+   },
+   "Number_of_Licenses": {
+      "message": "Antall lisenser"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "October": {
+      "message": "Oktober"
+   },
+   "Offer_to_Generate_Secure_Passwords": {
+      "message": "Tilby å generere sikre passord"
+   },
+   "Old_Password": {
+      "message": "Gammelt passord"
+   },
+   "Oman": {
+      "message": "Oman"
+   },
+   "One_Time_Passwords": {
+      "message": "Engangspassord"
+   },
+   "Open_All": {
+      "message": "Åpne alle"
+   },
+   "Open_Favorites": {
+      "message": "Åpne favoritter"
+   },
+   "Open_My_LastPass_Vault": {
+      "message": "Åpne mitt LastPass-hvelv"
+   },
+   "Open_New_Pages_in": {
+      "message": "Åpne nye sider i"
+   },
+   "Open_Popover": {
+      "message": "Åpne Popover"
+   },
+   "Open_Security_Check": {
+      "message": "Åpne sikkerhetssjekken"
+   },
+   "Open_Sticky_Password___Manage_Database___Export___Export_as_text__Import_this_file": {
+      "message": "Åpne Sticky Passord - Administrer Database - Eksport - Eksporter som tekst. Importere denne filen"
+   },
+   "Open_login_dialog_when_start_browser": {
+      "message": "Åpne innloggingsboks når nettleseren starter"
+   },
+   "Opera": {
+      "message": "Opera"
+   },
+   "Opera_Password_Manager": {
+      "message": "Operas passordbehandler"
+   },
+   "Order_Number": {
+      "message": "Ordrenummer"
+   },
+   "Order_Total": {
+      "message": "Total bestilling"
+   },
+   "Organization": {
+      "message": "Organisasjon"
+   },
+   "Other": {
+      "message": "Andre"
+   },
+   "Other_Sessions": {
+      "message": "Andre sesjoner"
+   },
+   "PASSWORDupper": {
+      "message": "PASSORD"
+   },
+   "PINs_Password_Manager": {
+      "message": "PINs Passordbehandler"
+   },
+   "Pacific_Time__US___Canada_": {
+      "message": "Pacific Time (USA og Canada)"
+   },
+   "Page_Down": {
+      "message": "Ned"
+   },
+   "Page_Up": {
+      "message": "Opp"
+   },
+   "Pakistan": {
+      "message": "Pakistan"
+   },
+   "Palau": {
+      "message": "Palau"
+   },
+   "Palestinian_Territories": {
+      "message": "Palestinske territorier"
+   },
+   "Panama": {
+      "message": "Panama"
+   },
+   "Papua_New_Guinea": {
+      "message": "Papua Ny-Guinea"
+   },
+   "Paraguay": {
+      "message": "Paraguay"
+   },
+   "Passpack": {
+      "message": "Passordbag"
+   },
+   "Passphrase": {
+      "message": "Passord-frase"
+   },
+   "Passport": {
+      "message": "Pass"
+   },
+   "Password": {
+      "message": "Passord"
+   },
+   "Password_": {
+      "message": "Passord:"
+   },
+   "Password_Agent": {
+      "message": "Passord agent"
+   },
+   "Password_Corral": {
+      "message": "Passord Corral"
+   },
+   "Password_Depot": {
+      "message": "Passord Depot"
+   },
+   "Password_Dragon": {
+      "message": "Passord Dragon"
+   },
+   "Password_Keeper": {
+      "message": "Passordbeholder"
+   },
+   "Password_Length": {
+      "message": "Passordlengde"
+   },
+   "Password_Length_": {
+      "message": "Passordlengde:"
+   },
+   "Password_Reminder": {
+      "message": "Passordhint"
+   },
+   "Password_Safe": {
+      "message": "Passordhvelv"
+   },
+   "Password_reminder_cannot_match_password": {
+      "message": "Passordpåminnelsen kan ikke være det samme som passordet"
+   },
+   "Password_updated_": {
+      "message": "Passord er oppdatert!"
+   },
+   "Passwords_Max": {
+      "message": "Passord Max"
+   },
+   "Personal": {
+      "message": "Personlig"
+   },
+   "Peru": {
+      "message": "Peru"
+   },
+   "Philippines": {
+      "message": "Filippinene"
+   },
+   "Phone_number": {
+      "message": "Telefonnummer"
+   },
+   "Physician_Address": {
+      "message": "Legens adresse"
+   },
+   "Physician_Name": {
+      "message": "Legens navn"
+   },
+   "Physician_Phone": {
+      "message": "Legens telefon"
+   },
+   "Pin": {
+      "message": "Pinn"
+   },
+   "Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "Please_Make_a_Selection": {
+      "message": "Velg"
+   },
+   "Please_Wait___": {
+      "message": "Vennligst vent..."
+   },
+   "Please_answer_the_following_question_": {
+      "message": "Vennligst svar på følgende spørsmål:"
+   },
+   "Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Velg den typen eksport du ønsker å utføre:"
+   },
+   "Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Velg utskriftstype:"
+   },
+   "Please_close_this_window": {
+      "message": "Lukk dette vinduet"
+   },
+   "Please_enter_a_Password_Reminder": {
+      "message": "Vennligst skriv inn en passordpåminnelse"
+   },
+   "Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Vennligst skriv inn den fullstendige stien til filen som skal importeres."
+   },
+   "Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Behold denne siden åpen helt til operasjonen er fullført."
+   },
+   "Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Vennligst flytt nettsteder kun fra en delt mappe av gangen."
+   },
+   "Please_note_that_upgrading_from_LastPass_Local_to_LastPass_Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to_LastPass_servers___You_will_be_able_to_access_your_data_from_anywhere__and_LastPass_will_not_be_able_to_read_it___Would_you_like_to_continue_": {
+      "message": "Vær oppmerksom på at oppgradering fra LastPass Local til LastPass Online vil føre til at passorddata blir lastet opp i kryptert form til LastPass sine servere. Du vil få tilgang til dataene dine fra hvor som helst, og LastPass vil ikke kunne lese dem. Vil du fortsette?"
+   },
+   "Please_provide_this_computer_a_name": {
+      "message": "Vennligst gi datamaskinen et navn"
+   },
+   "Please_reload_the_page_to_view_your_changes_": {
+      "message": "Vennligst oppdater siden for å vise endringene."
+   },
+   "Please_restart_all_your_browsers_to_begin_using_LastPass_Online_": {
+      "message": "Omstart alle nettleserne dine for å begynner å bruke LastPass Online."
+   },
+   "Please_select": {
+      "message": "Vennligst velg"
+   },
+   "Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Vennligst velg hvilke sider du vil utføre denne forandringen på."
+   },
+   "Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Besøk https://lastpass.com for å lage en kontakt, senere."
+   },
+   "Poland": {
+      "message": "Polen"
+   },
+   "Policy_Number": {
+      "message": "Policy-nummer"
+   },
+   "Policy_Type": {
+      "message": "Policy-type"
+   },
+   "Polish": {
+      "message": "Polsk"
+   },
+   "Poll_Server_for_account_changes__mins_": {
+      "message": "Spør Server om kontoforandringer (minutter)"
+   },
+   "Port": {
+      "message": "Port"
+   },
+   "Portugal": {
+      "message": "Portugal"
+   },
+   "Portuguese": {
+      "message": "Portugisisk"
+   },
+   "Portuguese__Brazilian_": {
+      "message": "Portugisisk (Brasil)"
+   },
+   "Preferences": {
+      "message": "Innstillinger"
+   },
+   "Price": {
+      "message": "Pris"
+   },
+   "Print": {
+      "message": "Skriv ut"
+   },
+   "Print_Screen": {
+      "message": "Skjermdump"
+   },
+   "Print_Secure_Notes": {
+      "message": "Print sikre notater"
+   },
+   "Print_Sites": {
+      "message": "Print nettsteder"
+   },
+   "Private_Key": {
+      "message": "Privat nøkkel"
+   },
+   "Profile": {
+      "message": "Profil"
+   },
+   "Profile_language": {
+      "message": "Profilspråk"
+   },
+   "Profile_name": {
+      "message": "Profilnavn"
+   },
+   "Protected": {
+      "message": "Beskyttet"
+   },
+   "Public_Key": {
+      "message": "Offentlig nøkkel"
+   },
+   "Publisher": {
+      "message": "Forlag"
+   },
+   "Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "Purchase_Date": {
+      "message": "Kjøpsdato"
+   },
+   "Qatar": {
+      "message": "Qatar"
+   },
+   "Re_enter_Password": {
+      "message": "Skriv inn passordet på nytt"
+   },
+   "Recent_Sites": {
+      "message": "Siste Nettsteder"
+   },
+   "Recently_Used": {
+      "message": "Nylig brukt"
+   },
+   "Recently_Used_list_size": {
+      "message": "Størrelsen på listen over nylig brukte"
+   },
+   "Recheck_Page": {
+      "message": "Sjekk siden på nytt"
+   },
+   "Reencrypting_Data___": {
+      "message": "Re-kryptere data ..."
+   },
+   "Refresh": {
+      "message": "Oppdater"
+   },
+   "Refresh_Sites": {
+      "message": "Oppdater nettsteder"
+   },
+   "Reject": {
+      "message": "Nekt"
+   },
+   "Remember_Email": {
+      "message": "Husk E-post"
+   },
+   "Remember_Password": {
+      "message": "Husk Passord"
+   },
+   "Remove_Personal_Account": {
+      "message": "Fjern personlig konto"
+   },
+   "Rename_Group": {
+      "message": "Gi nytt navn på gruppen"
+   },
+   "Replace_Existing_Site": {
+      "message": "Bytt ut eksisterende side"
+   },
+   "Require_Every_Character_Type": {
+      "message": "Krev hver bokstavtype"
+   },
+   "Require_Password_Reprompt": {
+      "message": "Krev ny passordforespørsel"
+   },
+   "Require_security_reprompt_when_": {
+      "message": "Krev sikkerhetsspørsmål på nytt når:"
+   },
+   "Respect_AutoComplete_off__allow_websites_to_disable_AutoFill": {
+      "message": "Respekter AutoComplete=off: tillat websider å deaktivere Autofyll"
+   },
+   "Reunion": {
+      "message": "Reunion"
+   },
+   "Revelation_Password_Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "Right": {
+      "message": "Høyre"
+   },
+   "RoboForm": {
+      "message": "RoboForm"
+   },
+   "Romania": {
+      "message": "Romania"
+   },
+   "Routing_number": {
+      "message": "Rutingnummer"
+   },
+   "Russian": {
+      "message": "Russisk"
+   },
+   "Russian_Federation": {
+      "message": "Russland"
+   },
+   "Rwanda": {
+      "message": "Rwanda"
+   },
+   "SID": {
+      "message": "SID"
+   },
+   "SITE": {
+      "message": "NETTSTED"
+   },
+   "SMTP_Port": {
+      "message": "SMTP Port"
+   },
+   "SMTP_Server": {
+      "message": "SMTP-server"
+   },
+   "SPB_Wallet": {
+      "message": "SPB Wallet"
+   },
+   "SSH_Key": {
+      "message": "SSH-nøkkel"
+   },
+   "SSID": {
+      "message": "SSID (identifikator for trådløst nett)"
+   },
+   "SWIFT_Code": {
+      "message": "SWIFT Kode"
+   },
+   "Safari": {
+      "message": "Safari"
+   },
+   "Safari_Password_Manager": {
+      "message": "Safaris passordbehandler."
+   },
+   "Saint_Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "Saint_Helena": {
+      "message": "Saint Helena"
+   },
+   "Saint_Kitts_and_Nevis": {
+      "message": "Saint Kitts og Nevis"
+   },
+   "Saint_Lucia": {
+      "message": "Sant Lucia"
+   },
+   "Saint_Martin__French_Part_": {
+      "message": "Saint Martin (fransk del)"
+   },
+   "Saint_Pierre_and_Miquelon": {
+      "message": "Saint Pierre og Miquelon"
+   },
+   "Saint_Vincent_and_the_Grenadines": {
+      "message": "Saint Vincent og Grenadinene"
+   },
+   "Samoa": {
+      "message": "Samoa"
+   },
+   "San_Marino": {
+      "message": "San Marino"
+   },
+   "Sao_Tome_and_Principe": {
+      "message": "São Tomé og Príncipe"
+   },
+   "Saudi_Arabia": {
+      "message": "Saudi-Arabia"
+   },
+   "Save": {
+      "message": "Lagre"
+   },
+   "Save_All_Entered_Data": {
+      "message": "Lagre alle utfylte data"
+   },
+   "Save_Credit_Card_profile": {
+      "message": "Lagre kredittkort profil"
+   },
+   "Save_Form_Fill_profile": {
+      "message": "Lagre skjemautfyllingsprofil"
+   },
+   "Save_New_Site": {
+      "message": "Lagre nytt nettsted"
+   },
+   "Save_Site": {
+      "message": "Lagre side"
+   },
+   "Save_a_disabled_One_Time_Password_locally_for_Account_Recovery": {
+      "message": "Lagre et deaktivert engangspassord lokalt for kontogjenoppretting"
+   },
+   "Save_your_changes_and_close_this_window": {
+      "message": "Lagre endringene dine og lukk dette vinduet"
+   },
+   "Screen_Keyboard": {
+      "message": "Skjermtastatur"
+   },
+   "Search_All_Data": {
+      "message": "Søk Alle data"
+   },
+   "Search_All_Groups": {
+      "message": "Søk alle grupper"
+   },
+   "Search_All_Notes": {
+      "message": "Søk Alle Notater"
+   },
+   "Search_All_Sites": {
+      "message": "Søk på alle nettsteder"
+   },
+   "Search_Vault": {
+      "message": "Søk i hvelvet"
+   },
+   "Search_within_secure_notes": {
+      "message": "Søk innenfor sikre notater"
+   },
+   "Searchproper": {
+      "message": "Søk"
+   },
+   "Secure_Notes": {
+      "message": "Sikre notater"
+   },
+   "Security": {
+      "message": "Sikkerhet"
+   },
+   "Security_Check": {
+      "message": "Sikkerhetskontroll"
+   },
+   "Security_Question_Multifactor_Authentication": {
+      "message": "Sikkerhetsspørsmål med flerfaktorautentisering"
+   },
+   "Security_code": {
+      "message": "Sikkerhetskode"
+   },
+   "Select": {
+      "message": "Velg"
+   },
+   "Select_All": {
+      "message": "Velg Alle"
+   },
+   "Select_or_enter_a_new_group_name": {
+      "message": "Velg eller skriv inn et nytt gruppenavn"
+   },
+   "Send_anonymous_error_reporting_data_to_help_improve_LastPass": {
+      "message": "Send anonyme feildata for å hjelpe med å forbedre LastPass"
+   },
+   "Senegal": {
+      "message": "Senegal"
+   },
+   "Seoul__Osaka__Sapporo__Tokyo__Irkutsk": {
+      "message": "Seoul, Osaka, Sapporo, Tokyo, Irkutsk"
+   },
+   "September": {
+      "message": "September"
+   },
+   "Serbia": {
+      "message": "Serbia"
+   },
+   "Server": {
+      "message": "Server"
+   },
+   "SesameWrongButton": {
+      "message": "For å vise data i frakoblet modus, må du kjøre Sesame og bruke 'Kopier offline-passord'-knappen isteden for 'Generer engangspassord'-knappen."
+   },
+   "Sesame_Multifactor_Authentication": {
+      "message": "Sesame flerfaktor-autentisering"
+   },
+   "Sessions": {
+      "message": "Sesjoner"
+   },
+   "Set_up_custom_form_fields": {
+      "message": "Sett opp egendefinerte skjemafelt"
+   },
+   "Settings": {
+      "message": "Innstillinger"
+   },
+   "Sex": {
+      "message": "Kjønn"
+   },
+   "Seychelles": {
+      "message": "Seychellene"
+   },
+   "Share": {
+      "message": "Del"
+   },
+   "Share_Selected": {
+      "message": "Del valgt"
+   },
+   "Share_login_state_between_other_browsers": {
+      "message": "Del innloggingsstatus mellom nettlesere"
+   },
+   "Share_offer_from": {
+      "message": "Del tilbud fra"
+   },
+   "Shares": {
+      "message": "Delinger"
+   },
+   "Shift": {
+      "message": "Shift"
+   },
+   "Should_LastPass_remember_this_password_": {
+      "message": "Skal LastPass huske dette passordet?"
+   },
+   "Show": {
+      "message": "Vis"
+   },
+   "Show_Advanced_Options": {
+      "message": "Vis Avanserte Alternativ"
+   },
+   "Show_Change_Password_Notification_Bar": {
+      "message": "Vis Varsel om endre passord linjen"
+   },
+   "Show_Deleted_Sites": {
+      "message": "Vis slettede sider"
+   },
+   "Show_Fill_Notification_Bar": {
+      "message": "Vis verktøylinjen for utfylling"
+   },
+   "Show_Form_Fill_Notifications": {
+      "message": "Vis skjemautfylling meldinger"
+   },
+   "Show_My_LastPass_Vault_After_Login": {
+      "message": "Vis mitt LastPass Vault etter innlogging"
+   },
+   "Show_Notifications": {
+      "message": "Vis meldinger"
+   },
+   "Show_Password": {
+      "message": "Vis passord"
+   },
+   "Show_Save_Site_Notification_Bar": {
+      "message": "Vis verktøylinjen for å lagre nettsted"
+   },
+   "Show_Save_Site_Notifications": {
+      "message": "Vis lagre nettsted meldinger"
+   },
+   "Show_Sites_in_Groups": {
+      "message": "Vis nettsteder i grupper"
+   },
+   "Show_Vault_After_Login": {
+      "message": "Vis Passord Etter Logg inn"
+   },
+   "Show_all_sites": {
+      "message": "Vis alle nettsteder"
+   },
+   "Show_certain_notifications_only_after_click": {
+      "message": "Vis visse meldinger bare etter klikk"
+   },
+   "Shows_another_custom_field_entry": {
+      "message": "Viser en annen egendefinert felt oppføring"
+   },
+   "Sierra_Leone": {
+      "message": "Sierra Leone"
+   },
+   "Sign_In": {
+      "message": "Logg inn"
+   },
+   "Simplify_your_life__Use_LastPass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Forenkle livet: Bruk LastPass for å fylle ut sidens innloggingsinformasjon automatisk!"
+   },
+   "Singapore": {
+      "message": "Singapore"
+   },
+   "Site_Search": {
+      "message": "Nettstedsøk"
+   },
+   "Sites": {
+      "message": "Sider"
+   },
+   "Slovak": {
+      "message": "Slovakisk"
+   },
+   "Slovakia": {
+      "message": "Slovakia"
+   },
+   "Slovenia": {
+      "message": "Slovenia"
+   },
+   "Social_Security": {
+      "message": "Personnummer "
+   },
+   "Social_security_number": {
+      "message": "Personnummer"
+   },
+   "Software_License": {
+      "message": "Lisensavtale"
+   },
+   "Solomon_Islands": {
+      "message": "Solomon Islands"
+   },
+   "Somalia": {
+      "message": "Somalia"
+   },
+   "Sorry__this_shared_folder_is_read_only_": {
+      "message": "Beklager, denne delte mappen er skrivebeskyttet."
+   },
+   "Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Beklager, du kan ikke utføre denne operasjonen på en blanding av felles og ikke-delte mapper, eller flere delte mapper på en gang."
+   },
+   "Source_": {
+      "message": "Kilde:"
+   },
+   "South_Africa": {
+      "message": "Sør Afrika"
+   },
+   "South_Georgia": {
+      "message": "Sør-Georgia"
+   },
+   "South_Georgia_and_the_South_Sandwich_Islands": {
+      "message": "Sør-Georgia og Sør-Sandwichøyene"
+   },
+   "Spain": {
+      "message": "Spania"
+   },
+   "Spanish": {
+      "message": "Spansk"
+   },
+   "Spanish__Mexico_": {
+      "message": "Spansk (Mexico)"
+   },
+   "Special": {
+      "message": "Spesielle"
+   },
+   "SplashID": {
+      "message": "SplashID"
+   },
+   "Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "Start_date": {
+      "message": "Startdato"
+   },
+   "State": {
+      "message": "Stat"
+   },
+   "State___Province": {
+      "message": "Stat / Provins"
+   },
+   "Sticky_Password": {
+      "message": "Sticky Password"
+   },
+   "Submit_Form": {
+      "message": "Send"
+   },
+   "Submitting___": {
+      "message": "Sender..."
+   },
+   "Sudan": {
+      "message": "Sudan"
+   },
+   "Support_Email": {
+      "message": "Support E-post"
+   },
+   "Suriname": {
+      "message": "Surinam"
+   },
+   "Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Tvilsomme tegn ble funnet i det valgte filnavnet. Filen blir ikke behandlet."
+   },
+   "Svalbard_and_Jan_Mayen": {
+      "message": "Svalbard og Jan Mayen"
+   },
+   "Swaziland": {
+      "message": "Swaziland"
+   },
+   "Sweden": {
+      "message": "Sverige"
+   },
+   "Swedish": {
+      "message": "Svensk"
+   },
+   "Swipe_current_user_s_finger": {
+      "message": "Sveip gjeldende brukers finger"
+   },
+   "Swipe_finger": {
+      "message": "Dra fingeren"
+   },
+   "Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Dra fingeren på fingeravtrykkleseren"
+   },
+   "Switzerland": {
+      "message": "Sveits"
+   },
+   "Syrian_Arab_Republic": {
+      "message": "Syria"
+   },
+   "Tabs": {
+      "message": "Faner"
+   },
+   "Taiwan": {
+      "message": "Taiwan"
+   },
+   "Tajikistan": {
+      "message": "Tadsjikistan"
+   },
+   "Tanzania__United_Republic_Of": {
+      "message": "Tanzania "
+   },
+   "Tehran": {
+      "message": "Teheran"
+   },
+   "Telephone": {
+      "message": "Telefon"
+   },
+   "Tell_a_friend_": {
+      "message": "Tips en venn!"
+   },
+   "Text": {
+      "message": "Tekst"
+   },
+   "Text_to_find": {
+      "message": "Tekst å finne"
+   },
+   "Thailand": {
+      "message": "Thailand"
+   },
+   "That_file_is_missing_or_empty___Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Filen mangler eller er tom. Vennligst skriv inn den fullstendige stien til filen som skal importeres."
+   },
+   "That_group_already_exists_": {
+      "message": "Den gruppen finnes allerede"
+   },
+   "The_4_digit_year_the_credit_card_was_issued": {
+      "message": "Den 4-sifret år kredittkortet ble utstedt"
+   },
+   "The_LastPass_Wi_Fi_utility_was_not_detected_on_this_computer___Would_you_like_to_run_the_LastPass_Universal_Installer_in_order_to_install_it_": {
+      "message": "LastPass sitt Wi-Fi verktøy ble ikke funnet på denne datamaskinen. Vil du kjøre LastPass Universal Installer for å installere den?"
+   },
+   "The_LastPass_master_password_you_reentered_does_not_match": {
+      "message": "LastPass hovedpassordet du skrev inn på nytt, stemmer ikke"
+   },
+   "The__Old_Password__you_entered_is_not_your_correct_LastPass_master_password": {
+      "message": "'Gammelt passord' du oppga er ikke riktig LastPass Master passordet"
+   },
+   "The_binary_version_of_the_LastPass_plugin_is_required_for_this_operation__It_can_be_downloaded_from_lastpass_com_": {
+      "message": "Den binære versjonen av LastPass-tillegget er nødvendig for denne operasjonen. Den kan lastet ned fra lastpass.com."
+   },
+   "The_credit_card_number": {
+      "message": "kredittkortnummer"
+   },
+   "The_credit_card_s_4_digit_expiration_year": {
+      "message": "Kredittkortets 4-sifrede utløpsår"
+   },
+   "The_credit_card_s_expiration_month": {
+      "message": "Kredittkortets utløpsmåned"
+   },
+   "The_credit_card_s_issue_number__Only_applicable_to_certain_European_brands_of_debit_cards__such_as_Maestro_": {
+      "message": "Kredittkortets utstedernummer. Bare relevant for enkelte debetkort som f.eks Maestro."
+   },
+   "The_credit_card_s_security_code__For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card__For_American_Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Kredittkortets CVC-kode. For de fleste kort er dette de tre siste sifferne i nummerserien på signaturfeltet på baksiden av kortet.\nFor American Express kort benyttes de 4 siste sifferne på nummerserien trykket med liten skrift på forsiden av kortet."
+   },
+   "The_full_name_printed_on_the_credit_card": {
+      "message": "Fullstendig navn trykt på kredittkortet"
+   },
+   "The_language_of_the_Web_sites_where_this_Form_Fill_profile_will_be_used": {
+      "message": "Språket på nettsteder der denne skjemaetutfyllingsprofilen vil bli brukt"
+   },
+   "The_month_the_credit_card_was_issued": {
+      "message": "kredittkortets utstedtmåned"
+   },
+   "The_name_of_the_Form_Fill_profile": {
+      "message": "Navnet på skjemautfyllingsprofilen"
+   },
+   "The_name_of_your_bank": {
+      "message": "Navnet på banken din"
+   },
+   "The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
+      "message": "Notatene feltet inneholder for mye data. Du kan lagre opptil 45 000 tegn per notat. Vil du at vi skal korte ned notatet for deg? Du vil da miste noe data"
+   },
+   "The_text_beside__the_name_of__or_the_ID_of_the_form_field_to_be_filled__If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Teksten ved siden av, navnet eller identifikasjonen til skjemafeltet som skal fylles.\nDersom du leter etter flere elementer samtidig, kan du separere flere søkekriterier med linjeskift."
+   },
+   "The_value_to_be_filled": {
+      "message": "Verdien som skal fylles ut"
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Versjonen av Chrome du kjører har ikke støtte for HTML5 database støtte aktivert. Som sådan, vil denne innloggingsside ikke huske e-post og passord, og andre funksjoner som automatisk pålogging på nettleseren restart vil ikke fungere."
+   },
+   "The_version_of_Chrome_you_are_currently_running_does_not_have_HTML5_database_support_enabled___As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work___You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your_Google_Chrome_browser_shortcut_": {
+      "message": "Den versjonen du kjører av Chrome, har ikke aktivert støtte for HTML5-databaser. Følgelig vil ikke denne påloggingssiden huske e-postadressen og passordet ditt, og andre funksjoner som automatisk pålogging når nettleseren starter på nytt, vil ikke virke. Du kan fikse dette, ved å legge til --enable-databases som parameter i snarveien din til Google Chrome."
+   },
+   "This_attachment_needs_to_be_saved_first_": {
+      "message": "Vedlegget må lagres først."
+   },
+   "This_can_only_be_handled_from_a_webpage": {
+      "message": "Dette kan bare håndteres fra nettsiden"
+   },
+   "This_computer_is_trusted__do_not_require_a_second_form_of_authentication_": {
+      "message": "Denne maskinen er klarert. Det er ikke behov for ekstra autentisering."
+   },
+   "This_feature_is_not_available_in_this_version__Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Denne funksjonen er ikke tilgjengelig i denne versjonen. Vennligst installer den binære utvidelsen ved å gå til https://lastpass.com/dl"
+   },
+   "This_feature_requires_the_binary_version_of_this_browser_extension___Would_you_like_to_install_it_now_": {
+      "message": "Denne funksjonen krever den binære versjonen av LastPass. Vil du installere den nå?"
+   },
+   "This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Denne funksjonen har ikke blitt implementert ennå for å kunne lese direkte fra"
+   },
+   "This_is_a_shared_site__You_are_not_permitted_to_view_the_password_": {
+      "message": "Dette er et delt nettsted. Du har ikke tilgang til å se passordet."
+   },
+   "This_may_take_a_while___": {
+      "message": "Dette kan ta litt tid..."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_2000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Denne siden kunne ikke lastes på riktig måte. Pass på at du kjører den nyeste versjonen av Maxthon (LastPass krever minst Maxthon 4.0.3.2000). Ellers kan dette ha skjedd på grunn av en feil i Maxthon. Vennligst prøv å åpne denne siden igjen."
+   },
+   "This_page_failed_to_load_properly___Please_ensure_you_are_running_the_latest_version_of_Maxthon__LastPass_requires_at_least_Maxthon_4_0_3_3000____Otherwise__this_may_have_happened_to_due_a_bug_in_Maxthon___Please_try_opening_this_page_again_": {
+      "message": "Denne siden kunne ikke lastes på riktig måte. Pass på at du kjører den nyeste versjonen av Maxthon (LastPass krever minst Maxthon 4.0.3.3000). Ellers kan dette ha skjedd på grunn av en feil i Maxthon. Vennligst prøv å åpne denne siden igjen."
+   },
+   "Time_Zone": {
+      "message": "Tidssone"
+   },
+   "Timor_Leste": {
+      "message": "Øst-Timor"
+   },
+   "Title": {
+      "message": "Tittel"
+   },
+   "To_export_1Password_logins__login_to_1Password__Select_all_or_just_passwords_that_you_want_to_export__Then_select__File_menu___Export_All___Text_file_____Or____File_menu___Export_Selected___Text_file____Click_Export_button_and_Save_password_file__and_Import_the_resulting_file_": {
+      "message": "Hvis du vil eksportere 1Password innlogging, logg inn 1Password. Velg alle eller bare passord som du vil eksportere. Deretter velger: Fil-menyen / Export Alle / tekst-fil ... Eller Fil-menyen / Eksporter valgte / tekst-fil ... Klikk på Eksporter-knappen og Lagre passord fil, og Importer den resulterende filen."
+   },
+   "To_export_Clipperz_cards__login_to_www_clipperz_com__Click_on_data__then_Export__then_Export_to_JSON__Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it__Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Hvis du vil eksportere Clipperz kort, logg inn www.clipperz.com. Klikk på data, så Eksporter, og deretter Eksporter til JSON. Kopier all teksten og lagre det i en fil med en tekst editor, deretter importere den. Vær oppmerksom på at denne importen ikke fungerer ordentlig hvis du har endret feltnavn fra standardverdiene."
+   },
+   "To_export_FireForm_profiles__right_click_the_FireForm_icon__then_choose_Simple_setup___Go_to_the_General_options_tab__click_Export_all_profiles__and_save_an_XML_file___Import_the_resulting_file_": {
+      "message": "For å eksportere FireForm profiler, høyreklikker du FireForm ikonet, velg deretter Enkelt oppsett. Gå til Generelt alternativene i kategorien Eksporter alle profiler, og lagre en XML-fil. Importer den resulterende filen."
+   },
+   "To_export_HP_Password_Safe_save_to_an_HTML_file__Import_the_resulting_file_": {
+      "message": "Slik eksporterer HP Password Safe lagre til en HTML-fil. Importer den resulterende filen."
+   },
+   "To_export_KeePass_logins__open_your_KeePass_database__and_click_on_File___Export_To___XML_File___Choose_a_file_location_and_press_the_Save_button___Then__press_the_OK_button___Import_the_resulting_file_": {
+      "message": "For å eksportere KeePass pålogginger, åpne KeePass database, og klikk på Fil - Eksporter til - XML-fil. Velg en fil plassering og trykk på Lagre-knappen. Deretter trykker du på OK. Importer den resulterende filen."
+   },
+   "To_export_LastPass_logins__open_your_browser_with_the_LastPass_plugin_installed__and_click_on_LastPass___Tools___Export_To___CSV_File___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "For å eksportere LastPass pålogginger, åpne nettleseren med LastPass plugin installert, og klikk på LastPass - Verktøy - Eksporter til - CSV fil. Velg en fil plassering og trykk på Lagre-knappen. Importer den lagrede filen."
+   },
+   "To_export_Password_Agent_logins__open_your_Password_Agent_database__and_click_on_File___Print_and_Export___Change_the_output_format_to_XML_File__make_sure__Group__is_checked___Choose_a_file_location_and_press_the_Save_button___Import_the_resulting_file_": {
+      "message": "For å eksportere Passord Agent pålogginger, åpne din passord Agent database, og klikk på Fil - Skriv ut og eksport - Endre utdataformatet til XML fil, sørg for at 'Gruppe' er sjekket. Velg en fil plassering og trykk på Lagre-knappen. Importer den lagrede filen."
+   },
+   "To_export_Passwords_Max_passwords__click_File___Database___Export___Text___Click_OK__and_save_a_CSV_file___Import_the_resulting_file_": {
+      "message": "For å eksportere passord Max passord, klikker du Fil - Database - Export - Tekst. Klikk OK, og lagre en CSV-fil. Importer den lagrede filen."
+   },
+   "To_export_RoboForm_logins__click_on_RoboForm_Logins____Print_List__Click_on_the_Full_URL_check_box_and_press_the_save_button__Import_the_resulting_file___To_export_RoboForm_SafeNotes__click_on_RoboForm_SafeNotes_Print_List__Press_the_save_button__Import_the_resulting_file___To_export_RoboForm_Identities__click_on_RoboForm_Identities_Print_List__Press_the_save_button__Import_the_resulting_file_": {
+      "message": "For å eksportere RoboForm pålogginger, klikk på RoboForm-Innlogginger ...-Print List. Klikk på Full URL sjekk-boksen og trykk på lagre-knappen. Importer den lagrede file.\n\nFor å eksportere RoboForm SafeNotes, klikk på RoboForm-SafeNotes-Print List. Trykk på knappen Lagre. Importer lagrede file.\n\nFor å eksportere RoboForm Identiteter, klikk på RoboForm-identiteter-Print List. Trykk på knappen Lagre. Importer den lagrede filen."
+   },
+   "To_export_eWallet_cards__go_to_eWallet___Tools___Export__Save_as_a_text_file__Import_the_resulting_file_": {
+      "message": "For å eksportere eWallet kort, gå til eWallet - Verktøy - Eksport. Lagre som en tekstfil. Importer den filen som ble lagret."
+   },
+   "To_export_from_MyPasswordSafe__Click_on_File___Save_As___Select_type_of_UNENCRYPTED_XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "For å eksportere fra MyPasswordSafe, Klikk på Fil - Lagre Som - Velg type Ukrypterte XML - Lagre filen. Importer den lagrede filen."
+   },
+   "To_export_from_Password_Safe__Click_on_File___Export_To___XML___Save_the_file___Import_the_resulting_file_": {
+      "message": "For å eksportere fra Password Safe, Klikk på Fil - Eksporter til - XML ​​- Lagre filen. Importer den lagrede filen."
+   },
+   "To_export_passwords__login_to_the_desktop_application_and_go_to_File___Export___CSV___All_Entries___Import_the_resulting_file_": {
+      "message": "For å eksportere passord, logge inn på desktop-programmet og gå til File - Export - CSV - Alle oppføringer. Importer den resulterende filen."
+   },
+   "To_export_passwords_from_Darn__Passwords___click_Tools___Print___Click_Settings__and_check_Include_Notes_in_Export___Click_Print__and_click_the_Export_to_File_icon_that_looks_like_a_blue_disk___Name_the_file__and_click_Open___Import_the_resulting_file_": {
+      "message": "Slik eksporterer passord fra Darn! Passord, klikker du Verktøy - Print. Klikk Innstillinger, og sjekk Inkluder Notater i Export. Klikk Skriv ut, og klikk Eksporter til fil-ikonet som ser ut som en blå disk. Gi filen et navn, og klikk Åpne. Importer den resulterende filen."
+   },
+   "To_export_passwords_from_Passpack__Login__go_to_the_Tools_screen__and_click_Export__Under__What_Type_of_Format_Would_You_Like_To_Export___Select__Comma_Separated_Values___and_on__Which_Entries_Would_You_Like_To_Export___Select__All_of_my_entries___then_hit__Continue___Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file__Import_this_file_": {
+      "message": "Slik eksporterer passord fra Passpack: Logg inn, gå til Verktøy-skjermen, og klikk Eksporter. Under hvilken type format ønsker du å Export? Velg Comma Separert Values, og under Hvilke data ønsker du å Exportere? Velg all dataen, og trykk deretter Continue. Velg all teksten i tekst-boksen på den neste skjermen, kopiere den til utklippstavlen, opprette en ny fil med notepad kalt passpack.csv, lime innholdet inn i denne filen. Importere denne filen."
+   },
+   "To_export_passwords_from_Password_Corral__Login__go_to_the_File___Export_Password___Create_a_plaintext_export_of_all_your_password___Import_this_file_": {
+      "message": "Slik eksporterer passord fra Passord Corral: Logg, gå til File - Export password - Opprett en ukryptert fil med alle passordene dine. Importer denne filen."
+   },
+   "To_export_passwords_from_Password_Depot__click_on_the__Tools__tab_and_select__Export___Select_the__Extensible_Markup_Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "For å eksportere passord fra Passord Depoet, klikk på 'Verktøy' og velg 'Export'. Velg 'Extensible Markup Language format (*. Xml) ', angi en mål fil og velg mappen du vil eksportere."
+   },
+   "To_export_passwords_from_Password_Dragon__Login__go_to_the_File___Export___Text_File__make_sure_you_check__Password___it_defaults_off___Import_the_saved_file_": {
+      "message": "Slik eksporterer passord fra Passord Dragon: Logg, gå til File - Export - Text File, må du huke av 'Passord', den er normalt slått av. Importer den lagrede filen."
+   },
+   "To_export_passwords_from_Revelation_Password_Manager__export_the_data_as_XML_": {
+      "message": "For å eksportere passord fra Revelation Password Manager, eksporter dataene som XML."
+   },
+   "To_export_passwords_from_SPB_Wallet__open_the_wallet__click_File__Export__select_file_destination_in_the_dialog_box_and_click_Save__Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "Slik eksporterer passord fra SPB Wallet: Åpne lommeboken, klikk Fil, Eksporter, velg fil destinasjon i dialogboksen og klikk Lagre. Deretter limer du inn dataene i boksen på denne siden."
+   },
+   "To_get_started_with_LastPass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "For å komme i gang med LastPass, må du legge til nettsteder i kontoen din."
+   },
+   "To_import_Wi_Fi_passwords__simply_click_Import_below_": {
+      "message": "For å importere Wi-Fi passord, klikk Importer nedenfor."
+   },
+   "To_import_from_PINs_Password_Manager_Export_in_Tab_Separated_format___Then__import_the_resulting_file_": {
+      "message": "Hvis du vil importere fra PIN-koder Password Manager Export i Tabulatordelt format. Deretter importerer den resulterende filen."
+   },
+   "To_import_passwords_from_Opera_Password_Manager__simply_click_Import_below_": {
+      "message": "Klikk på 'Importér' for å importere passord fra Operas passordbehandler."
+   },
+   "To_import_passwords_from_Safari_Password_Manager__simply_click_Import_below_": {
+      "message": "Klikk på 'Importér' for å importere passord fra Safaris passordbehandler."
+   },
+   "To_import_your_MSI_PasswordKeeper_logins__open_the_program___Click__Txt___and_then__Open____Import_the_resulting_file_": {
+      "message": "Slik importerer du MSI PasswordKeeper pålogginger, åpne programmet. Klikk 'Txt', og deretter 'Open'. Importer den resulterende filen."
+   },
+   "To_import_your_Password_Keeper_logins__open_the_program__and_the_password_file_to_be_exported___Click_File___Export_File___Click_Yes__enter_your_password__and_click_OK___This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location___Import_the_resulting_file_": {
+      "message": "Slik importerer du lagret informasjon fra Passord Keeper, åpne programmet, og den passordfilen som skal eksporteres. Klikk på File - Export File. Klikk Ja, skriv inn passordet, og klikk OK. Dette åpner en standard 'Lagre som' dialog, så skriv et filnavn og plassering. Deretter importerer du den filen som genereres."
+   },
+   "To_import_your_TurboPasswords_logins__open_the_program__and_the_password_file_to_be_exported__If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the_Category_and_Type_drop_downs_above_the_main_window__Click_File_Export_Category__This_opens_a_standard_Windows_Save_dialog__so_enter_a_file_name_and_location__and_select_Comma_Separated_Values___csv__from_the_Save_as_Type_box_": {
+      "message": "Slik importerer du TurboPasswords pålogginger, åpne programmet, og passordet filen som skal eksporteres. Hvis du vil begrense eksporten til en bestemt kategori eller type, filtrere oppføringene som vises ved hjelp av kategori og type drop-downs over hovedvinduet. Klikk Fil | Eksporter Kategori. Dette åpner en standard Windows lagre dialog, så skriv inn et filnavn og en plassering, og velg Kommadelte verdier (. CSV) fra Filtype-boksen."
+   },
+   "To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "For å beskytte privatlivet ditt og holde dataene dine konfidensielle, "
+   },
+   "Togo": {
+      "message": "Togo"
+   },
+   "Tokelau": {
+      "message": "Tokelau"
+   },
+   "Tonga": {
+      "message": "Tonga"
+   },
+   "Tools": {
+      "message": "Verktøy"
+   },
+   "Trinidad_and_Tobago": {
+      "message": "Trinidad og Tobago"
+   },
+   "Try_Again": {
+      "message": "Prøv igjen"
+   },
+   "Tunisia": {
+      "message": "Tunisia"
+   },
+   "TurboPasswords": {
+      "message": "TurboPassord"
+   },
+   "Turkey": {
+      "message": "Tyrkia"
+   },
+   "Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "Turks_and_Caicos_Islands": {
+      "message": "Turks-og Caicosøyene"
+   },
+   "Tutorials": {
+      "message": "Veiledninger"
+   },
+   "Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "Type": {
+      "message": "Type"
+   },
+   "Type_": {
+      "message": "Type:"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_": {
+      "message": "URL:"
+   },
+   "USERNAME": {
+      "message": "BRUKERNAVN"
+   },
+   "Uganda": {
+      "message": "Uganda"
+   },
+   "Ukraine": {
+      "message": "Ukraina"
+   },
+   "Ulaan_Bataar__Perth": {
+      "message": "Ulan Bator, Perth"
+   },
+   "United_Arab_Emirates": {
+      "message": "Forente arabiske emirater"
+   },
+   "United_Kingdom": {
+      "message": "Storbritannia"
+   },
+   "United_States": {
+      "message": "USA"
+   },
+   "United_States_Minor_Outlying_Islands": {
+      "message": "USAs ytre småøyer"
+   },
+   "Unknown": {
+      "message": "Ukjent"
+   },
+   "Unselect_All": {
+      "message": "Fjern all merking"
+   },
+   "Up": {
+      "message": "Opp"
+   },
+   "Upgrade_to_LastPass_Online_": {
+      "message": "Oppgrader til LastPass Online!"
+   },
+   "Uploading_Data___": {
+      "message": "Laster opp data ..."
+   },
+   "Uruguay": {
+      "message": "Uruguay"
+   },
+   "Use_802_1X": {
+      "message": "Bruk 802.1X"
+   },
+   "User_Manual": {
+      "message": "Brukerveiledning"
+   },
+   "User_name": {
+      "message": "Brukernavn"
+   },
+   "Username_": {
+      "message": "Brukernavn:"
+   },
+   "Usernameproper": {
+      "message": "Brukernavn"
+   },
+   "Uzbekistan": {
+      "message": "Usbekistan"
+   },
+   "Value_to_fill": {
+      "message": "Sett inn verdi"
+   },
+   "Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "Vault": {
+      "message": "Hvelv"
+   },
+   "Venezuela": {
+      "message": "Venezuela"
+   },
+   "Version": {
+      "message": "Versjon"
+   },
+   "Version_": {
+      "message": "Versjon:"
+   },
+   "Viet_Nam": {
+      "message": "Viet Nam"
+   },
+   "View_Image": {
+      "message": "Vis bilde"
+   },
+   "View_Passwords": {
+      "message": "Vis passord"
+   },
+   "Virgin_Islands__British_": {
+      "message": "Virgin Islands (Britisk)"
+   },
+   "Virgin_Islands__U_S__": {
+      "message": "Virgin Islands (US)"
+   },
+   "Wallis_and_Futuna": {
+      "message": "Wallis og Futuna"
+   },
+   "Warn_before_filling_insecure_forms": {
+      "message": "Advar før utfylling av usikre felt"
+   },
+   "Watch_a_video_on_basic_usage": {
+      "message": "Se en video om grunnleggende bruk"
+   },
+   "We_also_DO_NOT_keep_a_copy_or_backup_of_it_": {
+      "message": "Vi har heller IKKE en kopi eller sikkerhetskopi av det."
+   },
+   "Weak_Password": {
+      "message": "Svakt passord"
+   },
+   "Website": {
+      "message": "Nettside"
+   },
+   "Welcome_to_LastPass_": {
+      "message": "Velkommen til LastPass!"
+   },
+   "West_Central_Africa": {
+      "message": "Vest-Sentral-Afrika"
+   },
+   "Western_Sahara": {
+      "message": "Vest-Sahara"
+   },
+   "Wi_Fi_Password": {
+      "message": "Wi-Fi passord"
+   },
+   "Wi_Fi_Passwords": {
+      "message": "Wi-Fi passord"
+   },
+   "Windows": {
+      "message": "Vinduer"
+   },
+   "Would_you_like_to_set_up_a_Form_Filling_profile_now_": {
+      "message": "Vil du sette opp en skjemautfyllingsprofil nå?"
+   },
+   "XML_Files": {
+      "message": "XML Filer"
+   },
+   "Yangon__Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "Yemen": {
+      "message": "Jemen"
+   },
+   "Yes": {
+      "message": "Ja"
+   },
+   "Yes__let_me_choose_which_items_I_want_imported_into_LastPass": {
+      "message": "Ja, la meg velge hvilke ting jeg vil importere til LastPass"
+   },
+   "Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Ja, la meg skrive inn og se data som vil bli brukt når programmet fyller ut felt"
+   },
+   "You_are_moving_sites_from_a_shared_folder_into_your_general_vault__This_will_potentially_make_them_unavailable_to_others____Do_you_want_to_continue_": {
+      "message": "Du flytter nettsteder fra en delt mappe i din egen mappe. Dette vil gjøre dem utilgjengelige for andre.\n\nVil du fortsette?"
+   },
+   "You_are_moving_sites_to_a_different_shared_folder__This_may_change_who_has_access_to_the_sites____Do_you_want_to_continue_": {
+      "message": "Du flytter nettsteder fra en delt mappe til en annen. Dette vil endre på hvem som har tilgang til nettstedene.\n\nVil du fortsette?"
+   },
+   "You_are_moving_sites_to_a_shared_folder__This_will_potentially_make_them_available_to_others___Are_you_sure_you_would_like_to_continue_": {
+      "message": "Du skal flytte nettsteder til en delt mappe. Dette vil potensielt gjøre dem tilgjengelige for andre.\n\nEr du sikker på at du ønsker å fortsette?"
+   },
+   "You_cannot_assign_more_than_one_HotKey_the_same_value_": {
+      "message": "Du kan ikke sette mer enn en hurtigtast til samme verdi"
+   },
+   "You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Du kan ikke flytte enkeltvis delt nettsteder inn i en delt mappe."
+   },
+   "You_currently_have_LastPass_set_to_remember_your_password___Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless___Would_you_like_LastPass_to_stop_remembering_your_password_": {
+      "message": "Du har satt LastPass til å huske passordet ditt. Ved å gjøre dette, vil automatisk utlogging ikke virke, selv om du har valgt det. Vil du at LastPass skal slutte å huske passordet ditt?"
+   },
+   "You_have_not_yet_chosen_a_default_form_fill_profile___Would_you_like_to_choose_one_now_": {
+      "message": "Du har ennå ikke valgt standardprofil for skjemautfylling. Vil du velge en nå?"
+   },
+   "You_may_also_be_blocking_all_cookies__which_causes_Chrome_to_disallow_HTML5_database_access_": {
+      "message": "Det er mulig at du ikke aksepterer cookies, som gjør at Chrome ikke får tilgang til HTML5 databaser."
+   },
+   "You_must_agree_to_send_your_encrypted_data_to_LastPass_com___LastPass_com_encrypts_your_data_and_sends_it_to_its_secure_servers__No_one_at_LastPass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Du må akseptere å sende krypterte data til LastPass.com.\n\nLastPass.com krypterer dataene dine, og sender dem til sine sikre servere. Ingen hos LastPass kan lese dine konfidensielle data, siden de er krypterte med ditt hemmelige passord, og du er den eneste som kan passordet ditt."
+   },
+   "You_must_agree_to_the_terms_to_continue": {
+      "message": "Du må godta betingelsene for å fortsette"
+   },
+   "You_must_enter_a_name_": {
+      "message": "Du må skrive inn et navn."
+   },
+   "You_must_enter_a_unique_name_": {
+      "message": "Du må skrive inn et unikt navn."
+   },
+   "You_must_restart_Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Du må restarte Chrome eller logge ut og inn igjen for å få avlogging på lukking av nettleser."
+   },
+   "You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Du må starte nettleseren på nytt for at endringene skal tre i kraft."
+   },
+   "Your_4_digit_birth_year": {
+      "message": "År (fire siffer)"
+   },
+   "Your_Google_Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Dine Google Chrome passord ha blitt importert."
+   },
+   "Your_ZIP_or_postal_code": {
+      "message": "Din ZIP eller postnummer"
+   },
+   "Your_address_information": {
+      "message": "Din adresseinformasjon"
+   },
+   "Your_attachment_is_located_at_": {
+      "message": "Vedlegget er her:"
+   },
+   "Your_bank_account_information": {
+      "message": "Din Bankkontoinformasjon"
+   },
+   "Your_bank_account_number__This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Ditt kontonummer.\nNummeret finner du som regel på ditt bankkort."
+   },
+   "Your_bank_s_routing_number__This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Din banks rutingnummer.\nEt tall med 9 siffer som vanligvis finnes på sjekken, selv om ingen bruker sjekk i Norge lenger"
+   },
+   "Your_birth_day": {
+      "message": "Dag"
+   },
+   "Your_birth_month": {
+      "message": "Måned"
+   },
+   "Your_city_name": {
+      "message": "By"
+   },
+   "Your_company_s_name": {
+      "message": "Firmanavn"
+   },
+   "Your_contact_information": {
+      "message": "Kontaktinformasjon"
+   },
+   "Your_country_name": {
+      "message": "Land"
+   },
+   "Your_county_name": {
+      "message": "Fylke"
+   },
+   "Your_credit_card_information": {
+      "message": "Kredittkortinformasjon"
+   },
+   "Your_current_settings_require_you_to_enter_your_LastPass_password_to_complete_this_action_": {
+      "message": "Dine nåværende innstillinger krever at du skriver inn ditt LastPass passord for å utføre denne handlingen."
+   },
+   "Your_data_has_been_exported_to": {
+      "message": "Dataene er eksportert til"
+   },
+   "Your_email_address": {
+      "message": "E-post"
+   },
+   "Your_first_name": {
+      "message": "Fornavn"
+   },
+   "Your_government_ID_number": {
+      "message": "Ditt personnummer"
+   },
+   "Your_last_name": {
+      "message": "Etternavn"
+   },
+   "Your_middle_name": {
+      "message": "Mellomnavn"
+   },
+   "Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Passordet ditt kan ikke være det samme som din epostadresse."
+   },
+   "Your_password_is_easily_guessable_": {
+      "message": "Passordet ditt kan være enkelt å gjette"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_6_characters_long": {
+      "message": "Passordet ditt er for kort. Det må være minst 6 bokstaver langt"
+   },
+   "Your_password_is_too_short__It_must_be_at_least_8_characters_long": {
+      "message": "Passordet er for kort. Det må være minst 8 tegn"
+   },
+   "Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Passordhintet ditt hjelper deg å huske hva ditt "
+   },
+   "Your_passwords_did_not_match_": {
+      "message": "Passordene matcher ikke"
+   },
+   "Your_personal_information": {
+      "message": "Annen personlig informasjon"
+   },
+   "Your_phone_number": {
+      "message": "Telefonnummer"
+   },
+   "Your_phone_number_extension": {
+      "message": "Ditt telefonnummer"
+   },
+   "Your_prefix_or_title": {
+      "message": "Prefiks eller tittel"
+   },
+   "Your_selected_Identity_no_longer_exists__Defaulting_to__All__and_logging_off_": {
+      "message": "Den valgte identiteten finnes ikke lenger. Setter 'Alle' som standard og logger av."
+   },
+   "Your_sex": {
+      "message": "Kjønn"
+   },
+   "Your_state_or_province_name": {
+      "message": "Stat"
+   },
+   "Your_street_address": {
+      "message": "Gateadresse"
+   },
+   "Your_time_zone": {
+      "message": "Tidssone"
+   },
+   "Your_username_when_signing_into_Web_sites": {
+      "message": "Ditt brukernavn når du logger på et nettsted"
+   },
+   "YubiKey_Multifactor_Authentication": {
+      "message": "YubiKey flerfaktor-autentisering"
+   },
+   "Yugoslavia": {
+      "message": "Jugoslavia"
+   },
+   "ZIP___Postal_code": {
+      "message": "Postnummmer"
+   },
+   "Zambia": {
+      "message": "Zambia"
+   },
+   "Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "_Hide_": {
+      "message": "[Skjul]"
+   },
+   "_History_": {
+      "message": "[Historisk oversikt]"
+   },
+   "_New_Pending_Share_Offers_": {
+      "message": "(Nye delingstilbud venter)"
+   },
+   "_Show_": {
+      "message": "[Vis]"
+   },
+   "_domain_": {
+      "message": "(domene)"
+   },
+   "_none_": {
+      "message": "(ingen)"
+   },
+   "_unknown_": {
+      "message": "[ukjent]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "egentlige passord er, mens det fortsatt holdes hemmelig."
+   },
+   "ago": {
+      "message": "siden"
+   },
+   "and": {
+      "message": "og"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "kontakt oss, og vi vil sende deg passordhintet ditt på e-post."
+   },
+   "day": {
+      "message": "dag"
+   },
+   "days": {
+      "message": "dager"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "eWallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "Innvalg"
+   },
+   "false": {
+      "message": "usant"
+   },
+   "favorites": {
+      "message": "favoritter"
+   },
+   "hour": {
+      "message": "time"
+   },
+   "hours": {
+      "message": "timer"
+   },
+   "just_now": {
+      "message": "akkurat nå"
+   },
+   "minute": {
+      "message": "minutt"
+   },
+   "minutes": {
+      "message": "minutter"
+   },
+   "month": {
+      "message": "måned"
+   },
+   "months": {
+      "message": "måneder"
+   },
+   "privacy_statement": {
+      "message": "personvernerklæring"
+   },
+   "recently_usedlower": {
+      "message": "nylig brukt"
+   },
+   "search": {
+      "message": "søk"
+   },
+   "second": {
+      "message": "sekund"
+   },
+   "seconds": {
+      "message": "sekunder"
+   },
+   "terms_of_service": {
+      "message": "vilkår for bruk"
+   },
+   "the_current_tab": {
+      "message": "den aktive fanen"
+   },
+   "true": {
+      "message": "sant"
+   },
+   "we_DO_NOT_know_what_your_LastPass_password_is_": {
+      "message": "vi vet IKKE hva LastPass-passordet ditt er."
+   },
+   "week": {
+      "message": "uke"
+   },
+   "weeks": {
+      "message": "uker"
+   },
+   "year": {
+      "message": "år"
+   },
+   "years": {
+      "message": "år"
+   }
+}

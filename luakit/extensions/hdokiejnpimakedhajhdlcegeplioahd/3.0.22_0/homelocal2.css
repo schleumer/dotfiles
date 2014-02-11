@@ -1,0 +1,19 @@
+.lp1 { margin-right:0.73em; }
+.lph { height:0; width:100%; position: absolute; top: 23px; border-top:1px solid #aaaaaa;}
+#lpbar { float: left; padding-top: 4px; font-size: 12px; }
+#guser { width: 100%; font-size: 12px; }
+.actionmenu { float: right; font-size: 12px;}
+.leaf {width: 100%}
+.open {width: 100%}
+.closed {width: 100%}
+.usercolhidden {display:none;}
+.usercolvisible {display:inline-block; width:140px; overflow:hidden;}
+.ltcolhidden {display:none;}
+.ltcolvisible {display:inline-block; width:120px; overflow:hidden;}
+#chooser:hover{cursor:hand;}
+.tree ul li:last-child { margin-bottom: 8px !important; }
+
+#thetree {
+  overflow-x:hidden;
+  overflow-y:auto;
+}
