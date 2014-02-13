@@ -373,7 +373,7 @@ awful.rules.rules = {
     -- All clients will match this rule.
     { rule = { },
       properties = { 
-					border_width = 1,
+					border_width = 0,
                      -- border_color = beautiful.border_normal,
                      focus = awful.client.focus.filter,
                      keys = clientkeys,
@@ -396,13 +396,13 @@ awful.rules.rules = {
 -- {{{ Signals
 -- Signal function to execute when a new client appears.
 client.connect_signal("manage", function (c, startup)
-    -- Enable sloppy focus
-    c:connect_signal("mouse::enter", function(c)
-        if awful.layout.get(c.screen) ~= awful.layout.suit.magnifier
-            and awful.client.focus.filter(c) then
-            client.focus = c
-        end
-    end)
+--    -- Enable sloppy focus
+--    c:connect_signal("mouse::enter", function(c)
+--        if awful.layout.get(c.screen) ~= awful.layout.suit.magnifier
+--            and awful.client.focus.filter(c) then
+--            client.focus = c
+--        end
+--    end)
 
     if not startup then
         -- Set the windows at the slave,

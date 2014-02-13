@@ -200,3 +200,6 @@ autocmd BufNewFile,BufRead *.json set ft=javascript
 
 
 autocmd BufWritePost .vimrc.local  execute ':source ~/.vimrc.local'
+
+:set textwidth=0
+:set wrapmargin=0
