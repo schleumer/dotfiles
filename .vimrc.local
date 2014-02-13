@@ -203,3 +203,4 @@ autocmd BufWritePost .vimrc.local  execute ':source ~/.vimrc.local'
 
 :set textwidth=0
 :set wrapmargin=0
+""autocmd BufNewFile,BufRead *.js *.coffee set colorcolumn=80
