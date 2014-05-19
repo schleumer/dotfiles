@@ -97,12 +97,18 @@ myawesomemenu = {
 }
 
 mymainmenu = awful.menu({ items = {
-                   { "FUCKING AWESOME BROWSER", "google-chrome-stable"},
-                                    { "XTerm", "xterm" },
-									{ "Terminator", "terminator -m" },
-									{ "awesome", myawesomemenu, beautiful.awesome_icon }
-                                  }
-                        })
+                   { "Firefox", "firefox"},
+                   { "Chromium", "chromium"},
+                   { "Conkeror", "conkeror"},
+                   { "Dar um grau", "lxappearance"},
+                   { "Arrumar cagada", "gnome-control-center"},
+                   { "IDEA <3", "idea"},
+                   { "Sublime Text <3", "subl"},
+                   { "XTerm", "xterm" },
+		   { "Terminator", "terminator -m" },
+		   { "awesome", myawesomemenu, beautiful.awesome_icon }
+		  }
+	})
 
 mylauncher = awful.widget.launcher({ image = beautiful.awesome_icon,
                                      menu = mymainmenu })
@@ -304,6 +310,8 @@ awful.key({ modkey, "Shift"   }, "Tab",
 
 clientkeys = awful.util.table.join(
     awful.key({ modkey,           }, "f",      function (c) c.fullscreen = not c.fullscreen  end),
+    awful.key({modkey,            }, "F1",     function () awful.screen.focus(1) end),
+    awful.key({modkey,            }, "F2",     function () awful.screen.focus(2) end),
     awful.key({ modkey, "Shift"   }, "c",      function (c) c:kill()                         end),
     awful.key({ modkey, "Control" }, "space",  awful.client.floating.toggle                     ),
     awful.key({ modkey, "Control" }, "Return", function (c) c:swap(awful.client.getmaster()) end),
@@ -467,6 +475,6 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 
 
-awful.util.spawn_with_shell("setxkbmap br")
+awful.util.spawn_with_shell("setxkbmap us -variant intl")
 awful.util.spawn_with_shell([[xmodmap -e "remove lock = Caps_Lock"]])
 awful.util.spawn_with_shell([[setxkbmap -option ctrl:nocaps]])
