@@ -64,3 +64,6 @@ alias -g tmux="tmux -2"
 setopt NO_BEEP
 
 unset SSH_ASKPASS
+
+export GOPATH="/home/$USER/go"
+export PATH="$PATH:/home/schleumer/go/bin"
