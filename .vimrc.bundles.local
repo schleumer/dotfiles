@@ -3,7 +3,7 @@
 let g:spf13_bundle_groups=['general', 'neocomplcache', 'programming', 'php', 'python', 'go', 'twig', 'javascript', 'haskell', 'html', 'misc', 'scala']
 Bundle 'tomasr/molokai'
 Bundle 'christoomey/vim-tmux-navigator'
-Bundle 'altercation/vim-colors-solarized'
+""Bundle 'altercation/vim-colors-solarized'
 ""Bundle 'fholgado/minibufexpl.vim'
-Bundle 'Lokaltog/vim-easymotion'
-Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+""Bundle 'Lokaltog/vim-easymotion'
+""Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
