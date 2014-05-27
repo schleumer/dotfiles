@@ -6,18 +6,18 @@
 # License: GPL
 # Date: January 2011
 
-active_text_color=#686868
-active_text_shadow_color=#ececec
-inactive_text_color=#bbbbbb
-inactive_text_shadow_color=#ececec
-title_shadow_active=true
-title_shadow_inactive=true
-full_width_title=true
-title_vertical_offset_active=2
-title_vertical_offset_inactive=2
-button_offset=4
-button_spacing=2
-shadow_delta_height=2
+active_text_color=#DEDEDE
+active_text_shadow_color=#DEDEDE
+inactive_text_color=#DEDEDE
+inactive_text_shadow_color=#DEDEDE
+title_shadow_active=false
+title_shadow_inactive=false
+full_width_title=false
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+button_offset=1
+button_spacing=1
+shadow_delta_height=1
 shadow_delta_width=0
 shadow_delta_x=0
 shadow_delta_y=-10
