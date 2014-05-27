@@ -19,11 +19,11 @@
     background_image = None
     use_system_font = False
     cursor_color = "#7f8f9f"
-    foreground_color = "#657b83"
+    foreground_color = "#000000"
     icon_bell = False
     show_titlebar = False
     font = DejaVu Sans Mono for Powerline 9
-    background_color = "#fdf6e3"
+    background_color = "#ffffff"
     cursor_blink = False
 [layouts]
   [[default]]
