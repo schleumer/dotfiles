@@ -4,3 +4,6 @@ synclient FingerHigh=5
 synclient CoastingSpeed=0
 synclient MinSpeed=1.75
 synclient MaxSpeed=3
+synclient VertTwoFingerScroll=0
+synclient HorizTwoFingerScroll=0
+synclient VertEdgeScroll=1

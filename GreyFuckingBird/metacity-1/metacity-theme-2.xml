@@ -131,7 +131,7 @@
 </draw_ops>
 
 <draw_ops name="titlebar_focused">
-	<include name="titlebar_fill_focused" />
+	<!--<include name="titlebar_fill_focused" />-->
 </draw_ops>
 
 <draw_ops name="titlebar_attached_focused"> <!-- titlebar for attached and modal dialogs -->
